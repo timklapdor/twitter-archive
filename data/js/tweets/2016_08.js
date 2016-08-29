@@ -1,6 +1,216 @@
 Grailbird.data.tweets_2016_08 = 
 [
 	{
+		"created_at": "Sun Aug 28 03:27:38 +0000 2016",
+		"id": 769738182480977900,
+		"id_str": "769738182480977923",
+		"text": "RT @georgekroner: How 3-Day Weekends Can Help Save the World https://t.co/ovPTOGKUxJ \"estimated 20% reduction in energy use\" /a plan I can…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "georgekroner",
+					"name": "George",
+					"id": 9128102,
+					"id_str": "9128102",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ovPTOGKUxJ",
+					"expanded_url": "http://www.usnews.com/news/best-countries/articles/2016-08-26/how-3-day-weekends-can-help-save-the-world",
+					"display_url": "usnews.com/news/best-coun…",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Wagga Wagga",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
+			"url": "http://t.co/uC0c3me6KE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/uC0c3me6KE",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 676,
+			"friends_count": 168,
+			"listed_count": 90,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 5953,
+			"utc_offset": 36000,
+			"time_zone": "Sydney",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10940,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000014291852/792df4c6e7490b807e8405ea6be45833.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000014291852/792df4c6e7490b807e8405ea6be45833.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/723129079671615492/O_NQ9rKL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/723129079671615492/O_NQ9rKL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Aug 28 03:14:02 +0000 2016",
+			"id": 769734761728188400,
+			"id_str": "769734761728188417",
+			"text": "How 3-Day Weekends Can Help Save the World https://t.co/ovPTOGKUxJ \"estimated 20% reduction in energy use\" /a plan I can get behind",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ovPTOGKUxJ",
+						"expanded_url": "http://www.usnews.com/news/best-countries/articles/2016-08-26/how-3-day-weekends-can-help-save-the-world",
+						"display_url": "usnews.com/news/best-coun…",
+						"indices": [
+							43,
+							66
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 9128102,
+				"id_str": "9128102",
+				"name": "George",
+				"screen_name": "georgekroner",
+				"location": "DC",
+				"description": "Trying my best to leave the world a better place. Opinions are my own.",
+				"url": "https://t.co/Vm4y4b7Xao",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Vm4y4b7Xao",
+								"expanded_url": "http://www.gkroner.com",
+								"display_url": "gkroner.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2450,
+				"friends_count": 999,
+				"listed_count": 308,
+				"created_at": "Thu Sep 27 17:35:09 +0000 2007",
+				"favourites_count": 2203,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 24134,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/470252277425385472/NVdbYHMk_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/470252277425385472/NVdbYHMk_normal.png",
+				"profile_link_color": "003366",
+				"profile_sidebar_border_color": "87BC44",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Fri Aug 26 11:20:04 +0000 2016",
 		"id": 769132299040333800,
 		"id_str": "769132299040333824",
