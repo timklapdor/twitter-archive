@@ -1,6 +1,139 @@
 Grailbird.data.tweets_2016_08 = 
 [
 	{
+		"created_at": "Wed Aug 31 05:01:09 +0000 2016",
+		"id": 770848880808169500,
+		"id_str": "770848880808169472",
+		"text": "@wadekelly not heard great things about customer service with ANZ.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wadekelly",
+					"name": "wadekelly",
+					"id": 18199081,
+					"id_str": "18199081",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 770844130578530300,
+		"in_reply_to_status_id_str": "770844130578530308",
+		"in_reply_to_user_id": 18199081,
+		"in_reply_to_user_id_str": "18199081",
+		"in_reply_to_screen_name": "wadekelly",
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Wagga Wagga",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
+			"url": "http://t.co/uC0c3me6KE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/uC0c3me6KE",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 676,
+			"friends_count": 168,
+			"listed_count": 90,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 5962,
+			"utc_offset": 36000,
+			"time_zone": "Sydney",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10935,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000014291852/792df4c6e7490b807e8405ea6be45833.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000014291852/792df4c6e7490b807e8405ea6be45833.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/723129079671615492/O_NQ9rKL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/723129079671615492/O_NQ9rKL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "47fbe3d3691af707",
+			"url": "https://api.twitter.com/1.1/geo/id/47fbe3d3691af707.json",
+			"place_type": "neighborhood",
+			"name": "Turvey Park",
+			"full_name": "Turvey Park, Wagga Wagga",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							147.34215216,
+							-35.13507804
+						],
+						[
+							147.37781016,
+							-35.13507804
+						],
+						[
+							147.37781016,
+							-35.11972998
+						],
+						[
+							147.34215216,
+							-35.11972998
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Aug 30 03:06:45 +0000 2016",
 		"id": 770457702430568400,
 		"id_str": "770457702430568448",
