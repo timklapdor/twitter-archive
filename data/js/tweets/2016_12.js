@@ -1,6 +1,718 @@
 Grailbird.data.tweets_2016_12 = 
 [
 	{
+		"created_at": "Wed Dec 07 07:26:20 +0000 2016",
+		"id": 806399428894584800,
+		"id_str": "806399428894584832",
+		"text": "Love the idea of a cultural boycott, more so than an economic one. https://t.co/tHFFnicG8B",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tHFFnicG8B",
+					"expanded_url": "https://twitter.com/Weegee/status/806292345390067712",
+					"display_url": "twitter.com/Weegee/status/…",
+					"indices": [
+						67,
+						90
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Wagga Wagga",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
+			"url": "http://t.co/uC0c3me6KE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/uC0c3me6KE",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 701,
+			"friends_count": 169,
+			"listed_count": 93,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 6329,
+			"utc_offset": 39600,
+			"time_zone": "Sydney",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11339,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000014291852/792df4c6e7490b807e8405ea6be45833.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000014291852/792df4c6e7490b807e8405ea6be45833.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/723129079671615492/O_NQ9rKL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/723129079671615492/O_NQ9rKL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "47fbe3d3691af707",
+			"url": "https://api.twitter.com/1.1/geo/id/47fbe3d3691af707.json",
+			"place_type": "neighborhood",
+			"name": "Turvey Park",
+			"full_name": "Turvey Park, Wagga Wagga",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							147.34215216,
+							-35.13507804
+						],
+						[
+							147.37781016,
+							-35.13507804
+						],
+						[
+							147.37781016,
+							-35.11972998
+						],
+						[
+							147.34215216,
+							-35.11972998
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 806292345390067700,
+		"quoted_status_id_str": "806292345390067712",
+		"quoted_status": {
+			"created_at": "Wed Dec 07 00:20:49 +0000 2016",
+			"id": 806292345390067700,
+			"id_str": "806292345390067712",
+			"text": "“Treat the Trump White House Like Sun City” Millennials, look up the reference. https://t.co/c0ZIn8oU2s https://t.co/3HSCHoOiWO",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/c0ZIn8oU2s",
+						"expanded_url": "https://medium.com/@alexyoung_59363/we-aint-gonna-play-trump-city-e3ecd0125d60#---0-356.ozgsr883y",
+						"display_url": "medium.com/@alexyoung_593…",
+						"indices": [
+							80,
+							103
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 806292342844117000,
+						"id_str": "806292342844116993",
+						"indices": [
+							104,
+							127
+						],
+						"media_url": "http://pbs.twimg.com/media/CzCGnShXUAEvgpj.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CzCGnShXUAEvgpj.jpg",
+						"url": "https://t.co/3HSCHoOiWO",
+						"display_url": "pic.twitter.com/3HSCHoOiWO",
+						"expanded_url": "https://twitter.com/Weegee/status/806292345390067712/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 668,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 750,
+								"h": 737,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 750,
+								"h": 737,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 806292342844117000,
+						"id_str": "806292342844116993",
+						"indices": [
+							104,
+							127
+						],
+						"media_url": "http://pbs.twimg.com/media/CzCGnShXUAEvgpj.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CzCGnShXUAEvgpj.jpg",
+						"url": "https://t.co/3HSCHoOiWO",
+						"display_url": "pic.twitter.com/3HSCHoOiWO",
+						"expanded_url": "https://twitter.com/Weegee/status/806292345390067712/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 668,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 750,
+								"h": 737,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 750,
+								"h": 737,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://medium.com\" rel=\"nofollow\">Medium</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 44353,
+				"id_str": "44353",
+				"name": "Kevin Smokler",
+				"screen_name": "Weegee",
+				"location": "San Francisco",
+				"description": "Author of \"Brat Pack America: A Love Letter to 80s Teen Movies.  \n\nRegular: @salon \n\nNewsletter/Trapper Keepers:  https://t.co/D1UPFtpJup",
+				"url": "https://t.co/83ezohD19T",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/83ezohD19T",
+								"expanded_url": "http://www.kevinsmokler.com",
+								"display_url": "kevinsmokler.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/D1UPFtpJup",
+								"expanded_url": "http://tinyletter.com/kevinsmokler",
+								"display_url": "tinyletter.com/kevinsmokler",
+								"indices": [
+									114,
+									137
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 60499,
+				"friends_count": 1121,
+				"listed_count": 1171,
+				"created_at": "Wed Dec 06 03:40:49 +0000 2006",
+				"favourites_count": 5466,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 60569,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/3885364/Friday_Night_Lights.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/3885364/Friday_Night_Lights.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/764301472792051712/xAGDlwqF_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/764301472792051712/xAGDlwqF_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/44353/1471058621",
+				"profile_link_color": "FF691F",
+				"profile_sidebar_border_color": "0B0F0D",
+				"profile_sidebar_fill_color": "EAF7CA",
+				"profile_text_color": "100F0F",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 121,
+			"favorite_count": 162,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Wed Dec 07 07:25:39 +0000 2016",
+		"id": 806399257716621300,
+		"id_str": "806399257716621312",
+		"text": "RT @Weegee: “Treat the Trump White House Like Sun City” Millennials, look up the reference. https://t.co/c0ZIn8oU2s https://t.co/3HSCHoOiWO",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Weegee",
+					"name": "Kevin Smokler",
+					"id": 44353,
+					"id_str": "44353",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/c0ZIn8oU2s",
+					"expanded_url": "https://medium.com/@alexyoung_59363/we-aint-gonna-play-trump-city-e3ecd0125d60#---0-356.ozgsr883y",
+					"display_url": "medium.com/@alexyoung_593…",
+					"indices": [
+						92,
+						115
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 806292342844117000,
+					"id_str": "806292342844116993",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/CzCGnShXUAEvgpj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CzCGnShXUAEvgpj.jpg",
+					"url": "https://t.co/3HSCHoOiWO",
+					"display_url": "pic.twitter.com/3HSCHoOiWO",
+					"expanded_url": "https://twitter.com/Weegee/status/806292345390067712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 668,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 737,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 737,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 806292345390067700,
+					"source_status_id_str": "806292345390067712",
+					"source_user_id": 44353,
+					"source_user_id_str": "44353"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 806292342844117000,
+					"id_str": "806292342844116993",
+					"indices": [
+						116,
+						139
+					],
+					"media_url": "http://pbs.twimg.com/media/CzCGnShXUAEvgpj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/CzCGnShXUAEvgpj.jpg",
+					"url": "https://t.co/3HSCHoOiWO",
+					"display_url": "pic.twitter.com/3HSCHoOiWO",
+					"expanded_url": "https://twitter.com/Weegee/status/806292345390067712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 668,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 737,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 737,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 806292345390067700,
+					"source_status_id_str": "806292345390067712",
+					"source_user_id": 44353,
+					"source_user_id_str": "44353"
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Wagga Wagga",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
+			"url": "http://t.co/uC0c3me6KE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/uC0c3me6KE",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 701,
+			"friends_count": 169,
+			"listed_count": 93,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 6329,
+			"utc_offset": 39600,
+			"time_zone": "Sydney",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11339,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000014291852/792df4c6e7490b807e8405ea6be45833.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000014291852/792df4c6e7490b807e8405ea6be45833.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/723129079671615492/O_NQ9rKL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/723129079671615492/O_NQ9rKL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Dec 07 00:20:49 +0000 2016",
+			"id": 806292345390067700,
+			"id_str": "806292345390067712",
+			"text": "“Treat the Trump White House Like Sun City” Millennials, look up the reference. https://t.co/c0ZIn8oU2s https://t.co/3HSCHoOiWO",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/c0ZIn8oU2s",
+						"expanded_url": "https://medium.com/@alexyoung_59363/we-aint-gonna-play-trump-city-e3ecd0125d60#---0-356.ozgsr883y",
+						"display_url": "medium.com/@alexyoung_593…",
+						"indices": [
+							80,
+							103
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 806292342844117000,
+						"id_str": "806292342844116993",
+						"indices": [
+							104,
+							127
+						],
+						"media_url": "http://pbs.twimg.com/media/CzCGnShXUAEvgpj.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CzCGnShXUAEvgpj.jpg",
+						"url": "https://t.co/3HSCHoOiWO",
+						"display_url": "pic.twitter.com/3HSCHoOiWO",
+						"expanded_url": "https://twitter.com/Weegee/status/806292345390067712/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 668,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 750,
+								"h": 737,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 750,
+								"h": 737,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 806292342844117000,
+						"id_str": "806292342844116993",
+						"indices": [
+							104,
+							127
+						],
+						"media_url": "http://pbs.twimg.com/media/CzCGnShXUAEvgpj.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CzCGnShXUAEvgpj.jpg",
+						"url": "https://t.co/3HSCHoOiWO",
+						"display_url": "pic.twitter.com/3HSCHoOiWO",
+						"expanded_url": "https://twitter.com/Weegee/status/806292345390067712/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 668,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 750,
+								"h": 737,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 750,
+								"h": 737,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://medium.com\" rel=\"nofollow\">Medium</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 44353,
+				"id_str": "44353",
+				"name": "Kevin Smokler",
+				"screen_name": "Weegee",
+				"location": "San Francisco",
+				"description": "Author of \"Brat Pack America: A Love Letter to 80s Teen Movies.  \n\nRegular: @salon \n\nNewsletter/Trapper Keepers:  https://t.co/D1UPFtpJup",
+				"url": "https://t.co/83ezohD19T",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/83ezohD19T",
+								"expanded_url": "http://www.kevinsmokler.com",
+								"display_url": "kevinsmokler.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/D1UPFtpJup",
+								"expanded_url": "http://tinyletter.com/kevinsmokler",
+								"display_url": "tinyletter.com/kevinsmokler",
+								"indices": [
+									114,
+									137
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 60499,
+				"friends_count": 1121,
+				"listed_count": 1171,
+				"created_at": "Wed Dec 06 03:40:49 +0000 2006",
+				"favourites_count": 5466,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 60569,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/3885364/Friday_Night_Lights.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/3885364/Friday_Night_Lights.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/764301472792051712/xAGDlwqF_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/764301472792051712/xAGDlwqF_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/44353/1471058621",
+				"profile_link_color": "FF691F",
+				"profile_sidebar_border_color": "0B0F0D",
+				"profile_sidebar_fill_color": "EAF7CA",
+				"profile_text_color": "100F0F",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 121,
+			"favorite_count": 162,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 121,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Dec 06 12:55:09 +0000 2016",
 		"id": 806119788451754000,
 		"id_str": "806119788451753984",
@@ -60,12 +772,12 @@ Grailbird.data.tweets_2016_12 =
 			"friends_count": 169,
 			"listed_count": 93,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6327,
+			"favourites_count": 6329,
 			"utc_offset": 39600,
 			"time_zone": "Sydney",
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 11337,
+			"statuses_count": 11339,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -194,12 +906,12 @@ Grailbird.data.tweets_2016_12 =
 			"friends_count": 169,
 			"listed_count": 93,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6327,
+			"favourites_count": 6329,
 			"utc_offset": 39600,
 			"time_zone": "Sydney",
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 11337,
+			"statuses_count": 11339,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -328,12 +1040,12 @@ Grailbird.data.tweets_2016_12 =
 			"friends_count": 169,
 			"listed_count": 93,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6327,
+			"favourites_count": 6329,
 			"utc_offset": 39600,
 			"time_zone": "Sydney",
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 11337,
+			"statuses_count": 11339,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -462,12 +1174,12 @@ Grailbird.data.tweets_2016_12 =
 			"friends_count": 169,
 			"listed_count": 93,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6327,
+			"favourites_count": 6329,
 			"utc_offset": 39600,
 			"time_zone": "Sydney",
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 11337,
+			"statuses_count": 11339,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -585,12 +1297,12 @@ Grailbird.data.tweets_2016_12 =
 			"friends_count": 169,
 			"listed_count": 93,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6327,
+			"favourites_count": 6329,
 			"utc_offset": 39600,
 			"time_zone": "Sydney",
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 11337,
+			"statuses_count": 11339,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -719,12 +1431,12 @@ Grailbird.data.tweets_2016_12 =
 			"friends_count": 169,
 			"listed_count": 93,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6327,
+			"favourites_count": 6329,
 			"utc_offset": 39600,
 			"time_zone": "Sydney",
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 11337,
+			"statuses_count": 11339,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -853,12 +1565,12 @@ Grailbird.data.tweets_2016_12 =
 			"friends_count": 169,
 			"listed_count": 93,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6327,
+			"favourites_count": 6329,
 			"utc_offset": 39600,
 			"time_zone": "Sydney",
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 11337,
+			"statuses_count": 11339,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -987,12 +1699,12 @@ Grailbird.data.tweets_2016_12 =
 			"friends_count": 169,
 			"listed_count": 93,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6327,
+			"favourites_count": 6329,
 			"utc_offset": 39600,
 			"time_zone": "Sydney",
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 11337,
+			"statuses_count": 11339,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1131,12 +1843,12 @@ Grailbird.data.tweets_2016_12 =
 			"friends_count": 169,
 			"listed_count": 93,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6327,
+			"favourites_count": 6329,
 			"utc_offset": 39600,
 			"time_zone": "Sydney",
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 11337,
+			"statuses_count": 11339,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1321,16 +2033,16 @@ Grailbird.data.tweets_2016_12 =
 					}
 				},
 				"protected": false,
-				"followers_count": 92052,
-				"friends_count": 348,
-				"listed_count": 669,
+				"followers_count": 92146,
+				"friends_count": 349,
+				"listed_count": 670,
 				"created_at": "Tue Dec 15 15:09:08 +0000 2009",
-				"favourites_count": 20894,
+				"favourites_count": 20924,
 				"utc_offset": -28800,
 				"time_zone": "Pacific Time (US & Canada)",
 				"geo_enabled": false,
 				"verified": true,
-				"statuses_count": 15488,
+				"statuses_count": 15510,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -1360,8 +2072,8 @@ Grailbird.data.tweets_2016_12 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 4629,
-			"favorite_count": 8770,
+			"retweet_count": 4627,
+			"favorite_count": 8768,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
@@ -1444,12 +2156,12 @@ Grailbird.data.tweets_2016_12 =
 			"friends_count": 169,
 			"listed_count": 93,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6327,
+			"favourites_count": 6329,
 			"utc_offset": 39600,
 			"time_zone": "Sydney",
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 11337,
+			"statuses_count": 11339,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1600,16 +2312,16 @@ Grailbird.data.tweets_2016_12 =
 					}
 				},
 				"protected": false,
-				"followers_count": 1564,
-				"friends_count": 506,
-				"listed_count": 137,
+				"followers_count": 1565,
+				"friends_count": 507,
+				"listed_count": 136,
 				"created_at": "Wed Apr 01 22:49:25 +0000 2009",
-				"favourites_count": 745,
+				"favourites_count": 749,
 				"utc_offset": 46800,
 				"time_zone": "Auckland",
 				"geo_enabled": false,
 				"verified": false,
-				"statuses_count": 3182,
+				"statuses_count": 3187,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -1744,12 +2456,12 @@ Grailbird.data.tweets_2016_12 =
 			"friends_count": 169,
 			"listed_count": 93,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6327,
+			"favourites_count": 6329,
 			"utc_offset": 39600,
 			"time_zone": "Sydney",
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 11337,
+			"statuses_count": 11339,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1864,16 +2576,16 @@ Grailbird.data.tweets_2016_12 =
 					}
 				},
 				"protected": false,
-				"followers_count": 1564,
-				"friends_count": 506,
-				"listed_count": 137,
+				"followers_count": 1565,
+				"friends_count": 507,
+				"listed_count": 136,
 				"created_at": "Wed Apr 01 22:49:25 +0000 2009",
-				"favourites_count": 745,
+				"favourites_count": 749,
 				"utc_offset": 46800,
 				"time_zone": "Auckland",
 				"geo_enabled": false,
 				"verified": false,
-				"statuses_count": 3182,
+				"statuses_count": 3187,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -1974,12 +2686,12 @@ Grailbird.data.tweets_2016_12 =
 					"friends_count": 169,
 					"listed_count": 93,
 					"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-					"favourites_count": 6327,
+					"favourites_count": 6329,
 					"utc_offset": 39600,
 					"time_zone": "Sydney",
 					"geo_enabled": true,
 					"verified": false,
-					"statuses_count": 11337,
+					"statuses_count": 11339,
 					"lang": "en",
 					"contributors_enabled": false,
 					"is_translator": false,
@@ -2104,12 +2816,12 @@ Grailbird.data.tweets_2016_12 =
 			"friends_count": 169,
 			"listed_count": 93,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6327,
+			"favourites_count": 6329,
 			"utc_offset": 39600,
 			"time_zone": "Sydney",
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 11337,
+			"statuses_count": 11339,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2207,7 +2919,7 @@ Grailbird.data.tweets_2016_12 =
 					}
 				},
 				"protected": false,
-				"followers_count": 85,
+				"followers_count": 86,
 				"friends_count": 23,
 				"listed_count": 1,
 				"created_at": "Tue Sep 02 04:53:20 +0000 2014",
