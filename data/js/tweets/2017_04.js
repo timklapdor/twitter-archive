@@ -1,6 +1,266 @@
 Grailbird.data.tweets_2017_04 = 
 [
 	{
+		"created_at": "Mon Apr 03 08:30:06 +0000 2017",
+		"id": 848814854949425200,
+		"id_str": "848814854949425153",
+		"text": "So they’re attempting to legislate government sponsored slavery? #ffs #YourLiberalParty https://t.co/bzKtTqUBoI",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ffs",
+					"indices": [
+						65,
+						69
+					]
+				},
+				{
+					"text": "YourLiberalParty",
+					"indices": [
+						70,
+						87
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bzKtTqUBoI",
+					"expanded_url": "https://twitter.com/abcnews/status/848768304869122048",
+					"display_url": "twitter.com/abcnews/status…",
+					"indices": [
+						88,
+						111
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Wagga Wagga",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
+			"url": "http://t.co/uC0c3me6KE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/uC0c3me6KE",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 708,
+			"friends_count": 171,
+			"listed_count": 92,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 6222,
+			"utc_offset": 36000,
+			"time_zone": "Sydney",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11628,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000014291852/792df4c6e7490b807e8405ea6be45833.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000014291852/792df4c6e7490b807e8405ea6be45833.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/723129079671615492/O_NQ9rKL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/723129079671615492/O_NQ9rKL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "47fbe3d3691af707",
+			"url": "https://api.twitter.com/1.1/geo/id/47fbe3d3691af707.json",
+			"place_type": "neighborhood",
+			"name": "Turvey Park",
+			"full_name": "Turvey Park, Wagga Wagga",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							147.34215216,
+							-35.13507804
+						],
+						[
+							147.37781016,
+							-35.13507804
+						],
+						[
+							147.37781016,
+							-35.11972998
+						],
+						[
+							147.34215216,
+							-35.11972998
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 848768304869122000,
+		"quoted_status_id_str": "848768304869122048",
+		"quoted_status": {
+			"created_at": "Mon Apr 03 05:25:07 +0000 2017",
+			"id": 848768304869122000,
+			"id_str": "848768304869122048",
+			"text": "Government launches unpaid internship program despite legislation failing to pass the Senate #auspol https://t.co/XTpl9xaDlZ",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "auspol",
+						"indices": [
+							93,
+							100
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/XTpl9xaDlZ",
+						"expanded_url": "http://ab.co/2orQ0UG",
+						"display_url": "ab.co/2orQ0UG",
+						"indices": [
+							101,
+							124
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2768501,
+				"id_str": "2768501",
+				"name": "ABC News",
+				"screen_name": "abcnews",
+				"location": "Australia",
+				"description": "Latest news updates from the Australian Broadcasting Corp. This is an official @abcaustralia account.",
+				"url": "http://t.co/knlFvfwxkf",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/knlFvfwxkf",
+								"expanded_url": "http://www.abc.net.au/news",
+								"display_url": "abc.net.au/news",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1296246,
+				"friends_count": 1221,
+				"listed_count": 10783,
+				"created_at": "Thu Mar 29 02:15:36 +0000 2007",
+				"favourites_count": 2835,
+				"utc_offset": 36000,
+				"time_zone": "Sydney",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 260145,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/384697135/News_Twitter-background.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/384697135/News_Twitter-background.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/750107433243021313/KfdU1ONk_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/750107433243021313/KfdU1ONk_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2768501/1439986442",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "CCCCCC",
+				"profile_sidebar_fill_color": "C8C8C8",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 41,
+			"favorite_count": 13,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Apr 01 22:41:54 +0000 2017",
 		"id": 848304442017431600,
 		"id_str": "848304442017431552",
@@ -60,12 +320,12 @@ Grailbird.data.tweets_2017_04 =
 			"friends_count": 171,
 			"listed_count": 92,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6224,
+			"favourites_count": 6222,
 			"utc_offset": 36000,
 			"time_zone": "Sydney",
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 11627,
+			"statuses_count": 11628,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -150,15 +410,15 @@ Grailbird.data.tweets_2017_04 =
 				},
 				"protected": false,
 				"followers_count": 9049,
-				"friends_count": 8433,
+				"friends_count": 8432,
 				"listed_count": 747,
 				"created_at": "Sun Mar 21 02:00:28 +0000 2010",
-				"favourites_count": 5947,
+				"favourites_count": 5946,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": false,
-				"statuses_count": 142598,
+				"statuses_count": 142642,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -261,7 +521,7 @@ Grailbird.data.tweets_2017_04 =
 					},
 					"protected": false,
 					"followers_count": 3723,
-					"friends_count": 2788,
+					"friends_count": 2790,
 					"listed_count": 477,
 					"created_at": "Tue Jul 15 21:37:59 +0000 2014",
 					"favourites_count": 139,
@@ -269,7 +529,7 @@ Grailbird.data.tweets_2017_04 =
 					"time_zone": "Paris",
 					"geo_enabled": false,
 					"verified": false,
-					"statuses_count": 12980,
+					"statuses_count": 12990,
 					"lang": "en",
 					"contributors_enabled": false,
 					"is_translator": false,
