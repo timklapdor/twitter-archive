@@ -1,6 +1,219 @@
 Grailbird.data.tweets_2017_10 = 
 [
 	{
+		"created_at": "Wed Oct 04 14:07:38 +0000 2017",
+		"id": 915579164987613200,
+		"id_str": "915579164987613184",
+		"text": "RT @Downes: The Case Against Guns - https://t.co/6Tbcbh45Fy",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Downes",
+					"name": "Downes",
+					"id": 7470932,
+					"id_str": "7470932",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/6Tbcbh45Fy",
+					"expanded_url": "http://www.downes.ca/post/108",
+					"display_url": "downes.ca/post/108",
+					"indices": [
+						36,
+						59
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Wagga Wagga",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
+			"url": "http://t.co/uC0c3me6KE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/uC0c3me6KE",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 742,
+			"friends_count": 180,
+			"listed_count": 96,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 5956,
+			"utc_offset": 39600,
+			"time_zone": "Sydney",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12117,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000014291852/792df4c6e7490b807e8405ea6be45833.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000014291852/792df4c6e7490b807e8405ea6be45833.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/723129079671615492/O_NQ9rKL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/723129079671615492/O_NQ9rKL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Oct 04 12:00:15 +0000 2017",
+			"id": 915547110392688600,
+			"id_str": "915547110392688641",
+			"text": "The Case Against Guns - https://t.co/6Tbcbh45Fy",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/6Tbcbh45Fy",
+						"expanded_url": "http://www.downes.ca/post/108",
+						"display_url": "downes.ca/post/108",
+						"indices": [
+							24,
+							47
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 7470932,
+				"id_str": "7470932",
+				"name": "Downes",
+				"screen_name": "Downes",
+				"location": "Casselman, Ontario",
+				"description": "Wondering where the lions are",
+				"url": "http://t.co/PcyaQDmniI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/PcyaQDmniI",
+								"expanded_url": "http://www.downes.ca",
+								"display_url": "downes.ca",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9007,
+				"friends_count": 1,
+				"listed_count": 846,
+				"created_at": "Sat Jul 14 13:29:20 +0000 2007",
+				"favourites_count": 8,
+				"utc_offset": -10800,
+				"time_zone": "Atlantic Time (Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 7747,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "A6A8A8",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/205588338/twitback.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/205588338/twitback.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000109454958/ad0542ba988807b629dce6589baf210e_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000109454958/ad0542ba988807b629dce6589baf210e_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/7470932/1460185618",
+				"profile_link_color": "164499",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFF7CC",
+				"profile_text_color": "0C3E53",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Oct 03 23:19:55 +0000 2017",
 		"id": 915355765132582900,
 		"id_str": "915355765132582913",
@@ -56,8 +269,8 @@ Grailbird.data.tweets_2017_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 741,
-			"friends_count": 179,
+			"followers_count": 742,
+			"friends_count": 180,
 			"listed_count": 96,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
 			"favourites_count": 5956,
@@ -65,7 +278,7 @@ Grailbird.data.tweets_2017_10 =
 			"time_zone": "Sydney",
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 12116,
+			"statuses_count": 12117,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -149,16 +362,16 @@ Grailbird.data.tweets_2017_10 =
 					}
 				},
 				"protected": false,
-				"followers_count": 119524,
-				"friends_count": 1251,
-				"listed_count": 483,
+				"followers_count": 119534,
+				"friends_count": 1255,
+				"listed_count": 482,
 				"created_at": "Mon Jun 04 20:04:04 +0000 2012",
-				"favourites_count": 381,
+				"favourites_count": 382,
 				"utc_offset": -10800,
 				"time_zone": "Atlantic Time (Canada)",
 				"geo_enabled": true,
 				"verified": true,
-				"statuses_count": 7404,
+				"statuses_count": 7447,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -258,8 +471,8 @@ Grailbird.data.tweets_2017_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 741,
-			"friends_count": 179,
+			"followers_count": 742,
+			"friends_count": 180,
 			"listed_count": 96,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
 			"favourites_count": 5956,
@@ -267,7 +480,7 @@ Grailbird.data.tweets_2017_10 =
 			"time_zone": "Sydney",
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 12116,
+			"statuses_count": 12117,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -358,8 +571,8 @@ Grailbird.data.tweets_2017_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 741,
-			"friends_count": 179,
+			"followers_count": 742,
+			"friends_count": 180,
 			"listed_count": 96,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
 			"favourites_count": 5956,
@@ -367,7 +580,7 @@ Grailbird.data.tweets_2017_10 =
 			"time_zone": "Sydney",
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 12116,
+			"statuses_count": 12117,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -470,8 +683,8 @@ Grailbird.data.tweets_2017_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 741,
-			"friends_count": 179,
+			"followers_count": 742,
+			"friends_count": 180,
 			"listed_count": 96,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
 			"favourites_count": 5956,
@@ -479,7 +692,7 @@ Grailbird.data.tweets_2017_10 =
 			"time_zone": "Sydney",
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 12116,
+			"statuses_count": 12117,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -607,16 +820,16 @@ Grailbird.data.tweets_2017_10 =
 					}
 				},
 				"protected": false,
-				"followers_count": 1089,
+				"followers_count": 1088,
 				"friends_count": 1113,
 				"listed_count": 93,
 				"created_at": "Fri May 28 07:42:07 +0000 2010",
-				"favourites_count": 7218,
+				"favourites_count": 7235,
 				"utc_offset": 36000,
 				"time_zone": "Brisbane",
 				"geo_enabled": true,
 				"verified": false,
-				"statuses_count": 10718,
+				"statuses_count": 10723,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -715,8 +928,8 @@ Grailbird.data.tweets_2017_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 741,
-			"friends_count": 179,
+			"followers_count": 742,
+			"friends_count": 180,
 			"listed_count": 96,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
 			"favourites_count": 5956,
@@ -724,7 +937,7 @@ Grailbird.data.tweets_2017_10 =
 			"time_zone": "Sydney",
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 12116,
+			"statuses_count": 12117,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -814,8 +1027,8 @@ Grailbird.data.tweets_2017_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 741,
-			"friends_count": 179,
+			"followers_count": 742,
+			"friends_count": 180,
 			"listed_count": 96,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
 			"favourites_count": 5956,
@@ -823,7 +1036,7 @@ Grailbird.data.tweets_2017_10 =
 			"time_zone": "Sydney",
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 12116,
+			"statuses_count": 12117,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
