@@ -1,6 +1,350 @@
 Grailbird.data.tweets_2017_10 = 
 [
 	{
+		"created_at": "Fri Oct 06 03:37:24 +0000 2017",
+		"id": 916145338032861200,
+		"id_str": "916145338032861184",
+		"text": "RT @realDonaldTrump: An interesting cartoon that is circulating. http://t.co/OPG2R2ytkr",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "realDonaldTrump",
+					"name": "Donald J. Trump",
+					"id": 25073877,
+					"id_str": "25073877",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 524960636758163460,
+					"id_str": "524960636758163457",
+					"indices": [
+						65,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/B0kI6vMIgAEW2Gl.png",
+					"media_url_https": "https://pbs.twimg.com/media/B0kI6vMIgAEW2Gl.png",
+					"url": "http://t.co/OPG2R2ytkr",
+					"display_url": "pic.twitter.com/OPG2R2ytkr",
+					"expanded_url": "https://twitter.com/realDonaldTrump/status/524960640117780480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 698,
+							"h": 805,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 590,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 698,
+							"h": 805,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 524960640117780500,
+					"source_status_id_str": "524960640117780480",
+					"source_user_id": 25073877,
+					"source_user_id_str": "25073877"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 524960636758163460,
+					"id_str": "524960636758163457",
+					"indices": [
+						65,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/B0kI6vMIgAEW2Gl.png",
+					"media_url_https": "https://pbs.twimg.com/media/B0kI6vMIgAEW2Gl.png",
+					"url": "http://t.co/OPG2R2ytkr",
+					"display_url": "pic.twitter.com/OPG2R2ytkr",
+					"expanded_url": "https://twitter.com/realDonaldTrump/status/524960640117780480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 698,
+							"h": 805,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 590,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 698,
+							"h": 805,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 524960640117780500,
+					"source_status_id_str": "524960640117780480",
+					"source_user_id": 25073877,
+					"source_user_id_str": "25073877"
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Wagga Wagga",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
+			"url": "http://t.co/uC0c3me6KE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/uC0c3me6KE",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 742,
+			"friends_count": 180,
+			"listed_count": 96,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 5957,
+			"utc_offset": 39600,
+			"time_zone": "Sydney",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12118,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000014291852/792df4c6e7490b807e8405ea6be45833.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000014291852/792df4c6e7490b807e8405ea6be45833.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/723129079671615492/O_NQ9rKL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/723129079671615492/O_NQ9rKL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Wed Oct 22 16:29:04 +0000 2014",
+			"id": 524960640117780500,
+			"id_str": "524960640117780480",
+			"text": "An interesting cartoon that is circulating. http://t.co/OPG2R2ytkr",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 524960636758163460,
+						"id_str": "524960636758163457",
+						"indices": [
+							44,
+							66
+						],
+						"media_url": "http://pbs.twimg.com/media/B0kI6vMIgAEW2Gl.png",
+						"media_url_https": "https://pbs.twimg.com/media/B0kI6vMIgAEW2Gl.png",
+						"url": "http://t.co/OPG2R2ytkr",
+						"display_url": "pic.twitter.com/OPG2R2ytkr",
+						"expanded_url": "https://twitter.com/realDonaldTrump/status/524960640117780480/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 698,
+								"h": 805,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 590,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 698,
+								"h": 805,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 524960636758163460,
+						"id_str": "524960636758163457",
+						"indices": [
+							44,
+							66
+						],
+						"media_url": "http://pbs.twimg.com/media/B0kI6vMIgAEW2Gl.png",
+						"media_url_https": "https://pbs.twimg.com/media/B0kI6vMIgAEW2Gl.png",
+						"url": "http://t.co/OPG2R2ytkr",
+						"display_url": "pic.twitter.com/OPG2R2ytkr",
+						"expanded_url": "https://twitter.com/realDonaldTrump/status/524960640117780480/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 698,
+								"h": 805,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 590,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 698,
+								"h": 805,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 25073877,
+				"id_str": "25073877",
+				"name": "Donald J. Trump",
+				"screen_name": "realDonaldTrump",
+				"location": "Washington, DC",
+				"description": "45th President of the United States of America🇺🇸",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 40078629,
+				"friends_count": 45,
+				"listed_count": 78116,
+				"created_at": "Wed Mar 18 13:46:38 +0000 2009",
+				"favourites_count": 15,
+				"utc_offset": -14400,
+				"time_zone": "Eastern Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 36010,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "6D5C18",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/530021613/trump_scotland__43_of_70_cc.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/530021613/trump_scotland__43_of_70_cc.jpg",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/25073877/1506284043",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "C5CEC0",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 42403,
+			"favorite_count": 39630,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 42403,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Oct 04 14:07:38 +0000 2017",
 		"id": 915579164987613200,
 		"id_str": "915579164987613184",
@@ -75,7 +419,7 @@ Grailbird.data.tweets_2017_10 =
 			"time_zone": "Sydney",
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 12117,
+			"statuses_count": 12118,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -159,16 +503,16 @@ Grailbird.data.tweets_2017_10 =
 					}
 				},
 				"protected": false,
-				"followers_count": 9011,
+				"followers_count": 9010,
 				"friends_count": 1,
-				"listed_count": 846,
+				"listed_count": 845,
 				"created_at": "Sat Jul 14 13:29:20 +0000 2007",
 				"favourites_count": 8,
 				"utc_offset": -10800,
 				"time_zone": "Atlantic Time (Canada)",
 				"geo_enabled": true,
 				"verified": true,
-				"statuses_count": 7747,
+				"statuses_count": 7749,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -278,7 +622,7 @@ Grailbird.data.tweets_2017_10 =
 			"time_zone": "Sydney",
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 12117,
+			"statuses_count": 12118,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -362,16 +706,16 @@ Grailbird.data.tweets_2017_10 =
 					}
 				},
 				"protected": false,
-				"followers_count": 119709,
-				"friends_count": 1259,
-				"listed_count": 483,
+				"followers_count": 119845,
+				"friends_count": 1261,
+				"listed_count": 482,
 				"created_at": "Mon Jun 04 20:04:04 +0000 2012",
 				"favourites_count": 382,
 				"utc_offset": -10800,
 				"time_zone": "Atlantic Time (Canada)",
 				"geo_enabled": true,
 				"verified": true,
-				"statuses_count": 7458,
+				"statuses_count": 7465,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -480,7 +824,7 @@ Grailbird.data.tweets_2017_10 =
 			"time_zone": "Sydney",
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 12117,
+			"statuses_count": 12118,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -580,7 +924,7 @@ Grailbird.data.tweets_2017_10 =
 			"time_zone": "Sydney",
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 12117,
+			"statuses_count": 12118,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -692,7 +1036,7 @@ Grailbird.data.tweets_2017_10 =
 			"time_zone": "Sydney",
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 12117,
+			"statuses_count": 12118,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -820,16 +1164,16 @@ Grailbird.data.tweets_2017_10 =
 					}
 				},
 				"protected": false,
-				"followers_count": 1088,
-				"friends_count": 1114,
+				"followers_count": 1087,
+				"friends_count": 1115,
 				"listed_count": 93,
 				"created_at": "Fri May 28 07:42:07 +0000 2010",
-				"favourites_count": 7260,
+				"favourites_count": 7269,
 				"utc_offset": 36000,
 				"time_zone": "Brisbane",
 				"geo_enabled": true,
 				"verified": false,
-				"statuses_count": 10729,
+				"statuses_count": 10736,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -937,7 +1281,7 @@ Grailbird.data.tweets_2017_10 =
 			"time_zone": "Sydney",
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 12117,
+			"statuses_count": 12118,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1036,7 +1380,7 @@ Grailbird.data.tweets_2017_10 =
 			"time_zone": "Sydney",
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 12117,
+			"statuses_count": 12118,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
