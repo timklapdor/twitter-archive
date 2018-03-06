@@ -1,6 +1,617 @@
 Grailbird.data.tweets_2018_03 = 
 [
 	{
+		"created_at": "Mon Mar 05 12:44:53 +0000 2018",
+		"id": 970641296900550700,
+		"id_str": "970641296900550658",
+		"text": "Posters and bug fixing. Tests in Bb are awful. The HTML &amp; CSS choices are almost farcical. **wipes brow** gets back to it #twenty18 /61",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "twenty18",
+					"indices": [
+						126,
+						135
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Wagga Wagga",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
+			"url": "http://t.co/uC0c3me6KE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/uC0c3me6KE",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 765,
+			"friends_count": 190,
+			"listed_count": 99,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 5927,
+			"utc_offset": 39600,
+			"time_zone": "Sydney",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12494,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000014291852/792df4c6e7490b807e8405ea6be45833.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000014291852/792df4c6e7490b807e8405ea6be45833.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/723129079671615492/O_NQ9rKL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/723129079671615492/O_NQ9rKL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "00fdc8497c0ca7b4",
+			"url": "https://api.twitter.com/1.1/geo/id/00fdc8497c0ca7b4.json",
+			"place_type": "city",
+			"name": "Wagga Wagga",
+			"full_name": "Wagga Wagga, New South Wales",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							147.304038624,
+							-35.187975032
+						],
+						[
+							147.424035232,
+							-35.187975032
+						],
+						[
+							147.424035232,
+							-35.0881893435
+						],
+						[
+							147.304038624,
+							-35.0881893435
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Mar 05 07:45:35 +0000 2018",
+		"id": 970565977116037100,
+		"id_str": "970565977116037120",
+		"text": "Oh and really enjoyed the performance from Doug Jones. Glad someone unique like him is finally getting some kudos f… https://t.co/hyYjJlZuNF",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hyYjJlZuNF",
+					"expanded_url": "https://twitter.com/i/web/status/970565977116037120",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Wagga Wagga",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
+			"url": "http://t.co/uC0c3me6KE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/uC0c3me6KE",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 765,
+			"friends_count": 190,
+			"listed_count": 99,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 5927,
+			"utc_offset": 39600,
+			"time_zone": "Sydney",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12494,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000014291852/792df4c6e7490b807e8405ea6be45833.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000014291852/792df4c6e7490b807e8405ea6be45833.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/723129079671615492/O_NQ9rKL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/723129079671615492/O_NQ9rKL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Mar 05 07:42:09 +0000 2018",
+		"id": 970565110287671300,
+		"id_str": "970565110287671296",
+		"text": "Finished watching Star Trek Discovery on the weekend. Really enjoyed it. Characters and acting is great. Season plo… https://t.co/qFWaOGmyKO",
+		"truncated": true,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qFWaOGmyKO",
+					"expanded_url": "https://twitter.com/i/web/status/970565110287671296",
+					"display_url": "twitter.com/i/web/status/9…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Wagga Wagga",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
+			"url": "http://t.co/uC0c3me6KE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/uC0c3me6KE",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 765,
+			"friends_count": 190,
+			"listed_count": 99,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 5927,
+			"utc_offset": 39600,
+			"time_zone": "Sydney",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12494,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000014291852/792df4c6e7490b807e8405ea6be45833.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000014291852/792df4c6e7490b807e8405ea6be45833.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/723129079671615492/O_NQ9rKL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/723129079671615492/O_NQ9rKL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Mon Mar 05 01:57:08 +0000 2018",
+		"id": 970478287276273700,
+		"id_str": "970478287276273664",
+		"text": "RT @agrihackaus: Well done to all who participated in #agrihack18 and thanks to @HE_SILOS @AgriFuturesAU and @YoungFarmerBP who provided su…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "agrihack18",
+					"indices": [
+						54,
+						65
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "agrihackaus",
+					"name": "Agrihack",
+					"id": 752421369296490500,
+					"id_str": "752421369296490496",
+					"indices": [
+						3,
+						15
+					]
+				},
+				{
+					"screen_name": "HE_SILOS",
+					"name": "H E Silos Forbes",
+					"id": 561633577,
+					"id_str": "561633577",
+					"indices": [
+						80,
+						89
+					]
+				},
+				{
+					"screen_name": "AgriFuturesAU",
+					"name": "AgriFutures™",
+					"id": 825888262736666600,
+					"id_str": "825888262736666624",
+					"indices": [
+						90,
+						104
+					]
+				},
+				{
+					"screen_name": "YoungFarmerBP",
+					"name": "YoungFarmerBP",
+					"id": 753043539316076500,
+					"id_str": "753043539316076545",
+					"indices": [
+						109,
+						123
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Wagga Wagga",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
+			"url": "http://t.co/uC0c3me6KE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/uC0c3me6KE",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 765,
+			"friends_count": 190,
+			"listed_count": 99,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 5927,
+			"utc_offset": 39600,
+			"time_zone": "Sydney",
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12494,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000014291852/792df4c6e7490b807e8405ea6be45833.jpeg",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000014291852/792df4c6e7490b807e8405ea6be45833.jpeg",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/723129079671615492/O_NQ9rKL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/723129079671615492/O_NQ9rKL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Mar 05 01:02:36 +0000 2018",
+			"id": 970464563672969200,
+			"id_str": "970464563672969216",
+			"text": "Well done to all who participated in #agrihack18 and thanks to @HE_SILOS @AgriFuturesAU and @YoungFarmerBP who prov… https://t.co/WtIzG6uKyk",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "agrihack18",
+						"indices": [
+							37,
+							48
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "HE_SILOS",
+						"name": "H E Silos Forbes",
+						"id": 561633577,
+						"id_str": "561633577",
+						"indices": [
+							63,
+							72
+						]
+					},
+					{
+						"screen_name": "AgriFuturesAU",
+						"name": "AgriFutures™",
+						"id": 825888262736666600,
+						"id_str": "825888262736666624",
+						"indices": [
+							73,
+							87
+						]
+					},
+					{
+						"screen_name": "YoungFarmerBP",
+						"name": "YoungFarmerBP",
+						"id": 753043539316076500,
+						"id_str": "753043539316076545",
+						"indices": [
+							92,
+							106
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/WtIzG6uKyk",
+						"expanded_url": "https://twitter.com/i/web/status/970464563672969216",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 752421369296490500,
+				"id_str": "752421369296490496",
+				"name": "Agrihack",
+				"screen_name": "agrihackaus",
+				"location": "Wagga Wagga, New South Wales",
+				"description": "A 2 day event March 1- 2 2018 where #Agriculture challenges are tackled by teams to create new and #innovative solutions//Register now",
+				"url": "https://t.co/FjkRUxH4ns",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/FjkRUxH4ns",
+								"expanded_url": "http://agrihack.com.au",
+								"display_url": "agrihack.com.au",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 430,
+				"friends_count": 551,
+				"listed_count": 15,
+				"created_at": "Mon Jul 11 08:36:48 +0000 2016",
+				"favourites_count": 188,
+				"utc_offset": 39600,
+				"time_zone": "Sydney",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 295,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/752669781199769600/y-qOVWiG_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/752669781199769600/y-qOVWiG_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/752421369296490496/1490496216",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 9,
+			"favorited": true,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 0,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Mar 04 22:49:44 +0000 2018",
 		"id": 970431122940207100,
 		"id_str": "970431122940207104",
@@ -53,16 +664,16 @@ Grailbird.data.tweets_2018_03 =
 				}
 			},
 			"protected": false,
-			"followers_count": 767,
+			"followers_count": 765,
 			"friends_count": 190,
 			"listed_count": 99,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 5926,
+			"favourites_count": 5927,
 			"utc_offset": 39600,
 			"time_zone": "Sydney",
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 12490,
+			"statuses_count": 12494,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -187,16 +798,16 @@ Grailbird.data.tweets_2018_03 =
 				}
 			},
 			"protected": false,
-			"followers_count": 767,
+			"followers_count": 765,
 			"friends_count": 190,
 			"listed_count": 99,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 5926,
+			"favourites_count": 5927,
 			"utc_offset": 39600,
 			"time_zone": "Sydney",
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 12490,
+			"statuses_count": 12494,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -281,15 +892,15 @@ Grailbird.data.tweets_2018_03 =
 				},
 				"protected": false,
 				"followers_count": 5320,
-				"friends_count": 1429,
+				"friends_count": 1431,
 				"listed_count": 61,
 				"created_at": "Sun Apr 05 11:44:54 +0000 2009",
-				"favourites_count": 38990,
+				"favourites_count": 39003,
 				"utc_offset": 39600,
 				"time_zone": "Sydney",
 				"geo_enabled": true,
 				"verified": false,
-				"statuses_count": 65198,
+				"statuses_count": 65209,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -376,16 +987,16 @@ Grailbird.data.tweets_2018_03 =
 						}
 					},
 					"protected": false,
-					"followers_count": 87204,
-					"friends_count": 165,
-					"listed_count": 877,
+					"followers_count": 87229,
+					"friends_count": 166,
+					"listed_count": 876,
 					"created_at": "Wed Jul 28 05:48:13 +0000 2010",
 					"favourites_count": 421,
 					"utc_offset": 39600,
 					"time_zone": "Sydney",
 					"geo_enabled": false,
 					"verified": true,
-					"statuses_count": 206288,
+					"statuses_count": 206352,
 					"lang": "en",
 					"contributors_enabled": false,
 					"is_translator": false,
@@ -415,15 +1026,15 @@ Grailbird.data.tweets_2018_03 =
 				"place": null,
 				"contributors": null,
 				"is_quote_status": false,
-				"retweet_count": 11,
-				"favorite_count": 18,
+				"retweet_count": 15,
+				"favorite_count": 26,
 				"favorited": false,
 				"retweeted": false,
 				"possibly_sensitive": false,
 				"lang": "en"
 			},
-			"retweet_count": 122,
-			"favorite_count": 243,
+			"retweet_count": 225,
+			"favorite_count": 395,
 			"favorited": false,
 			"retweeted": true,
 			"possibly_sensitive": false,
@@ -432,7 +1043,7 @@ Grailbird.data.tweets_2018_03 =
 		"is_quote_status": true,
 		"quoted_status_id": 970205476079116300,
 		"quoted_status_id_str": "970205476079116291",
-		"retweet_count": 122,
+		"retweet_count": 225,
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": true,
@@ -494,16 +1105,16 @@ Grailbird.data.tweets_2018_03 =
 				}
 			},
 			"protected": false,
-			"followers_count": 767,
+			"followers_count": 765,
 			"friends_count": 190,
 			"listed_count": 99,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 5926,
+			"favourites_count": 5927,
 			"utc_offset": 39600,
 			"time_zone": "Sydney",
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 12490,
+			"statuses_count": 12494,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -577,16 +1188,16 @@ Grailbird.data.tweets_2018_03 =
 					}
 				},
 				"protected": false,
-				"followers_count": 67276,
-				"friends_count": 559,
-				"listed_count": 1513,
+				"followers_count": 67499,
+				"friends_count": 560,
+				"listed_count": 1520,
 				"created_at": "Tue Aug 25 17:09:25 +0000 2009",
-				"favourites_count": 4063,
+				"favourites_count": 4066,
 				"utc_offset": 3600,
 				"time_zone": "Bern",
 				"geo_enabled": false,
 				"verified": true,
-				"statuses_count": 9153,
+				"statuses_count": 9160,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -616,14 +1227,14 @@ Grailbird.data.tweets_2018_03 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 240,
-			"favorite_count": 852,
+			"retweet_count": 282,
+			"favorite_count": 1025,
 			"favorited": false,
 			"retweeted": true,
 			"lang": "en"
 		},
 		"is_quote_status": false,
-		"retweet_count": 240,
+		"retweet_count": 282,
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": true,
@@ -682,16 +1293,16 @@ Grailbird.data.tweets_2018_03 =
 				}
 			},
 			"protected": false,
-			"followers_count": 767,
+			"followers_count": 765,
 			"friends_count": 190,
 			"listed_count": 99,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 5926,
+			"favourites_count": 5927,
 			"utc_offset": 39600,
 			"time_zone": "Sydney",
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 12490,
+			"statuses_count": 12494,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -783,16 +1394,16 @@ Grailbird.data.tweets_2018_03 =
 				}
 			},
 			"protected": false,
-			"followers_count": 767,
+			"followers_count": 765,
 			"friends_count": 190,
 			"listed_count": 99,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 5926,
+			"favourites_count": 5927,
 			"utc_offset": 39600,
 			"time_zone": "Sydney",
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 12490,
+			"statuses_count": 12494,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -894,16 +1505,16 @@ Grailbird.data.tweets_2018_03 =
 				}
 			},
 			"protected": false,
-			"followers_count": 767,
+			"followers_count": 765,
 			"friends_count": 190,
 			"listed_count": 99,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 5926,
+			"favourites_count": 5927,
 			"utc_offset": 39600,
 			"time_zone": "Sydney",
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 12490,
+			"statuses_count": 12494,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1006,16 +1617,16 @@ Grailbird.data.tweets_2018_03 =
 				}
 			},
 			"protected": false,
-			"followers_count": 767,
+			"followers_count": 765,
 			"friends_count": 190,
 			"listed_count": 99,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 5926,
+			"favourites_count": 5927,
 			"utc_offset": 39600,
 			"time_zone": "Sydney",
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 12490,
+			"statuses_count": 12494,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1137,16 +1748,16 @@ Grailbird.data.tweets_2018_03 =
 				}
 			},
 			"protected": false,
-			"followers_count": 767,
+			"followers_count": 765,
 			"friends_count": 190,
 			"listed_count": 99,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 5926,
+			"favourites_count": 5927,
 			"utc_offset": 39600,
 			"time_zone": "Sydney",
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 12490,
+			"statuses_count": 12494,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1248,16 +1859,16 @@ Grailbird.data.tweets_2018_03 =
 				}
 			},
 			"protected": false,
-			"followers_count": 767,
+			"followers_count": 765,
 			"friends_count": 190,
 			"listed_count": 99,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 5926,
+			"favourites_count": 5927,
 			"utc_offset": 39600,
 			"time_zone": "Sydney",
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 12490,
+			"statuses_count": 12494,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1369,16 +1980,16 @@ Grailbird.data.tweets_2018_03 =
 				}
 			},
 			"protected": false,
-			"followers_count": 767,
+			"followers_count": 765,
 			"friends_count": 190,
 			"listed_count": 99,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 5926,
+			"favourites_count": 5927,
 			"utc_offset": 39600,
 			"time_zone": "Sydney",
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 12490,
+			"statuses_count": 12494,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1471,16 +2082,16 @@ Grailbird.data.tweets_2018_03 =
 				}
 			},
 			"protected": false,
-			"followers_count": 767,
+			"followers_count": 765,
 			"friends_count": 190,
 			"listed_count": 99,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 5926,
+			"favourites_count": 5927,
 			"utc_offset": 39600,
 			"time_zone": "Sydney",
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 12490,
+			"statuses_count": 12494,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1551,16 +2162,16 @@ Grailbird.data.tweets_2018_03 =
 					}
 				},
 				"protected": false,
-				"followers_count": 123290,
-				"friends_count": 802,
-				"listed_count": 806,
+				"followers_count": 123382,
+				"friends_count": 803,
+				"listed_count": 804,
 				"created_at": "Tue Jun 29 08:55:27 +0000 2010",
 				"favourites_count": 2425,
 				"utc_offset": -36000,
 				"time_zone": "Hawaii",
 				"geo_enabled": true,
 				"verified": false,
-				"statuses_count": 41501,
+				"statuses_count": 41519,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -1590,14 +2201,14 @@ Grailbird.data.tweets_2018_03 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 1491,
-			"favorite_count": 3038,
+			"retweet_count": 1493,
+			"favorite_count": 3045,
 			"favorited": false,
 			"retweeted": true,
 			"lang": "en"
 		},
 		"is_quote_status": false,
-		"retweet_count": 1491,
+		"retweet_count": 1493,
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": true,
@@ -1679,16 +2290,16 @@ Grailbird.data.tweets_2018_03 =
 				}
 			},
 			"protected": false,
-			"followers_count": 767,
+			"followers_count": 765,
 			"friends_count": 190,
 			"listed_count": 99,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 5926,
+			"favourites_count": 5927,
 			"utc_offset": 39600,
 			"time_zone": "Sydney",
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 12490,
+			"statuses_count": 12494,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1798,16 +2409,16 @@ Grailbird.data.tweets_2018_03 =
 				}
 			},
 			"protected": false,
-			"followers_count": 767,
+			"followers_count": 765,
 			"friends_count": 190,
 			"listed_count": 99,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 5926,
+			"favourites_count": 5927,
 			"utc_offset": 39600,
 			"time_zone": "Sydney",
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 12490,
+			"statuses_count": 12494,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1987,16 +2598,16 @@ Grailbird.data.tweets_2018_03 =
 				}
 			},
 			"protected": false,
-			"followers_count": 767,
+			"followers_count": 765,
 			"friends_count": 190,
 			"listed_count": 99,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 5926,
+			"favourites_count": 5927,
 			"utc_offset": 39600,
 			"time_zone": "Sydney",
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 12490,
+			"statuses_count": 12494,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2089,16 +2700,16 @@ Grailbird.data.tweets_2018_03 =
 				}
 			},
 			"protected": false,
-			"followers_count": 767,
+			"followers_count": 765,
 			"friends_count": 190,
 			"listed_count": 99,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 5926,
+			"favourites_count": 5927,
 			"utc_offset": 39600,
 			"time_zone": "Sydney",
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 12490,
+			"statuses_count": 12494,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
