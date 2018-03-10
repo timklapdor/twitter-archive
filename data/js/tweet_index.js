@@ -3,7 +3,7 @@ var tweet_index = [
 		"file_name": "data/js/tweets/2018_03.js",
 		"year": 2018,
 		"var_name": "tweets_2018_03",
-		"tweet_count": 28,
+		"tweet_count": 29,
 		"month": 3
 	},
 	{
@@ -115,7 +115,7 @@ var tweet_index = [
 		"file_name": "data/js/tweets/2016_11.js",
 		"year": 2016,
 		"var_name": "tweets_2016_11",
-		"tweet_count": 77,
+		"tweet_count": 76,
 		"month": 11
 	},
 	{
