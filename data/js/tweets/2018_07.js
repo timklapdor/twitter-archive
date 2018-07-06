@@ -1,6 +1,381 @@
 Grailbird.data.tweets_2018_07 = 
 [
 	{
+		"created_at": "Thu Jul 05 09:08:30 +0000 2018",
+		"id": 1014798160416215000,
+		"id_str": "1014798160416215041",
+		"text": "RT @vagina_museum: In the original Maori folklore, Māui from Moana died when he climbed inside the vagina of Hine-nui-te-pō, the goddess of…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "vagina_museum",
+					"name": "Vagina Museum",
+					"id": 844520976759111700,
+					"id_str": "844520976759111683",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Wagga Wagga",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
+			"url": "http://t.co/uC0c3me6KE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/uC0c3me6KE",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 774,
+			"friends_count": 190,
+			"listed_count": 98,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 6056,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12847,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/723129079671615492/O_NQ9rKL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/723129079671615492/O_NQ9rKL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Jul 02 20:42:31 +0000 2018",
+			"id": 1013885653170434000,
+			"id_str": "1013885653170434052",
+			"text": "In the original Maori folklore, Māui from Moana died when he climbed inside the vagina of Hine-nui-te-pō, the godde… https://t.co/eXeOyKZTmK",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/eXeOyKZTmK",
+						"expanded_url": "https://twitter.com/i/web/status/1013885653170434052",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 844520976759111700,
+				"id_str": "844520976759111683",
+				"name": "Vagina Museum",
+				"screen_name": "vagina_museum",
+				"location": "United Kingdom",
+				"description": "The world's first bricks and mortar museum dedicated to vaginas, vulvas and the gynaecological anatomy. Currently in development.",
+				"url": "https://t.co/nG1tANQS2B",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/nG1tANQS2B",
+								"expanded_url": "http://www.vaginamuseum.co.uk",
+								"display_url": "vaginamuseum.co.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5888,
+				"friends_count": 3000,
+				"listed_count": 34,
+				"created_at": "Wed Mar 22 12:07:46 +0000 2017",
+				"favourites_count": 3966,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2092,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/908712755166892032/n8L4O1lk_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/908712755166892032/n8L4O1lk_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/844520976759111683/1525346948",
+				"profile_link_color": "E2725B",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1012350034262839300,
+			"quoted_status_id_str": "1012350034262839298",
+			"quoted_status": {
+				"created_at": "Thu Jun 28 15:00:31 +0000 2018",
+				"id": 1012350034262839300,
+				"id_str": "1012350034262839298",
+				"text": "Tell me something I don't know.... https://t.co/bxmzLFekrX",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [],
+					"media": [
+						{
+							"id": 1012350028554358800,
+							"id_str": "1012350028554358788",
+							"indices": [
+								35,
+								58
+							],
+							"media_url": "http://pbs.twimg.com/media/DgyW_MBW0AQl1Ud.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DgyW_MBW0AQl1Ud.jpg",
+							"url": "https://t.co/bxmzLFekrX",
+							"display_url": "pic.twitter.com/bxmzLFekrX",
+							"expanded_url": "https://twitter.com/ParisHilton/status/1012350034262839298/photo/1",
+							"type": "photo",
+							"sizes": {
+								"medium": {
+									"w": 467,
+									"h": 446,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"small": {
+									"w": 467,
+									"h": 446,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 467,
+									"h": 446,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 1012350028554358800,
+							"id_str": "1012350028554358788",
+							"indices": [
+								35,
+								58
+							],
+							"media_url": "http://pbs.twimg.com/media/DgyW_MBW0AQl1Ud.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DgyW_MBW0AQl1Ud.jpg",
+							"url": "https://t.co/bxmzLFekrX",
+							"display_url": "pic.twitter.com/bxmzLFekrX",
+							"expanded_url": "https://twitter.com/ParisHilton/status/1012350034262839298/photo/1",
+							"type": "photo",
+							"sizes": {
+								"medium": {
+									"w": 467,
+									"h": 446,
+									"resize": "fit"
+								},
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"small": {
+									"w": 467,
+									"h": 446,
+									"resize": "fit"
+								},
+								"large": {
+									"w": 467,
+									"h": 446,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 24929621,
+					"id_str": "24929621",
+					"name": "Paris Hilton",
+					"screen_name": "ParisHilton",
+					"location": "",
+					"description": "Beyond excited to be launching my #ParisHiltonSkincare line today! My 100% natural, anti-aging line will leave your skin looking perfect & flawless",
+					"url": "https://t.co/rUjbd13FYP",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/rUjbd13FYP",
+									"expanded_url": "http://ParisHiltonSkincare.com",
+									"display_url": "ParisHiltonSkincare.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 18064083,
+					"friends_count": 7871,
+					"listed_count": 52768,
+					"created_at": "Tue Mar 17 18:45:05 +0000 2009",
+					"favourites_count": 15140,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 29046,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": true,
+					"profile_background_color": "FFFFFF",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/1012776809329504261/Z_APaW05_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/1012776809329504261/Z_APaW05_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/24929621/1528802054",
+					"profile_link_color": "E872C5",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "E5507E",
+					"profile_text_color": "544640",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "regular"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 1785,
+				"favorite_count": 15074,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 3922,
+			"favorite_count": 14373,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 1012350034262839300,
+		"quoted_status_id_str": "1012350034262839298",
+		"retweet_count": 3922,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Tue Jul 03 16:12:24 +0000 2018",
 		"id": 1014180063196004400,
 		"id_str": "1014180063196004352",
@@ -80,7 +455,7 @@ Grailbird.data.tweets_2018_07 =
 			"friends_count": 190,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6057,
+			"favourites_count": 6056,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
@@ -192,7 +567,7 @@ Grailbird.data.tweets_2018_07 =
 			"friends_count": 190,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6057,
+			"favourites_count": 6056,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
@@ -383,7 +758,7 @@ Grailbird.data.tweets_2018_07 =
 					}
 				},
 				"protected": false,
-				"followers_count": 10555,
+				"followers_count": 10554,
 				"friends_count": 1447,
 				"listed_count": 793,
 				"created_at": "Wed Jan 31 21:24:02 +0000 2007",
@@ -392,7 +767,7 @@ Grailbird.data.tweets_2018_07 =
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": false,
-				"statuses_count": 86017,
+				"statuses_count": 86031,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -423,7 +798,7 @@ Grailbird.data.tweets_2018_07 =
 			"contributors": null,
 			"is_quote_status": false,
 			"retweet_count": 0,
-			"favorite_count": 53,
+			"favorite_count": 54,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
@@ -496,7 +871,7 @@ Grailbird.data.tweets_2018_07 =
 			"friends_count": 190,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6057,
+			"favourites_count": 6056,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
@@ -573,15 +948,15 @@ Grailbird.data.tweets_2018_07 =
 				},
 				"protected": false,
 				"followers_count": 2565,
-				"friends_count": 3846,
-				"listed_count": 147,
+				"friends_count": 3847,
+				"listed_count": 148,
 				"created_at": "Fri Dec 10 14:35:27 +0000 2010",
 				"favourites_count": 618,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": false,
-				"statuses_count": 9620,
+				"statuses_count": 9627,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -611,15 +986,15 @@ Grailbird.data.tweets_2018_07 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 5656,
-			"favorite_count": 9650,
+			"retweet_count": 5705,
+			"favorite_count": 9729,
 			"favorited": false,
 			"retweeted": true,
 			"possibly_sensitive": false,
 			"lang": "en"
 		},
 		"is_quote_status": false,
-		"retweet_count": 5656,
+		"retweet_count": 5705,
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": true,
@@ -695,7 +1070,7 @@ Grailbird.data.tweets_2018_07 =
 			"friends_count": 190,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6057,
+			"favourites_count": 6056,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
@@ -796,7 +1171,7 @@ Grailbird.data.tweets_2018_07 =
 			"friends_count": 190,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6057,
+			"favourites_count": 6056,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
@@ -972,7 +1347,7 @@ Grailbird.data.tweets_2018_07 =
 			"friends_count": 190,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6057,
+			"favourites_count": 6056,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
@@ -1081,7 +1456,7 @@ Grailbird.data.tweets_2018_07 =
 			"friends_count": 190,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6057,
+			"favourites_count": 6056,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
@@ -1190,7 +1565,7 @@ Grailbird.data.tweets_2018_07 =
 			"friends_count": 190,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6057,
+			"favourites_count": 6056,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
@@ -1291,7 +1666,7 @@ Grailbird.data.tweets_2018_07 =
 			"friends_count": 190,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6057,
+			"favourites_count": 6056,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
@@ -1402,7 +1777,7 @@ Grailbird.data.tweets_2018_07 =
 			"friends_count": 190,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6057,
+			"favourites_count": 6056,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
@@ -1502,7 +1877,7 @@ Grailbird.data.tweets_2018_07 =
 			"friends_count": 190,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6057,
+			"favourites_count": 6056,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
@@ -1604,15 +1979,15 @@ Grailbird.data.tweets_2018_07 =
 				},
 				"protected": false,
 				"followers_count": 6718,
-				"friends_count": 571,
+				"friends_count": 572,
 				"listed_count": 229,
 				"created_at": "Sun Dec 23 20:58:57 +0000 2007",
-				"favourites_count": 47417,
+				"favourites_count": 47482,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": false,
-				"statuses_count": 204167,
+				"statuses_count": 204254,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -1642,8 +2017,8 @@ Grailbird.data.tweets_2018_07 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 958,
-			"favorite_count": 1301,
+			"retweet_count": 962,
+			"favorite_count": 1306,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
@@ -1715,7 +2090,7 @@ Grailbird.data.tweets_2018_07 =
 			"friends_count": 190,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6057,
+			"favourites_count": 6056,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
@@ -1817,7 +2192,7 @@ Grailbird.data.tweets_2018_07 =
 			"friends_count": 190,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6057,
+			"favourites_count": 6056,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
@@ -1917,15 +2292,15 @@ Grailbird.data.tweets_2018_07 =
 				},
 				"protected": false,
 				"followers_count": 43171,
-				"friends_count": 19439,
-				"listed_count": 2666,
+				"friends_count": 19447,
+				"listed_count": 2667,
 				"created_at": "Thu Dec 07 19:55:38 +0000 2006",
-				"favourites_count": 113169,
+				"favourites_count": 113177,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": false,
-				"statuses_count": 144480,
+				"statuses_count": 144505,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -1955,15 +2330,15 @@ Grailbird.data.tweets_2018_07 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 633,
-			"favorite_count": 1038,
+			"retweet_count": 635,
+			"favorite_count": 1039,
 			"favorited": false,
 			"retweeted": true,
 			"possibly_sensitive": false,
 			"lang": "en"
 		},
 		"is_quote_status": false,
-		"retweet_count": 633,
+		"retweet_count": 635,
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": true,
