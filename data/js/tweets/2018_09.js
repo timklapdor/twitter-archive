@@ -1,6 +1,460 @@
 Grailbird.data.tweets_2018_09 = 
 [
 	{
+		"created_at": "Sun Sep 02 02:19:43 +0000 2018",
+		"id": 1036076174215004200,
+		"id_str": "1036076174215004165",
+		"text": "RT @MarcFennell: Axing @Tonightly is one of the most shortsighted decisions the ABC has ever made. Shows like this are incredible talent ge…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MarcFennell",
+					"name": "Marc Fennell",
+					"id": 20425537,
+					"id_str": "20425537",
+					"indices": [
+						3,
+						15
+					]
+				},
+				{
+					"screen_name": "tonightly",
+					"name": "Tonightly",
+					"id": 915413554580164600,
+					"id_str": "915413554580164608",
+					"indices": [
+						23,
+						33
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Wagga Wagga",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
+			"url": "http://t.co/uC0c3me6KE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/uC0c3me6KE",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 777,
+			"friends_count": 189,
+			"listed_count": 97,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 6120,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13007,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/723129079671615492/O_NQ9rKL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/723129079671615492/O_NQ9rKL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Sun Sep 02 00:02:43 +0000 2018",
+			"id": 1036041694720942100,
+			"id_str": "1036041694720942080",
+			"text": "Axing @Tonightly is one of the most shortsighted decisions the ABC has ever made. Shows like this are incredible ta… https://t.co/VvRqufC7M2",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "tonightly",
+						"name": "Tonightly",
+						"id": 915413554580164600,
+						"id_str": "915413554580164608",
+						"indices": [
+							6,
+							16
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/VvRqufC7M2",
+						"expanded_url": "https://twitter.com/i/web/status/1036041694720942080",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20425537,
+				"id_str": "20425537",
+				"name": "Marc Fennell",
+				"screen_name": "MarcFennell",
+				"location": "Australia",
+				"description": "Interviewer & co-host of @TheFeedSBS 📺 WATCH: https://t.co/DcSiBYCFl0 • Hosts #DownloadThisShow Podcast for ABC 📻 LISTEN: https://t.co/j6NznvqKze",
+				"url": "https://t.co/9n6NxlY3JQ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/9n6NxlY3JQ",
+								"expanded_url": "http://MarcFennell.com",
+								"display_url": "MarcFennell.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/DcSiBYCFl0",
+								"expanded_url": "https://bit.ly/2LAdfDO",
+								"display_url": "bit.ly/2LAdfDO",
+								"indices": [
+									46,
+									69
+								]
+							},
+							{
+								"url": "https://t.co/j6NznvqKze",
+								"expanded_url": "https://apple.co/2p0rFFS",
+								"display_url": "apple.co/2p0rFFS",
+								"indices": [
+									122,
+									145
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 63907,
+				"friends_count": 7534,
+				"listed_count": 838,
+				"created_at": "Mon Feb 09 09:42:33 +0000 2009",
+				"favourites_count": 35278,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 30225,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/798107360145195008/1BzIlFp-_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/798107360145195008/1BzIlFp-_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20425537/1517277126",
+				"profile_link_color": "A31D1D",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "B8B8B8",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1036040705896996900,
+			"quoted_status_id_str": "1036040705896996864",
+			"quoted_status": {
+				"created_at": "Sat Sep 01 23:58:47 +0000 2018",
+				"id": 1036040705896996900,
+				"id_str": "1036040705896996864",
+				"text": "It's the final week of @tonightly with @TomCBallard ... It's been an absolute privilege. #defundabc https://t.co/ITawr2LpJk",
+				"truncated": false,
+				"entities": {
+					"hashtags": [
+						{
+							"text": "defundabc",
+							"indices": [
+								89,
+								99
+							]
+						}
+					],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "tonightly",
+							"name": "Tonightly",
+							"id": 915413554580164600,
+							"id_str": "915413554580164608",
+							"indices": [
+								23,
+								33
+							]
+						},
+						{
+							"screen_name": "TomCBallard",
+							"name": "Tom Ballard",
+							"id": 29652694,
+							"id_str": "29652694",
+							"indices": [
+								39,
+								51
+							]
+						}
+					],
+					"urls": [],
+					"media": [
+						{
+							"id": 1036039609879130100,
+							"id_str": "1036039609879130113",
+							"indices": [
+								100,
+								123
+							],
+							"media_url": "http://pbs.twimg.com/media/DmDAiTgUcAEmBzt.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DmDAiTgUcAEmBzt.jpg",
+							"url": "https://t.co/ITawr2LpJk",
+							"display_url": "pic.twitter.com/ITawr2LpJk",
+							"expanded_url": "https://twitter.com/danilic/status/1036040705896996864/photo/1",
+							"type": "photo",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"large": {
+									"w": 2048,
+									"h": 1271,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 1200,
+									"h": 745,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 680,
+									"h": 422,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"extended_entities": {
+					"media": [
+						{
+							"id": 1036039609879130100,
+							"id_str": "1036039609879130113",
+							"indices": [
+								100,
+								123
+							],
+							"media_url": "http://pbs.twimg.com/media/DmDAiTgUcAEmBzt.jpg",
+							"media_url_https": "https://pbs.twimg.com/media/DmDAiTgUcAEmBzt.jpg",
+							"url": "https://t.co/ITawr2LpJk",
+							"display_url": "pic.twitter.com/ITawr2LpJk",
+							"expanded_url": "https://twitter.com/danilic/status/1036040705896996864/photo/1",
+							"type": "photo",
+							"sizes": {
+								"thumb": {
+									"w": 150,
+									"h": 150,
+									"resize": "crop"
+								},
+								"large": {
+									"w": 2048,
+									"h": 1271,
+									"resize": "fit"
+								},
+								"medium": {
+									"w": 1200,
+									"h": 745,
+									"resize": "fit"
+								},
+								"small": {
+									"w": 680,
+									"h": 422,
+									"resize": "fit"
+								}
+							}
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 15414356,
+					"id_str": "15414356",
+					"name": "Dan Ilić",
+					"screen_name": "danilic",
+					"location": "Sydney, New South Wales",
+					"description": "Comedy Industrialist & Former Child.\n\nPreviously: @AJplus, @FusionTV, @Hungry_Beast.\n\nCurrently: EP at @Tonightly\n\nhttps://t.co/T7ts6vaGaE",
+					"url": "https://t.co/zSvAKT96rD",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/zSvAKT96rD",
+									"expanded_url": "http://danilic.com",
+									"display_url": "danilic.com",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": [
+								{
+									"url": "https://t.co/T7ts6vaGaE",
+									"expanded_url": "http://DanIlic.com",
+									"display_url": "DanIlic.com",
+									"indices": [
+										115,
+										138
+									]
+								}
+							]
+						}
+					},
+					"protected": false,
+					"followers_count": 27052,
+					"friends_count": 7901,
+					"listed_count": 602,
+					"created_at": "Sun Jul 13 12:33:17 +0000 2008",
+					"favourites_count": 19280,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 1806,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "000000",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/944011901666824192/bopOrPnn_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/944011901666824192/bopOrPnn_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/15414356/1516232371",
+					"profile_link_color": "ABB8C2",
+					"profile_sidebar_border_color": "FFFFFF",
+					"profile_sidebar_fill_color": "A0C5C7",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": false,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 56,
+				"favorite_count": 316,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 290,
+			"favorite_count": 1075,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 1036040705896996900,
+		"quoted_status_id_str": "1036040705896996864",
+		"retweet_count": 290,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sun Sep 02 00:00:26 +0000 2018",
 		"id": 1036041118817824800,
 		"id_str": "1036041118817824769",
@@ -203,16 +657,16 @@ Grailbird.data.tweets_2018_09 =
 								}
 							},
 							"protected": false,
-							"followers_count": 46512,
+							"followers_count": 46790,
 							"friends_count": 633,
-							"listed_count": 481,
+							"listed_count": 478,
 							"created_at": "Wed Jan 23 03:33:46 +0000 2013",
 							"favourites_count": 264,
 							"utc_offset": null,
 							"time_zone": null,
 							"geo_enabled": true,
 							"verified": true,
-							"statuses_count": 6751,
+							"statuses_count": 6754,
 							"lang": "en",
 							"contributors_enabled": false,
 							"is_translator": false,
@@ -274,16 +728,16 @@ Grailbird.data.tweets_2018_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 778,
+			"followers_count": 777,
 			"friends_count": 189,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6119,
+			"favourites_count": 6120,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13004,
+			"statuses_count": 13007,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -507,16 +961,16 @@ Grailbird.data.tweets_2018_09 =
 					}
 				},
 				"protected": false,
-				"followers_count": 46512,
+				"followers_count": 46790,
 				"friends_count": 633,
-				"listed_count": 481,
+				"listed_count": 478,
 				"created_at": "Wed Jan 23 03:33:46 +0000 2013",
 				"favourites_count": 264,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": true,
-				"statuses_count": 6751,
+				"statuses_count": 6754,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -546,15 +1000,15 @@ Grailbird.data.tweets_2018_09 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 498,
-			"favorite_count": 754,
+			"retweet_count": 2282,
+			"favorite_count": 4289,
 			"favorited": false,
 			"retweeted": true,
 			"possibly_sensitive": false,
 			"lang": "en"
 		},
 		"is_quote_status": false,
-		"retweet_count": 498,
+		"retweet_count": 2282,
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": true,
@@ -616,16 +1070,16 @@ Grailbird.data.tweets_2018_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 778,
+			"followers_count": 777,
 			"friends_count": 189,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6119,
+			"favourites_count": 6120,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13004,
+			"statuses_count": 13007,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -732,16 +1186,16 @@ Grailbird.data.tweets_2018_09 =
 					}
 				},
 				"protected": false,
-				"followers_count": 2121,
-				"friends_count": 1728,
+				"followers_count": 2125,
+				"friends_count": 1732,
 				"listed_count": 82,
 				"created_at": "Sun Jul 17 08:23:50 +0000 2016",
-				"favourites_count": 27618,
+				"favourites_count": 27703,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": false,
-				"statuses_count": 11611,
+				"statuses_count": 11640,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -773,8 +1227,8 @@ Grailbird.data.tweets_2018_09 =
 			"is_quote_status": true,
 			"quoted_status_id": 1035376554111459300,
 			"quoted_status_id_str": "1035376554111459328",
-			"retweet_count": 32,
-			"favorite_count": 60,
+			"retweet_count": 36,
+			"favorite_count": 66,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
@@ -850,16 +1304,16 @@ Grailbird.data.tweets_2018_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 778,
+			"followers_count": 777,
 			"friends_count": 189,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6119,
+			"favourites_count": 6120,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13004,
+			"statuses_count": 13007,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -979,11 +1433,11 @@ Grailbird.data.tweets_2018_09 =
 					}
 				},
 				"protected": false,
-				"followers_count": 9338,
+				"followers_count": 9344,
 				"friends_count": 518,
-				"listed_count": 220,
+				"listed_count": 221,
 				"created_at": "Sun Feb 27 01:07:02 +0000 2011",
-				"favourites_count": 3602,
+				"favourites_count": 3611,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
@@ -1018,8 +1472,8 @@ Grailbird.data.tweets_2018_09 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 755,
-			"favorite_count": 805,
+			"retweet_count": 761,
+			"favorite_count": 813,
 			"favorited": false,
 			"retweeted": false,
 			"lang": "en"
