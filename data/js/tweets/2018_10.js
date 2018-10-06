@@ -1,6 +1,324 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Fri Oct 05 15:00:13 +0000 2018",
+		"id": 1048226357845549000,
+		"id_str": "1048226357845549056",
+		"text": "RT @michellegrattan: A politician capitulates to an outburst of bullying by a shock jock - it is not surprising so many people have no resp…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "michellegrattan",
+					"name": "Michelle Grattan",
+					"id": 67166472,
+					"id_str": "67166472",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Wagga Wagga",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
+			"url": "http://t.co/uC0c3me6KE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/uC0c3me6KE",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 775,
+			"friends_count": 146,
+			"listed_count": 98,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 6201,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13053,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/723129079671615492/O_NQ9rKL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/723129079671615492/O_NQ9rKL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Fri Oct 05 09:03:14 +0000 2018",
+			"id": 1048136521792933900,
+			"id_str": "1048136521792933888",
+			"text": "A politician capitulates to an outburst of bullying by a shock jock - it is not surprising so many people have no r… https://t.co/1Kh0PZNoPT",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/1Kh0PZNoPT",
+						"expanded_url": "https://twitter.com/i/web/status/1048136521792933888",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 67166472,
+				"id_str": "67166472",
+				"name": "Michelle Grattan",
+				"screen_name": "michellegrattan",
+				"location": "Canberra",
+				"description": "Chief Political Correspondent, The Conversation",
+				"url": "https://t.co/8sSn09H61K",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/8sSn09H61K",
+								"expanded_url": "https://theconversation.com/profiles/michelle-grattan-20316",
+								"display_url": "theconversation.com/profiles/miche…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 107512,
+				"friends_count": 788,
+				"listed_count": 1611,
+				"created_at": "Wed Aug 19 23:58:00 +0000 2009",
+				"favourites_count": 46,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 7569,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/371368707/9b8bcdcf241100885436-117802244_0_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/371368707/9b8bcdcf241100885436-117802244_0_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/67166472/1498536674",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1048135743481110500,
+			"quoted_status_id_str": "1048135743481110529",
+			"quoted_status": {
+				"created_at": "Fri Oct 05 09:00:09 +0000 2018",
+				"id": 1048135743481110500,
+				"id_str": "1048135743481110529",
+				"text": "Gladys Berejiklian hands Racing NSW, Alan Jones victory in Opera House battle https://t.co/yM5Uo6EzAU via @smh",
+				"truncated": false,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [
+						{
+							"screen_name": "smh",
+							"name": "The Sydney Morning Herald",
+							"id": 16675569,
+							"id_str": "16675569",
+							"indices": [
+								106,
+								110
+							]
+						}
+					],
+					"urls": [
+						{
+							"url": "https://t.co/yM5Uo6EzAU",
+							"expanded_url": "https://www.smh.com.au/national/nsw/gladys-berejiklian-hands-racing-nsw-alan-jones-victory-in-opera-house-battle-20181005-p50837.html",
+							"display_url": "smh.com.au/national/nsw/g…",
+							"indices": [
+								78,
+								101
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 67166472,
+					"id_str": "67166472",
+					"name": "Michelle Grattan",
+					"screen_name": "michellegrattan",
+					"location": "Canberra",
+					"description": "Chief Political Correspondent, The Conversation",
+					"url": "https://t.co/8sSn09H61K",
+					"entities": {
+						"url": {
+							"urls": [
+								{
+									"url": "https://t.co/8sSn09H61K",
+									"expanded_url": "https://theconversation.com/profiles/michelle-grattan-20316",
+									"display_url": "theconversation.com/profiles/miche…",
+									"indices": [
+										0,
+										23
+									]
+								}
+							]
+						},
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 107512,
+					"friends_count": 788,
+					"listed_count": 1611,
+					"created_at": "Wed Aug 19 23:58:00 +0000 2009",
+					"favourites_count": 46,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 7569,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "C0DEED",
+					"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/371368707/9b8bcdcf241100885436-117802244_0_normal.jpeg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/371368707/9b8bcdcf241100885436-117802244_0_normal.jpeg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/67166472/1498536674",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": null,
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 66,
+				"favorite_count": 114,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 813,
+			"favorite_count": 2257,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 1048135743481110500,
+		"quoted_status_id_str": "1048135743481110529",
+		"retweet_count": 813,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Mon Oct 01 09:39:26 +0000 2018",
 		"id": 1046696078337134600,
 		"id_str": "1046696078337134592",
@@ -70,12 +388,12 @@ Grailbird.data.tweets_2018_10 =
 			"friends_count": 146,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6200,
+			"favourites_count": 6201,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13052,
+			"statuses_count": 13053,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -195,16 +513,16 @@ Grailbird.data.tweets_2018_10 =
 					}
 				},
 				"protected": false,
-				"followers_count": 58659,
-				"friends_count": 1317,
-				"listed_count": 899,
+				"followers_count": 58687,
+				"friends_count": 1321,
+				"listed_count": 898,
 				"created_at": "Sun Feb 15 03:59:26 +0000 2009",
-				"favourites_count": 13232,
+				"favourites_count": 13238,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": true,
-				"statuses_count": 23065,
+				"statuses_count": 23077,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -234,8 +552,8 @@ Grailbird.data.tweets_2018_10 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 2601,
-			"favorite_count": 6280,
+			"retweet_count": 2606,
+			"favorite_count": 6281,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
