@@ -1,6 +1,342 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Mon Oct 08 10:30:38 +0000 2018",
+		"id": 1049245678226964500,
+		"id_str": "1049245678226964481",
+		"text": "RT @s_palm: How about bullies that use the radio to abuse and intimidate? I hear that's a big issue in NSW right now. https://t.co/CugOypWi…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "s_palm",
+					"name": "Stuart Palmer",
+					"id": 141466282,
+					"id_str": "141466282",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Wagga Wagga",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
+			"url": "http://t.co/uC0c3me6KE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/uC0c3me6KE",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 772,
+			"friends_count": 146,
+			"listed_count": 98,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 6207,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13055,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/723129079671615492/O_NQ9rKL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/723129079671615492/O_NQ9rKL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Mon Oct 08 08:37:13 +0000 2018",
+			"id": 1049217135988244500,
+			"id_str": "1049217135988244481",
+			"text": "How about bullies that use the radio to abuse and intimidate? I hear that's a big issue in NSW right now. https://t.co/CugOypWiRL",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/CugOypWiRL",
+						"expanded_url": "https://twitter.com/GladysB/status/1048728495189180417",
+						"display_url": "twitter.com/GladysB/status…",
+						"indices": [
+							106,
+							129
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 141466282,
+				"id_str": "141466282",
+				"name": "Stuart Palmer",
+				"screen_name": "s_palm",
+				"location": "Geelong, Victoria, Australia",
+				"description": "Chartered professional engineer. Associate Professor in School of Something at Some University. Tweets my own. https://t.co/GIq8WroMCk",
+				"url": "https://t.co/jcM3Ba24lH",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/jcM3Ba24lH",
+								"expanded_url": "http://ow.ly/4mPTGO",
+								"display_url": "ow.ly/4mPTGO",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/GIq8WroMCk",
+								"expanded_url": "http://users.tpg.com.au/palmbray/",
+								"display_url": "users.tpg.com.au/palmbray/",
+								"indices": [
+									111,
+									134
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1319,
+				"friends_count": 258,
+				"listed_count": 325,
+				"created_at": "Sat May 08 04:59:40 +0000 2010",
+				"favourites_count": 1,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 104282,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1087615364/twitter_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1087615364/twitter_normal.jpg",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1048728495189180400,
+			"quoted_status_id_str": "1048728495189180417",
+			"quoted_status": {
+				"created_at": "Sun Oct 07 00:15:32 +0000 2018",
+				"id": 1048728495189180400,
+				"id_str": "1048728495189180417",
+				"text": "We are putting a stop to internet trolls and other cowards who use the internet or text messages to abuse their vic… https://t.co/E8bg6E0o3l",
+				"truncated": true,
+				"entities": {
+					"hashtags": [],
+					"symbols": [],
+					"user_mentions": [],
+					"urls": [
+						{
+							"url": "https://t.co/E8bg6E0o3l",
+							"expanded_url": "https://twitter.com/i/web/status/1048728495189180417",
+							"display_url": "twitter.com/i/web/status/1…",
+							"indices": [
+								117,
+								140
+							]
+						}
+					]
+				},
+				"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+				"in_reply_to_status_id": null,
+				"in_reply_to_status_id_str": null,
+				"in_reply_to_user_id": null,
+				"in_reply_to_user_id_str": null,
+				"in_reply_to_screen_name": null,
+				"user": {
+					"id": 704882735815401500,
+					"id_str": "704882735815401472",
+					"name": "Gladys Berejiklian",
+					"screen_name": "GladysB",
+					"location": "Willoughby, Sydney",
+					"description": "Premier of NSW and Member for Willoughby",
+					"url": null,
+					"entities": {
+						"description": {
+							"urls": []
+						}
+					},
+					"protected": false,
+					"followers_count": 21085,
+					"friends_count": 377,
+					"listed_count": 130,
+					"created_at": "Wed Mar 02 04:15:15 +0000 2016",
+					"favourites_count": 223,
+					"utc_offset": null,
+					"time_zone": null,
+					"geo_enabled": true,
+					"verified": true,
+					"statuses_count": 621,
+					"lang": "en",
+					"contributors_enabled": false,
+					"is_translator": false,
+					"is_translation_enabled": false,
+					"profile_background_color": "F5F8FA",
+					"profile_background_image_url": null,
+					"profile_background_image_url_https": null,
+					"profile_background_tile": false,
+					"profile_image_url": "http://pbs.twimg.com/profile_images/826635708685094912/iCzOQYAf_normal.jpg",
+					"profile_image_url_https": "https://pbs.twimg.com/profile_images/826635708685094912/iCzOQYAf_normal.jpg",
+					"profile_banner_url": "https://pbs.twimg.com/profile_banners/704882735815401472/1457918479",
+					"profile_link_color": "1DA1F2",
+					"profile_sidebar_border_color": "C0DEED",
+					"profile_sidebar_fill_color": "DDEEF6",
+					"profile_text_color": "333333",
+					"profile_use_background_image": true,
+					"has_extended_profile": false,
+					"default_profile": true,
+					"default_profile_image": false,
+					"following": false,
+					"follow_request_sent": false,
+					"notifications": false,
+					"translator_type": "none"
+				},
+				"geo": null,
+				"coordinates": null,
+				"place": {
+					"id": "07d9c96a27888004",
+					"url": "https://api.twitter.com/1.1/geo/id/07d9c96a27888004.json",
+					"place_type": "poi",
+					"name": "NSW Supreme Court",
+					"full_name": "NSW Supreme Court",
+					"country_code": "AU",
+					"country": "Australia",
+					"contained_within": [],
+					"bounding_box": {
+						"type": "Polygon",
+						"coordinates": [
+							[
+								[
+									151.21036653760356,
+									-33.869097969443146
+								],
+								[
+									151.21036653760356,
+									-33.869097969443146
+								],
+								[
+									151.21036653760356,
+									-33.869097969443146
+								],
+								[
+									151.21036653760356,
+									-33.869097969443146
+								]
+							]
+						]
+					},
+					"attributes": {}
+				},
+				"contributors": null,
+				"is_quote_status": false,
+				"retweet_count": 130,
+				"favorite_count": 433,
+				"favorited": false,
+				"retweeted": false,
+				"possibly_sensitive": false,
+				"lang": "en"
+			},
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": true,
+		"quoted_status_id": 1048728495189180400,
+		"quoted_status_id_str": "1048728495189180417",
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Oct 06 02:47:58 +0000 2018",
 		"id": 1048404467991736300,
 		"id_str": "1048404467991736320",
@@ -76,11 +412,11 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 774,
+			"followers_count": 772,
 			"friends_count": 146,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6204,
+			"favourites_count": 6207,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
@@ -249,11 +585,11 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 774,
+			"followers_count": 772,
 			"friends_count": 146,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6204,
+			"favourites_count": 6207,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
@@ -384,11 +720,11 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 774,
+			"followers_count": 772,
 			"friends_count": 146,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6204,
+			"favourites_count": 6207,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
@@ -477,16 +813,16 @@ Grailbird.data.tweets_2018_10 =
 					}
 				},
 				"protected": false,
-				"followers_count": 107616,
+				"followers_count": 107590,
 				"friends_count": 788,
-				"listed_count": 1616,
+				"listed_count": 1615,
 				"created_at": "Wed Aug 19 23:58:00 +0000 2009",
 				"favourites_count": 46,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": true,
-				"statuses_count": 7573,
+				"statuses_count": 7578,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -584,16 +920,16 @@ Grailbird.data.tweets_2018_10 =
 						}
 					},
 					"protected": false,
-					"followers_count": 107616,
+					"followers_count": 107590,
 					"friends_count": 788,
-					"listed_count": 1616,
+					"listed_count": 1615,
 					"created_at": "Wed Aug 19 23:58:00 +0000 2009",
 					"favourites_count": 46,
 					"utc_offset": null,
 					"time_zone": null,
 					"geo_enabled": true,
 					"verified": true,
-					"statuses_count": 7573,
+					"statuses_count": 7578,
 					"lang": "en",
 					"contributors_enabled": false,
 					"is_translator": false,
@@ -624,14 +960,14 @@ Grailbird.data.tweets_2018_10 =
 				"contributors": null,
 				"is_quote_status": false,
 				"retweet_count": 106,
-				"favorite_count": 182,
+				"favorite_count": 183,
 				"favorited": false,
 				"retweeted": false,
 				"possibly_sensitive": false,
 				"lang": "en"
 			},
-			"retweet_count": 1212,
-			"favorite_count": 3323,
+			"retweet_count": 1238,
+			"favorite_count": 3362,
 			"favorited": false,
 			"retweeted": true,
 			"possibly_sensitive": false,
@@ -640,7 +976,7 @@ Grailbird.data.tweets_2018_10 =
 		"is_quote_status": true,
 		"quoted_status_id": 1048135743481110500,
 		"quoted_status_id_str": "1048135743481110529",
-		"retweet_count": 1212,
+		"retweet_count": 1238,
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": true,
@@ -712,11 +1048,11 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 774,
+			"followers_count": 772,
 			"friends_count": 146,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6204,
+			"favourites_count": 6207,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
@@ -841,16 +1177,16 @@ Grailbird.data.tweets_2018_10 =
 					}
 				},
 				"protected": false,
-				"followers_count": 58713,
+				"followers_count": 58702,
 				"friends_count": 1325,
-				"listed_count": 896,
+				"listed_count": 899,
 				"created_at": "Sun Feb 15 03:59:26 +0000 2009",
-				"favourites_count": 13255,
+				"favourites_count": 13258,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": true,
-				"statuses_count": 23100,
+				"statuses_count": 23113,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -880,8 +1216,8 @@ Grailbird.data.tweets_2018_10 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 2614,
-			"favorite_count": 6296,
+			"retweet_count": 2617,
+			"favorite_count": 6301,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
