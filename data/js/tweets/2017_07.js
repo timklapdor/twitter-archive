@@ -59,21 +59,21 @@ Grailbird.data.tweets_2017_07 =
 		"user": {
 			"id": 174124175,
 			"id_str": "174124175",
-			"name": "Tim Klapdor",
+			"name": "Tim “Don’t you open that Trapdoor!”",
 			"screen_name": "timklapdor",
 			"location": "Wagga Wagga",
 			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "http://t.co/uC0c3me6KE",
+			"url": "https://t.co/uC0c3me6KE",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "http://t.co/uC0c3me6KE",
+							"url": "https://t.co/uC0c3me6KE",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
 								0,
-								22
+								23
 							]
 						}
 					]
@@ -87,12 +87,12 @@ Grailbird.data.tweets_2017_07 =
 			"friends_count": 147,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6270,
+			"favourites_count": 6272,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13088,
+			"statuses_count": 13090,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -188,16 +188,16 @@ Grailbird.data.tweets_2017_07 =
 					}
 				},
 				"protected": false,
-				"followers_count": 1621,
-				"friends_count": 2597,
+				"followers_count": 1631,
+				"friends_count": 2601,
 				"listed_count": 116,
 				"created_at": "Tue Mar 03 20:30:51 +0000 2009",
-				"favourites_count": 12992,
+				"favourites_count": 13008,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": false,
-				"statuses_count": 12927,
+				"statuses_count": 12937,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -301,16 +301,16 @@ Grailbird.data.tweets_2017_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1621,
-			"friends_count": 2597,
+			"followers_count": 1631,
+			"friends_count": 2601,
 			"listed_count": 116,
 			"created_at": "Tue Mar 03 20:30:51 +0000 2009",
-			"favourites_count": 12992,
+			"favourites_count": 13008,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 12927,
+			"statuses_count": 12937,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -394,21 +394,21 @@ Grailbird.data.tweets_2017_07 =
 		"user": {
 			"id": 174124175,
 			"id_str": "174124175",
-			"name": "Tim Klapdor",
+			"name": "Tim “Don’t you open that Trapdoor!”",
 			"screen_name": "timklapdor",
 			"location": "Wagga Wagga",
 			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "http://t.co/uC0c3me6KE",
+			"url": "https://t.co/uC0c3me6KE",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "http://t.co/uC0c3me6KE",
+							"url": "https://t.co/uC0c3me6KE",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
 								0,
-								22
+								23
 							]
 						}
 					]
@@ -422,12 +422,12 @@ Grailbird.data.tweets_2017_07 =
 			"friends_count": 147,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6270,
+			"favourites_count": 6272,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13088,
+			"statuses_count": 13090,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -499,21 +499,21 @@ Grailbird.data.tweets_2017_07 =
 		"user": {
 			"id": 174124175,
 			"id_str": "174124175",
-			"name": "Tim Klapdor",
+			"name": "Tim “Don’t you open that Trapdoor!”",
 			"screen_name": "timklapdor",
 			"location": "Wagga Wagga",
 			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "http://t.co/uC0c3me6KE",
+			"url": "https://t.co/uC0c3me6KE",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "http://t.co/uC0c3me6KE",
+							"url": "https://t.co/uC0c3me6KE",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
 								0,
-								22
+								23
 							]
 						}
 					]
@@ -527,12 +527,12 @@ Grailbird.data.tweets_2017_07 =
 			"friends_count": 147,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6270,
+			"favourites_count": 6272,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13088,
+			"statuses_count": 13090,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -736,7 +736,7 @@ Grailbird.data.tweets_2017_07 =
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": false,
-				"statuses_count": 56296,
+				"statuses_count": 56298,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -830,16 +830,16 @@ Grailbird.data.tweets_2017_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 27630,
-			"friends_count": 1905,
-			"listed_count": 585,
+			"followers_count": 27625,
+			"friends_count": 1906,
+			"listed_count": 584,
 			"created_at": "Tue Sep 01 20:24:37 +0000 2009",
-			"favourites_count": 105852,
+			"favourites_count": 105873,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 46415,
+			"statuses_count": 46444,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -870,7 +870,7 @@ Grailbird.data.tweets_2017_07 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 3078,
-		"favorite_count": 8668,
+		"favorite_count": 8667,
 		"favorited": false,
 		"retweeted": true,
 		"lang": "en",
@@ -987,21 +987,21 @@ Grailbird.data.tweets_2017_07 =
 		"user": {
 			"id": 174124175,
 			"id_str": "174124175",
-			"name": "Tim Klapdor",
+			"name": "Tim “Don’t you open that Trapdoor!”",
 			"screen_name": "timklapdor",
 			"location": "Wagga Wagga",
 			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "http://t.co/uC0c3me6KE",
+			"url": "https://t.co/uC0c3me6KE",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "http://t.co/uC0c3me6KE",
+							"url": "https://t.co/uC0c3me6KE",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
 								0,
-								22
+								23
 							]
 						}
 					]
@@ -1015,12 +1015,12 @@ Grailbird.data.tweets_2017_07 =
 			"friends_count": 147,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6270,
+			"favourites_count": 6272,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13088,
+			"statuses_count": 13090,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1093,21 +1093,21 @@ Grailbird.data.tweets_2017_07 =
 		"user": {
 			"id": 174124175,
 			"id_str": "174124175",
-			"name": "Tim Klapdor",
+			"name": "Tim “Don’t you open that Trapdoor!”",
 			"screen_name": "timklapdor",
 			"location": "Wagga Wagga",
 			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "http://t.co/uC0c3me6KE",
+			"url": "https://t.co/uC0c3me6KE",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "http://t.co/uC0c3me6KE",
+							"url": "https://t.co/uC0c3me6KE",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
 								0,
-								22
+								23
 							]
 						}
 					]
@@ -1121,12 +1121,12 @@ Grailbird.data.tweets_2017_07 =
 			"friends_count": 147,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6270,
+			"favourites_count": 6272,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13088,
+			"statuses_count": 13090,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1232,7 +1232,7 @@ Grailbird.data.tweets_2017_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 70060,
+			"followers_count": 70076,
 			"friends_count": 330,
 			"listed_count": 739,
 			"created_at": "Wed Dec 02 02:46:11 +0000 2009",
@@ -1241,7 +1241,7 @@ Grailbird.data.tweets_2017_07 =
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 15191,
+			"statuses_count": 15193,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1271,8 +1271,8 @@ Grailbird.data.tweets_2017_07 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 1367,
-		"favorite_count": 4005,
+		"retweet_count": 1368,
+		"favorite_count": 4006,
 		"favorited": false,
 		"retweeted": true,
 		"lang": "en",
@@ -1337,16 +1337,16 @@ Grailbird.data.tweets_2017_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 2093,
-			"friends_count": 1040,
+			"followers_count": 2097,
+			"friends_count": 1042,
 			"listed_count": 51,
 			"created_at": "Tue Sep 01 04:46:23 +0000 2009",
-			"favourites_count": 7400,
+			"favourites_count": 7412,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 8984,
+			"statuses_count": 8988,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1531,16 +1531,16 @@ Grailbird.data.tweets_2017_07 =
 					}
 				},
 				"protected": false,
-				"followers_count": 2141547,
-				"friends_count": 279938,
-				"listed_count": 17921,
+				"followers_count": 2142019,
+				"friends_count": 279933,
+				"listed_count": 17933,
 				"created_at": "Thu Nov 20 23:02:29 +0000 2008",
 				"favourites_count": 440,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": true,
-				"statuses_count": 234603,
+				"statuses_count": 234676,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -1577,8 +1577,8 @@ Grailbird.data.tweets_2017_07 =
 			"possibly_sensitive": false,
 			"lang": "en"
 		},
-		"retweet_count": 16610,
-		"favorite_count": 54694,
+		"retweet_count": 16606,
+		"favorite_count": 54693,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -1641,21 +1641,21 @@ Grailbird.data.tweets_2017_07 =
 		"user": {
 			"id": 174124175,
 			"id_str": "174124175",
-			"name": "Tim Klapdor",
+			"name": "Tim “Don’t you open that Trapdoor!”",
 			"screen_name": "timklapdor",
 			"location": "Wagga Wagga",
 			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "http://t.co/uC0c3me6KE",
+			"url": "https://t.co/uC0c3me6KE",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "http://t.co/uC0c3me6KE",
+							"url": "https://t.co/uC0c3me6KE",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
 								0,
-								22
+								23
 							]
 						}
 					]
@@ -1669,12 +1669,12 @@ Grailbird.data.tweets_2017_07 =
 			"friends_count": 147,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6270,
+			"favourites_count": 6272,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13088,
+			"statuses_count": 13090,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1884,16 +1884,16 @@ Grailbird.data.tweets_2017_07 =
 					}
 				},
 				"protected": false,
-				"followers_count": 8696,
+				"followers_count": 8697,
 				"friends_count": 1103,
 				"listed_count": 96,
 				"created_at": "Sat Feb 21 03:14:33 +0000 2009",
-				"favourites_count": 92081,
+				"favourites_count": 92118,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": false,
-				"statuses_count": 61272,
+				"statuses_count": 61303,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -1924,7 +1924,7 @@ Grailbird.data.tweets_2017_07 =
 			"contributors": null,
 			"is_quote_status": false,
 			"retweet_count": 1078,
-			"favorite_count": 3019,
+			"favorite_count": 3020,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
@@ -1984,21 +1984,21 @@ Grailbird.data.tweets_2017_07 =
 		"user": {
 			"id": 174124175,
 			"id_str": "174124175",
-			"name": "Tim Klapdor",
+			"name": "Tim “Don’t you open that Trapdoor!”",
 			"screen_name": "timklapdor",
 			"location": "Wagga Wagga",
 			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "http://t.co/uC0c3me6KE",
+			"url": "https://t.co/uC0c3me6KE",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "http://t.co/uC0c3me6KE",
+							"url": "https://t.co/uC0c3me6KE",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
 								0,
-								22
+								23
 							]
 						}
 					]
@@ -2012,12 +2012,12 @@ Grailbird.data.tweets_2017_07 =
 			"friends_count": 147,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6270,
+			"favourites_count": 6272,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13088,
+			"statuses_count": 13090,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2204,21 +2204,21 @@ Grailbird.data.tweets_2017_07 =
 		"user": {
 			"id": 174124175,
 			"id_str": "174124175",
-			"name": "Tim Klapdor",
+			"name": "Tim “Don’t you open that Trapdoor!”",
 			"screen_name": "timklapdor",
 			"location": "Wagga Wagga",
 			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "http://t.co/uC0c3me6KE",
+			"url": "https://t.co/uC0c3me6KE",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "http://t.co/uC0c3me6KE",
+							"url": "https://t.co/uC0c3me6KE",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
 								0,
-								22
+								23
 							]
 						}
 					]
@@ -2232,12 +2232,12 @@ Grailbird.data.tweets_2017_07 =
 			"friends_count": 147,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6270,
+			"favourites_count": 6272,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13088,
+			"statuses_count": 13090,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2300,21 +2300,21 @@ Grailbird.data.tweets_2017_07 =
 		"user": {
 			"id": 174124175,
 			"id_str": "174124175",
-			"name": "Tim Klapdor",
+			"name": "Tim “Don’t you open that Trapdoor!”",
 			"screen_name": "timklapdor",
 			"location": "Wagga Wagga",
 			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "http://t.co/uC0c3me6KE",
+			"url": "https://t.co/uC0c3me6KE",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "http://t.co/uC0c3me6KE",
+							"url": "https://t.co/uC0c3me6KE",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
 								0,
-								22
+								23
 							]
 						}
 					]
@@ -2328,12 +2328,12 @@ Grailbird.data.tweets_2017_07 =
 			"friends_count": 147,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6270,
+			"favourites_count": 6272,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13088,
+			"statuses_count": 13090,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2517,21 +2517,21 @@ Grailbird.data.tweets_2017_07 =
 		"user": {
 			"id": 174124175,
 			"id_str": "174124175",
-			"name": "Tim Klapdor",
+			"name": "Tim “Don’t you open that Trapdoor!”",
 			"screen_name": "timklapdor",
 			"location": "Wagga Wagga",
 			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "http://t.co/uC0c3me6KE",
+			"url": "https://t.co/uC0c3me6KE",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "http://t.co/uC0c3me6KE",
+							"url": "https://t.co/uC0c3me6KE",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
 								0,
-								22
+								23
 							]
 						}
 					]
@@ -2545,12 +2545,12 @@ Grailbird.data.tweets_2017_07 =
 			"friends_count": 147,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6270,
+			"favourites_count": 6272,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13088,
+			"statuses_count": 13090,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2667,21 +2667,21 @@ Grailbird.data.tweets_2017_07 =
 		"user": {
 			"id": 174124175,
 			"id_str": "174124175",
-			"name": "Tim Klapdor",
+			"name": "Tim “Don’t you open that Trapdoor!”",
 			"screen_name": "timklapdor",
 			"location": "Wagga Wagga",
 			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "http://t.co/uC0c3me6KE",
+			"url": "https://t.co/uC0c3me6KE",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "http://t.co/uC0c3me6KE",
+							"url": "https://t.co/uC0c3me6KE",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
 								0,
-								22
+								23
 							]
 						}
 					]
@@ -2695,12 +2695,12 @@ Grailbird.data.tweets_2017_07 =
 			"friends_count": 147,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6270,
+			"favourites_count": 6272,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13088,
+			"statuses_count": 13090,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2772,21 +2772,21 @@ Grailbird.data.tweets_2017_07 =
 		"user": {
 			"id": 174124175,
 			"id_str": "174124175",
-			"name": "Tim Klapdor",
+			"name": "Tim “Don’t you open that Trapdoor!”",
 			"screen_name": "timklapdor",
 			"location": "Wagga Wagga",
 			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "http://t.co/uC0c3me6KE",
+			"url": "https://t.co/uC0c3me6KE",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "http://t.co/uC0c3me6KE",
+							"url": "https://t.co/uC0c3me6KE",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
 								0,
-								22
+								23
 							]
 						}
 					]
@@ -2800,12 +2800,12 @@ Grailbird.data.tweets_2017_07 =
 			"friends_count": 147,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6270,
+			"favourites_count": 6272,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13088,
+			"statuses_count": 13090,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2901,16 +2901,16 @@ Grailbird.data.tweets_2017_07 =
 					}
 				},
 				"protected": false,
-				"followers_count": 6714,
-				"friends_count": 4665,
+				"followers_count": 6718,
+				"friends_count": 4667,
 				"listed_count": 449,
 				"created_at": "Tue Feb 20 13:34:20 +0000 2007",
-				"favourites_count": 21376,
+				"favourites_count": 21398,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": true,
-				"statuses_count": 45937,
+				"statuses_count": 45962,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -3014,16 +3014,16 @@ Grailbird.data.tweets_2017_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 6714,
-			"friends_count": 4665,
+			"followers_count": 6718,
+			"friends_count": 4667,
 			"listed_count": 449,
 			"created_at": "Tue Feb 20 13:34:20 +0000 2007",
-			"favourites_count": 21376,
+			"favourites_count": 21398,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 45937,
+			"statuses_count": 45962,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -3097,21 +3097,21 @@ Grailbird.data.tweets_2017_07 =
 		"user": {
 			"id": 174124175,
 			"id_str": "174124175",
-			"name": "Tim Klapdor",
+			"name": "Tim “Don’t you open that Trapdoor!”",
 			"screen_name": "timklapdor",
 			"location": "Wagga Wagga",
 			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "http://t.co/uC0c3me6KE",
+			"url": "https://t.co/uC0c3me6KE",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "http://t.co/uC0c3me6KE",
+							"url": "https://t.co/uC0c3me6KE",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
 								0,
-								22
+								23
 							]
 						}
 					]
@@ -3125,12 +3125,12 @@ Grailbird.data.tweets_2017_07 =
 			"friends_count": 147,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6270,
+			"favourites_count": 6272,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13088,
+			"statuses_count": 13090,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -3202,21 +3202,21 @@ Grailbird.data.tweets_2017_07 =
 		"user": {
 			"id": 174124175,
 			"id_str": "174124175",
-			"name": "Tim Klapdor",
+			"name": "Tim “Don’t you open that Trapdoor!”",
 			"screen_name": "timklapdor",
 			"location": "Wagga Wagga",
 			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "http://t.co/uC0c3me6KE",
+			"url": "https://t.co/uC0c3me6KE",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "http://t.co/uC0c3me6KE",
+							"url": "https://t.co/uC0c3me6KE",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
 								0,
-								22
+								23
 							]
 						}
 					]
@@ -3230,12 +3230,12 @@ Grailbird.data.tweets_2017_07 =
 			"friends_count": 147,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6270,
+			"favourites_count": 6272,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13088,
+			"statuses_count": 13090,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -3538,7 +3538,7 @@ Grailbird.data.tweets_2017_07 =
 					}
 				},
 				"protected": false,
-				"followers_count": 1179,
+				"followers_count": 1182,
 				"friends_count": 1209,
 				"listed_count": 111,
 				"created_at": "Thu Feb 25 23:44:57 +0000 2010",
@@ -3638,21 +3638,21 @@ Grailbird.data.tweets_2017_07 =
 		"user": {
 			"id": 174124175,
 			"id_str": "174124175",
-			"name": "Tim Klapdor",
+			"name": "Tim “Don’t you open that Trapdoor!”",
 			"screen_name": "timklapdor",
 			"location": "Wagga Wagga",
 			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "http://t.co/uC0c3me6KE",
+			"url": "https://t.co/uC0c3me6KE",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "http://t.co/uC0c3me6KE",
+							"url": "https://t.co/uC0c3me6KE",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
 								0,
-								22
+								23
 							]
 						}
 					]
@@ -3666,12 +3666,12 @@ Grailbird.data.tweets_2017_07 =
 			"friends_count": 147,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6270,
+			"favourites_count": 6272,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13088,
+			"statuses_count": 13090,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -3754,21 +3754,21 @@ Grailbird.data.tweets_2017_07 =
 		"user": {
 			"id": 174124175,
 			"id_str": "174124175",
-			"name": "Tim Klapdor",
+			"name": "Tim “Don’t you open that Trapdoor!”",
 			"screen_name": "timklapdor",
 			"location": "Wagga Wagga",
 			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "http://t.co/uC0c3me6KE",
+			"url": "https://t.co/uC0c3me6KE",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "http://t.co/uC0c3me6KE",
+							"url": "https://t.co/uC0c3me6KE",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
 								0,
-								22
+								23
 							]
 						}
 					]
@@ -3782,12 +3782,12 @@ Grailbird.data.tweets_2017_07 =
 			"friends_count": 147,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6270,
+			"favourites_count": 6272,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13088,
+			"statuses_count": 13090,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -3870,21 +3870,21 @@ Grailbird.data.tweets_2017_07 =
 		"user": {
 			"id": 174124175,
 			"id_str": "174124175",
-			"name": "Tim Klapdor",
+			"name": "Tim “Don’t you open that Trapdoor!”",
 			"screen_name": "timklapdor",
 			"location": "Wagga Wagga",
 			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "http://t.co/uC0c3me6KE",
+			"url": "https://t.co/uC0c3me6KE",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "http://t.co/uC0c3me6KE",
+							"url": "https://t.co/uC0c3me6KE",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
 								0,
-								22
+								23
 							]
 						}
 					]
@@ -3898,12 +3898,12 @@ Grailbird.data.tweets_2017_07 =
 			"friends_count": 147,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6270,
+			"favourites_count": 6272,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13088,
+			"statuses_count": 13090,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -3986,21 +3986,21 @@ Grailbird.data.tweets_2017_07 =
 			"user": {
 				"id": 174124175,
 				"id_str": "174124175",
-				"name": "Tim Klapdor",
+				"name": "Tim “Don’t you open that Trapdoor!”",
 				"screen_name": "timklapdor",
 				"location": "Wagga Wagga",
 				"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-				"url": "http://t.co/uC0c3me6KE",
+				"url": "https://t.co/uC0c3me6KE",
 				"entities": {
 					"url": {
 						"urls": [
 							{
-								"url": "http://t.co/uC0c3me6KE",
+								"url": "https://t.co/uC0c3me6KE",
 								"expanded_url": "http://timklapdor.com",
 								"display_url": "timklapdor.com",
 								"indices": [
 									0,
-									22
+									23
 								]
 							}
 						]
@@ -4014,12 +4014,12 @@ Grailbird.data.tweets_2017_07 =
 				"friends_count": 147,
 				"listed_count": 97,
 				"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-				"favourites_count": 6270,
+				"favourites_count": 6272,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": false,
-				"statuses_count": 13088,
+				"statuses_count": 13090,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -4109,21 +4109,21 @@ Grailbird.data.tweets_2017_07 =
 		"user": {
 			"id": 174124175,
 			"id_str": "174124175",
-			"name": "Tim Klapdor",
+			"name": "Tim “Don’t you open that Trapdoor!”",
 			"screen_name": "timklapdor",
 			"location": "Wagga Wagga",
 			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "http://t.co/uC0c3me6KE",
+			"url": "https://t.co/uC0c3me6KE",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "http://t.co/uC0c3me6KE",
+							"url": "https://t.co/uC0c3me6KE",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
 								0,
-								22
+								23
 							]
 						}
 					]
@@ -4137,12 +4137,12 @@ Grailbird.data.tweets_2017_07 =
 			"friends_count": 147,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6270,
+			"favourites_count": 6272,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13088,
+			"statuses_count": 13090,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -4282,21 +4282,21 @@ Grailbird.data.tweets_2017_07 =
 		"user": {
 			"id": 174124175,
 			"id_str": "174124175",
-			"name": "Tim Klapdor",
+			"name": "Tim “Don’t you open that Trapdoor!”",
 			"screen_name": "timklapdor",
 			"location": "Wagga Wagga",
 			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "http://t.co/uC0c3me6KE",
+			"url": "https://t.co/uC0c3me6KE",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "http://t.co/uC0c3me6KE",
+							"url": "https://t.co/uC0c3me6KE",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
 								0,
-								22
+								23
 							]
 						}
 					]
@@ -4310,12 +4310,12 @@ Grailbird.data.tweets_2017_07 =
 			"friends_count": 147,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6270,
+			"favourites_count": 6272,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13088,
+			"statuses_count": 13090,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -4543,21 +4543,21 @@ Grailbird.data.tweets_2017_07 =
 		"user": {
 			"id": 174124175,
 			"id_str": "174124175",
-			"name": "Tim Klapdor",
+			"name": "Tim “Don’t you open that Trapdoor!”",
 			"screen_name": "timklapdor",
 			"location": "Wagga Wagga",
 			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "http://t.co/uC0c3me6KE",
+			"url": "https://t.co/uC0c3me6KE",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "http://t.co/uC0c3me6KE",
+							"url": "https://t.co/uC0c3me6KE",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
 								0,
-								22
+								23
 							]
 						}
 					]
@@ -4571,12 +4571,12 @@ Grailbird.data.tweets_2017_07 =
 			"friends_count": 147,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6270,
+			"favourites_count": 6272,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13088,
+			"statuses_count": 13090,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -4670,21 +4670,21 @@ Grailbird.data.tweets_2017_07 =
 		"user": {
 			"id": 174124175,
 			"id_str": "174124175",
-			"name": "Tim Klapdor",
+			"name": "Tim “Don’t you open that Trapdoor!”",
 			"screen_name": "timklapdor",
 			"location": "Wagga Wagga",
 			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "http://t.co/uC0c3me6KE",
+			"url": "https://t.co/uC0c3me6KE",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "http://t.co/uC0c3me6KE",
+							"url": "https://t.co/uC0c3me6KE",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
 								0,
-								22
+								23
 							]
 						}
 					]
@@ -4698,12 +4698,12 @@ Grailbird.data.tweets_2017_07 =
 			"friends_count": 147,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6270,
+			"favourites_count": 6272,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13088,
+			"statuses_count": 13090,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -4796,21 +4796,21 @@ Grailbird.data.tweets_2017_07 =
 		"user": {
 			"id": 174124175,
 			"id_str": "174124175",
-			"name": "Tim Klapdor",
+			"name": "Tim “Don’t you open that Trapdoor!”",
 			"screen_name": "timklapdor",
 			"location": "Wagga Wagga",
 			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "http://t.co/uC0c3me6KE",
+			"url": "https://t.co/uC0c3me6KE",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "http://t.co/uC0c3me6KE",
+							"url": "https://t.co/uC0c3me6KE",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
 								0,
-								22
+								23
 							]
 						}
 					]
@@ -4824,12 +4824,12 @@ Grailbird.data.tweets_2017_07 =
 			"friends_count": 147,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6270,
+			"favourites_count": 6272,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13088,
+			"statuses_count": 13090,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -4922,21 +4922,21 @@ Grailbird.data.tweets_2017_07 =
 		"user": {
 			"id": 174124175,
 			"id_str": "174124175",
-			"name": "Tim Klapdor",
+			"name": "Tim “Don’t you open that Trapdoor!”",
 			"screen_name": "timklapdor",
 			"location": "Wagga Wagga",
 			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "http://t.co/uC0c3me6KE",
+			"url": "https://t.co/uC0c3me6KE",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "http://t.co/uC0c3me6KE",
+							"url": "https://t.co/uC0c3me6KE",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
 								0,
-								22
+								23
 							]
 						}
 					]
@@ -4950,12 +4950,12 @@ Grailbird.data.tweets_2017_07 =
 			"friends_count": 147,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6270,
+			"favourites_count": 6272,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13088,
+			"statuses_count": 13090,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -5028,21 +5028,21 @@ Grailbird.data.tweets_2017_07 =
 		"user": {
 			"id": 174124175,
 			"id_str": "174124175",
-			"name": "Tim Klapdor",
+			"name": "Tim “Don’t you open that Trapdoor!”",
 			"screen_name": "timklapdor",
 			"location": "Wagga Wagga",
 			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "http://t.co/uC0c3me6KE",
+			"url": "https://t.co/uC0c3me6KE",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "http://t.co/uC0c3me6KE",
+							"url": "https://t.co/uC0c3me6KE",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
 								0,
-								22
+								23
 							]
 						}
 					]
@@ -5056,12 +5056,12 @@ Grailbird.data.tweets_2017_07 =
 			"friends_count": 147,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6270,
+			"favourites_count": 6272,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13088,
+			"statuses_count": 13090,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -5134,21 +5134,21 @@ Grailbird.data.tweets_2017_07 =
 		"user": {
 			"id": 174124175,
 			"id_str": "174124175",
-			"name": "Tim Klapdor",
+			"name": "Tim “Don’t you open that Trapdoor!”",
 			"screen_name": "timklapdor",
 			"location": "Wagga Wagga",
 			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "http://t.co/uC0c3me6KE",
+			"url": "https://t.co/uC0c3me6KE",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "http://t.co/uC0c3me6KE",
+							"url": "https://t.co/uC0c3me6KE",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
 								0,
-								22
+								23
 							]
 						}
 					]
@@ -5162,12 +5162,12 @@ Grailbird.data.tweets_2017_07 =
 			"friends_count": 147,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6270,
+			"favourites_count": 6272,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13088,
+			"statuses_count": 13090,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -5229,21 +5229,21 @@ Grailbird.data.tweets_2017_07 =
 		"user": {
 			"id": 174124175,
 			"id_str": "174124175",
-			"name": "Tim Klapdor",
+			"name": "Tim “Don’t you open that Trapdoor!”",
 			"screen_name": "timklapdor",
 			"location": "Wagga Wagga",
 			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "http://t.co/uC0c3me6KE",
+			"url": "https://t.co/uC0c3me6KE",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "http://t.co/uC0c3me6KE",
+							"url": "https://t.co/uC0c3me6KE",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
 								0,
-								22
+								23
 							]
 						}
 					]
@@ -5257,12 +5257,12 @@ Grailbird.data.tweets_2017_07 =
 			"friends_count": 147,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6270,
+			"favourites_count": 6272,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13088,
+			"statuses_count": 13090,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -5324,21 +5324,21 @@ Grailbird.data.tweets_2017_07 =
 		"user": {
 			"id": 174124175,
 			"id_str": "174124175",
-			"name": "Tim Klapdor",
+			"name": "Tim “Don’t you open that Trapdoor!”",
 			"screen_name": "timklapdor",
 			"location": "Wagga Wagga",
 			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "http://t.co/uC0c3me6KE",
+			"url": "https://t.co/uC0c3me6KE",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "http://t.co/uC0c3me6KE",
+							"url": "https://t.co/uC0c3me6KE",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
 								0,
-								22
+								23
 							]
 						}
 					]
@@ -5352,12 +5352,12 @@ Grailbird.data.tweets_2017_07 =
 			"friends_count": 147,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6270,
+			"favourites_count": 6272,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13088,
+			"statuses_count": 13090,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -5419,21 +5419,21 @@ Grailbird.data.tweets_2017_07 =
 		"user": {
 			"id": 174124175,
 			"id_str": "174124175",
-			"name": "Tim Klapdor",
+			"name": "Tim “Don’t you open that Trapdoor!”",
 			"screen_name": "timklapdor",
 			"location": "Wagga Wagga",
 			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "http://t.co/uC0c3me6KE",
+			"url": "https://t.co/uC0c3me6KE",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "http://t.co/uC0c3me6KE",
+							"url": "https://t.co/uC0c3me6KE",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
 								0,
-								22
+								23
 							]
 						}
 					]
@@ -5447,12 +5447,12 @@ Grailbird.data.tweets_2017_07 =
 			"friends_count": 147,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6270,
+			"favourites_count": 6272,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13088,
+			"statuses_count": 13090,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -5525,21 +5525,21 @@ Grailbird.data.tweets_2017_07 =
 		"user": {
 			"id": 174124175,
 			"id_str": "174124175",
-			"name": "Tim Klapdor",
+			"name": "Tim “Don’t you open that Trapdoor!”",
 			"screen_name": "timklapdor",
 			"location": "Wagga Wagga",
 			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "http://t.co/uC0c3me6KE",
+			"url": "https://t.co/uC0c3me6KE",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "http://t.co/uC0c3me6KE",
+							"url": "https://t.co/uC0c3me6KE",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
 								0,
-								22
+								23
 							]
 						}
 					]
@@ -5553,12 +5553,12 @@ Grailbird.data.tweets_2017_07 =
 			"friends_count": 147,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6270,
+			"favourites_count": 6272,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13088,
+			"statuses_count": 13090,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -5631,21 +5631,21 @@ Grailbird.data.tweets_2017_07 =
 		"user": {
 			"id": 174124175,
 			"id_str": "174124175",
-			"name": "Tim Klapdor",
+			"name": "Tim “Don’t you open that Trapdoor!”",
 			"screen_name": "timklapdor",
 			"location": "Wagga Wagga",
 			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "http://t.co/uC0c3me6KE",
+			"url": "https://t.co/uC0c3me6KE",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "http://t.co/uC0c3me6KE",
+							"url": "https://t.co/uC0c3me6KE",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
 								0,
-								22
+								23
 							]
 						}
 					]
@@ -5659,12 +5659,12 @@ Grailbird.data.tweets_2017_07 =
 			"friends_count": 147,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6270,
+			"favourites_count": 6272,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13088,
+			"statuses_count": 13090,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -5804,21 +5804,21 @@ Grailbird.data.tweets_2017_07 =
 		"user": {
 			"id": 174124175,
 			"id_str": "174124175",
-			"name": "Tim Klapdor",
+			"name": "Tim “Don’t you open that Trapdoor!”",
 			"screen_name": "timklapdor",
 			"location": "Wagga Wagga",
 			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "http://t.co/uC0c3me6KE",
+			"url": "https://t.co/uC0c3me6KE",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "http://t.co/uC0c3me6KE",
+							"url": "https://t.co/uC0c3me6KE",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
 								0,
-								22
+								23
 							]
 						}
 					]
@@ -5832,12 +5832,12 @@ Grailbird.data.tweets_2017_07 =
 			"friends_count": 147,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6270,
+			"favourites_count": 6272,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13088,
+			"statuses_count": 13090,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -5900,21 +5900,21 @@ Grailbird.data.tweets_2017_07 =
 		"user": {
 			"id": 174124175,
 			"id_str": "174124175",
-			"name": "Tim Klapdor",
+			"name": "Tim “Don’t you open that Trapdoor!”",
 			"screen_name": "timklapdor",
 			"location": "Wagga Wagga",
 			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "http://t.co/uC0c3me6KE",
+			"url": "https://t.co/uC0c3me6KE",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "http://t.co/uC0c3me6KE",
+							"url": "https://t.co/uC0c3me6KE",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
 								0,
-								22
+								23
 							]
 						}
 					]
@@ -5928,12 +5928,12 @@ Grailbird.data.tweets_2017_07 =
 			"friends_count": 147,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6270,
+			"favourites_count": 6272,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13088,
+			"statuses_count": 13090,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -5995,21 +5995,21 @@ Grailbird.data.tweets_2017_07 =
 		"user": {
 			"id": 174124175,
 			"id_str": "174124175",
-			"name": "Tim Klapdor",
+			"name": "Tim “Don’t you open that Trapdoor!”",
 			"screen_name": "timklapdor",
 			"location": "Wagga Wagga",
 			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "http://t.co/uC0c3me6KE",
+			"url": "https://t.co/uC0c3me6KE",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "http://t.co/uC0c3me6KE",
+							"url": "https://t.co/uC0c3me6KE",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
 								0,
-								22
+								23
 							]
 						}
 					]
@@ -6023,12 +6023,12 @@ Grailbird.data.tweets_2017_07 =
 			"friends_count": 147,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6270,
+			"favourites_count": 6272,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13088,
+			"statuses_count": 13090,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -6111,21 +6111,21 @@ Grailbird.data.tweets_2017_07 =
 		"user": {
 			"id": 174124175,
 			"id_str": "174124175",
-			"name": "Tim Klapdor",
+			"name": "Tim “Don’t you open that Trapdoor!”",
 			"screen_name": "timklapdor",
 			"location": "Wagga Wagga",
 			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "http://t.co/uC0c3me6KE",
+			"url": "https://t.co/uC0c3me6KE",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "http://t.co/uC0c3me6KE",
+							"url": "https://t.co/uC0c3me6KE",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
 								0,
-								22
+								23
 							]
 						}
 					]
@@ -6139,12 +6139,12 @@ Grailbird.data.tweets_2017_07 =
 			"friends_count": 147,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6270,
+			"favourites_count": 6272,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13088,
+			"statuses_count": 13090,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -6207,21 +6207,21 @@ Grailbird.data.tweets_2017_07 =
 		"user": {
 			"id": 174124175,
 			"id_str": "174124175",
-			"name": "Tim Klapdor",
+			"name": "Tim “Don’t you open that Trapdoor!”",
 			"screen_name": "timklapdor",
 			"location": "Wagga Wagga",
 			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "http://t.co/uC0c3me6KE",
+			"url": "https://t.co/uC0c3me6KE",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "http://t.co/uC0c3me6KE",
+							"url": "https://t.co/uC0c3me6KE",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
 								0,
-								22
+								23
 							]
 						}
 					]
@@ -6235,12 +6235,12 @@ Grailbird.data.tweets_2017_07 =
 			"friends_count": 147,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6270,
+			"favourites_count": 6272,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13088,
+			"statuses_count": 13090,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -6380,21 +6380,21 @@ Grailbird.data.tweets_2017_07 =
 		"user": {
 			"id": 174124175,
 			"id_str": "174124175",
-			"name": "Tim Klapdor",
+			"name": "Tim “Don’t you open that Trapdoor!”",
 			"screen_name": "timklapdor",
 			"location": "Wagga Wagga",
 			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "http://t.co/uC0c3me6KE",
+			"url": "https://t.co/uC0c3me6KE",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "http://t.co/uC0c3me6KE",
+							"url": "https://t.co/uC0c3me6KE",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
 								0,
-								22
+								23
 							]
 						}
 					]
@@ -6408,12 +6408,12 @@ Grailbird.data.tweets_2017_07 =
 			"friends_count": 147,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6270,
+			"favourites_count": 6272,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13088,
+			"statuses_count": 13090,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -6487,21 +6487,21 @@ Grailbird.data.tweets_2017_07 =
 		"user": {
 			"id": 174124175,
 			"id_str": "174124175",
-			"name": "Tim Klapdor",
+			"name": "Tim “Don’t you open that Trapdoor!”",
 			"screen_name": "timklapdor",
 			"location": "Wagga Wagga",
 			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "http://t.co/uC0c3me6KE",
+			"url": "https://t.co/uC0c3me6KE",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "http://t.co/uC0c3me6KE",
+							"url": "https://t.co/uC0c3me6KE",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
 								0,
-								22
+								23
 							]
 						}
 					]
@@ -6515,12 +6515,12 @@ Grailbird.data.tweets_2017_07 =
 			"friends_count": 147,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6270,
+			"favourites_count": 6272,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13088,
+			"statuses_count": 13090,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -6593,21 +6593,21 @@ Grailbird.data.tweets_2017_07 =
 		"user": {
 			"id": 174124175,
 			"id_str": "174124175",
-			"name": "Tim Klapdor",
+			"name": "Tim “Don’t you open that Trapdoor!”",
 			"screen_name": "timklapdor",
 			"location": "Wagga Wagga",
 			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "http://t.co/uC0c3me6KE",
+			"url": "https://t.co/uC0c3me6KE",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "http://t.co/uC0c3me6KE",
+							"url": "https://t.co/uC0c3me6KE",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
 								0,
-								22
+								23
 							]
 						}
 					]
@@ -6621,12 +6621,12 @@ Grailbird.data.tweets_2017_07 =
 			"friends_count": 147,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6270,
+			"favourites_count": 6272,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13088,
+			"statuses_count": 13090,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -6688,21 +6688,21 @@ Grailbird.data.tweets_2017_07 =
 		"user": {
 			"id": 174124175,
 			"id_str": "174124175",
-			"name": "Tim Klapdor",
+			"name": "Tim “Don’t you open that Trapdoor!”",
 			"screen_name": "timklapdor",
 			"location": "Wagga Wagga",
 			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "http://t.co/uC0c3me6KE",
+			"url": "https://t.co/uC0c3me6KE",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "http://t.co/uC0c3me6KE",
+							"url": "https://t.co/uC0c3me6KE",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
 								0,
-								22
+								23
 							]
 						}
 					]
@@ -6716,12 +6716,12 @@ Grailbird.data.tweets_2017_07 =
 			"friends_count": 147,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6270,
+			"favourites_count": 6272,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13088,
+			"statuses_count": 13090,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -6783,21 +6783,21 @@ Grailbird.data.tweets_2017_07 =
 		"user": {
 			"id": 174124175,
 			"id_str": "174124175",
-			"name": "Tim Klapdor",
+			"name": "Tim “Don’t you open that Trapdoor!”",
 			"screen_name": "timklapdor",
 			"location": "Wagga Wagga",
 			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "http://t.co/uC0c3me6KE",
+			"url": "https://t.co/uC0c3me6KE",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "http://t.co/uC0c3me6KE",
+							"url": "https://t.co/uC0c3me6KE",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
 								0,
-								22
+								23
 							]
 						}
 					]
@@ -6811,12 +6811,12 @@ Grailbird.data.tweets_2017_07 =
 			"friends_count": 147,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6270,
+			"favourites_count": 6272,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13088,
+			"statuses_count": 13090,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -6919,21 +6919,21 @@ Grailbird.data.tweets_2017_07 =
 		"user": {
 			"id": 174124175,
 			"id_str": "174124175",
-			"name": "Tim Klapdor",
+			"name": "Tim “Don’t you open that Trapdoor!”",
 			"screen_name": "timklapdor",
 			"location": "Wagga Wagga",
 			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "http://t.co/uC0c3me6KE",
+			"url": "https://t.co/uC0c3me6KE",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "http://t.co/uC0c3me6KE",
+							"url": "https://t.co/uC0c3me6KE",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
 								0,
-								22
+								23
 							]
 						}
 					]
@@ -6947,12 +6947,12 @@ Grailbird.data.tweets_2017_07 =
 			"friends_count": 147,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6270,
+			"favourites_count": 6272,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13088,
+			"statuses_count": 13090,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -7035,21 +7035,21 @@ Grailbird.data.tweets_2017_07 =
 		"user": {
 			"id": 174124175,
 			"id_str": "174124175",
-			"name": "Tim Klapdor",
+			"name": "Tim “Don’t you open that Trapdoor!”",
 			"screen_name": "timklapdor",
 			"location": "Wagga Wagga",
 			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "http://t.co/uC0c3me6KE",
+			"url": "https://t.co/uC0c3me6KE",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "http://t.co/uC0c3me6KE",
+							"url": "https://t.co/uC0c3me6KE",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
 								0,
-								22
+								23
 							]
 						}
 					]
@@ -7063,12 +7063,12 @@ Grailbird.data.tweets_2017_07 =
 			"friends_count": 147,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6270,
+			"favourites_count": 6272,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13088,
+			"statuses_count": 13090,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -7131,21 +7131,21 @@ Grailbird.data.tweets_2017_07 =
 		"user": {
 			"id": 174124175,
 			"id_str": "174124175",
-			"name": "Tim Klapdor",
+			"name": "Tim “Don’t you open that Trapdoor!”",
 			"screen_name": "timklapdor",
 			"location": "Wagga Wagga",
 			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "http://t.co/uC0c3me6KE",
+			"url": "https://t.co/uC0c3me6KE",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "http://t.co/uC0c3me6KE",
+							"url": "https://t.co/uC0c3me6KE",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
 								0,
-								22
+								23
 							]
 						}
 					]
@@ -7159,12 +7159,12 @@ Grailbird.data.tweets_2017_07 =
 			"friends_count": 147,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6270,
+			"favourites_count": 6272,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13088,
+			"statuses_count": 13090,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -7237,21 +7237,21 @@ Grailbird.data.tweets_2017_07 =
 		"user": {
 			"id": 174124175,
 			"id_str": "174124175",
-			"name": "Tim Klapdor",
+			"name": "Tim “Don’t you open that Trapdoor!”",
 			"screen_name": "timklapdor",
 			"location": "Wagga Wagga",
 			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "http://t.co/uC0c3me6KE",
+			"url": "https://t.co/uC0c3me6KE",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "http://t.co/uC0c3me6KE",
+							"url": "https://t.co/uC0c3me6KE",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
 								0,
-								22
+								23
 							]
 						}
 					]
@@ -7265,12 +7265,12 @@ Grailbird.data.tweets_2017_07 =
 			"friends_count": 147,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6270,
+			"favourites_count": 6272,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13088,
+			"statuses_count": 13090,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -7353,21 +7353,21 @@ Grailbird.data.tweets_2017_07 =
 		"user": {
 			"id": 174124175,
 			"id_str": "174124175",
-			"name": "Tim Klapdor",
+			"name": "Tim “Don’t you open that Trapdoor!”",
 			"screen_name": "timklapdor",
 			"location": "Wagga Wagga",
 			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "http://t.co/uC0c3me6KE",
+			"url": "https://t.co/uC0c3me6KE",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "http://t.co/uC0c3me6KE",
+							"url": "https://t.co/uC0c3me6KE",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
 								0,
-								22
+								23
 							]
 						}
 					]
@@ -7381,12 +7381,12 @@ Grailbird.data.tweets_2017_07 =
 			"friends_count": 147,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6270,
+			"favourites_count": 6272,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13088,
+			"statuses_count": 13090,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -7469,21 +7469,21 @@ Grailbird.data.tweets_2017_07 =
 		"user": {
 			"id": 174124175,
 			"id_str": "174124175",
-			"name": "Tim Klapdor",
+			"name": "Tim “Don’t you open that Trapdoor!”",
 			"screen_name": "timklapdor",
 			"location": "Wagga Wagga",
 			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "http://t.co/uC0c3me6KE",
+			"url": "https://t.co/uC0c3me6KE",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "http://t.co/uC0c3me6KE",
+							"url": "https://t.co/uC0c3me6KE",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
 								0,
-								22
+								23
 							]
 						}
 					]
@@ -7497,12 +7497,12 @@ Grailbird.data.tweets_2017_07 =
 			"friends_count": 147,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6270,
+			"favourites_count": 6272,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13088,
+			"statuses_count": 13090,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -7575,21 +7575,21 @@ Grailbird.data.tweets_2017_07 =
 		"user": {
 			"id": 174124175,
 			"id_str": "174124175",
-			"name": "Tim Klapdor",
+			"name": "Tim “Don’t you open that Trapdoor!”",
 			"screen_name": "timklapdor",
 			"location": "Wagga Wagga",
 			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "http://t.co/uC0c3me6KE",
+			"url": "https://t.co/uC0c3me6KE",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "http://t.co/uC0c3me6KE",
+							"url": "https://t.co/uC0c3me6KE",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
 								0,
-								22
+								23
 							]
 						}
 					]
@@ -7603,12 +7603,12 @@ Grailbird.data.tweets_2017_07 =
 			"friends_count": 147,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6270,
+			"favourites_count": 6272,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13088,
+			"statuses_count": 13090,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -7670,21 +7670,21 @@ Grailbird.data.tweets_2017_07 =
 		"user": {
 			"id": 174124175,
 			"id_str": "174124175",
-			"name": "Tim Klapdor",
+			"name": "Tim “Don’t you open that Trapdoor!”",
 			"screen_name": "timklapdor",
 			"location": "Wagga Wagga",
 			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "http://t.co/uC0c3me6KE",
+			"url": "https://t.co/uC0c3me6KE",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "http://t.co/uC0c3me6KE",
+							"url": "https://t.co/uC0c3me6KE",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
 								0,
-								22
+								23
 							]
 						}
 					]
@@ -7698,12 +7698,12 @@ Grailbird.data.tweets_2017_07 =
 			"friends_count": 147,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6270,
+			"favourites_count": 6272,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13088,
+			"statuses_count": 13090,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -7786,21 +7786,21 @@ Grailbird.data.tweets_2017_07 =
 		"user": {
 			"id": 174124175,
 			"id_str": "174124175",
-			"name": "Tim Klapdor",
+			"name": "Tim “Don’t you open that Trapdoor!”",
 			"screen_name": "timklapdor",
 			"location": "Wagga Wagga",
 			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "http://t.co/uC0c3me6KE",
+			"url": "https://t.co/uC0c3me6KE",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "http://t.co/uC0c3me6KE",
+							"url": "https://t.co/uC0c3me6KE",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
 								0,
-								22
+								23
 							]
 						}
 					]
@@ -7814,12 +7814,12 @@ Grailbird.data.tweets_2017_07 =
 			"friends_count": 147,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6270,
+			"favourites_count": 6272,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13088,
+			"statuses_count": 13090,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -8001,7 +8001,7 @@ Grailbird.data.tweets_2017_07 =
 					}
 				},
 				"protected": false,
-				"followers_count": 13224,
+				"followers_count": 13222,
 				"friends_count": 90,
 				"listed_count": 853,
 				"created_at": "Mon Oct 25 14:12:39 +0000 2010",
@@ -8109,21 +8109,21 @@ Grailbird.data.tweets_2017_07 =
 		"user": {
 			"id": 174124175,
 			"id_str": "174124175",
-			"name": "Tim Klapdor",
+			"name": "Tim “Don’t you open that Trapdoor!”",
 			"screen_name": "timklapdor",
 			"location": "Wagga Wagga",
 			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "http://t.co/uC0c3me6KE",
+			"url": "https://t.co/uC0c3me6KE",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "http://t.co/uC0c3me6KE",
+							"url": "https://t.co/uC0c3me6KE",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
 								0,
-								22
+								23
 							]
 						}
 					]
@@ -8137,12 +8137,12 @@ Grailbird.data.tweets_2017_07 =
 			"friends_count": 147,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6270,
+			"favourites_count": 6272,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13088,
+			"statuses_count": 13090,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -8215,21 +8215,21 @@ Grailbird.data.tweets_2017_07 =
 		"user": {
 			"id": 174124175,
 			"id_str": "174124175",
-			"name": "Tim Klapdor",
+			"name": "Tim “Don’t you open that Trapdoor!”",
 			"screen_name": "timklapdor",
 			"location": "Wagga Wagga",
 			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "http://t.co/uC0c3me6KE",
+			"url": "https://t.co/uC0c3me6KE",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "http://t.co/uC0c3me6KE",
+							"url": "https://t.co/uC0c3me6KE",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
 								0,
-								22
+								23
 							]
 						}
 					]
@@ -8243,12 +8243,12 @@ Grailbird.data.tweets_2017_07 =
 			"friends_count": 147,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6270,
+			"favourites_count": 6272,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13088,
+			"statuses_count": 13090,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -8422,7 +8422,7 @@ Grailbird.data.tweets_2017_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 21040,
+			"followers_count": 21044,
 			"friends_count": 451,
 			"listed_count": 250,
 			"created_at": "Mon Apr 30 12:38:04 +0000 2012",
@@ -8505,21 +8505,21 @@ Grailbird.data.tweets_2017_07 =
 		"user": {
 			"id": 174124175,
 			"id_str": "174124175",
-			"name": "Tim Klapdor",
+			"name": "Tim “Don’t you open that Trapdoor!”",
 			"screen_name": "timklapdor",
 			"location": "Wagga Wagga",
 			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "http://t.co/uC0c3me6KE",
+			"url": "https://t.co/uC0c3me6KE",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "http://t.co/uC0c3me6KE",
+							"url": "https://t.co/uC0c3me6KE",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
 								0,
-								22
+								23
 							]
 						}
 					]
@@ -8533,12 +8533,12 @@ Grailbird.data.tweets_2017_07 =
 			"friends_count": 147,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6270,
+			"favourites_count": 6272,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13088,
+			"statuses_count": 13090,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -8621,21 +8621,21 @@ Grailbird.data.tweets_2017_07 =
 		"user": {
 			"id": 174124175,
 			"id_str": "174124175",
-			"name": "Tim Klapdor",
+			"name": "Tim “Don’t you open that Trapdoor!”",
 			"screen_name": "timklapdor",
 			"location": "Wagga Wagga",
 			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "http://t.co/uC0c3me6KE",
+			"url": "https://t.co/uC0c3me6KE",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "http://t.co/uC0c3me6KE",
+							"url": "https://t.co/uC0c3me6KE",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
 								0,
-								22
+								23
 							]
 						}
 					]
@@ -8649,12 +8649,12 @@ Grailbird.data.tweets_2017_07 =
 			"friends_count": 147,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6270,
+			"favourites_count": 6272,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13088,
+			"statuses_count": 13090,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -8740,16 +8740,16 @@ Grailbird.data.tweets_2017_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 359961,
-			"friends_count": 10202,
-			"listed_count": 7126,
+			"followers_count": 359929,
+			"friends_count": 10220,
+			"listed_count": 7125,
 			"created_at": "Sat Jan 05 05:15:08 +0000 2008",
-			"favourites_count": 48863,
+			"favourites_count": 48895,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 237649,
+			"statuses_count": 237764,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -8779,7 +8779,7 @@ Grailbird.data.tweets_2017_07 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 1022,
+		"retweet_count": 1021,
 		"favorite_count": 3547,
 		"favorited": false,
 		"retweeted": true,
@@ -8877,7 +8877,7 @@ Grailbird.data.tweets_2017_07 =
 			},
 			"protected": false,
 			"followers_count": 1948,
-			"friends_count": 2610,
+			"friends_count": 2611,
 			"listed_count": 87,
 			"created_at": "Thu Mar 05 06:03:28 +0000 2009",
 			"favourites_count": 1450,
@@ -8885,7 +8885,7 @@ Grailbird.data.tweets_2017_07 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 19483,
+			"statuses_count": 19484,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -8959,21 +8959,21 @@ Grailbird.data.tweets_2017_07 =
 		"user": {
 			"id": 174124175,
 			"id_str": "174124175",
-			"name": "Tim Klapdor",
+			"name": "Tim “Don’t you open that Trapdoor!”",
 			"screen_name": "timklapdor",
 			"location": "Wagga Wagga",
 			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "http://t.co/uC0c3me6KE",
+			"url": "https://t.co/uC0c3me6KE",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "http://t.co/uC0c3me6KE",
+							"url": "https://t.co/uC0c3me6KE",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
 								0,
-								22
+								23
 							]
 						}
 					]
@@ -8987,12 +8987,12 @@ Grailbird.data.tweets_2017_07 =
 			"friends_count": 147,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6270,
+			"favourites_count": 6272,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13088,
+			"statuses_count": 13090,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -9065,21 +9065,21 @@ Grailbird.data.tweets_2017_07 =
 		"user": {
 			"id": 174124175,
 			"id_str": "174124175",
-			"name": "Tim Klapdor",
+			"name": "Tim “Don’t you open that Trapdoor!”",
 			"screen_name": "timklapdor",
 			"location": "Wagga Wagga",
 			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "http://t.co/uC0c3me6KE",
+			"url": "https://t.co/uC0c3me6KE",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "http://t.co/uC0c3me6KE",
+							"url": "https://t.co/uC0c3me6KE",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
 								0,
-								22
+								23
 							]
 						}
 					]
@@ -9093,12 +9093,12 @@ Grailbird.data.tweets_2017_07 =
 			"friends_count": 147,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6270,
+			"favourites_count": 6272,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13088,
+			"statuses_count": 13090,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -9171,21 +9171,21 @@ Grailbird.data.tweets_2017_07 =
 		"user": {
 			"id": 174124175,
 			"id_str": "174124175",
-			"name": "Tim Klapdor",
+			"name": "Tim “Don’t you open that Trapdoor!”",
 			"screen_name": "timklapdor",
 			"location": "Wagga Wagga",
 			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "http://t.co/uC0c3me6KE",
+			"url": "https://t.co/uC0c3me6KE",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "http://t.co/uC0c3me6KE",
+							"url": "https://t.co/uC0c3me6KE",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
 								0,
-								22
+								23
 							]
 						}
 					]
@@ -9199,12 +9199,12 @@ Grailbird.data.tweets_2017_07 =
 			"friends_count": 147,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6270,
+			"favourites_count": 6272,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13088,
+			"statuses_count": 13090,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -9266,21 +9266,21 @@ Grailbird.data.tweets_2017_07 =
 		"user": {
 			"id": 174124175,
 			"id_str": "174124175",
-			"name": "Tim Klapdor",
+			"name": "Tim “Don’t you open that Trapdoor!”",
 			"screen_name": "timklapdor",
 			"location": "Wagga Wagga",
 			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "http://t.co/uC0c3me6KE",
+			"url": "https://t.co/uC0c3me6KE",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "http://t.co/uC0c3me6KE",
+							"url": "https://t.co/uC0c3me6KE",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
 								0,
-								22
+								23
 							]
 						}
 					]
@@ -9294,12 +9294,12 @@ Grailbird.data.tweets_2017_07 =
 			"friends_count": 147,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6270,
+			"favourites_count": 6272,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13088,
+			"statuses_count": 13090,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -9361,21 +9361,21 @@ Grailbird.data.tweets_2017_07 =
 		"user": {
 			"id": 174124175,
 			"id_str": "174124175",
-			"name": "Tim Klapdor",
+			"name": "Tim “Don’t you open that Trapdoor!”",
 			"screen_name": "timklapdor",
 			"location": "Wagga Wagga",
 			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "http://t.co/uC0c3me6KE",
+			"url": "https://t.co/uC0c3me6KE",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "http://t.co/uC0c3me6KE",
+							"url": "https://t.co/uC0c3me6KE",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
 								0,
-								22
+								23
 							]
 						}
 					]
@@ -9389,12 +9389,12 @@ Grailbird.data.tweets_2017_07 =
 			"friends_count": 147,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6270,
+			"favourites_count": 6272,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13088,
+			"statuses_count": 13090,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -9477,21 +9477,21 @@ Grailbird.data.tweets_2017_07 =
 		"user": {
 			"id": 174124175,
 			"id_str": "174124175",
-			"name": "Tim Klapdor",
+			"name": "Tim “Don’t you open that Trapdoor!”",
 			"screen_name": "timklapdor",
 			"location": "Wagga Wagga",
 			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "http://t.co/uC0c3me6KE",
+			"url": "https://t.co/uC0c3me6KE",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "http://t.co/uC0c3me6KE",
+							"url": "https://t.co/uC0c3me6KE",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
 								0,
-								22
+								23
 							]
 						}
 					]
@@ -9505,12 +9505,12 @@ Grailbird.data.tweets_2017_07 =
 			"friends_count": 147,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6270,
+			"favourites_count": 6272,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13088,
+			"statuses_count": 13090,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -9583,21 +9583,21 @@ Grailbird.data.tweets_2017_07 =
 		"user": {
 			"id": 174124175,
 			"id_str": "174124175",
-			"name": "Tim Klapdor",
+			"name": "Tim “Don’t you open that Trapdoor!”",
 			"screen_name": "timklapdor",
 			"location": "Wagga Wagga",
 			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "http://t.co/uC0c3me6KE",
+			"url": "https://t.co/uC0c3me6KE",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "http://t.co/uC0c3me6KE",
+							"url": "https://t.co/uC0c3me6KE",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
 								0,
-								22
+								23
 							]
 						}
 					]
@@ -9611,12 +9611,12 @@ Grailbird.data.tweets_2017_07 =
 			"friends_count": 147,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6270,
+			"favourites_count": 6272,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13088,
+			"statuses_count": 13090,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -9820,7 +9820,7 @@ Grailbird.data.tweets_2017_07 =
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": false,
-				"statuses_count": 105335,
+				"statuses_count": 105375,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -9889,21 +9889,21 @@ Grailbird.data.tweets_2017_07 =
 		"user": {
 			"id": 174124175,
 			"id_str": "174124175",
-			"name": "Tim Klapdor",
+			"name": "Tim “Don’t you open that Trapdoor!”",
 			"screen_name": "timklapdor",
 			"location": "Wagga Wagga",
 			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "http://t.co/uC0c3me6KE",
+			"url": "https://t.co/uC0c3me6KE",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "http://t.co/uC0c3me6KE",
+							"url": "https://t.co/uC0c3me6KE",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
 								0,
-								22
+								23
 							]
 						}
 					]
@@ -9917,12 +9917,12 @@ Grailbird.data.tweets_2017_07 =
 			"friends_count": 147,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6270,
+			"favourites_count": 6272,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13088,
+			"statuses_count": 13090,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -10062,21 +10062,21 @@ Grailbird.data.tweets_2017_07 =
 		"user": {
 			"id": 174124175,
 			"id_str": "174124175",
-			"name": "Tim Klapdor",
+			"name": "Tim “Don’t you open that Trapdoor!”",
 			"screen_name": "timklapdor",
 			"location": "Wagga Wagga",
 			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "http://t.co/uC0c3me6KE",
+			"url": "https://t.co/uC0c3me6KE",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "http://t.co/uC0c3me6KE",
+							"url": "https://t.co/uC0c3me6KE",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
 								0,
-								22
+								23
 							]
 						}
 					]
@@ -10090,12 +10090,12 @@ Grailbird.data.tweets_2017_07 =
 			"friends_count": 147,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6270,
+			"favourites_count": 6272,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13088,
+			"statuses_count": 13090,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -10187,21 +10187,21 @@ Grailbird.data.tweets_2017_07 =
 		"user": {
 			"id": 174124175,
 			"id_str": "174124175",
-			"name": "Tim Klapdor",
+			"name": "Tim “Don’t you open that Trapdoor!”",
 			"screen_name": "timklapdor",
 			"location": "Wagga Wagga",
 			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "http://t.co/uC0c3me6KE",
+			"url": "https://t.co/uC0c3me6KE",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "http://t.co/uC0c3me6KE",
+							"url": "https://t.co/uC0c3me6KE",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
 								0,
-								22
+								23
 							]
 						}
 					]
@@ -10215,12 +10215,12 @@ Grailbird.data.tweets_2017_07 =
 			"friends_count": 147,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6270,
+			"favourites_count": 6272,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13088,
+			"statuses_count": 13090,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -10394,16 +10394,16 @@ Grailbird.data.tweets_2017_07 =
 					}
 				},
 				"protected": false,
-				"followers_count": 11735,
+				"followers_count": 11738,
 				"friends_count": 69,
 				"listed_count": 219,
 				"created_at": "Thu Oct 30 21:12:30 +0000 2008",
-				"favourites_count": 1506,
+				"favourites_count": 1508,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": true,
-				"statuses_count": 8729,
+				"statuses_count": 8731,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -10494,21 +10494,21 @@ Grailbird.data.tweets_2017_07 =
 		"user": {
 			"id": 174124175,
 			"id_str": "174124175",
-			"name": "Tim Klapdor",
+			"name": "Tim “Don’t you open that Trapdoor!”",
 			"screen_name": "timklapdor",
 			"location": "Wagga Wagga",
 			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "http://t.co/uC0c3me6KE",
+			"url": "https://t.co/uC0c3me6KE",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "http://t.co/uC0c3me6KE",
+							"url": "https://t.co/uC0c3me6KE",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
 								0,
-								22
+								23
 							]
 						}
 					]
@@ -10522,12 +10522,12 @@ Grailbird.data.tweets_2017_07 =
 			"friends_count": 147,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6270,
+			"favourites_count": 6272,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13088,
+			"statuses_count": 13090,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -10692,7 +10692,7 @@ Grailbird.data.tweets_2017_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 27441,
+			"followers_count": 27521,
 			"friends_count": 3,
 			"listed_count": 257,
 			"created_at": "Sun Dec 04 01:43:34 +0000 2016",
@@ -10701,7 +10701,7 @@ Grailbird.data.tweets_2017_07 =
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 2973,
+			"statuses_count": 2977,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -10785,21 +10785,21 @@ Grailbird.data.tweets_2017_07 =
 		"user": {
 			"id": 174124175,
 			"id_str": "174124175",
-			"name": "Tim Klapdor",
+			"name": "Tim “Don’t you open that Trapdoor!”",
 			"screen_name": "timklapdor",
 			"location": "Wagga Wagga",
 			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "http://t.co/uC0c3me6KE",
+			"url": "https://t.co/uC0c3me6KE",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "http://t.co/uC0c3me6KE",
+							"url": "https://t.co/uC0c3me6KE",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
 								0,
-								22
+								23
 							]
 						}
 					]
@@ -10813,12 +10813,12 @@ Grailbird.data.tweets_2017_07 =
 			"friends_count": 147,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6270,
+			"favourites_count": 6272,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13088,
+			"statuses_count": 13090,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -10902,21 +10902,21 @@ Grailbird.data.tweets_2017_07 =
 		"user": {
 			"id": 174124175,
 			"id_str": "174124175",
-			"name": "Tim Klapdor",
+			"name": "Tim “Don’t you open that Trapdoor!”",
 			"screen_name": "timklapdor",
 			"location": "Wagga Wagga",
 			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "http://t.co/uC0c3me6KE",
+			"url": "https://t.co/uC0c3me6KE",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "http://t.co/uC0c3me6KE",
+							"url": "https://t.co/uC0c3me6KE",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
 								0,
-								22
+								23
 							]
 						}
 					]
@@ -10930,12 +10930,12 @@ Grailbird.data.tweets_2017_07 =
 			"friends_count": 147,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6270,
+			"favourites_count": 6272,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13088,
+			"statuses_count": 13090,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -11147,21 +11147,21 @@ Grailbird.data.tweets_2017_07 =
 		"user": {
 			"id": 174124175,
 			"id_str": "174124175",
-			"name": "Tim Klapdor",
+			"name": "Tim “Don’t you open that Trapdoor!”",
 			"screen_name": "timklapdor",
 			"location": "Wagga Wagga",
 			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "http://t.co/uC0c3me6KE",
+			"url": "https://t.co/uC0c3me6KE",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "http://t.co/uC0c3me6KE",
+							"url": "https://t.co/uC0c3me6KE",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
 								0,
-								22
+								23
 							]
 						}
 					]
@@ -11175,12 +11175,12 @@ Grailbird.data.tweets_2017_07 =
 			"friends_count": 147,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6270,
+			"favourites_count": 6272,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13088,
+			"statuses_count": 13090,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -11336,21 +11336,21 @@ Grailbird.data.tweets_2017_07 =
 		"user": {
 			"id": 174124175,
 			"id_str": "174124175",
-			"name": "Tim Klapdor",
+			"name": "Tim “Don’t you open that Trapdoor!”",
 			"screen_name": "timklapdor",
 			"location": "Wagga Wagga",
 			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "http://t.co/uC0c3me6KE",
+			"url": "https://t.co/uC0c3me6KE",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "http://t.co/uC0c3me6KE",
+							"url": "https://t.co/uC0c3me6KE",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
 								0,
-								22
+								23
 							]
 						}
 					]
@@ -11364,12 +11364,12 @@ Grailbird.data.tweets_2017_07 =
 			"friends_count": 147,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6270,
+			"favourites_count": 6272,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13088,
+			"statuses_count": 13090,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -11463,21 +11463,21 @@ Grailbird.data.tweets_2017_07 =
 		"user": {
 			"id": 174124175,
 			"id_str": "174124175",
-			"name": "Tim Klapdor",
+			"name": "Tim “Don’t you open that Trapdoor!”",
 			"screen_name": "timklapdor",
 			"location": "Wagga Wagga",
 			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "http://t.co/uC0c3me6KE",
+			"url": "https://t.co/uC0c3me6KE",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "http://t.co/uC0c3me6KE",
+							"url": "https://t.co/uC0c3me6KE",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
 								0,
-								22
+								23
 							]
 						}
 					]
@@ -11491,12 +11491,12 @@ Grailbird.data.tweets_2017_07 =
 			"friends_count": 147,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6270,
+			"favourites_count": 6272,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13088,
+			"statuses_count": 13090,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -11832,16 +11832,16 @@ Grailbird.data.tweets_2017_07 =
 					}
 				},
 				"protected": false,
-				"followers_count": 40655,
-				"friends_count": 1477,
-				"listed_count": 2004,
+				"followers_count": 40664,
+				"friends_count": 1478,
+				"listed_count": 2005,
 				"created_at": "Tue Nov 21 08:18:02 +0000 2006",
-				"favourites_count": 20716,
+				"favourites_count": 20718,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": true,
-				"statuses_count": 35438,
+				"statuses_count": 35439,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -11871,8 +11871,8 @@ Grailbird.data.tweets_2017_07 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 5350,
-			"favorite_count": 8233,
+			"retweet_count": 5349,
+			"favorite_count": 8230,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
@@ -11922,21 +11922,21 @@ Grailbird.data.tweets_2017_07 =
 		"user": {
 			"id": 174124175,
 			"id_str": "174124175",
-			"name": "Tim Klapdor",
+			"name": "Tim “Don’t you open that Trapdoor!”",
 			"screen_name": "timklapdor",
 			"location": "Wagga Wagga",
 			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "http://t.co/uC0c3me6KE",
+			"url": "https://t.co/uC0c3me6KE",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "http://t.co/uC0c3me6KE",
+							"url": "https://t.co/uC0c3me6KE",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
 								0,
-								22
+								23
 							]
 						}
 					]
@@ -11950,12 +11950,12 @@ Grailbird.data.tweets_2017_07 =
 			"friends_count": 147,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6270,
+			"favourites_count": 6272,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13088,
+			"statuses_count": 13090,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -12061,21 +12061,21 @@ Grailbird.data.tweets_2017_07 =
 		"user": {
 			"id": 174124175,
 			"id_str": "174124175",
-			"name": "Tim Klapdor",
+			"name": "Tim “Don’t you open that Trapdoor!”",
 			"screen_name": "timklapdor",
 			"location": "Wagga Wagga",
 			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "http://t.co/uC0c3me6KE",
+			"url": "https://t.co/uC0c3me6KE",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "http://t.co/uC0c3me6KE",
+							"url": "https://t.co/uC0c3me6KE",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
 								0,
-								22
+								23
 							]
 						}
 					]
@@ -12089,12 +12089,12 @@ Grailbird.data.tweets_2017_07 =
 			"friends_count": 147,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6270,
+			"favourites_count": 6272,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13088,
+			"statuses_count": 13090,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -12197,21 +12197,21 @@ Grailbird.data.tweets_2017_07 =
 		"user": {
 			"id": 174124175,
 			"id_str": "174124175",
-			"name": "Tim Klapdor",
+			"name": "Tim “Don’t you open that Trapdoor!”",
 			"screen_name": "timklapdor",
 			"location": "Wagga Wagga",
 			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "http://t.co/uC0c3me6KE",
+			"url": "https://t.co/uC0c3me6KE",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "http://t.co/uC0c3me6KE",
+							"url": "https://t.co/uC0c3me6KE",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
 								0,
-								22
+								23
 							]
 						}
 					]
@@ -12225,12 +12225,12 @@ Grailbird.data.tweets_2017_07 =
 			"friends_count": 147,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6270,
+			"favourites_count": 6272,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13088,
+			"statuses_count": 13090,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -12302,21 +12302,21 @@ Grailbird.data.tweets_2017_07 =
 		"user": {
 			"id": 174124175,
 			"id_str": "174124175",
-			"name": "Tim Klapdor",
+			"name": "Tim “Don’t you open that Trapdoor!”",
 			"screen_name": "timklapdor",
 			"location": "Wagga Wagga",
 			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "http://t.co/uC0c3me6KE",
+			"url": "https://t.co/uC0c3me6KE",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "http://t.co/uC0c3me6KE",
+							"url": "https://t.co/uC0c3me6KE",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
 								0,
-								22
+								23
 							]
 						}
 					]
@@ -12330,12 +12330,12 @@ Grailbird.data.tweets_2017_07 =
 			"friends_count": 147,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6270,
+			"favourites_count": 6272,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13088,
+			"statuses_count": 13090,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -12530,16 +12530,16 @@ Grailbird.data.tweets_2017_07 =
 					}
 				},
 				"protected": false,
-				"followers_count": 52459,
+				"followers_count": 52480,
 				"friends_count": 999,
-				"listed_count": 1494,
+				"listed_count": 1493,
 				"created_at": "Tue Dec 12 23:53:15 +0000 2006",
 				"favourites_count": 95,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": true,
-				"statuses_count": 87829,
+				"statuses_count": 87874,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -12570,7 +12570,7 @@ Grailbird.data.tweets_2017_07 =
 			"contributors": null,
 			"is_quote_status": false,
 			"retweet_count": 2388,
-			"favorite_count": 4570,
+			"favorite_count": 4568,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
@@ -12619,21 +12619,21 @@ Grailbird.data.tweets_2017_07 =
 		"user": {
 			"id": 174124175,
 			"id_str": "174124175",
-			"name": "Tim Klapdor",
+			"name": "Tim “Don’t you open that Trapdoor!”",
 			"screen_name": "timklapdor",
 			"location": "Wagga Wagga",
 			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "http://t.co/uC0c3me6KE",
+			"url": "https://t.co/uC0c3me6KE",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "http://t.co/uC0c3me6KE",
+							"url": "https://t.co/uC0c3me6KE",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
 								0,
-								22
+								23
 							]
 						}
 					]
@@ -12647,12 +12647,12 @@ Grailbird.data.tweets_2017_07 =
 			"friends_count": 147,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6270,
+			"favourites_count": 6272,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13088,
+			"statuses_count": 13090,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -12843,16 +12843,16 @@ Grailbird.data.tweets_2017_07 =
 									}
 								},
 								"protected": false,
-								"followers_count": 50706,
-								"friends_count": 635,
-								"listed_count": 496,
+								"followers_count": 50787,
+								"friends_count": 634,
+								"listed_count": 497,
 								"created_at": "Wed Jan 23 03:33:46 +0000 2013",
-								"favourites_count": 274,
+								"favourites_count": 278,
 								"utc_offset": null,
 								"time_zone": null,
 								"geo_enabled": true,
 								"verified": true,
-								"statuses_count": 7003,
+								"statuses_count": 7021,
 								"lang": "en",
 								"contributors_enabled": false,
 								"is_translator": false,
@@ -12914,16 +12914,16 @@ Grailbird.data.tweets_2017_07 =
 					}
 				},
 				"protected": false,
-				"followers_count": 26592,
+				"followers_count": 26702,
 				"friends_count": 1365,
-				"listed_count": 656,
+				"listed_count": 657,
 				"created_at": "Thu Aug 26 19:07:45 +0000 2010",
-				"favourites_count": 3764,
+				"favourites_count": 3767,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": true,
-				"statuses_count": 23561,
+				"statuses_count": 23592,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -12953,8 +12953,8 @@ Grailbird.data.tweets_2017_07 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 79108,
-			"favorite_count": 136095,
+			"retweet_count": 79103,
+			"favorite_count": 136100,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
@@ -13003,21 +13003,21 @@ Grailbird.data.tweets_2017_07 =
 		"user": {
 			"id": 174124175,
 			"id_str": "174124175",
-			"name": "Tim Klapdor",
+			"name": "Tim “Don’t you open that Trapdoor!”",
 			"screen_name": "timklapdor",
 			"location": "Wagga Wagga",
 			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "http://t.co/uC0c3me6KE",
+			"url": "https://t.co/uC0c3me6KE",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "http://t.co/uC0c3me6KE",
+							"url": "https://t.co/uC0c3me6KE",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
 								0,
-								22
+								23
 							]
 						}
 					]
@@ -13031,12 +13031,12 @@ Grailbird.data.tweets_2017_07 =
 			"friends_count": 147,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6270,
+			"favourites_count": 6272,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13088,
+			"statuses_count": 13090,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -13110,21 +13110,21 @@ Grailbird.data.tweets_2017_07 =
 		"user": {
 			"id": 174124175,
 			"id_str": "174124175",
-			"name": "Tim Klapdor",
+			"name": "Tim “Don’t you open that Trapdoor!”",
 			"screen_name": "timklapdor",
 			"location": "Wagga Wagga",
 			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "http://t.co/uC0c3me6KE",
+			"url": "https://t.co/uC0c3me6KE",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "http://t.co/uC0c3me6KE",
+							"url": "https://t.co/uC0c3me6KE",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
 								0,
-								22
+								23
 							]
 						}
 					]
@@ -13138,12 +13138,12 @@ Grailbird.data.tweets_2017_07 =
 			"friends_count": 147,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6270,
+			"favourites_count": 6272,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13088,
+			"statuses_count": 13090,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -13215,21 +13215,21 @@ Grailbird.data.tweets_2017_07 =
 		"user": {
 			"id": 174124175,
 			"id_str": "174124175",
-			"name": "Tim Klapdor",
+			"name": "Tim “Don’t you open that Trapdoor!”",
 			"screen_name": "timklapdor",
 			"location": "Wagga Wagga",
 			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "http://t.co/uC0c3me6KE",
+			"url": "https://t.co/uC0c3me6KE",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "http://t.co/uC0c3me6KE",
+							"url": "https://t.co/uC0c3me6KE",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
 								0,
-								22
+								23
 							]
 						}
 					]
@@ -13243,12 +13243,12 @@ Grailbird.data.tweets_2017_07 =
 			"friends_count": 147,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6270,
+			"favourites_count": 6272,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13088,
+			"statuses_count": 13090,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -13340,21 +13340,21 @@ Grailbird.data.tweets_2017_07 =
 		"user": {
 			"id": 174124175,
 			"id_str": "174124175",
-			"name": "Tim Klapdor",
+			"name": "Tim “Don’t you open that Trapdoor!”",
 			"screen_name": "timklapdor",
 			"location": "Wagga Wagga",
 			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "http://t.co/uC0c3me6KE",
+			"url": "https://t.co/uC0c3me6KE",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "http://t.co/uC0c3me6KE",
+							"url": "https://t.co/uC0c3me6KE",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
 								0,
-								22
+								23
 							]
 						}
 					]
@@ -13368,12 +13368,12 @@ Grailbird.data.tweets_2017_07 =
 			"friends_count": 147,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6270,
+			"favourites_count": 6272,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13088,
+			"statuses_count": 13090,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -13456,21 +13456,21 @@ Grailbird.data.tweets_2017_07 =
 		"user": {
 			"id": 174124175,
 			"id_str": "174124175",
-			"name": "Tim Klapdor",
+			"name": "Tim “Don’t you open that Trapdoor!”",
 			"screen_name": "timklapdor",
 			"location": "Wagga Wagga",
 			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "http://t.co/uC0c3me6KE",
+			"url": "https://t.co/uC0c3me6KE",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "http://t.co/uC0c3me6KE",
+							"url": "https://t.co/uC0c3me6KE",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
 								0,
-								22
+								23
 							]
 						}
 					]
@@ -13484,12 +13484,12 @@ Grailbird.data.tweets_2017_07 =
 			"friends_count": 147,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6270,
+			"favourites_count": 6272,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13088,
+			"statuses_count": 13090,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -13585,11 +13585,11 @@ Grailbird.data.tweets_2017_07 =
 					}
 				},
 				"protected": false,
-				"followers_count": 26775,
+				"followers_count": 26838,
 				"friends_count": 521,
-				"listed_count": 936,
+				"listed_count": 937,
 				"created_at": "Mon Mar 21 17:35:37 +0000 2011",
-				"favourites_count": 12863,
+				"favourites_count": 12861,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": false,
@@ -13631,7 +13631,7 @@ Grailbird.data.tweets_2017_07 =
 				"display": "twitter.com/TheRickWilson/…"
 			},
 			"retweet_count": 98,
-			"favorite_count": 132,
+			"favorite_count": 131,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
@@ -13699,21 +13699,21 @@ Grailbird.data.tweets_2017_07 =
 		"user": {
 			"id": 174124175,
 			"id_str": "174124175",
-			"name": "Tim Klapdor",
+			"name": "Tim “Don’t you open that Trapdoor!”",
 			"screen_name": "timklapdor",
 			"location": "Wagga Wagga",
 			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "http://t.co/uC0c3me6KE",
+			"url": "https://t.co/uC0c3me6KE",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "http://t.co/uC0c3me6KE",
+							"url": "https://t.co/uC0c3me6KE",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
 								0,
-								22
+								23
 							]
 						}
 					]
@@ -13727,12 +13727,12 @@ Grailbird.data.tweets_2017_07 =
 			"friends_count": 147,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6270,
+			"favourites_count": 6272,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13088,
+			"statuses_count": 13090,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -13805,21 +13805,21 @@ Grailbird.data.tweets_2017_07 =
 		"user": {
 			"id": 174124175,
 			"id_str": "174124175",
-			"name": "Tim Klapdor",
+			"name": "Tim “Don’t you open that Trapdoor!”",
 			"screen_name": "timklapdor",
 			"location": "Wagga Wagga",
 			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "http://t.co/uC0c3me6KE",
+			"url": "https://t.co/uC0c3me6KE",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "http://t.co/uC0c3me6KE",
+							"url": "https://t.co/uC0c3me6KE",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
 								0,
-								22
+								23
 							]
 						}
 					]
@@ -13833,12 +13833,12 @@ Grailbird.data.tweets_2017_07 =
 			"friends_count": 147,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6270,
+			"favourites_count": 6272,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13088,
+			"statuses_count": 13090,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -13919,21 +13919,21 @@ Grailbird.data.tweets_2017_07 =
 		"user": {
 			"id": 174124175,
 			"id_str": "174124175",
-			"name": "Tim Klapdor",
+			"name": "Tim “Don’t you open that Trapdoor!”",
 			"screen_name": "timklapdor",
 			"location": "Wagga Wagga",
 			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "http://t.co/uC0c3me6KE",
+			"url": "https://t.co/uC0c3me6KE",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "http://t.co/uC0c3me6KE",
+							"url": "https://t.co/uC0c3me6KE",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
 								0,
-								22
+								23
 							]
 						}
 					]
@@ -13947,12 +13947,12 @@ Grailbird.data.tweets_2017_07 =
 			"friends_count": 147,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6270,
+			"favourites_count": 6272,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13088,
+			"statuses_count": 13090,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -14024,21 +14024,21 @@ Grailbird.data.tweets_2017_07 =
 		"user": {
 			"id": 174124175,
 			"id_str": "174124175",
-			"name": "Tim Klapdor",
+			"name": "Tim “Don’t you open that Trapdoor!”",
 			"screen_name": "timklapdor",
 			"location": "Wagga Wagga",
 			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "http://t.co/uC0c3me6KE",
+			"url": "https://t.co/uC0c3me6KE",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "http://t.co/uC0c3me6KE",
+							"url": "https://t.co/uC0c3me6KE",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
 								0,
-								22
+								23
 							]
 						}
 					]
@@ -14052,12 +14052,12 @@ Grailbird.data.tweets_2017_07 =
 			"friends_count": 147,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6270,
+			"favourites_count": 6272,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13088,
+			"statuses_count": 13090,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -14267,16 +14267,16 @@ Grailbird.data.tweets_2017_07 =
 					}
 				},
 				"protected": false,
-				"followers_count": 55344859,
+				"followers_count": 55376107,
 				"friends_count": 46,
-				"listed_count": 95229,
+				"listed_count": 95276,
 				"created_at": "Wed Mar 18 13:46:38 +0000 2009",
 				"favourites_count": 7,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": true,
-				"statuses_count": 39430,
+				"statuses_count": 39446,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -14306,8 +14306,8 @@ Grailbird.data.tweets_2017_07 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 337866,
-			"favorite_count": 561922,
+			"retweet_count": 337825,
+			"favorite_count": 561860,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
@@ -14357,21 +14357,21 @@ Grailbird.data.tweets_2017_07 =
 		"user": {
 			"id": 174124175,
 			"id_str": "174124175",
-			"name": "Tim Klapdor",
+			"name": "Tim “Don’t you open that Trapdoor!”",
 			"screen_name": "timklapdor",
 			"location": "Wagga Wagga",
 			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "http://t.co/uC0c3me6KE",
+			"url": "https://t.co/uC0c3me6KE",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "http://t.co/uC0c3me6KE",
+							"url": "https://t.co/uC0c3me6KE",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
 								0,
-								22
+								23
 							]
 						}
 					]
@@ -14385,12 +14385,12 @@ Grailbird.data.tweets_2017_07 =
 			"friends_count": 147,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6270,
+			"favourites_count": 6272,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13088,
+			"statuses_count": 13090,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -14538,21 +14538,21 @@ Grailbird.data.tweets_2017_07 =
 		"user": {
 			"id": 174124175,
 			"id_str": "174124175",
-			"name": "Tim Klapdor",
+			"name": "Tim “Don’t you open that Trapdoor!”",
 			"screen_name": "timklapdor",
 			"location": "Wagga Wagga",
 			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "http://t.co/uC0c3me6KE",
+			"url": "https://t.co/uC0c3me6KE",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "http://t.co/uC0c3me6KE",
+							"url": "https://t.co/uC0c3me6KE",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
 								0,
-								22
+								23
 							]
 						}
 					]
@@ -14566,12 +14566,12 @@ Grailbird.data.tweets_2017_07 =
 			"friends_count": 147,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6270,
+			"favourites_count": 6272,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13088,
+			"statuses_count": 13090,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -14736,7 +14736,7 @@ Grailbird.data.tweets_2017_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1897,
+			"followers_count": 1899,
 			"friends_count": 1706,
 			"listed_count": 60,
 			"created_at": "Sun Sep 01 00:08:03 +0000 2013",

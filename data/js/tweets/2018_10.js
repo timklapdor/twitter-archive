@@ -1,6 +1,445 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Sat Oct 27 06:27:21 +0000 2018",
+		"id": 1056069825317941200,
+		"id_str": "1056069825317941248",
+		"full_text": "Octoberfest at the @TCBrewery is going well. Good beer, good company. https://t.co/WDEYZKNrhe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TCBrewery",
+					"name": "Thirsty Crow",
+					"id": 994690074,
+					"id_str": "994690074",
+					"indices": [
+						19,
+						29
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1056069815042011100,
+					"id_str": "1056069815042011137",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/media/Dqfp5seXcAEaw5k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dqfp5seXcAEaw5k.jpg",
+					"url": "https://t.co/WDEYZKNrhe",
+					"display_url": "pic.twitter.com/WDEYZKNrhe",
+					"expanded_url": "https://twitter.com/timklapdor/status/1056069825317941248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1056069815042011100,
+					"id_str": "1056069815042011137",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/media/Dqfp5seXcAEaw5k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dqfp5seXcAEaw5k.jpg",
+					"url": "https://t.co/WDEYZKNrhe",
+					"display_url": "pic.twitter.com/WDEYZKNrhe",
+					"expanded_url": "https://twitter.com/timklapdor/status/1056069825317941248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim “Don’t you open that Trapdoor!”",
+			"screen_name": "timklapdor",
+			"location": "Wagga Wagga",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
+			"url": "https://t.co/uC0c3me6KE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uC0c3me6KE",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 776,
+			"friends_count": 147,
+			"listed_count": 97,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 6272,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13090,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/723129079671615492/O_NQ9rKL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/723129079671615492/O_NQ9rKL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "5ad8484801b1bae7",
+			"url": "https://api.twitter.com/1.1/geo/id/5ad8484801b1bae7.json",
+			"place_type": "neighborhood",
+			"name": "Wagga Wagga",
+			"full_name": "Wagga Wagga, New South Wales",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							147.33837288,
+							-35.12521197
+						],
+						[
+							147.38281704,
+							-35.12521197
+						],
+						[
+							147.38281704,
+							-35.08806303
+						],
+						[
+							147.33837288,
+							-35.08806303
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Octoberfest at the @TCBrewery is going well. Good beer, good company. https://t.co/WDEYZKNrhe"
+	},
+	{
+		"created_at": "Fri Oct 26 10:40:00 +0000 2018",
+		"id": 1055771017052897300,
+		"id_str": "1055771017052897280",
+		"full_text": "I have never seen a more debased government than this. What sort of government gives tax cuts to businesses and then has to steal money from defenceless disabled people to give to coalition-supporting drought affected farmers. Sickening. #auspol \nhttps://t.co/L6t8IUEk5E",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			270
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "auspol",
+					"indices": [
+						238,
+						245
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/L6t8IUEk5E",
+					"expanded_url": "https://twitter.com/PoliticsFairfax/status/1055727276233383936",
+					"display_url": "twitter.com/PoliticsFairfa…",
+					"indices": [
+						247,
+						270
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2603192304,
+			"id_str": "2603192304",
+			"name": "John Wren, Scomophobia Advocate.",
+			"screen_name": "JohnWren1950",
+			"location": "Collingwood, VIC",
+			"description": "Melbourne businessman and Australian Labor Party power-broker. Colourful racing identity and patron of the Collingwood Football Club.",
+			"url": "https://t.co/IKjRDadJuS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IKjRDadJuS",
+							"expanded_url": "http://en.wikipedia.org/wiki/John_Wren",
+							"display_url": "en.wikipedia.org/wiki/John_Wren",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20011,
+			"friends_count": 13068,
+			"listed_count": 205,
+			"created_at": "Fri Jul 04 10:19:59 +0000 2014",
+			"favourites_count": 98,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 71881,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/846947093046530048/eNts2Gp9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/846947093046530048/eNts2Gp9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2603192304/1517869150",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1055727276233384000,
+		"quoted_status_id_str": "1055727276233383936",
+		"quoted_status_permalink": {
+			"url": "https://t.co/L6t8IUEk5E",
+			"expanded": "https://twitter.com/PoliticsFairfax/status/1055727276233383936",
+			"display": "twitter.com/PoliticsFairfa…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Oct 26 07:46:11 +0000 2018",
+			"id": 1055727276233384000,
+			"id_str": "1055727276233383936",
+			"full_text": "NDIS funds to be 'repurposed' for drought relief under Morrison plan https://t.co/U1pWHAwA5E #auspol",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				100
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "auspol",
+						"indices": [
+							93,
+							100
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/U1pWHAwA5E",
+						"expanded_url": "https://www.smh.com.au/politics/federal/ndis-funds-to-be-repurposed-for-drought-relief-under-morrison-plan-20181026-p50c5k.html",
+						"display_url": "smh.com.au/politics/feder…",
+						"indices": [
+							69,
+							92
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 70617159,
+				"id_str": "70617159",
+				"name": "Federal Politics",
+				"screen_name": "PoliticsFairfax",
+				"location": "Australia",
+				"description": "Political coverage for Fairfax Media, with breaking news, opinion & video. SMH, The Age, Brisbane Times, WA Today, Canberra Times.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 43087,
+				"friends_count": 533,
+				"listed_count": 1088,
+				"created_at": "Tue Sep 01 06:40:32 +0000 2009",
+				"favourites_count": 100,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 29877,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FAFAFA",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/432709892793569281/stwk_DAE_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/432709892793569281/stwk_DAE_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/70617159/1469406553",
+				"profile_link_color": "3237D6",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "14A4D9",
+				"profile_text_color": "0A090A",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 313,
+			"favorite_count": 143,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 871,
+		"favorite_count": 1499,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I have never seen a more debased government than this. What sort of government gives tax cuts to businesses and then has to steal money from defenceless disabled people to give to coalition-supporting drought affected farmers. Sickening. #auspol \nhttps://t.co/L6t8IUEk5E"
+	},
+	{
 		"created_at": "Wed Oct 24 10:36:46 +0000 2018",
 		"id": 1055045427412824000,
 		"id_str": "1055045427412824066",
@@ -177,16 +616,16 @@ Grailbird.data.tweets_2018_10 =
 								}
 							},
 							"protected": false,
-							"followers_count": 2091659,
-							"friends_count": 4567,
-							"listed_count": 9591,
+							"followers_count": 2092304,
+							"friends_count": 4566,
+							"listed_count": 9590,
 							"created_at": "Mon Apr 28 14:29:37 +0000 2008",
 							"favourites_count": 461,
 							"utc_offset": null,
 							"time_zone": null,
 							"geo_enabled": true,
 							"verified": true,
-							"statuses_count": 91889,
+							"statuses_count": 91898,
 							"lang": "en",
 							"contributors_enabled": false,
 							"is_translator": false,
@@ -248,11 +687,11 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 14960,
+			"followers_count": 14968,
 			"friends_count": 1961,
 			"listed_count": 242,
 			"created_at": "Thu Aug 19 15:45:29 +0000 2010",
-			"favourites_count": 1215,
+			"favourites_count": 1214,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
@@ -287,7 +726,7 @@ Grailbird.data.tweets_2018_10 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 85,
+		"retweet_count": 86,
 		"favorite_count": 131,
 		"favorited": false,
 		"retweeted": true,
@@ -344,16 +783,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 30400,
-			"friends_count": 5774,
-			"listed_count": 677,
+			"followers_count": 30435,
+			"friends_count": 5776,
+			"listed_count": 678,
 			"created_at": "Mon Nov 16 09:40:20 +0000 2009",
-			"favourites_count": 9821,
+			"favourites_count": 9823,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 71418,
+			"statuses_count": 71422,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -383,8 +822,8 @@ Grailbird.data.tweets_2018_10 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 338,
-		"favorite_count": 1084,
+		"retweet_count": 380,
+		"favorite_count": 1251,
 		"favorited": false,
 		"retweeted": true,
 		"lang": "en",
@@ -449,16 +888,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1607,
+			"followers_count": 1606,
 			"friends_count": 934,
 			"listed_count": 45,
 			"created_at": "Wed Dec 17 20:41:21 +0000 2008",
-			"favourites_count": 11883,
+			"favourites_count": 11911,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13846,
+			"statuses_count": 13858,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -565,11 +1004,11 @@ Grailbird.data.tweets_2018_10 =
 					}
 				},
 				"protected": false,
-				"followers_count": 494,
+				"followers_count": 525,
 				"friends_count": 304,
 				"listed_count": 1,
 				"created_at": "Sat Jun 04 09:57:11 +0000 2011",
-				"favourites_count": 1288,
+				"favourites_count": 1291,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": false,
@@ -611,8 +1050,8 @@ Grailbird.data.tweets_2018_10 =
 				"expanded": "https://twitter.com/timeshighered/status/1055563347179954176",
 				"display": "twitter.com/timeshighered/…"
 			},
-			"retweet_count": 442,
-			"favorite_count": 456,
+			"retweet_count": 504,
+			"favorite_count": 550,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
@@ -761,16 +1200,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 17455,
-			"friends_count": 17347,
+			"followers_count": 17477,
+			"friends_count": 17375,
 			"listed_count": 207,
 			"created_at": "Thu Jul 09 02:27:53 +0000 2009",
-			"favourites_count": 613,
+			"favourites_count": 676,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 192668,
+			"statuses_count": 192992,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -800,7 +1239,7 @@ Grailbird.data.tweets_2018_10 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 16,
+		"retweet_count": 17,
 		"favorite_count": 9,
 		"favorited": false,
 		"retweeted": true,
@@ -843,21 +1282,21 @@ Grailbird.data.tweets_2018_10 =
 		"user": {
 			"id": 174124175,
 			"id_str": "174124175",
-			"name": "Tim Klapdor",
+			"name": "Tim “Don’t you open that Trapdoor!”",
 			"screen_name": "timklapdor",
 			"location": "Wagga Wagga",
 			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "http://t.co/uC0c3me6KE",
+			"url": "https://t.co/uC0c3me6KE",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "http://t.co/uC0c3me6KE",
+							"url": "https://t.co/uC0c3me6KE",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
 								0,
-								22
+								23
 							]
 						}
 					]
@@ -871,12 +1310,12 @@ Grailbird.data.tweets_2018_10 =
 			"friends_count": 147,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6270,
+			"favourites_count": 6272,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13088,
+			"statuses_count": 13090,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -973,7 +1412,7 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 4895,
+			"followers_count": 4899,
 			"friends_count": 3051,
 			"listed_count": 146,
 			"created_at": "Mon Sep 19 07:48:45 +0000 2011",
@@ -1069,16 +1508,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 74154,
-			"friends_count": 1340,
+			"followers_count": 74204,
+			"friends_count": 1339,
 			"listed_count": 1134,
 			"created_at": "Tue Jan 13 02:28:44 +0000 2009",
-			"favourites_count": 9369,
+			"favourites_count": 9372,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 3130,
+			"statuses_count": 3131,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1140,21 +1579,21 @@ Grailbird.data.tweets_2018_10 =
 		"user": {
 			"id": 174124175,
 			"id_str": "174124175",
-			"name": "Tim Klapdor",
+			"name": "Tim “Don’t you open that Trapdoor!”",
 			"screen_name": "timklapdor",
 			"location": "Wagga Wagga",
 			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "http://t.co/uC0c3me6KE",
+			"url": "https://t.co/uC0c3me6KE",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "http://t.co/uC0c3me6KE",
+							"url": "https://t.co/uC0c3me6KE",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
 								0,
-								22
+								23
 							]
 						}
 					]
@@ -1168,12 +1607,12 @@ Grailbird.data.tweets_2018_10 =
 			"friends_count": 147,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6270,
+			"favourites_count": 6272,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13088,
+			"statuses_count": 13090,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1204,7 +1643,7 @@ Grailbird.data.tweets_2018_10 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 1,
+		"favorite_count": 2,
 		"favorited": false,
 		"retweeted": false,
 		"lang": "en",
@@ -1323,21 +1762,21 @@ Grailbird.data.tweets_2018_10 =
 		"user": {
 			"id": 174124175,
 			"id_str": "174124175",
-			"name": "Tim Klapdor",
+			"name": "Tim “Don’t you open that Trapdoor!”",
 			"screen_name": "timklapdor",
 			"location": "Wagga Wagga",
 			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "http://t.co/uC0c3me6KE",
+			"url": "https://t.co/uC0c3me6KE",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "http://t.co/uC0c3me6KE",
+							"url": "https://t.co/uC0c3me6KE",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
 								0,
-								22
+								23
 							]
 						}
 					]
@@ -1351,12 +1790,12 @@ Grailbird.data.tweets_2018_10 =
 			"friends_count": 147,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6270,
+			"favourites_count": 6272,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13088,
+			"statuses_count": 13090,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1497,21 +1936,21 @@ Grailbird.data.tweets_2018_10 =
 		"user": {
 			"id": 174124175,
 			"id_str": "174124175",
-			"name": "Tim Klapdor",
+			"name": "Tim “Don’t you open that Trapdoor!”",
 			"screen_name": "timklapdor",
 			"location": "Wagga Wagga",
 			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "http://t.co/uC0c3me6KE",
+			"url": "https://t.co/uC0c3me6KE",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "http://t.co/uC0c3me6KE",
+							"url": "https://t.co/uC0c3me6KE",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
 								0,
-								22
+								23
 							]
 						}
 					]
@@ -1525,12 +1964,12 @@ Grailbird.data.tweets_2018_10 =
 			"friends_count": 147,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6270,
+			"favourites_count": 6272,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13088,
+			"statuses_count": 13090,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1636,21 +2075,21 @@ Grailbird.data.tweets_2018_10 =
 		"user": {
 			"id": 174124175,
 			"id_str": "174124175",
-			"name": "Tim Klapdor",
+			"name": "Tim “Don’t you open that Trapdoor!”",
 			"screen_name": "timklapdor",
 			"location": "Wagga Wagga",
 			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "http://t.co/uC0c3me6KE",
+			"url": "https://t.co/uC0c3me6KE",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "http://t.co/uC0c3me6KE",
+							"url": "https://t.co/uC0c3me6KE",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
 								0,
-								22
+								23
 							]
 						}
 					]
@@ -1664,12 +2103,12 @@ Grailbird.data.tweets_2018_10 =
 			"friends_count": 147,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6270,
+			"favourites_count": 6272,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13088,
+			"statuses_count": 13090,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1783,16 +2222,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1299,
-			"friends_count": 1736,
+			"followers_count": 1313,
+			"friends_count": 1753,
 			"listed_count": 3,
 			"created_at": "Fri Apr 10 12:08:13 +0000 2009",
-			"favourites_count": 7898,
+			"favourites_count": 7918,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 641,
+			"statuses_count": 660,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1822,8 +2261,8 @@ Grailbird.data.tweets_2018_10 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 2791,
-		"favorite_count": 3516,
+		"retweet_count": 2792,
+		"favorite_count": 3521,
 		"favorited": false,
 		"retweeted": true,
 		"lang": "en",
@@ -1876,21 +2315,21 @@ Grailbird.data.tweets_2018_10 =
 		"user": {
 			"id": 174124175,
 			"id_str": "174124175",
-			"name": "Tim Klapdor",
+			"name": "Tim “Don’t you open that Trapdoor!”",
 			"screen_name": "timklapdor",
 			"location": "Wagga Wagga",
 			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "http://t.co/uC0c3me6KE",
+			"url": "https://t.co/uC0c3me6KE",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "http://t.co/uC0c3me6KE",
+							"url": "https://t.co/uC0c3me6KE",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
 								0,
-								22
+								23
 							]
 						}
 					]
@@ -1904,12 +2343,12 @@ Grailbird.data.tweets_2018_10 =
 			"friends_count": 147,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6270,
+			"favourites_count": 6272,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13088,
+			"statuses_count": 13090,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2015,21 +2454,21 @@ Grailbird.data.tweets_2018_10 =
 		"user": {
 			"id": 174124175,
 			"id_str": "174124175",
-			"name": "Tim Klapdor",
+			"name": "Tim “Don’t you open that Trapdoor!”",
 			"screen_name": "timklapdor",
 			"location": "Wagga Wagga",
 			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "http://t.co/uC0c3me6KE",
+			"url": "https://t.co/uC0c3me6KE",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "http://t.co/uC0c3me6KE",
+							"url": "https://t.co/uC0c3me6KE",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
 								0,
-								22
+								23
 							]
 						}
 					]
@@ -2043,12 +2482,12 @@ Grailbird.data.tweets_2018_10 =
 			"friends_count": 147,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6270,
+			"favourites_count": 6272,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13088,
+			"statuses_count": 13090,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2154,21 +2593,21 @@ Grailbird.data.tweets_2018_10 =
 		"user": {
 			"id": 174124175,
 			"id_str": "174124175",
-			"name": "Tim Klapdor",
+			"name": "Tim “Don’t you open that Trapdoor!”",
 			"screen_name": "timklapdor",
 			"location": "Wagga Wagga",
 			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "http://t.co/uC0c3me6KE",
+			"url": "https://t.co/uC0c3me6KE",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "http://t.co/uC0c3me6KE",
+							"url": "https://t.co/uC0c3me6KE",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
 								0,
-								22
+								23
 							]
 						}
 					]
@@ -2182,12 +2621,12 @@ Grailbird.data.tweets_2018_10 =
 			"friends_count": 147,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6270,
+			"favourites_count": 6272,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13088,
+			"statuses_count": 13090,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2394,7 +2833,7 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 6555,
+			"followers_count": 6558,
 			"friends_count": 17,
 			"listed_count": 246,
 			"created_at": "Sun Feb 03 00:38:10 +0000 2013",
@@ -2433,8 +2872,8 @@ Grailbird.data.tweets_2018_10 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 96,
-		"favorite_count": 348,
+		"retweet_count": 97,
+		"favorite_count": 349,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -2476,21 +2915,21 @@ Grailbird.data.tweets_2018_10 =
 		"user": {
 			"id": 174124175,
 			"id_str": "174124175",
-			"name": "Tim Klapdor",
+			"name": "Tim “Don’t you open that Trapdoor!”",
 			"screen_name": "timklapdor",
 			"location": "Wagga Wagga",
 			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "http://t.co/uC0c3me6KE",
+			"url": "https://t.co/uC0c3me6KE",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "http://t.co/uC0c3me6KE",
+							"url": "https://t.co/uC0c3me6KE",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
 								0,
-								22
+								23
 							]
 						}
 					]
@@ -2504,12 +2943,12 @@ Grailbird.data.tweets_2018_10 =
 			"friends_count": 147,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6270,
+			"favourites_count": 6272,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13088,
+			"statuses_count": 13090,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2582,21 +3021,21 @@ Grailbird.data.tweets_2018_10 =
 		"user": {
 			"id": 174124175,
 			"id_str": "174124175",
-			"name": "Tim Klapdor",
+			"name": "Tim “Don’t you open that Trapdoor!”",
 			"screen_name": "timklapdor",
 			"location": "Wagga Wagga",
 			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "http://t.co/uC0c3me6KE",
+			"url": "https://t.co/uC0c3me6KE",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "http://t.co/uC0c3me6KE",
+							"url": "https://t.co/uC0c3me6KE",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
 								0,
-								22
+								23
 							]
 						}
 					]
@@ -2610,12 +3049,12 @@ Grailbird.data.tweets_2018_10 =
 			"friends_count": 147,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6270,
+			"favourites_count": 6272,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13088,
+			"statuses_count": 13090,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2754,16 +3193,16 @@ Grailbird.data.tweets_2018_10 =
 					}
 				},
 				"protected": false,
-				"followers_count": 11259,
-				"friends_count": 1848,
+				"followers_count": 11392,
+				"friends_count": 1849,
 				"listed_count": 209,
 				"created_at": "Thu Mar 19 15:38:02 +0000 2009",
-				"favourites_count": 186146,
+				"favourites_count": 186282,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": true,
-				"statuses_count": 38952,
+				"statuses_count": 38963,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -2793,8 +3232,8 @@ Grailbird.data.tweets_2018_10 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 271,
-			"favorite_count": 682,
+			"retweet_count": 272,
+			"favorite_count": 683,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
@@ -2844,16 +3283,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 98536,
-			"friends_count": 6425,
+			"followers_count": 98617,
+			"friends_count": 6423,
 			"listed_count": 1100,
 			"created_at": "Thu Sep 24 03:19:10 +0000 2009",
-			"favourites_count": 11780,
+			"favourites_count": 11784,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 51970,
+			"statuses_count": 51967,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2884,7 +3323,7 @@ Grailbird.data.tweets_2018_10 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 1028,
-		"favorite_count": 4515,
+		"favorite_count": 4512,
 		"favorited": false,
 		"retweeted": true,
 		"lang": "en",
@@ -2923,21 +3362,21 @@ Grailbird.data.tweets_2018_10 =
 		"user": {
 			"id": 174124175,
 			"id_str": "174124175",
-			"name": "Tim Klapdor",
+			"name": "Tim “Don’t you open that Trapdoor!”",
 			"screen_name": "timklapdor",
 			"location": "Wagga Wagga",
 			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "http://t.co/uC0c3me6KE",
+			"url": "https://t.co/uC0c3me6KE",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "http://t.co/uC0c3me6KE",
+							"url": "https://t.co/uC0c3me6KE",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
 								0,
-								22
+								23
 							]
 						}
 					]
@@ -2951,12 +3390,12 @@ Grailbird.data.tweets_2018_10 =
 			"friends_count": 147,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6270,
+			"favourites_count": 6272,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13088,
+			"statuses_count": 13090,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -3139,21 +3578,21 @@ Grailbird.data.tweets_2018_10 =
 		"user": {
 			"id": 174124175,
 			"id_str": "174124175",
-			"name": "Tim Klapdor",
+			"name": "Tim “Don’t you open that Trapdoor!”",
 			"screen_name": "timklapdor",
 			"location": "Wagga Wagga",
 			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "http://t.co/uC0c3me6KE",
+			"url": "https://t.co/uC0c3me6KE",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "http://t.co/uC0c3me6KE",
+							"url": "https://t.co/uC0c3me6KE",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
 								0,
-								22
+								23
 							]
 						}
 					]
@@ -3167,12 +3606,12 @@ Grailbird.data.tweets_2018_10 =
 			"friends_count": 147,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6270,
+			"favourites_count": 6272,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13088,
+			"statuses_count": 13090,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -3277,16 +3716,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 24689,
-			"friends_count": 785,
+			"followers_count": 24709,
+			"friends_count": 787,
 			"listed_count": 405,
 			"created_at": "Mon Apr 11 13:07:29 +0000 2011",
-			"favourites_count": 40965,
+			"favourites_count": 41083,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 39341,
+			"statuses_count": 39375,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -3400,21 +3839,21 @@ Grailbird.data.tweets_2018_10 =
 		"user": {
 			"id": 174124175,
 			"id_str": "174124175",
-			"name": "Tim Klapdor",
+			"name": "Tim “Don’t you open that Trapdoor!”",
 			"screen_name": "timklapdor",
 			"location": "Wagga Wagga",
 			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "http://t.co/uC0c3me6KE",
+			"url": "https://t.co/uC0c3me6KE",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "http://t.co/uC0c3me6KE",
+							"url": "https://t.co/uC0c3me6KE",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
 								0,
-								22
+								23
 							]
 						}
 					]
@@ -3428,12 +3867,12 @@ Grailbird.data.tweets_2018_10 =
 			"friends_count": 147,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6270,
+			"favourites_count": 6272,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13088,
+			"statuses_count": 13090,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -3562,9 +4001,9 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 30428,
-			"friends_count": 5546,
-			"listed_count": 356,
+			"followers_count": 30433,
+			"friends_count": 5544,
+			"listed_count": 355,
 			"created_at": "Thu Jun 30 13:11:41 +0000 2011",
 			"favourites_count": 21953,
 			"utc_offset": null,
@@ -3657,7 +4096,7 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 271,
+			"followers_count": 273,
 			"friends_count": 307,
 			"listed_count": 10,
 			"created_at": "Tue Nov 16 01:49:34 +0000 2010",
@@ -3696,8 +4135,8 @@ Grailbird.data.tweets_2018_10 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 2545,
-		"favorite_count": 5276,
+		"retweet_count": 2541,
+		"favorite_count": 5275,
 		"favorited": false,
 		"retweeted": true,
 		"lang": "en",
@@ -3749,16 +4188,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1435,
-			"friends_count": 2033,
+			"followers_count": 1434,
+			"friends_count": 2034,
 			"listed_count": 125,
 			"created_at": "Sat May 24 08:54:54 +0000 2008",
-			"favourites_count": 15909,
+			"favourites_count": 15928,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 39937,
+			"statuses_count": 39938,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -3864,16 +4303,16 @@ Grailbird.data.tweets_2018_10 =
 					}
 				},
 				"protected": false,
-				"followers_count": 61376,
-				"friends_count": 43257,
-				"listed_count": 2822,
+				"followers_count": 61454,
+				"friends_count": 43277,
+				"listed_count": 2820,
 				"created_at": "Fri Jul 18 21:12:53 +0000 2008",
-				"favourites_count": 157222,
+				"favourites_count": 157347,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": true,
-				"statuses_count": 567998,
+				"statuses_count": 568231,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -3911,7 +4350,7 @@ Grailbird.data.tweets_2018_10 =
 				"display": "twitter.com/channeltennews…"
 			},
 			"retweet_count": 436,
-			"favorite_count": 514,
+			"favorite_count": 513,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
@@ -3994,16 +4433,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 5757,
+			"followers_count": 5762,
 			"friends_count": 1044,
 			"listed_count": 400,
 			"created_at": "Thu Mar 22 17:38:27 +0000 2007",
-			"favourites_count": 10942,
+			"favourites_count": 10949,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 805,
+			"statuses_count": 823,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -4087,16 +4526,16 @@ Grailbird.data.tweets_2018_10 =
 					}
 				},
 				"protected": false,
-				"followers_count": 23333437,
+				"followers_count": 23366509,
 				"friends_count": 75,
-				"listed_count": 47041,
+				"listed_count": 47069,
 				"created_at": "Tue Jun 02 20:12:29 +0000 2009",
-				"favourites_count": 1757,
+				"favourites_count": 1766,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": true,
-				"statuses_count": 5793,
+				"statuses_count": 5820,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -4126,8 +4565,8 @@ Grailbird.data.tweets_2018_10 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 1997,
-			"favorite_count": 10747,
+			"retweet_count": 2001,
+			"favorite_count": 10760,
 			"favorited": false,
 			"retweeted": false,
 			"lang": "en"
@@ -4176,16 +4615,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8835,
-			"friends_count": 1086,
+			"followers_count": 8838,
+			"friends_count": 1087,
 			"listed_count": 222,
 			"created_at": "Tue Feb 23 04:35:03 +0000 2010",
-			"favourites_count": 780,
+			"favourites_count": 781,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15116,
+			"statuses_count": 15124,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -4215,7 +4654,7 @@ Grailbird.data.tweets_2018_10 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 252,
-		"favorite_count": 576,
+		"favorite_count": 577,
 		"favorited": false,
 		"retweeted": true,
 		"lang": "en",
@@ -4280,16 +4719,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 82584,
-			"friends_count": 2919,
+			"followers_count": 82612,
+			"friends_count": 2921,
 			"listed_count": 884,
 			"created_at": "Tue May 19 10:00:55 +0000 2009",
-			"favourites_count": 69031,
+			"favourites_count": 69085,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 70327,
+			"statuses_count": 70343,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -4375,7 +4814,7 @@ Grailbird.data.tweets_2018_10 =
 					}
 				},
 				"protected": false,
-				"followers_count": 14943,
+				"followers_count": 14953,
 				"friends_count": 830,
 				"listed_count": 279,
 				"created_at": "Fri Jun 08 02:50:47 +0000 2012",
@@ -4384,7 +4823,7 @@ Grailbird.data.tweets_2018_10 =
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": false,
-				"statuses_count": 13589,
+				"statuses_count": 13591,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -4577,16 +5016,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 21772,
-			"friends_count": 3483,
-			"listed_count": 253,
+			"followers_count": 21782,
+			"friends_count": 3482,
+			"listed_count": 254,
 			"created_at": "Sat Aug 30 16:29:26 +0000 2014",
 			"favourites_count": 17238,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 25168,
+			"statuses_count": 25165,
 			"lang": "en-gb",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -4659,21 +5098,21 @@ Grailbird.data.tweets_2018_10 =
 		"user": {
 			"id": 174124175,
 			"id_str": "174124175",
-			"name": "Tim Klapdor",
+			"name": "Tim “Don’t you open that Trapdoor!”",
 			"screen_name": "timklapdor",
 			"location": "Wagga Wagga",
 			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "http://t.co/uC0c3me6KE",
+			"url": "https://t.co/uC0c3me6KE",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "http://t.co/uC0c3me6KE",
+							"url": "https://t.co/uC0c3me6KE",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
 								0,
-								22
+								23
 							]
 						}
 					]
@@ -4687,12 +5126,12 @@ Grailbird.data.tweets_2018_10 =
 			"friends_count": 147,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6270,
+			"favourites_count": 6272,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13088,
+			"statuses_count": 13090,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -4809,21 +5248,21 @@ Grailbird.data.tweets_2018_10 =
 		"user": {
 			"id": 174124175,
 			"id_str": "174124175",
-			"name": "Tim Klapdor",
+			"name": "Tim “Don’t you open that Trapdoor!”",
 			"screen_name": "timklapdor",
 			"location": "Wagga Wagga",
 			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "http://t.co/uC0c3me6KE",
+			"url": "https://t.co/uC0c3me6KE",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "http://t.co/uC0c3me6KE",
+							"url": "https://t.co/uC0c3me6KE",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
 								0,
-								22
+								23
 							]
 						}
 					]
@@ -4837,12 +5276,12 @@ Grailbird.data.tweets_2018_10 =
 			"friends_count": 147,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6270,
+			"favourites_count": 6272,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13088,
+			"statuses_count": 13090,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -4972,8 +5411,8 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 25887,
-			"friends_count": 1752,
+			"followers_count": 25899,
+			"friends_count": 1751,
 			"listed_count": 556,
 			"created_at": "Mon Nov 29 03:21:23 +0000 2010",
 			"favourites_count": 169,
@@ -5078,16 +5517,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 30400,
-			"friends_count": 5774,
-			"listed_count": 677,
+			"followers_count": 30435,
+			"friends_count": 5776,
+			"listed_count": 678,
 			"created_at": "Mon Nov 16 09:40:20 +0000 2009",
-			"favourites_count": 9821,
+			"favourites_count": 9823,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 71418,
+			"statuses_count": 71422,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -5319,16 +5758,16 @@ Grailbird.data.tweets_2018_10 =
 					}
 				},
 				"protected": false,
-				"followers_count": 396776,
-				"friends_count": 15836,
-				"listed_count": 4179,
+				"followers_count": 396918,
+				"friends_count": 15835,
+				"listed_count": 4180,
 				"created_at": "Sat Oct 18 02:39:23 +0000 2008",
 				"favourites_count": 1688,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": true,
-				"statuses_count": 217013,
+				"statuses_count": 217047,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -5366,7 +5805,7 @@ Grailbird.data.tweets_2018_10 =
 			"lang": "en"
 		},
 		"retweet_count": 241,
-		"favorite_count": 427,
+		"favorite_count": 426,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -5432,16 +5871,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 5757,
+			"followers_count": 5762,
 			"friends_count": 1044,
 			"listed_count": 400,
 			"created_at": "Thu Mar 22 17:38:27 +0000 2007",
-			"favourites_count": 10942,
+			"favourites_count": 10949,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 805,
+			"statuses_count": 823,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -5537,16 +5976,16 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 5757,
+			"followers_count": 5762,
 			"friends_count": 1044,
 			"listed_count": 400,
 			"created_at": "Thu Mar 22 17:38:27 +0000 2007",
-			"favourites_count": 10942,
+			"favourites_count": 10949,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 805,
+			"statuses_count": 823,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -5661,7 +6100,7 @@ Grailbird.data.tweets_2018_10 =
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 105335,
+			"statuses_count": 105375,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -5822,7 +6261,7 @@ Grailbird.data.tweets_2018_10 =
 					}
 				},
 				"protected": false,
-				"followers_count": 21381,
+				"followers_count": 21402,
 				"friends_count": 380,
 				"listed_count": 132,
 				"created_at": "Wed Mar 02 04:15:15 +0000 2016",
@@ -5831,7 +6270,7 @@ Grailbird.data.tweets_2018_10 =
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": true,
-				"statuses_count": 660,
+				"statuses_count": 662,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -5895,7 +6334,7 @@ Grailbird.data.tweets_2018_10 =
 			"contributors": null,
 			"is_quote_status": false,
 			"retweet_count": 139,
-			"favorite_count": 460,
+			"favorite_count": 459,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
@@ -5955,21 +6394,21 @@ Grailbird.data.tweets_2018_10 =
 		"user": {
 			"id": 174124175,
 			"id_str": "174124175",
-			"name": "Tim Klapdor",
+			"name": "Tim “Don’t you open that Trapdoor!”",
 			"screen_name": "timklapdor",
 			"location": "Wagga Wagga",
 			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "http://t.co/uC0c3me6KE",
+			"url": "https://t.co/uC0c3me6KE",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "http://t.co/uC0c3me6KE",
+							"url": "https://t.co/uC0c3me6KE",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
 								0,
-								22
+								23
 							]
 						}
 					]
@@ -5983,12 +6422,12 @@ Grailbird.data.tweets_2018_10 =
 			"friends_count": 147,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6270,
+			"favourites_count": 6272,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13088,
+			"statuses_count": 13090,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -6124,21 +6563,21 @@ Grailbird.data.tweets_2018_10 =
 		"user": {
 			"id": 174124175,
 			"id_str": "174124175",
-			"name": "Tim Klapdor",
+			"name": "Tim “Don’t you open that Trapdoor!”",
 			"screen_name": "timklapdor",
 			"location": "Wagga Wagga",
 			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "http://t.co/uC0c3me6KE",
+			"url": "https://t.co/uC0c3me6KE",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "http://t.co/uC0c3me6KE",
+							"url": "https://t.co/uC0c3me6KE",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
 								0,
-								22
+								23
 							]
 						}
 					]
@@ -6152,12 +6591,12 @@ Grailbird.data.tweets_2018_10 =
 			"friends_count": 147,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6270,
+			"favourites_count": 6272,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13088,
+			"statuses_count": 13090,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -6287,8 +6726,8 @@ Grailbird.data.tweets_2018_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 108318,
-			"friends_count": 790,
+			"followers_count": 108364,
+			"friends_count": 789,
 			"listed_count": 1622,
 			"created_at": "Wed Aug 19 23:58:00 +0000 2009",
 			"favourites_count": 46,
@@ -6403,8 +6842,8 @@ Grailbird.data.tweets_2018_10 =
 					}
 				},
 				"protected": false,
-				"followers_count": 108318,
-				"friends_count": 790,
+				"followers_count": 108364,
+				"friends_count": 789,
 				"listed_count": 1622,
 				"created_at": "Wed Aug 19 23:58:00 +0000 2009",
 				"favourites_count": 46,
@@ -6450,7 +6889,7 @@ Grailbird.data.tweets_2018_10 =
 			"lang": "en"
 		},
 		"retweet_count": 1240,
-		"favorite_count": 3365,
+		"favorite_count": 3364,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -6503,21 +6942,21 @@ Grailbird.data.tweets_2018_10 =
 		"user": {
 			"id": 174124175,
 			"id_str": "174124175",
-			"name": "Tim Klapdor",
+			"name": "Tim “Don’t you open that Trapdoor!”",
 			"screen_name": "timklapdor",
 			"location": "Wagga Wagga",
 			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "http://t.co/uC0c3me6KE",
+			"url": "https://t.co/uC0c3me6KE",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "http://t.co/uC0c3me6KE",
+							"url": "https://t.co/uC0c3me6KE",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
 								0,
-								22
+								23
 							]
 						}
 					]
@@ -6531,12 +6970,12 @@ Grailbird.data.tweets_2018_10 =
 			"friends_count": 147,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6270,
+			"favourites_count": 6272,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13088,
+			"statuses_count": 13090,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -6779,16 +7218,16 @@ Grailbird.data.tweets_2018_10 =
 									}
 								},
 								"protected": false,
-								"followers_count": 169488,
-								"friends_count": 9998,
-								"listed_count": 3078,
+								"followers_count": 169492,
+								"friends_count": 9997,
+								"listed_count": 3080,
 								"created_at": "Wed Sep 14 20:14:50 +0000 2011",
-								"favourites_count": 904838,
+								"favourites_count": 904819,
 								"utc_offset": null,
 								"time_zone": null,
 								"geo_enabled": true,
 								"verified": false,
-								"statuses_count": 38227,
+								"statuses_count": 38259,
 								"lang": "en",
 								"contributors_enabled": false,
 								"is_translator": false,
@@ -6850,16 +7289,16 @@ Grailbird.data.tweets_2018_10 =
 					}
 				},
 				"protected": false,
-				"followers_count": 59389,
+				"followers_count": 59508,
 				"friends_count": 1347,
-				"listed_count": 899,
+				"listed_count": 900,
 				"created_at": "Sun Feb 15 03:59:26 +0000 2009",
-				"favourites_count": 13427,
+				"favourites_count": 13432,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": true,
-				"statuses_count": 23348,
+				"statuses_count": 23357,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -6889,8 +7328,8 @@ Grailbird.data.tweets_2018_10 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 3363,
-			"favorite_count": 7743,
+			"retweet_count": 3371,
+			"favorite_count": 7750,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
