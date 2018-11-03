@@ -1,6 +1,502 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Fri Nov 02 05:01:36 +0000 2018",
+		"id": 1058222570552516600,
+		"id_str": "1058222570552516609",
+		"full_text": "@techgronomist Is this account in use?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			38
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "techgronomist",
+					"name": "@techgronomist",
+					"id": 1009470895386005500,
+					"id_str": "1009470895386005504",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 1009470895386005500,
+		"in_reply_to_user_id_str": "1009470895386005504",
+		"in_reply_to_screen_name": "techgronomist",
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim “Don’t you open that Trapdoor!”",
+			"screen_name": "timklapdor",
+			"location": "Wagga Wagga",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
+			"url": "https://t.co/uC0c3me6KE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uC0c3me6KE",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 774,
+			"friends_count": 146,
+			"listed_count": 97,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 6292,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13105,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/723129079671615492/O_NQ9rKL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/723129079671615492/O_NQ9rKL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@techgronomist Is this account in use?"
+	},
+	{
+		"created_at": "Fri Nov 02 04:13:49 +0000 2018",
+		"id": 1058210545394950100,
+		"id_str": "1058210545394950144",
+		"full_text": "Just a podcast FYI. If you're looking for the feed URL but only have the iTunes link - this Workflow (now Shortcut) on iOS works perfectly. Great if you're an @OvercastFM user and can't find the podcast in the app:\n\nhttps://t.co/3daXKM3rLr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			239
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OvercastFM",
+					"name": "Overcast",
+					"id": 1673763672,
+					"id_str": "1673763672",
+					"indices": [
+						159,
+						170
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/3daXKM3rLr",
+					"expanded_url": "https://www.jordanmerrick.com/posts/subscribe-to-podcast-itms-workflow",
+					"display_url": "jordanmerrick.com/posts/subscrib…",
+					"indices": [
+						216,
+						239
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim “Don’t you open that Trapdoor!”",
+			"screen_name": "timklapdor",
+			"location": "Wagga Wagga",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
+			"url": "https://t.co/uC0c3me6KE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uC0c3me6KE",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 774,
+			"friends_count": 146,
+			"listed_count": 97,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 6292,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13105,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/723129079671615492/O_NQ9rKL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/723129079671615492/O_NQ9rKL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Just a podcast FYI. If you're looking for the feed URL but only have the iTunes link - this Workflow (now Shortcut) on iOS works perfectly. Great if you're an @OvercastFM user and can't find the podcast in the app:\n\nhttps://t.co/3daXKM3rLr"
+	},
+	{
+		"created_at": "Fri Nov 02 04:10:35 +0000 2018",
+		"id": 1058209732299636700,
+		"id_str": "1058209732299636737",
+		"full_text": "@RMoeJo I did binge randomly - choosing voices I felt resonated more to consume first. Definitely enjoyed the theme structure, and being exposed to the diversity of approaches within that was fantastic. Happy to provide more than a tweets worth of feedback!",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			257
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RMoeJo",
+					"name": "Rolin Moe",
+					"id": 170832237,
+					"id_str": "170832237",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1058173213992087600,
+		"in_reply_to_status_id_str": "1058173213992087552",
+		"in_reply_to_user_id": 170832237,
+		"in_reply_to_user_id_str": "170832237",
+		"in_reply_to_screen_name": "RMoeJo",
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim “Don’t you open that Trapdoor!”",
+			"screen_name": "timklapdor",
+			"location": "Wagga Wagga",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
+			"url": "https://t.co/uC0c3me6KE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uC0c3me6KE",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 774,
+			"friends_count": 146,
+			"listed_count": 97,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 6292,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13105,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/723129079671615492/O_NQ9rKL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/723129079671615492/O_NQ9rKL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@RMoeJo I did binge randomly - choosing voices I felt resonated more to consume first. Definitely enjoyed the theme structure, and being exposed to the diversity of approaches within that was fantastic. Happy to provide more than a tweets worth of feedback!"
+	},
+	{
+		"created_at": "Fri Nov 02 04:05:40 +0000 2018",
+		"id": 1058208494602440700,
+		"id_str": "1058208494602440704",
+		"full_text": "@taykendesign @RMoeJo @dkernohan @mweller @BryanAlexander @veletsianos It should flow through but was in the same boat. Ended up using this Workflow (Shortcut) for iOS to get the Feed URL from iTunes link - https://t.co/3daXKLLQmR Might be useful for the future.",
+		"truncated": false,
+		"display_text_range": [
+			71,
+			262
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "taykendesign",
+					"name": "Taylor Kendal",
+					"id": 716093571900649500,
+					"id_str": "716093571900649473",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "RMoeJo",
+					"name": "Rolin Moe",
+					"id": 170832237,
+					"id_str": "170832237",
+					"indices": [
+						14,
+						21
+					]
+				},
+				{
+					"screen_name": "dkernohan",
+					"name": "𝕯𝖆𝖛𝖎𝖉 𝕶𝖊𝖗𝖓𝖔𝖍𝖆𝖓",
+					"id": 12219232,
+					"id_str": "12219232",
+					"indices": [
+						22,
+						32
+					]
+				},
+				{
+					"screen_name": "mweller",
+					"name": "Martin Weller",
+					"id": 7127162,
+					"id_str": "7127162",
+					"indices": [
+						33,
+						41
+					]
+				},
+				{
+					"screen_name": "BryanAlexander",
+					"name": "Bryan Alexander",
+					"id": 755991,
+					"id_str": "755991",
+					"indices": [
+						42,
+						57
+					]
+				},
+				{
+					"screen_name": "veletsianos",
+					"name": "George Veletsianos",
+					"id": 17883918,
+					"id_str": "17883918",
+					"indices": [
+						58,
+						70
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/3daXKLLQmR",
+					"expanded_url": "https://www.jordanmerrick.com/posts/subscribe-to-podcast-itms-workflow",
+					"display_url": "jordanmerrick.com/posts/subscrib…",
+					"indices": [
+						207,
+						230
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1058180384385654800,
+		"in_reply_to_status_id_str": "1058180384385654785",
+		"in_reply_to_user_id": 716093571900649500,
+		"in_reply_to_user_id_str": "716093571900649473",
+		"in_reply_to_screen_name": "taykendesign",
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim “Don’t you open that Trapdoor!”",
+			"screen_name": "timklapdor",
+			"location": "Wagga Wagga",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
+			"url": "https://t.co/uC0c3me6KE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uC0c3me6KE",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 774,
+			"friends_count": 146,
+			"listed_count": 97,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 6292,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13105,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/723129079671615492/O_NQ9rKL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/723129079671615492/O_NQ9rKL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@taykendesign @RMoeJo @dkernohan @mweller @BryanAlexander @veletsianos It should flow through but was in the same boat. Ended up using this Workflow (Shortcut) for iOS to get the Feed URL from iTunes link - https://t.co/3daXKLLQmR Might be useful for the future."
+	},
+	{
 		"created_at": "Thu Nov 01 23:52:02 +0000 2018",
 		"id": 1058144668456673300,
 		"id_str": "1058144668456673280",
@@ -70,16 +566,16 @@ Grailbird.data.tweets_2018_11 =
 				}
 			},
 			"protected": false,
-			"followers_count": 775,
-			"friends_count": 147,
+			"followers_count": 774,
+			"friends_count": 146,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6291,
+			"favourites_count": 6292,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13102,
+			"statuses_count": 13105,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -175,16 +671,16 @@ Grailbird.data.tweets_2018_11 =
 				}
 			},
 			"protected": false,
-			"followers_count": 775,
-			"friends_count": 147,
+			"followers_count": 774,
+			"friends_count": 146,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6291,
+			"favourites_count": 6292,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13102,
+			"statuses_count": 13105,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -280,16 +776,16 @@ Grailbird.data.tweets_2018_11 =
 					}
 				},
 				"protected": false,
-				"followers_count": 99293,
+				"followers_count": 99304,
 				"friends_count": 293,
-				"listed_count": 4656,
+				"listed_count": 4659,
 				"created_at": "Fri Jan 04 21:57:10 +0000 2008",
-				"favourites_count": 55617,
+				"favourites_count": 55649,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": false,
-				"statuses_count": 39129,
+				"statuses_count": 39140,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -353,14 +849,14 @@ Grailbird.data.tweets_2018_11 =
 			"contributors": null,
 			"is_quote_status": false,
 			"retweet_count": 0,
-			"favorite_count": 13,
+			"favorite_count": 16,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
 			"lang": "en"
 		},
 		"retweet_count": 0,
-		"favorite_count": 0,
+		"favorite_count": 2,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
@@ -427,16 +923,16 @@ Grailbird.data.tweets_2018_11 =
 				}
 			},
 			"protected": false,
-			"followers_count": 775,
-			"friends_count": 147,
+			"followers_count": 774,
+			"friends_count": 146,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6291,
+			"favourites_count": 6292,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13102,
+			"statuses_count": 13105,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -565,16 +1061,16 @@ Grailbird.data.tweets_2018_11 =
 				}
 			},
 			"protected": false,
-			"followers_count": 775,
-			"friends_count": 147,
+			"followers_count": 774,
+			"friends_count": 146,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6291,
+			"favourites_count": 6292,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13102,
+			"statuses_count": 13105,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -705,16 +1201,16 @@ Grailbird.data.tweets_2018_11 =
 				}
 			},
 			"protected": false,
-			"followers_count": 775,
-			"friends_count": 147,
+			"followers_count": 774,
+			"friends_count": 146,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6291,
+			"favourites_count": 6292,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13102,
+			"statuses_count": 13105,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -843,16 +1339,16 @@ Grailbird.data.tweets_2018_11 =
 				}
 			},
 			"protected": false,
-			"followers_count": 775,
-			"friends_count": 147,
+			"followers_count": 774,
+			"friends_count": 146,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6291,
+			"favourites_count": 6292,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13102,
+			"statuses_count": 13105,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -916,7 +1412,7 @@ Grailbird.data.tweets_2018_11 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 1,
+		"favorite_count": 2,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
@@ -1041,16 +1537,16 @@ Grailbird.data.tweets_2018_11 =
 				}
 			},
 			"protected": false,
-			"followers_count": 775,
-			"friends_count": 147,
+			"followers_count": 774,
+			"friends_count": 146,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6291,
+			"favourites_count": 6292,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13102,
+			"statuses_count": 13105,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1113,8 +1609,8 @@ Grailbird.data.tweets_2018_11 =
 		},
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 1,
+		"retweet_count": 3,
+		"favorite_count": 11,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
