@@ -1,6 +1,155 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Fri Nov 30 22:04:41 +0000 2018",
+		"id": 1068626899964969000,
+		"id_str": "1068626899964968960",
+		"full_text": "Blockchain study finds 0.00% success rate\n\n“Though Blockchain has been touted as the answer to everything, a study of 43 solutions advanced in the international development sector has found exactly no evidence of success.”\n\nhttps://t.co/8cptR2pUuA\n\n#blockchain #bullshit",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			270
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "blockchain",
+					"indices": [
+						249,
+						260
+					]
+				},
+				{
+					"text": "bullshit",
+					"indices": [
+						261,
+						270
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8cptR2pUuA",
+					"expanded_url": "https://www.theregister.co.uk/2018/11/30/blockchain_study_finds_0_per_cent_success_rate/",
+					"display_url": "theregister.co.uk/2018/11/30/blo…",
+					"indices": [
+						224,
+						247
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 48903,
+			"id_str": "48903",
+			"name": "Aral Balkan",
+			"screen_name": "aral",
+			"location": "Terra firma",
+			"description": "I mainly post on my blog at https://t.co/MH5qjWg2mi (RSS: https://t.co/uoejQfZwcW) and interact on my Mastodon https://t.co/P7hooxbo4i. Please follow me there.",
+			"url": "https://t.co/MH5qjWg2mi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MH5qjWg2mi",
+							"expanded_url": "https://ar.al",
+							"display_url": "ar.al",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/MH5qjWg2mi",
+							"expanded_url": "https://ar.al",
+							"display_url": "ar.al",
+							"indices": [
+								28,
+								51
+							]
+						},
+						{
+							"url": "https://t.co/uoejQfZwcW",
+							"expanded_url": "https://ar.al/index.xml",
+							"display_url": "ar.al/index.xml",
+							"indices": [
+								58,
+								81
+							]
+						},
+						{
+							"url": "https://t.co/P7hooxbo4i",
+							"expanded_url": "https://mastodon.ar.al",
+							"display_url": "mastodon.ar.al",
+							"indices": [
+								111,
+								134
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 42779,
+			"friends_count": 19600,
+			"listed_count": 2663,
+			"created_at": "Thu Dec 07 19:55:38 +0000 2006",
+			"favourites_count": 112288,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 145063,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "AAAAAA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/873476708497838080/rdwukUAR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/873476708497838080/rdwukUAR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/48903/1503223813",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 311,
+		"favorite_count": 428,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Blockchain study finds 0.00% success rate\n\n“Though Blockchain has been touted as the answer to everything, a study of 43 solutions advanced in the international development sector has found exactly no evidence of success.”\n\nhttps://t.co/8cptR2pUuA\n\n#blockchain #bullshit"
+	},
+	{
 		"created_at": "Sat Dec 01 21:06:28 +0000 2018",
 		"id": 1068974636421926900,
 		"id_str": "1068974636421926912",
@@ -59,11 +208,11 @@ Grailbird.data.tweets_2018_12 =
 				}
 			},
 			"protected": false,
-			"followers_count": 775,
+			"followers_count": 774,
 			"friends_count": 143,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6345,
+			"favourites_count": 6337,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
@@ -208,16 +357,16 @@ Grailbird.data.tweets_2018_12 =
 					}
 				},
 				"protected": false,
-				"followers_count": 19502,
+				"followers_count": 19571,
 				"friends_count": 2193,
-				"listed_count": 396,
+				"listed_count": 397,
 				"created_at": "Tue Mar 02 05:08:39 +0000 2010",
-				"favourites_count": 5738,
+				"favourites_count": 5739,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": true,
-				"statuses_count": 23164,
+				"statuses_count": 23176,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -247,8 +396,8 @@ Grailbird.data.tweets_2018_12 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 69,
-			"favorite_count": 129,
+			"retweet_count": 118,
+			"favorite_count": 221,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
@@ -322,11 +471,11 @@ Grailbird.data.tweets_2018_12 =
 				}
 			},
 			"protected": false,
-			"followers_count": 775,
+			"followers_count": 774,
 			"friends_count": 143,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6345,
+			"favourites_count": 6337,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
@@ -400,6 +549,88 @@ Grailbird.data.tweets_2018_12 =
 		"retweeted": false,
 		"lang": "en",
 		"text": "@LukeLPearson Lol. Tis the year of rememberence. 20 freaking years!"
+	},
+	{
+		"created_at": "Fri Nov 30 07:04:50 +0000 2018",
+		"id": 1068400444559437800,
+		"id_str": "1068400444559437824",
+		"full_text": "I vote that we lower the voting age in Australia to 3 years old, so that we can get a more sensible, empathetic, balanced and forward-thinking electorate.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 85178891,
+			"id_str": "85178891",
+			"name": "Maxine Beneba Clarke",
+			"screen_name": "slamup",
+			"location": "",
+			"description": "I try to write beautifully about ugly things: Foreign Soil/The Patchwork Bike/The Hate Race/Wide Big World. ANZ:martin@thebooksdesk.com UK/US:sue@cwagency.co.uk",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16247,
+			"friends_count": 1511,
+			"listed_count": 185,
+			"created_at": "Sun Oct 25 22:21:39 +0000 2009",
+			"favourites_count": 14255,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18177,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1040562554106339328/0XbXEOsy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1040562554106339328/0XbXEOsy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/85178891/1429002410",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 81,
+		"favorite_count": 806,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "I vote that we lower the voting age in Australia to 3 years old, so that we can get a more sensible, empathetic, balanced and forward-thinking electorate."
 	},
 	{
 		"created_at": "Sat Dec 01 07:51:22 +0000 2018",
@@ -539,11 +770,11 @@ Grailbird.data.tweets_2018_12 =
 				}
 			},
 			"protected": false,
-			"followers_count": 775,
+			"followers_count": 774,
 			"friends_count": 143,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6345,
+			"favourites_count": 6337,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
@@ -756,16 +987,16 @@ Grailbird.data.tweets_2018_12 =
 				}
 			},
 			"protected": false,
-			"followers_count": 13304,
-			"friends_count": 5416,
+			"followers_count": 13302,
+			"friends_count": 5414,
 			"listed_count": 211,
 			"created_at": "Mon Jun 07 04:06:10 +0000 2010",
-			"favourites_count": 10529,
+			"favourites_count": 10535,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 11766,
+			"statuses_count": 11767,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -796,7 +1027,7 @@ Grailbird.data.tweets_2018_12 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 66,
-		"favorite_count": 208,
+		"favorite_count": 212,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
