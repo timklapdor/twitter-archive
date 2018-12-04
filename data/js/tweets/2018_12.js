@@ -1,6 +1,414 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Mon Dec 03 22:39:56 +0000 2018",
+		"id": 1069722934586081300,
+		"id_str": "1069722934586081280",
+		"full_text": "New blog post: Where am I going? What am I doing? https://t.co/f7iMtIpyOW https://t.co/F37LzLUqRQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/f7iMtIpyOW",
+					"expanded_url": "https://timklapdor.wordpress.com/2018/12/04/where-am-i-going-what-am-i-doing/",
+					"display_url": "timklapdor.wordpress.com/2018/12/04/whe…",
+					"indices": [
+						50,
+						73
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1069722932547530800,
+					"id_str": "1069722932547530752",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/DthrVuqVsAA1MbB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DthrVuqVsAA1MbB.jpg",
+					"url": "https://t.co/F37LzLUqRQ",
+					"display_url": "pic.twitter.com/F37LzLUqRQ",
+					"expanded_url": "https://twitter.com/timklapdor/status/1069722934586081280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 888,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 888,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 590,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1069722932547530800,
+					"id_str": "1069722932547530752",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/DthrVuqVsAA1MbB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DthrVuqVsAA1MbB.jpg",
+					"url": "https://t.co/F37LzLUqRQ",
+					"display_url": "pic.twitter.com/F37LzLUqRQ",
+					"expanded_url": "https://twitter.com/timklapdor/status/1069722934586081280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 888,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 888,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 590,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Wagga Wagga",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
+			"url": "https://t.co/uC0c3me6KE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uC0c3me6KE",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 774,
+			"friends_count": 143,
+			"listed_count": 97,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 6338,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13144,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1067778743207260160/7c3ZEd6P_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1067778743207260160/7c3ZEd6P_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "New blog post: Where am I going? What am I doing? https://t.co/f7iMtIpyOW https://t.co/F37LzLUqRQ"
+	},
+	{
+		"created_at": "Mon Dec 03 20:41:26 +0000 2018",
+		"id": 1069693110316200000,
+		"id_str": "1069693110316199936",
+		"full_text": "Those most conspicuous in offering farmers sympathy during the drought are the most conspicuously absent in addressing the causes.\n\nThose that “represent rural Australia” must say no to new coal mines &amp; make all effort to prevent further climate breakdown.\n\n@farmingforever #Adani https://t.co/0WT4vR7ARF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			284
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Adani",
+					"indices": [
+						278,
+						284
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "farmingforever",
+					"name": "FarmersClimateAction",
+					"id": 792921727567224800,
+					"id_str": "792921727567224832",
+					"indices": [
+						262,
+						277
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1069692671201955800,
+					"id_str": "1069692671201955840",
+					"indices": [
+						285,
+						308
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1069692671201955840/pu/img/woLrtDJOr_Mn_Lmh.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1069692671201955840/pu/img/woLrtDJOr_Mn_Lmh.jpg",
+					"url": "https://t.co/0WT4vR7ARF",
+					"display_url": "pic.twitter.com/0WT4vR7ARF",
+					"expanded_url": "https://twitter.com/AnikaMolesworth/status/1069693110316199936/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1069692671201955800,
+					"id_str": "1069692671201955840",
+					"indices": [
+						285,
+						308
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1069692671201955840/pu/img/woLrtDJOr_Mn_Lmh.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1069692671201955840/pu/img/woLrtDJOr_Mn_Lmh.jpg",
+					"url": "https://t.co/0WT4vR7ARF",
+					"display_url": "pic.twitter.com/0WT4vR7ARF",
+					"expanded_url": "https://twitter.com/AnikaMolesworth/status/1069693110316199936/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 41640,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1069692671201955840/pu/vid/240x240/fh6m7c5ufiNoMPvv.mp4?tag=5"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1069692671201955840/pu/vid/720x720/s_4iBm4wFpMp8FMU.mp4?tag=5"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1069692671201955840/pu/vid/480x480/i9D2JVf-2KWOiTEv.mp4?tag=5"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1069692671201955840/pu/pl/3DqBfmjdg0BLyXFg.m3u8?tag=5"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2302531476,
+			"id_str": "2302531476",
+			"name": "Anika Molesworth",
+			"screen_name": "AnikaMolesworth",
+			"location": "",
+			"description": "Young Farmer of the Year, MSc Sustainable Ag & PhD international agricultural researcher. Passion for #agriculture #farming #climate #environment #renewables",
+			"url": "https://t.co/GmLazWYNmn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GmLazWYNmn",
+							"expanded_url": "http://www.climatewiseagriculture.com",
+							"display_url": "climatewiseagriculture.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3753,
+			"friends_count": 4978,
+			"listed_count": 62,
+			"created_at": "Tue Jan 21 05:11:42 +0000 2014",
+			"favourites_count": 1456,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1271,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/680710091243323392/eNpHKnXI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/680710091243323392/eNpHKnXI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2302531476/1533549806",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 40,
+		"favorite_count": 56,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Those most conspicuous in offering farmers sympathy during the drought are the most conspicuously absent in addressing the causes.\n\nThose that “represent rural Australia” must say no to new coal mines &amp; make all effort to prevent further climate breakdown.\n\n@farmingforever #Adani https://t.co/0WT4vR7ARF"
+	},
+	{
 		"created_at": "Fri Nov 30 22:04:41 +0000 2018",
 		"id": 1068626899964969000,
 		"id_str": "1068626899964968960",
@@ -102,11 +510,11 @@ Grailbird.data.tweets_2018_12 =
 				}
 			},
 			"protected": false,
-			"followers_count": 42779,
-			"friends_count": 19600,
-			"listed_count": 2663,
+			"followers_count": 42769,
+			"friends_count": 19597,
+			"listed_count": 2661,
 			"created_at": "Thu Dec 07 19:55:38 +0000 2006",
-			"favourites_count": 112288,
+			"favourites_count": 112283,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
@@ -141,8 +549,8 @@ Grailbird.data.tweets_2018_12 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 311,
-		"favorite_count": 428,
+		"retweet_count": 349,
+		"favorite_count": 486,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -212,12 +620,12 @@ Grailbird.data.tweets_2018_12 =
 			"friends_count": 143,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6337,
+			"favourites_count": 6338,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13142,
+			"statuses_count": 13144,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -357,16 +765,16 @@ Grailbird.data.tweets_2018_12 =
 					}
 				},
 				"protected": false,
-				"followers_count": 19571,
-				"friends_count": 2193,
-				"listed_count": 397,
+				"followers_count": 19613,
+				"friends_count": 2194,
+				"listed_count": 400,
 				"created_at": "Tue Mar 02 05:08:39 +0000 2010",
-				"favourites_count": 5739,
+				"favourites_count": 5749,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": true,
-				"statuses_count": 23176,
+				"statuses_count": 23188,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -396,8 +804,8 @@ Grailbird.data.tweets_2018_12 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 118,
-			"favorite_count": 221,
+			"retweet_count": 120,
+			"favorite_count": 224,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
@@ -475,12 +883,12 @@ Grailbird.data.tweets_2018_12 =
 			"friends_count": 143,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6337,
+			"favourites_count": 6338,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13142,
+			"statuses_count": 13144,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -586,16 +994,16 @@ Grailbird.data.tweets_2018_12 =
 				}
 			},
 			"protected": false,
-			"followers_count": 16247,
+			"followers_count": 16256,
 			"friends_count": 1511,
-			"listed_count": 185,
+			"listed_count": 186,
 			"created_at": "Sun Oct 25 22:21:39 +0000 2009",
-			"favourites_count": 14255,
+			"favourites_count": 14261,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 18177,
+			"statuses_count": 18197,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -626,7 +1034,7 @@ Grailbird.data.tweets_2018_12 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 81,
-		"favorite_count": 806,
+		"favorite_count": 811,
 		"favorited": false,
 		"retweeted": true,
 		"lang": "en",
@@ -774,12 +1182,12 @@ Grailbird.data.tweets_2018_12 =
 			"friends_count": 143,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6337,
+			"favourites_count": 6338,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13142,
+			"statuses_count": 13144,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -987,16 +1395,16 @@ Grailbird.data.tweets_2018_12 =
 				}
 			},
 			"protected": false,
-			"followers_count": 13302,
-			"friends_count": 5414,
-			"listed_count": 211,
+			"followers_count": 13305,
+			"friends_count": 5412,
+			"listed_count": 210,
 			"created_at": "Mon Jun 07 04:06:10 +0000 2010",
-			"favourites_count": 10535,
+			"favourites_count": 10545,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 11767,
+			"statuses_count": 11772,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1027,7 +1435,7 @@ Grailbird.data.tweets_2018_12 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 66,
-		"favorite_count": 212,
+		"favorite_count": 213,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
