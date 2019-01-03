@@ -1,6 +1,299 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Tue Jan 01 22:54:23 +0000 2019",
+		"id": 1080235819883872300,
+		"id_str": "1080235819883872257",
+		"full_text": "Sometimes it’s better not to explore your hidden talent 😆\n https://t.co/feqomKbKoU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1079336897913049100,
+					"id_str": "1079336897913049093",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1079336897913049093/pu/img/77PW-vmJpMCeeimk.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1079336897913049093/pu/img/77PW-vmJpMCeeimk.jpg",
+					"url": "https://t.co/feqomKbKoU",
+					"display_url": "pic.twitter.com/feqomKbKoU",
+					"expanded_url": "https://twitter.com/uespiiiiii/status/1079337181938761728/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1079337181938761700,
+					"source_status_id_str": "1079337181938761728",
+					"source_user_id": 241002951,
+					"source_user_id_str": "241002951"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1079336897913049100,
+					"id_str": "1079336897913049093",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1079336897913049093/pu/img/77PW-vmJpMCeeimk.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1079336897913049093/pu/img/77PW-vmJpMCeeimk.jpg",
+					"url": "https://t.co/feqomKbKoU",
+					"display_url": "pic.twitter.com/feqomKbKoU",
+					"expanded_url": "https://twitter.com/uespiiiiii/status/1079337181938761728/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1079337181938761700,
+					"source_status_id_str": "1079337181938761728",
+					"source_user_id": 241002951,
+					"source_user_id_str": "241002951",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 59700,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1079336897913049093/pu/pl/_0K6kw4ZPSeR1E1J.m3u8?tag=6"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1079336897913049093/pu/vid/720x720/XBi-0-rDT-CqH8xr.mp4?tag=6"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1079336897913049093/pu/vid/480x480/d9xwQTXP-M81qVlL.mp4?tag=6"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1079336897913049093/pu/vid/320x320/RpVEQcRbzHFLGrg6.mp4?tag=6"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 241002951,
+							"id_str": "241002951",
+							"name": "ウエスP(Wes-P／Mr Uekusa) BGT2018&AGT2018",
+							"screen_name": "uespiiiiii",
+							"location": "comedian",
+							"description": "よしもと/America’s Got Talent/Britain's Got Talent日本人初セミファイナリスト/テーブルクロス引き/裸芸人/埼玉県上尾市出身/ウルトラソウル選手権/Contact→ https://t.co/KtnYiTAHKv https://t.co/EtkS0hKLZY",
+							"url": "https://t.co/zH8P58vvcq",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/zH8P58vvcq",
+											"expanded_url": "https://www.instagram.com/uespiiiiii/",
+											"display_url": "instagram.com/uespiiiiii/",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": [
+										{
+											"url": "https://t.co/KtnYiTAHKv",
+											"expanded_url": "https://mr-uekusa.com/",
+											"display_url": "mr-uekusa.com",
+											"indices": [
+												103,
+												126
+											]
+										},
+										{
+											"url": "https://t.co/EtkS0hKLZY",
+											"expanded_url": "https://m.youtube.com/user/Uespi1",
+											"display_url": "m.youtube.com/user/Uespi1",
+											"indices": [
+												127,
+												150
+											]
+										}
+									]
+								}
+							},
+							"protected": false,
+							"followers_count": 33427,
+							"friends_count": 409,
+							"listed_count": 125,
+							"created_at": "Fri Jan 21 06:32:03 +0000 2011",
+							"favourites_count": 6906,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 5605,
+							"lang": "ja",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "0099B9",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/984883565056831488/8m_b-7vc_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/984883565056831488/8m_b-7vc_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/241002951/1453273367",
+							"profile_link_color": "0099B9",
+							"profile_sidebar_border_color": "5ED4DC",
+							"profile_sidebar_fill_color": "95E8EC",
+							"profile_text_color": "3C3940",
+							"profile_use_background_image": true,
+							"has_extended_profile": true,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 25235151,
+			"id_str": "25235151",
+			"name": "Rita Panahi",
+			"screen_name": "RitaPanahi",
+			"location": "Melbourne, Victoria",
+			"description": "The truth is incontrovertible. Malice may attack it, ignorance may deride it, but in the end, there it is. Winston Churchill",
+			"url": "https://t.co/2saaz9O4Jk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2saaz9O4Jk",
+							"expanded_url": "http://blogs.news.com.au/heraldsun/miss-judgement/",
+							"display_url": "blogs.news.com.au/heraldsun/miss…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 141229,
+			"friends_count": 1667,
+			"listed_count": 1281,
+			"created_at": "Thu Mar 19 04:09:43 +0000 2009",
+			"favourites_count": 121884,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 120463,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/901301264406896640/Eis46gPG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/901301264406896640/Eis46gPG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/25235151/1351644431",
+			"profile_link_color": "ED2121",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1485,
+		"favorite_count": 4490,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Sometimes it’s better not to explore your hidden talent 😆\n https://t.co/feqomKbKoU"
+	},
+	{
 		"created_at": "Tue Jan 01 23:02:12 +0000 2019",
 		"id": 1080237784177139700,
 		"id_str": "1080237784177139712",
@@ -59,16 +352,16 @@ Grailbird.data.tweets_2019_01 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1571,
+			"followers_count": 1568,
 			"friends_count": 681,
 			"listed_count": 121,
 			"created_at": "Sun Jul 25 22:03:44 +0000 2010",
-			"favourites_count": 7530,
+			"favourites_count": 7538,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 10963,
+			"statuses_count": 10971,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -164,16 +457,16 @@ Grailbird.data.tweets_2019_01 =
 					}
 				},
 				"protected": false,
-				"followers_count": 21135,
-				"friends_count": 6018,
-				"listed_count": 916,
+				"followers_count": 21194,
+				"friends_count": 6027,
+				"listed_count": 914,
 				"created_at": "Mon Dec 31 23:47:46 +0000 2007",
-				"favourites_count": 45316,
+				"favourites_count": 45423,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": true,
-				"statuses_count": 38947,
+				"statuses_count": 38971,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -203,14 +496,14 @@ Grailbird.data.tweets_2019_01 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 2,
-			"favorite_count": 16,
+			"retweet_count": 11,
+			"favorite_count": 55,
 			"favorited": false,
 			"retweeted": false,
 			"lang": "en"
 		},
-		"retweet_count": 3,
-		"favorite_count": 2,
+		"retweet_count": 4,
+		"favorite_count": 8,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -291,12 +584,12 @@ Grailbird.data.tweets_2019_01 =
 			"friends_count": 129,
 			"listed_count": 96,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6394,
+			"favourites_count": 6392,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13191,
+			"statuses_count": 13192,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -430,12 +723,12 @@ Grailbird.data.tweets_2019_01 =
 			"friends_count": 129,
 			"listed_count": 96,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6394,
+			"favourites_count": 6392,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13191,
+			"statuses_count": 13192,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
