@@ -1,6 +1,244 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Tue Jan 01 17:52:29 +0000 2019",
+		"id": 1080159842168438800,
+		"id_str": "1080159842168438785",
+		"full_text": "I have played this shit over 10 times already 🔥🔥🔥😂😂😂 https://t.co/axkO1bpSXo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1080159693832622100,
+					"id_str": "1080159693832622080",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1080159693832622080/pu/img/uEYnCTL4eutPztju.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1080159693832622080/pu/img/uEYnCTL4eutPztju.jpg",
+					"url": "https://t.co/axkO1bpSXo",
+					"display_url": "pic.twitter.com/axkO1bpSXo",
+					"expanded_url": "https://twitter.com/badt_BOI_/status/1080159842168438785/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 480,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 600,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1080159693832622100,
+					"id_str": "1080159693832622080",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1080159693832622080/pu/img/uEYnCTL4eutPztju.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1080159693832622080/pu/img/uEYnCTL4eutPztju.jpg",
+					"url": "https://t.co/axkO1bpSXo",
+					"display_url": "pic.twitter.com/axkO1bpSXo",
+					"expanded_url": "https://twitter.com/badt_BOI_/status/1080159842168438785/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 480,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 600,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 600,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 22833,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1080159693832622080/pu/pl/OEADkOvgluTnPt97.m3u8?tag=6"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1080159693832622080/pu/vid/360x450/YGrv-IeNFIRhGcgV.mp4?tag=6"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1080159693832622080/pu/vid/320x400/UCWqKDXCK0N-u0We.mp4?tag=6"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1080159693832622080/pu/vid/480x600/l1rGMDPXRrA5H8nJ.mp4?tag=6"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 378524720,
+			"id_str": "378524720",
+			"name": "Mayor of Ikotun",
+			"screen_name": "badt_BOI_",
+			"location": "Lagos, Nigeria",
+			"description": "Artist until I find a real job. Want a Portrait of yourself? DM me. IG: badt_boi_ whatsapp: +2347084448185",
+			"url": "https://t.co/HXfGwSxxVU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HXfGwSxxVU",
+							"expanded_url": "http://nigerianentertainment.com/2015/12/12/pencil-portrait-artist-eguavoen-imuetiyan-the-works-of-a",
+							"display_url": "nigerianentertainment.com/2015/12/12/pen…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 63659,
+			"friends_count": 18505,
+			"listed_count": 263,
+			"created_at": "Fri Sep 23 10:48:55 +0000 2011",
+			"favourites_count": 697,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 74320,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1010867677517279232/iEzWlSpZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1010867677517279232/iEzWlSpZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/378524720/1542430681",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "005dbe7e6949db42",
+			"url": "https://api.twitter.com/1.1/geo/id/005dbe7e6949db42.json",
+			"place_type": "city",
+			"name": "Benin-City",
+			"full_name": "Benin-City, Nigeria",
+			"country_code": "NG",
+			"country": "Nigeria",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							5.5532952,
+							6.2445092
+						],
+						[
+							5.7292806,
+							6.2445092
+						],
+						[
+							5.7292806,
+							6.4254003
+						],
+						[
+							5.5532952,
+							6.4254003
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 118425,
+		"favorite_count": 298718,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I have played this shit over 10 times already 🔥🔥🔥😂😂😂 https://t.co/axkO1bpSXo"
+	},
+	{
 		"created_at": "Tue Jan 01 22:54:23 +0000 2019",
 		"id": 1080235819883872300,
 		"id_str": "1080235819883872257",
@@ -175,16 +413,16 @@ Grailbird.data.tweets_2019_01 =
 								}
 							},
 							"protected": false,
-							"followers_count": 33427,
-							"friends_count": 409,
-							"listed_count": 125,
+							"followers_count": 36290,
+							"friends_count": 410,
+							"listed_count": 128,
 							"created_at": "Fri Jan 21 06:32:03 +0000 2011",
-							"favourites_count": 6906,
+							"favourites_count": 6926,
 							"utc_offset": null,
 							"time_zone": null,
 							"geo_enabled": false,
 							"verified": false,
-							"statuses_count": 5605,
+							"statuses_count": 5608,
 							"lang": "ja",
 							"contributors_enabled": false,
 							"is_translator": false,
@@ -246,16 +484,16 @@ Grailbird.data.tweets_2019_01 =
 				}
 			},
 			"protected": false,
-			"followers_count": 141229,
-			"friends_count": 1667,
-			"listed_count": 1281,
+			"followers_count": 141327,
+			"friends_count": 1670,
+			"listed_count": 1280,
 			"created_at": "Thu Mar 19 04:09:43 +0000 2009",
-			"favourites_count": 121884,
+			"favourites_count": 121951,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 120463,
+			"statuses_count": 120530,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -285,8 +523,8 @@ Grailbird.data.tweets_2019_01 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 1485,
-		"favorite_count": 4490,
+		"retweet_count": 1671,
+		"favorite_count": 4948,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -354,14 +592,14 @@ Grailbird.data.tweets_2019_01 =
 			"protected": false,
 			"followers_count": 1568,
 			"friends_count": 681,
-			"listed_count": 121,
+			"listed_count": 120,
 			"created_at": "Sun Jul 25 22:03:44 +0000 2010",
-			"favourites_count": 7538,
+			"favourites_count": 7542,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 10971,
+			"statuses_count": 10973,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -457,16 +695,16 @@ Grailbird.data.tweets_2019_01 =
 					}
 				},
 				"protected": false,
-				"followers_count": 21194,
-				"friends_count": 6027,
+				"followers_count": 21214,
+				"friends_count": 6040,
 				"listed_count": 914,
 				"created_at": "Mon Dec 31 23:47:46 +0000 2007",
-				"favourites_count": 45423,
+				"favourites_count": 45500,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": true,
-				"statuses_count": 38971,
+				"statuses_count": 38985,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -496,8 +734,8 @@ Grailbird.data.tweets_2019_01 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 11,
-			"favorite_count": 55,
+			"retweet_count": 12,
+			"favorite_count": 61,
 			"favorited": false,
 			"retweeted": false,
 			"lang": "en"
@@ -580,16 +818,16 @@ Grailbird.data.tweets_2019_01 =
 				}
 			},
 			"protected": false,
-			"followers_count": 771,
+			"followers_count": 772,
 			"friends_count": 129,
 			"listed_count": 96,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6392,
+			"favourites_count": 6389,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13192,
+			"statuses_count": 13193,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -719,16 +957,16 @@ Grailbird.data.tweets_2019_01 =
 				}
 			},
 			"protected": false,
-			"followers_count": 771,
+			"followers_count": 772,
 			"friends_count": 129,
 			"listed_count": 96,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6392,
+			"favourites_count": 6389,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13192,
+			"statuses_count": 13193,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
