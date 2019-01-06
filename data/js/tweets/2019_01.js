@@ -1,6 +1,355 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Sat Jan 05 15:56:51 +0000 2019",
+		"id": 1081580295827054600,
+		"id_str": "1081580295827054592",
+		"full_text": "With heatwaves like this, what sort of future do we have in store? - So glad this got picked up. Local farmer  discusses what climate change means for those on the land. It’s time for change and action from Canberra https://t.co/FZnLkMDXbd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			239
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FZnLkMDXbd",
+					"expanded_url": "https://www.smh.com.au/national/with-heatwaves-like-this-what-sort-of-future-do-we-have-in-store-20190103-p50pim.html",
+					"display_url": "smh.com.au/national/with-…",
+					"indices": [
+						216,
+						239
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Wagga Wagga",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
+			"url": "https://t.co/uC0c3me6KE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uC0c3me6KE",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 772,
+			"friends_count": 129,
+			"listed_count": 96,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 6392,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13195,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1067778743207260160/7c3ZEd6P_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1067778743207260160/7c3ZEd6P_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "With heatwaves like this, what sort of future do we have in store? - So glad this got picked up. Local farmer  discusses what climate change means for those on the land. It’s time for change and action from Canberra https://t.co/FZnLkMDXbd"
+	},
+	{
+		"created_at": "Fri Jan 04 16:17:00 +0000 2019",
+		"id": 1081222976366960600,
+		"id_str": "1081222976366960640",
+		"full_text": "A glass bridge in China that actually trolls people. \nhttps://t.co/D9v4ckl4zy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 947534201057894400,
+					"id_str": "947534201057894402",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/947534201057894402/pu/img/dBH2-ZYvzggIwk5V.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/947534201057894402/pu/img/dBH2-ZYvzggIwk5V.jpg",
+					"url": "https://t.co/D9v4ckl4zy",
+					"display_url": "pic.twitter.com/D9v4ckl4zy",
+					"expanded_url": "https://twitter.com/AzharPanni/status/947534587131039745/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 544,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 385,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 544,
+							"h": 960,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 947534587131039700,
+					"source_status_id_str": "947534587131039745",
+					"source_user_id": 1336003596,
+					"source_user_id_str": "1336003596"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 947534201057894400,
+					"id_str": "947534201057894402",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/947534201057894402/pu/img/dBH2-ZYvzggIwk5V.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/947534201057894402/pu/img/dBH2-ZYvzggIwk5V.jpg",
+					"url": "https://t.co/D9v4ckl4zy",
+					"display_url": "pic.twitter.com/D9v4ckl4zy",
+					"expanded_url": "https://twitter.com/AzharPanni/status/947534587131039745/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 544,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 385,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 544,
+							"h": 960,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 947534587131039700,
+					"source_status_id_str": "947534587131039745",
+					"source_user_id": 1336003596,
+					"source_user_id_str": "1336003596",
+					"video_info": {
+						"aspect_ratio": [
+							17,
+							30
+						],
+						"duration_millis": 11565,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/947534201057894402/pu/pl/qViE0mB0WZyZtXXh.m3u8"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/947534201057894402/pu/vid/180x320/iX3nMBZ-DSG1SPlo.mp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/947534201057894402/pu/vid/362x640/lEG9oeQXo65cvJPH.mp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 1336003596,
+							"id_str": "1336003596",
+							"name": "Azhar Panni",
+							"screen_name": "AzharPanni",
+							"location": "Abbottabad, PAKISTAN",
+							"description": "Hydropower Engineer and proud father of four daughters. Pakistani Muslim first then Hazarewal. Pakistan is my Jaan.",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 1169,
+							"friends_count": 349,
+							"listed_count": 17,
+							"created_at": "Mon Apr 08 07:51:44 +0000 2013",
+							"favourites_count": 7593,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": false,
+							"statuses_count": 12606,
+							"lang": "en",
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "C0DEED",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/448684177664135169/vhuImTOr_normal.jpeg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/448684177664135169/vhuImTOr_normal.jpeg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/1336003596/1409654488",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": true,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20675681,
+			"id_str": "20675681",
+			"name": "James Melville",
+			"screen_name": "JamesMelville",
+			"location": "",
+			"description": "Scottish diaspora. #Sponsorship #PublicAffairs #PR #SocialMedia",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 103684,
+			"friends_count": 73566,
+			"listed_count": 1090,
+			"created_at": "Thu Feb 12 13:13:40 +0000 2009",
+			"favourites_count": 56670,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14383,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "4A913C",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1076746296365645825/i7WGzknv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1076746296365645825/i7WGzknv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20675681/1543572972",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "F2E195",
+			"profile_sidebar_fill_color": "FFF7CC",
+			"profile_text_color": "0C3E53",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1586,
+		"favorite_count": 3202,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A glass bridge in China that actually trolls people. \nhttps://t.co/D9v4ckl4zy"
+	},
+	{
 		"created_at": "Tue Jan 01 17:52:29 +0000 2019",
 		"id": 1080159842168438800,
 		"id_str": "1080159842168438785",
@@ -158,16 +507,16 @@ Grailbird.data.tweets_2019_01 =
 				}
 			},
 			"protected": false,
-			"followers_count": 63797,
-			"friends_count": 18492,
-			"listed_count": 269,
+			"followers_count": 64081,
+			"friends_count": 18493,
+			"listed_count": 274,
 			"created_at": "Fri Sep 23 10:48:55 +0000 2011",
-			"favourites_count": 697,
+			"favourites_count": 681,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 74393,
+			"statuses_count": 74538,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -230,8 +579,8 @@ Grailbird.data.tweets_2019_01 =
 		},
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 126559,
-		"favorite_count": 317920,
+		"retweet_count": 128784,
+		"favorite_count": 322173,
 		"favorited": true,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -413,16 +762,16 @@ Grailbird.data.tweets_2019_01 =
 								}
 							},
 							"protected": false,
-							"followers_count": 36835,
+							"followers_count": 37093,
 							"friends_count": 410,
-							"listed_count": 128,
+							"listed_count": 130,
 							"created_at": "Fri Jan 21 06:32:03 +0000 2011",
-							"favourites_count": 6930,
+							"favourites_count": 6934,
 							"utc_offset": null,
 							"time_zone": null,
 							"geo_enabled": false,
 							"verified": false,
-							"statuses_count": 5610,
+							"statuses_count": 5611,
 							"lang": "ja",
 							"contributors_enabled": false,
 							"is_translator": false,
@@ -484,16 +833,16 @@ Grailbird.data.tweets_2019_01 =
 				}
 			},
 			"protected": false,
-			"followers_count": 141393,
-			"friends_count": 1669,
-			"listed_count": 1286,
+			"followers_count": 141484,
+			"friends_count": 1670,
+			"listed_count": 1287,
 			"created_at": "Thu Mar 19 04:09:43 +0000 2009",
-			"favourites_count": 122008,
+			"favourites_count": 121577,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 120579,
+			"statuses_count": 120547,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -523,8 +872,8 @@ Grailbird.data.tweets_2019_01 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 1731,
-		"favorite_count": 5106,
+		"retweet_count": 1741,
+		"favorite_count": 5129,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -594,7 +943,7 @@ Grailbird.data.tweets_2019_01 =
 			"friends_count": 681,
 			"listed_count": 120,
 			"created_at": "Sun Jul 25 22:03:44 +0000 2010",
-			"favourites_count": 7546,
+			"favourites_count": 7544,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
@@ -695,16 +1044,16 @@ Grailbird.data.tweets_2019_01 =
 					}
 				},
 				"protected": false,
-				"followers_count": 21233,
-				"friends_count": 6054,
-				"listed_count": 916,
+				"followers_count": 21243,
+				"friends_count": 6056,
+				"listed_count": 917,
 				"created_at": "Mon Dec 31 23:47:46 +0000 2007",
-				"favourites_count": 45560,
+				"favourites_count": 45591,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": true,
-				"statuses_count": 39018,
+				"statuses_count": 39032,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -734,8 +1083,8 @@ Grailbird.data.tweets_2019_01 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 13,
-			"favorite_count": 64,
+			"retweet_count": 14,
+			"favorite_count": 67,
 			"favorited": false,
 			"retweeted": false,
 			"lang": "en"
@@ -822,12 +1171,12 @@ Grailbird.data.tweets_2019_01 =
 			"friends_count": 129,
 			"listed_count": 96,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6390,
+			"favourites_count": 6392,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13193,
+			"statuses_count": 13195,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -961,12 +1310,12 @@ Grailbird.data.tweets_2019_01 =
 			"friends_count": 129,
 			"listed_count": 96,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6390,
+			"favourites_count": 6392,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13193,
+			"statuses_count": 13195,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
