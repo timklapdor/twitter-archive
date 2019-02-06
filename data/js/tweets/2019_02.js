@@ -1,6 +1,221 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Tue Feb 05 02:21:39 +0000 2019",
+		"id": 1092609167146115100,
+		"id_str": "1092609167146115072",
+		"full_text": "Flying out from Mumbai. Have loved being in this amazing city. Was just getting the hang of the place and the local area but now we’re off to Bangalore. #IndiaBootcamp19 https://t.co/CdoVPQlYIC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "IndiaBootcamp19",
+					"indices": [
+						153,
+						169
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1092609144056512500,
+					"id_str": "1092609144056512512",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/Dym6OkXVAAA-A5Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dym6OkXVAAA-A5Y.jpg",
+					"url": "https://t.co/CdoVPQlYIC",
+					"display_url": "pic.twitter.com/CdoVPQlYIC",
+					"expanded_url": "https://twitter.com/timklapdor/status/1092609167146115072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1092609144056512500,
+					"id_str": "1092609144056512512",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/Dym6OkXVAAA-A5Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dym6OkXVAAA-A5Y.jpg",
+					"url": "https://t.co/CdoVPQlYIC",
+					"display_url": "pic.twitter.com/CdoVPQlYIC",
+					"expanded_url": "https://twitter.com/timklapdor/status/1092609167146115072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Wagga Wagga",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
+			"url": "https://t.co/uC0c3me6KE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uC0c3me6KE",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 781,
+			"friends_count": 132,
+			"listed_count": 94,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 6461,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13282,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1067778743207260160/7c3ZEd6P_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1067778743207260160/7c3ZEd6P_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "4c496fb88b12c583",
+			"url": "https://api.twitter.com/1.1/geo/id/4c496fb88b12c583.json",
+			"place_type": "neighborhood",
+			"name": "Sakinaka",
+			"full_name": "Sakinaka, Mumbai",
+			"country_code": "IN",
+			"country": "India",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							72.86639,
+							19.096115
+						],
+						[
+							72.886752,
+							19.096115
+						],
+						[
+							72.886752,
+							19.111061
+						],
+						[
+							72.86639,
+							19.111061
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Flying out from Mumbai. Have loved being in this amazing city. Was just getting the hang of the place and the local area but now we’re off to Bangalore. #IndiaBootcamp19 https://t.co/CdoVPQlYIC"
+	},
+	{
 		"created_at": "Mon Feb 04 13:33:35 +0000 2019",
 		"id": 1092415876173721600,
 		"id_str": "1092415876173721602",
@@ -63,12 +278,12 @@ Grailbird.data.tweets_2019_02 =
 			"friends_count": 132,
 			"listed_count": 94,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6456,
+			"favourites_count": 6461,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13281,
+			"statuses_count": 13282,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -318,12 +533,12 @@ Grailbird.data.tweets_2019_02 =
 				"friends_count": 132,
 				"listed_count": 94,
 				"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-				"favourites_count": 6456,
+				"favourites_count": 6461,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": false,
-				"statuses_count": 13281,
+				"statuses_count": 13282,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -353,8 +568,8 @@ Grailbird.data.tweets_2019_02 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 2,
-			"favorite_count": 3,
+			"retweet_count": 4,
+			"favorite_count": 5,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
@@ -548,12 +763,12 @@ Grailbird.data.tweets_2019_02 =
 			"friends_count": 132,
 			"listed_count": 94,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6456,
+			"favourites_count": 6461,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13281,
+			"statuses_count": 13282,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -583,8 +798,8 @@ Grailbird.data.tweets_2019_02 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 2,
-		"favorite_count": 3,
+		"retweet_count": 4,
+		"favorite_count": 5,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
@@ -661,16 +876,16 @@ Grailbird.data.tweets_2019_02 =
 				}
 			},
 			"protected": false,
-			"followers_count": 6460,
+			"followers_count": 6463,
 			"friends_count": 945,
 			"listed_count": 194,
 			"created_at": "Thu Apr 16 06:13:33 +0000 2009",
-			"favourites_count": 8521,
+			"favourites_count": 8529,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15244,
+			"statuses_count": 15254,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -700,8 +915,8 @@ Grailbird.data.tweets_2019_02 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 156,
-		"favorite_count": 193,
+		"retweet_count": 161,
+		"favorite_count": 202,
 		"favorited": false,
 		"retweeted": true,
 		"lang": "en",
@@ -768,12 +983,12 @@ Grailbird.data.tweets_2019_02 =
 			"friends_count": 132,
 			"listed_count": 94,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6456,
+			"favourites_count": 6461,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13281,
+			"statuses_count": 13282,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -902,16 +1117,16 @@ Grailbird.data.tweets_2019_02 =
 				}
 			},
 			"protected": false,
-			"followers_count": 6820,
-			"friends_count": 1264,
-			"listed_count": 133,
+			"followers_count": 6827,
+			"friends_count": 1263,
+			"listed_count": 134,
 			"created_at": "Mon May 17 03:02:45 +0000 2010",
-			"favourites_count": 21546,
+			"favourites_count": 21622,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 29631,
+			"statuses_count": 29686,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -997,16 +1212,16 @@ Grailbird.data.tweets_2019_02 =
 					}
 				},
 				"protected": false,
-				"followers_count": 6820,
-				"friends_count": 1264,
-				"listed_count": 133,
+				"followers_count": 6827,
+				"friends_count": 1263,
+				"listed_count": 134,
 				"created_at": "Mon May 17 03:02:45 +0000 2010",
-				"favourites_count": 21546,
+				"favourites_count": 21622,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": false,
-				"statuses_count": 29631,
+				"statuses_count": 29686,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -1043,7 +1258,7 @@ Grailbird.data.tweets_2019_02 =
 			"lang": "en"
 		},
 		"retweet_count": 8,
-		"favorite_count": 19,
+		"favorite_count": 20,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -1351,12 +1566,12 @@ Grailbird.data.tweets_2019_02 =
 				"friends_count": 2191,
 				"listed_count": 37,
 				"created_at": "Mon Oct 10 01:04:58 +0000 2016",
-				"favourites_count": 2177,
+				"favourites_count": 2182,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": false,
-				"statuses_count": 1843,
+				"statuses_count": 1845,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -1614,12 +1829,12 @@ Grailbird.data.tweets_2019_02 =
 			"friends_count": 132,
 			"listed_count": 94,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6456,
+			"favourites_count": 6461,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13281,
+			"statuses_count": 13282,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1798,12 +2013,12 @@ Grailbird.data.tweets_2019_02 =
 			"friends_count": 132,
 			"listed_count": 94,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6456,
+			"favourites_count": 6461,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13281,
+			"statuses_count": 13282,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1982,12 +2197,12 @@ Grailbird.data.tweets_2019_02 =
 			"friends_count": 132,
 			"listed_count": 94,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6456,
+			"favourites_count": 6461,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13281,
+			"statuses_count": 13282,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
