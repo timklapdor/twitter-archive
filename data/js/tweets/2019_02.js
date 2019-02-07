@@ -1,6 +1,658 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Wed Feb 06 12:27:29 +0000 2019",
+		"id": 1093124017098125300,
+		"id_str": "1093124017098125313",
+		"full_text": "@catspyjamasnz Has only been a short stay so haven’t got to explore the city much. It’s busy but much cleaner and greener than Mumbai. Trip has been amazing,  loved the time here.",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			179
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "catspyjamasnz",
+					"name": "Joyce Seitzinger ❤️📝✏️",
+					"id": 10451462,
+					"id_str": "10451462",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1092914443019665400,
+		"in_reply_to_status_id_str": "1092914443019665408",
+		"in_reply_to_user_id": 10451462,
+		"in_reply_to_user_id_str": "10451462",
+		"in_reply_to_screen_name": "catspyjamasnz",
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Wagga Wagga",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
+			"url": "https://t.co/uC0c3me6KE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uC0c3me6KE",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 782,
+			"friends_count": 132,
+			"listed_count": 94,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 6466,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13285,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1067778743207260160/7c3ZEd6P_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1067778743207260160/7c3ZEd6P_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "3a9559a00fac96d9",
+			"url": "https://api.twitter.com/1.1/geo/id/3a9559a00fac96d9.json",
+			"place_type": "neighborhood",
+			"name": "Shanti Nagar",
+			"full_name": "Shanti Nagar, Bengaluru",
+			"country_code": "IN",
+			"country": "India",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							77.592309,
+							12.950142
+						],
+						[
+							77.609874,
+							12.950142
+						],
+						[
+							77.609874,
+							12.96664
+						],
+						[
+							77.592309,
+							12.96664
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@catspyjamasnz Has only been a short stay so haven’t got to explore the city much. It’s busy but much cleaner and greener than Mumbai. Trip has been amazing,  loved the time here."
+	},
+	{
+		"created_at": "Wed Feb 06 05:13:31 +0000 2019",
+		"id": 1093014807018594300,
+		"id_str": "1093014807018594309",
+		"full_text": "First speaker @ganeshk03  speaking about his journey and his work with Growth Story #IndiaBootcamp19 https://t.co/VDydPECw3O",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "IndiaBootcamp19",
+					"indices": [
+						84,
+						100
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ganeshk03",
+					"name": "K.Ganesh",
+					"id": 1086320850,
+					"id_str": "1086320850",
+					"indices": [
+						14,
+						24
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1093014765025128400,
+					"id_str": "1093014765025128449",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/DysrI0OUcAEzqQF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DysrI0OUcAEzqQF.jpg",
+					"url": "https://t.co/VDydPECw3O",
+					"display_url": "pic.twitter.com/VDydPECw3O",
+					"expanded_url": "https://twitter.com/timklapdor/status/1093014807018594309/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1093014765025128400,
+					"id_str": "1093014765025128449",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/DysrI0OUcAEzqQF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DysrI0OUcAEzqQF.jpg",
+					"url": "https://t.co/VDydPECw3O",
+					"display_url": "pic.twitter.com/VDydPECw3O",
+					"expanded_url": "https://twitter.com/timklapdor/status/1093014807018594309/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Wagga Wagga",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
+			"url": "https://t.co/uC0c3me6KE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uC0c3me6KE",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 782,
+			"friends_count": 132,
+			"listed_count": 94,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 6466,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13285,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1067778743207260160/7c3ZEd6P_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1067778743207260160/7c3ZEd6P_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "5f55bb82cf16ac81",
+			"url": "https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json",
+			"place_type": "city",
+			"name": "Bengaluru South",
+			"full_name": "Bengaluru South, India",
+			"country_code": "IN",
+			"country": "India",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							77.3305776,
+							12.731936
+						],
+						[
+							77.7863188,
+							12.731936
+						],
+						[
+							77.7863188,
+							13.1142933
+						],
+						[
+							77.3305776,
+							13.1142933
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "First speaker @ganeshk03  speaking about his journey and his work with Growth Story #IndiaBootcamp19 https://t.co/VDydPECw3O"
+	},
+	{
+		"created_at": "Wed Feb 06 04:42:27 +0000 2019",
+		"id": 1093006986956890100,
+		"id_str": "1093006986956890113",
+		"full_text": "We have a palace as our location for this mornings activities #IndiaBootcamp19 https://t.co/JEsVlrs7q7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "IndiaBootcamp19",
+					"indices": [
+						62,
+						78
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1093006923891302400,
+					"id_str": "1093006923891302400",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/DyskAZuVYAA_06y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyskAZuVYAA_06y.jpg",
+					"url": "https://t.co/JEsVlrs7q7",
+					"display_url": "pic.twitter.com/JEsVlrs7q7",
+					"expanded_url": "https://twitter.com/timklapdor/status/1093006986956890113/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1093006923891302400,
+					"id_str": "1093006923891302400",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/DyskAZuVYAA_06y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyskAZuVYAA_06y.jpg",
+					"url": "https://t.co/JEsVlrs7q7",
+					"display_url": "pic.twitter.com/JEsVlrs7q7",
+					"expanded_url": "https://twitter.com/timklapdor/status/1093006986956890113/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1093006941255753700,
+					"id_str": "1093006941255753728",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/DyskBaaV4AArBQu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyskBaaV4AArBQu.jpg",
+					"url": "https://t.co/JEsVlrs7q7",
+					"display_url": "pic.twitter.com/JEsVlrs7q7",
+					"expanded_url": "https://twitter.com/timklapdor/status/1093006986956890113/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 768,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1093006921773178900,
+					"id_str": "1093006921773178880",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/DyskAR1VYAA-xgu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DyskAR1VYAA-xgu.jpg",
+					"url": "https://t.co/JEsVlrs7q7",
+					"display_url": "pic.twitter.com/JEsVlrs7q7",
+					"expanded_url": "https://twitter.com/timklapdor/status/1093006986956890113/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Wagga Wagga",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
+			"url": "https://t.co/uC0c3me6KE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uC0c3me6KE",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 782,
+			"friends_count": 132,
+			"listed_count": 94,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 6466,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13285,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1067778743207260160/7c3ZEd6P_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1067778743207260160/7c3ZEd6P_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "5f55bb82cf16ac81",
+			"url": "https://api.twitter.com/1.1/geo/id/5f55bb82cf16ac81.json",
+			"place_type": "city",
+			"name": "Bengaluru South",
+			"full_name": "Bengaluru South, India",
+			"country_code": "IN",
+			"country": "India",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							77.3305776,
+							12.731936
+						],
+						[
+							77.7863188,
+							12.731936
+						],
+						[
+							77.7863188,
+							13.1142933
+						],
+						[
+							77.3305776,
+							13.1142933
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We have a palace as our location for this mornings activities #IndiaBootcamp19 https://t.co/JEsVlrs7q7"
+	},
+	{
 		"created_at": "Tue Feb 05 02:21:39 +0000 2019",
 		"id": 1092609167146115100,
 		"id_str": "1092609167146115072",
@@ -135,16 +787,16 @@ Grailbird.data.tweets_2019_02 =
 				}
 			},
 			"protected": false,
-			"followers_count": 781,
+			"followers_count": 782,
 			"friends_count": 132,
 			"listed_count": 94,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6461,
+			"favourites_count": 6466,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13282,
+			"statuses_count": 13285,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -208,7 +860,7 @@ Grailbird.data.tweets_2019_02 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 3,
+		"favorite_count": 4,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
@@ -274,16 +926,16 @@ Grailbird.data.tweets_2019_02 =
 				}
 			},
 			"protected": false,
-			"followers_count": 781,
+			"followers_count": 782,
 			"friends_count": 132,
 			"listed_count": 94,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6461,
+			"favourites_count": 6466,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13282,
+			"statuses_count": 13285,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -529,16 +1181,16 @@ Grailbird.data.tweets_2019_02 =
 					}
 				},
 				"protected": false,
-				"followers_count": 781,
+				"followers_count": 782,
 				"friends_count": 132,
 				"listed_count": 94,
 				"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-				"favourites_count": 6461,
+				"favourites_count": 6466,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": false,
-				"statuses_count": 13282,
+				"statuses_count": 13285,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -759,16 +1411,16 @@ Grailbird.data.tweets_2019_02 =
 				}
 			},
 			"protected": false,
-			"followers_count": 781,
+			"followers_count": 782,
 			"friends_count": 132,
 			"listed_count": 94,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6461,
+			"favourites_count": 6466,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13282,
+			"statuses_count": 13285,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -876,16 +1528,16 @@ Grailbird.data.tweets_2019_02 =
 				}
 			},
 			"protected": false,
-			"followers_count": 6463,
+			"followers_count": 6469,
 			"friends_count": 945,
 			"listed_count": 194,
 			"created_at": "Thu Apr 16 06:13:33 +0000 2009",
-			"favourites_count": 8529,
+			"favourites_count": 8547,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15254,
+			"statuses_count": 15264,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -916,7 +1568,7 @@ Grailbird.data.tweets_2019_02 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 161,
-		"favorite_count": 202,
+		"favorite_count": 203,
 		"favorited": false,
 		"retweeted": true,
 		"lang": "en",
@@ -979,16 +1631,16 @@ Grailbird.data.tweets_2019_02 =
 				}
 			},
 			"protected": false,
-			"followers_count": 781,
+			"followers_count": 782,
 			"friends_count": 132,
 			"listed_count": 94,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6461,
+			"favourites_count": 6466,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13282,
+			"statuses_count": 13285,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1117,16 +1769,16 @@ Grailbird.data.tweets_2019_02 =
 				}
 			},
 			"protected": false,
-			"followers_count": 6827,
+			"followers_count": 6837,
 			"friends_count": 1263,
 			"listed_count": 134,
 			"created_at": "Mon May 17 03:02:45 +0000 2010",
-			"favourites_count": 21622,
+			"favourites_count": 21615,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 29686,
+			"statuses_count": 29697,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1212,16 +1864,16 @@ Grailbird.data.tweets_2019_02 =
 					}
 				},
 				"protected": false,
-				"followers_count": 6827,
+				"followers_count": 6837,
 				"friends_count": 1263,
 				"listed_count": 134,
 				"created_at": "Mon May 17 03:02:45 +0000 2010",
-				"favourites_count": 21622,
+				"favourites_count": 21615,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": false,
-				"statuses_count": 29686,
+				"statuses_count": 29697,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -1346,7 +1998,7 @@ Grailbird.data.tweets_2019_02 =
 				}
 			},
 			"protected": false,
-			"followers_count": 691,
+			"followers_count": 687,
 			"friends_count": 1084,
 			"listed_count": 164,
 			"created_at": "Thu Mar 06 13:55:45 +0000 2008",
@@ -1562,16 +2214,16 @@ Grailbird.data.tweets_2019_02 =
 					}
 				},
 				"protected": false,
-				"followers_count": 1600,
-				"friends_count": 2191,
+				"followers_count": 1607,
+				"friends_count": 2192,
 				"listed_count": 37,
 				"created_at": "Mon Oct 10 01:04:58 +0000 2016",
-				"favourites_count": 2182,
+				"favourites_count": 2196,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": false,
-				"statuses_count": 1845,
+				"statuses_count": 1853,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -1635,7 +2287,7 @@ Grailbird.data.tweets_2019_02 =
 			"contributors": null,
 			"is_quote_status": false,
 			"retweet_count": 3,
-			"favorite_count": 9,
+			"favorite_count": 10,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
@@ -1825,16 +2477,16 @@ Grailbird.data.tweets_2019_02 =
 				}
 			},
 			"protected": false,
-			"followers_count": 781,
+			"followers_count": 782,
 			"friends_count": 132,
 			"listed_count": 94,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6461,
+			"favourites_count": 6466,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13282,
+			"statuses_count": 13285,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2009,16 +2661,16 @@ Grailbird.data.tweets_2019_02 =
 				}
 			},
 			"protected": false,
-			"followers_count": 781,
+			"followers_count": 782,
 			"friends_count": 132,
 			"listed_count": 94,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6461,
+			"favourites_count": 6466,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13282,
+			"statuses_count": 13285,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2193,16 +2845,16 @@ Grailbird.data.tweets_2019_02 =
 				}
 			},
 			"protected": false,
-			"followers_count": 781,
+			"followers_count": 782,
 			"friends_count": 132,
 			"listed_count": 94,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6461,
+			"favourites_count": 6466,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13282,
+			"statuses_count": 13285,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
