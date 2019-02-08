@@ -1,6 +1,351 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Thu Feb 07 02:29:58 +0000 2019",
+		"id": 1093336035700822000,
+		"id_str": "1093336035700822016",
+		"full_text": "@mdevraj @pinkfloyd Very cool!!",
+		"truncated": false,
+		"display_text_range": [
+			20,
+			31
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mdevraj",
+					"name": "Dev Mukherjee",
+					"id": 15340674,
+					"id_str": "15340674",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "pinkfloyd",
+					"name": "Pink Floyd",
+					"id": 314792669,
+					"id_str": "314792669",
+					"indices": [
+						9,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1093051874863833100,
+		"in_reply_to_status_id_str": "1093051874863833088",
+		"in_reply_to_user_id": 15340674,
+		"in_reply_to_user_id_str": "15340674",
+		"in_reply_to_screen_name": "mdevraj",
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Wagga Wagga",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
+			"url": "https://t.co/uC0c3me6KE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uC0c3me6KE",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 781,
+			"friends_count": 131,
+			"listed_count": 94,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 6469,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13286,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1067778743207260160/7c3ZEd6P_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1067778743207260160/7c3ZEd6P_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				12.99256667,
+				77.5854478
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				77.5854478,
+				12.99256667
+			]
+		},
+		"place": {
+			"id": "1b8680cd52a711cb",
+			"url": "https://api.twitter.com/1.1/geo/id/1b8680cd52a711cb.json",
+			"place_type": "city",
+			"name": "Bengaluru",
+			"full_name": "Bengaluru, India",
+			"country_code": "IN",
+			"country": "India",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							77.373474,
+							12.919037
+						],
+						[
+							77.739371,
+							12.919037
+						],
+						[
+							77.739371,
+							13.231381
+						],
+						[
+							77.373474,
+							13.231381
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@mdevraj @pinkfloyd Very cool!!"
+	},
+	{
+		"created_at": "Wed Feb 06 01:19:38 +0000 2019",
+		"id": 1092955947956297700,
+		"id_str": "1093331127488569345",
+		"full_text": "Millennials Not Graduating With Right Job Skills Says Boomer Who Can’t Use The Internet https://t.co/3usU1YmGHL https://t.co/JxvEA3ewAP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3usU1YmGHL",
+					"expanded_url": "http://www.theshovel.com.au/2019/02/05/millennials-not-graduating-with-right-job-skills-says-boomer-who-cant-use-the-internet/",
+					"display_url": "theshovel.com.au/2019/02/05/mil…",
+					"indices": [
+						88,
+						111
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1092955925038518300,
+					"id_str": "1092955925038518272",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/Dyr1n4MUUAAEYzd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dyr1n4MUUAAEYzd.jpg",
+					"url": "https://t.co/JxvEA3ewAP",
+					"display_url": "pic.twitter.com/JxvEA3ewAP",
+					"expanded_url": "https://twitter.com/TheShovel/status/1092955947956297728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 640,
+							"h": 398,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 398,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 398,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1092955925038518300,
+					"id_str": "1092955925038518272",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/Dyr1n4MUUAAEYzd.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dyr1n4MUUAAEYzd.jpg",
+					"url": "https://t.co/JxvEA3ewAP",
+					"display_url": "pic.twitter.com/JxvEA3ewAP",
+					"expanded_url": "https://twitter.com/TheShovel/status/1092955947956297728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 640,
+							"h": 398,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 398,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 398,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 567192377,
+			"id_str": "567192377",
+			"name": "The Shovel",
+			"screen_name": "TheShovel",
+			"location": "",
+			"description": "News you can believe in.",
+			"url": "https://t.co/VtH3TOSmE7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VtH3TOSmE7",
+							"expanded_url": "http://www.theshovel.com.au",
+							"display_url": "theshovel.com.au",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 22244,
+			"friends_count": 455,
+			"listed_count": 254,
+			"created_at": "Mon Apr 30 12:38:04 +0000 2012",
+			"favourites_count": 488,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3645,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/508746217627455488/WloTAkIV_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/508746217627455488/WloTAkIV_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/567192377/1539081140",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 42,
+		"favorite_count": 113,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Millennials Not Graduating With Right Job Skills Says Boomer Who Can’t Use The Internet https://t.co/3usU1YmGHL https://t.co/JxvEA3ewAP"
+	},
+	{
 		"created_at": "Wed Feb 06 12:27:29 +0000 2019",
 		"id": 1093124017098125300,
 		"id_str": "1093124017098125313",
@@ -60,16 +405,16 @@ Grailbird.data.tweets_2019_02 =
 				}
 			},
 			"protected": false,
-			"followers_count": 782,
-			"friends_count": 132,
+			"followers_count": 781,
+			"friends_count": 131,
 			"listed_count": 94,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6466,
+			"favourites_count": 6469,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13285,
+			"statuses_count": 13286,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -285,16 +630,16 @@ Grailbird.data.tweets_2019_02 =
 				}
 			},
 			"protected": false,
-			"followers_count": 782,
-			"friends_count": 132,
+			"followers_count": 781,
+			"friends_count": 131,
 			"listed_count": 94,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6466,
+			"favourites_count": 6469,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13285,
+			"statuses_count": 13286,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -572,16 +917,16 @@ Grailbird.data.tweets_2019_02 =
 				}
 			},
 			"protected": false,
-			"followers_count": 782,
-			"friends_count": 132,
+			"followers_count": 781,
+			"friends_count": 131,
 			"listed_count": 94,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6466,
+			"favourites_count": 6469,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13285,
+			"statuses_count": 13286,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -645,7 +990,7 @@ Grailbird.data.tweets_2019_02 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 1,
+		"favorite_count": 2,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
@@ -787,16 +1132,16 @@ Grailbird.data.tweets_2019_02 =
 				}
 			},
 			"protected": false,
-			"followers_count": 782,
-			"friends_count": 132,
+			"followers_count": 781,
+			"friends_count": 131,
 			"listed_count": 94,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6466,
+			"favourites_count": 6469,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13285,
+			"statuses_count": 13286,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -926,16 +1271,16 @@ Grailbird.data.tweets_2019_02 =
 				}
 			},
 			"protected": false,
-			"followers_count": 782,
-			"friends_count": 132,
+			"followers_count": 781,
+			"friends_count": 131,
 			"listed_count": 94,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6466,
+			"favourites_count": 6469,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13285,
+			"statuses_count": 13286,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1181,16 +1526,16 @@ Grailbird.data.tweets_2019_02 =
 					}
 				},
 				"protected": false,
-				"followers_count": 782,
-				"friends_count": 132,
+				"followers_count": 781,
+				"friends_count": 131,
 				"listed_count": 94,
 				"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-				"favourites_count": 6466,
+				"favourites_count": 6469,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": false,
-				"statuses_count": 13285,
+				"statuses_count": 13286,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -1411,16 +1756,16 @@ Grailbird.data.tweets_2019_02 =
 				}
 			},
 			"protected": false,
-			"followers_count": 782,
-			"friends_count": 132,
+			"followers_count": 781,
+			"friends_count": 131,
 			"listed_count": 94,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6466,
+			"favourites_count": 6469,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13285,
+			"statuses_count": 13286,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1528,16 +1873,16 @@ Grailbird.data.tweets_2019_02 =
 				}
 			},
 			"protected": false,
-			"followers_count": 6469,
+			"followers_count": 6468,
 			"friends_count": 945,
 			"listed_count": 194,
 			"created_at": "Thu Apr 16 06:13:33 +0000 2009",
-			"favourites_count": 8547,
+			"favourites_count": 8570,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15264,
+			"statuses_count": 15278,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1631,16 +1976,16 @@ Grailbird.data.tweets_2019_02 =
 				}
 			},
 			"protected": false,
-			"followers_count": 782,
-			"friends_count": 132,
+			"followers_count": 781,
+			"friends_count": 131,
 			"listed_count": 94,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6466,
+			"favourites_count": 6469,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13285,
+			"statuses_count": 13286,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1727,8 +2072,8 @@ Grailbird.data.tweets_2019_02 =
 			"urls": [
 				{
 					"url": "https://t.co/cNKbIhCjkq",
-					"expanded_url": "https://twitter.com/picketer/status/974248152705392640",
-					"display_url": "twitter.com/picketer/statu…",
+					"expanded_url": "https://twitter.com/Picketer/status/974248152705392640",
+					"display_url": "twitter.com/Picketer/statu…",
 					"indices": [
 						53,
 						76
@@ -1769,16 +2114,16 @@ Grailbird.data.tweets_2019_02 =
 				}
 			},
 			"protected": false,
-			"followers_count": 6837,
+			"followers_count": 6849,
 			"friends_count": 1263,
 			"listed_count": 134,
 			"created_at": "Mon May 17 03:02:45 +0000 2010",
-			"favourites_count": 21615,
+			"favourites_count": 21637,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 29697,
+			"statuses_count": 29713,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1812,8 +2157,8 @@ Grailbird.data.tweets_2019_02 =
 		"quoted_status_id_str": "974248152705392640",
 		"quoted_status_permalink": {
 			"url": "https://t.co/cNKbIhCjkq",
-			"expanded": "https://twitter.com/picketer/status/974248152705392640",
-			"display": "twitter.com/picketer/statu…"
+			"expanded": "https://twitter.com/Picketer/status/974248152705392640",
+			"display": "twitter.com/Picketer/statu…"
 		},
 		"quoted_status": {
 			"created_at": "Thu Mar 15 11:37:14 +0000 2018",
@@ -1864,16 +2209,16 @@ Grailbird.data.tweets_2019_02 =
 					}
 				},
 				"protected": false,
-				"followers_count": 6837,
+				"followers_count": 6849,
 				"friends_count": 1263,
 				"listed_count": 134,
 				"created_at": "Mon May 17 03:02:45 +0000 2010",
-				"favourites_count": 21615,
+				"favourites_count": 21637,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": false,
-				"statuses_count": 29697,
+				"statuses_count": 29713,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -2214,16 +2559,16 @@ Grailbird.data.tweets_2019_02 =
 					}
 				},
 				"protected": false,
-				"followers_count": 1607,
-				"friends_count": 2192,
+				"followers_count": 1609,
+				"friends_count": 2193,
 				"listed_count": 37,
 				"created_at": "Mon Oct 10 01:04:58 +0000 2016",
-				"favourites_count": 2196,
+				"favourites_count": 2200,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": false,
-				"statuses_count": 1853,
+				"statuses_count": 1855,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -2477,16 +2822,16 @@ Grailbird.data.tweets_2019_02 =
 				}
 			},
 			"protected": false,
-			"followers_count": 782,
-			"friends_count": 132,
+			"followers_count": 781,
+			"friends_count": 131,
 			"listed_count": 94,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6466,
+			"favourites_count": 6469,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13285,
+			"statuses_count": 13286,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2661,16 +3006,16 @@ Grailbird.data.tweets_2019_02 =
 				}
 			},
 			"protected": false,
-			"followers_count": 782,
-			"friends_count": 132,
+			"followers_count": 781,
+			"friends_count": 131,
 			"listed_count": 94,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6466,
+			"favourites_count": 6469,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13285,
+			"statuses_count": 13286,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2845,16 +3190,16 @@ Grailbird.data.tweets_2019_02 =
 				}
 			},
 			"protected": false,
-			"followers_count": 782,
-			"friends_count": 132,
+			"followers_count": 781,
+			"friends_count": 131,
 			"listed_count": 94,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6466,
+			"favourites_count": 6469,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13285,
+			"statuses_count": 13286,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
