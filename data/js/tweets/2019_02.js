@@ -1,45 +1,230 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
-		"created_at": "Sat Feb 09 23:39:09 +0000 2019",
-		"id": 1094380209434816500,
-		"id_str": "1094380209434816512",
-		"full_text": "I’ve put together an album of photos from my India trip. I’ve included a few of the shared group shots of the #IndiaBootcamp19 crew. It was an amazing time - I learnt a lot from my time there, about myself and the amazing country and people of India.  \n https://t.co/iUihDn0BlY",
+		"created_at": "Sat Feb 09 13:41:08 +0000 2019",
+		"id": 1094229716251406300,
+		"id_str": "1094749831002607617",
+		"full_text": "BEST #XCODE REVIEW EVAR https://t.co/n82A2DNo83",
 		"truncated": false,
 		"display_text_range": [
 			0,
-			277
+			23
 		],
 		"entities": {
 			"hashtags": [
 				{
-					"text": "IndiaBootcamp19",
+					"text": "XCODE",
 					"indices": [
-						110,
-						126
+						5,
+						11
 					]
 				}
 			],
 			"symbols": [],
 			"user_mentions": [],
-			"urls": [
+			"urls": [],
+			"media": [
 				{
-					"url": "https://t.co/iUihDn0BlY",
-					"expanded_url": "https://www.flickr.com/photos/timklapdor/albums/72157706367680335/",
-					"display_url": "flickr.com/photos/timklap…",
+					"id": 1094229700619182100,
+					"id_str": "1094229700619182082",
 					"indices": [
-						254,
-						277
-					]
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/Dy98HYAWoAIW8yt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dy98HYAWoAIW8yt.jpg",
+					"url": "https://t.co/n82A2DNo83",
+					"display_url": "pic.twitter.com/n82A2DNo83",
+					"expanded_url": "https://twitter.com/AlecMuffett/status/1094229716251406340/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1059,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1530,
+							"h": 1734,
+							"resize": "fit"
+						}
+					}
 				}
 			]
 		},
-		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1094229700619182100,
+					"id_str": "1094229700619182082",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/Dy98HYAWoAIW8yt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dy98HYAWoAIW8yt.jpg",
+					"url": "https://t.co/n82A2DNo83",
+					"display_url": "pic.twitter.com/n82A2DNo83",
+					"expanded_url": "https://twitter.com/AlecMuffett/status/1094229716251406340/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1059,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1530,
+							"h": 1734,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
 		"in_reply_to_status_id": null,
 		"in_reply_to_status_id_str": null,
 		"in_reply_to_user_id": null,
 		"in_reply_to_user_id_str": null,
 		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4034271,
+			"id_str": "4034271",
+			"name": "Alec Muffett",
+			"screen_name": "AlecMuffett",
+			"location": "UK",
+			"description": "\"everybody deserves good security\"; see link for bio & press resources, tweets are for myself.",
+			"url": "https://t.co/TMhh2icVjC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TMhh2icVjC",
+							"expanded_url": "https://dropsafe.crypticide.com/aboutalecm",
+							"display_url": "dropsafe.crypticide.com/aboutalecm",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11800,
+			"friends_count": 3133,
+			"listed_count": 632,
+			"created_at": "Tue Apr 10 14:07:17 +0000 2007",
+			"favourites_count": 10681,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 53756,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/968073512731717632/HWo_YLQs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/968073512731717632/HWo_YLQs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4034271/1351877757",
+			"profile_link_color": "006400",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1862,
+		"favorite_count": 5129,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "BEST #XCODE REVIEW EVAR https://t.co/n82A2DNo83"
+	},
+	{
+		"created_at": "Sun Feb 10 22:50:37 +0000 2019",
+		"id": 1094730385231990800,
+		"id_str": "1094730385231990786",
+		"full_text": "@djplaner Looks nice. Previous kludge was to develop inline styles for elements - they could copy into the HTML view, then edit in the Visual editor. Worked well - was surprised at the level of adoption. https://t.co/GWQwABq1HI",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			227
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "djplaner",
+					"name": "David Jones",
+					"id": 16282582,
+					"id_str": "16282582",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/GWQwABq1HI",
+					"expanded_url": "https://github.com/timklapdor/Bb-landing-pages",
+					"display_url": "github.com/timklapdor/Bb-…",
+					"indices": [
+						204,
+						227
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1094724191171964900,
+		"in_reply_to_status_id_str": "1094724191171964929",
+		"in_reply_to_user_id": 16282582,
+		"in_reply_to_user_id_str": "16282582",
+		"in_reply_to_screen_name": "djplaner",
 		"user": {
 			"id": 174124175,
 			"id_str": "174124175",
@@ -67,16 +252,123 @@ Grailbird.data.tweets_2019_02 =
 				}
 			},
 			"protected": false,
-			"followers_count": 781,
+			"followers_count": 782,
 			"friends_count": 131,
 			"listed_count": 94,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6471,
+			"favourites_count": 6470,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13287,
+			"statuses_count": 13291,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1067778743207260160/7c3ZEd6P_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1067778743207260160/7c3ZEd6P_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@djplaner Looks nice. Previous kludge was to develop inline styles for elements - they could copy into the HTML view, then edit in the Visual editor. Worked well - was surprised at the level of adoption. https://t.co/GWQwABq1HI"
+	},
+	{
+		"created_at": "Sun Feb 10 10:13:30 +0000 2019",
+		"id": 1094539850865233900,
+		"id_str": "1094539850865233921",
+		"full_text": "@djplaner Still think the best solution is to not put content into the LMS - but to use it as a delivery mechanism. That way you can have a lot of the features you’re looking at, including reuse outside the LMS.",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			211
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "djplaner",
+					"name": "David Jones",
+					"id": 16282582,
+					"id_str": "16282582",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1094488634479136800,
+		"in_reply_to_status_id_str": "1094488634479136769",
+		"in_reply_to_user_id": 16282582,
+		"in_reply_to_user_id_str": "16282582",
+		"in_reply_to_screen_name": "djplaner",
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Wagga Wagga",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
+			"url": "https://t.co/uC0c3me6KE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uC0c3me6KE",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 782,
+			"friends_count": 131,
+			"listed_count": 94,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 6470,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13291,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -143,6 +435,302 @@ Grailbird.data.tweets_2019_02 =
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
+		"lang": "en",
+		"text": "@djplaner Still think the best solution is to not put content into the LMS - but to use it as a delivery mechanism. That way you can have a lot of the features you’re looking at, including reuse outside the LMS."
+	},
+	{
+		"created_at": "Sun Feb 10 10:11:52 +0000 2019",
+		"id": 1094539438456098800,
+		"id_str": "1094539438456098816",
+		"full_text": "@djplaner I did a heap of work on our Bb site - new theme, new CSS elements to help create better styles. https://t.co/kcVC5qNrY9\n\nLinks to the new style guide which outlines a lot of the work.",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			193
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "djplaner",
+					"name": "David Jones",
+					"id": 16282582,
+					"id_str": "16282582",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/kcVC5qNrY9",
+					"expanded_url": "https://github.com/timklapdor/learning-materials/blob/master/README.md",
+					"display_url": "github.com/timklapdor/lea…",
+					"indices": [
+						106,
+						129
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1094488634479136800,
+		"in_reply_to_status_id_str": "1094488634479136769",
+		"in_reply_to_user_id": 16282582,
+		"in_reply_to_user_id_str": "16282582",
+		"in_reply_to_screen_name": "djplaner",
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Wagga Wagga",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
+			"url": "https://t.co/uC0c3me6KE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uC0c3me6KE",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 782,
+			"friends_count": 131,
+			"listed_count": 94,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 6470,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13291,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1067778743207260160/7c3ZEd6P_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1067778743207260160/7c3ZEd6P_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "00fdc8497c0ca7b4",
+			"url": "https://api.twitter.com/1.1/geo/id/00fdc8497c0ca7b4.json",
+			"place_type": "city",
+			"name": "Wagga Wagga",
+			"full_name": "Wagga Wagga, New South Wales",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							147.304038624,
+							-35.187975032
+						],
+						[
+							147.424035232,
+							-35.187975032
+						],
+						[
+							147.424035232,
+							-35.0881893435
+						],
+						[
+							147.304038624,
+							-35.0881893435
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@djplaner I did a heap of work on our Bb site - new theme, new CSS elements to help create better styles. https://t.co/kcVC5qNrY9\n\nLinks to the new style guide which outlines a lot of the work."
+	},
+	{
+		"created_at": "Sat Feb 09 23:39:09 +0000 2019",
+		"id": 1094380209434816500,
+		"id_str": "1094380209434816512",
+		"full_text": "I’ve put together an album of photos from my India trip. I’ve included a few of the shared group shots of the #IndiaBootcamp19 crew. It was an amazing time - I learnt a lot from my time there, about myself and the amazing country and people of India.  \n https://t.co/iUihDn0BlY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "IndiaBootcamp19",
+					"indices": [
+						110,
+						126
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/iUihDn0BlY",
+					"expanded_url": "https://www.flickr.com/photos/timklapdor/albums/72157706367680335/",
+					"display_url": "flickr.com/photos/timklap…",
+					"indices": [
+						254,
+						277
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Wagga Wagga",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
+			"url": "https://t.co/uC0c3me6KE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uC0c3me6KE",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 782,
+			"friends_count": 131,
+			"listed_count": 94,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 6470,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13291,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1067778743207260160/7c3ZEd6P_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1067778743207260160/7c3ZEd6P_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "00fdc8497c0ca7b4",
+			"url": "https://api.twitter.com/1.1/geo/id/00fdc8497c0ca7b4.json",
+			"place_type": "city",
+			"name": "Wagga Wagga",
+			"full_name": "Wagga Wagga, New South Wales",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							147.304038624,
+							-35.187975032
+						],
+						[
+							147.424035232,
+							-35.187975032
+						],
+						[
+							147.424035232,
+							-35.0881893435
+						],
+						[
+							147.304038624,
+							-35.0881893435
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "en",
 		"text": "I’ve put together an album of photos from my India trip. I’ve included a few of the shared group shots of the #IndiaBootcamp19 crew. It was an amazing time - I learnt a lot from my time there, about myself and the amazing country and people of India.  \n https://t.co/iUihDn0BlY"
@@ -207,16 +795,16 @@ Grailbird.data.tweets_2019_02 =
 				}
 			},
 			"protected": false,
-			"followers_count": 781,
+			"followers_count": 782,
 			"friends_count": 131,
 			"listed_count": 94,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6471,
+			"favourites_count": 6470,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13287,
+			"statuses_count": 13291,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -356,16 +944,16 @@ Grailbird.data.tweets_2019_02 =
 				}
 			},
 			"protected": false,
-			"followers_count": 781,
+			"followers_count": 782,
 			"friends_count": 131,
 			"listed_count": 94,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6471,
+			"favourites_count": 6470,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13287,
+			"statuses_count": 13291,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -691,16 +1279,16 @@ Grailbird.data.tweets_2019_02 =
 				}
 			},
 			"protected": false,
-			"followers_count": 781,
+			"followers_count": 782,
 			"friends_count": 131,
 			"listed_count": 94,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6471,
+			"favourites_count": 6470,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13287,
+			"statuses_count": 13291,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -916,16 +1504,16 @@ Grailbird.data.tweets_2019_02 =
 				}
 			},
 			"protected": false,
-			"followers_count": 781,
+			"followers_count": 782,
 			"friends_count": 131,
 			"listed_count": 94,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6471,
+			"favourites_count": 6470,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13287,
+			"statuses_count": 13291,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1203,16 +1791,16 @@ Grailbird.data.tweets_2019_02 =
 				}
 			},
 			"protected": false,
-			"followers_count": 781,
+			"followers_count": 782,
 			"friends_count": 131,
 			"listed_count": 94,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6471,
+			"favourites_count": 6470,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13287,
+			"statuses_count": 13291,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1418,16 +2006,16 @@ Grailbird.data.tweets_2019_02 =
 				}
 			},
 			"protected": false,
-			"followers_count": 781,
+			"followers_count": 782,
 			"friends_count": 131,
 			"listed_count": 94,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6471,
+			"favourites_count": 6470,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13287,
+			"statuses_count": 13291,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1557,16 +2145,16 @@ Grailbird.data.tweets_2019_02 =
 				}
 			},
 			"protected": false,
-			"followers_count": 781,
+			"followers_count": 782,
 			"friends_count": 131,
 			"listed_count": 94,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6471,
+			"favourites_count": 6470,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13287,
+			"statuses_count": 13291,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1812,16 +2400,16 @@ Grailbird.data.tweets_2019_02 =
 					}
 				},
 				"protected": false,
-				"followers_count": 781,
+				"followers_count": 782,
 				"friends_count": 131,
 				"listed_count": 94,
 				"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-				"favourites_count": 6471,
+				"favourites_count": 6470,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": false,
-				"statuses_count": 13287,
+				"statuses_count": 13291,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -2042,16 +2630,16 @@ Grailbird.data.tweets_2019_02 =
 				}
 			},
 			"protected": false,
-			"followers_count": 781,
+			"followers_count": 782,
 			"friends_count": 131,
 			"listed_count": 94,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6471,
+			"favourites_count": 6470,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13287,
+			"statuses_count": 13291,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2159,16 +2747,16 @@ Grailbird.data.tweets_2019_02 =
 				}
 			},
 			"protected": false,
-			"followers_count": 6468,
+			"followers_count": 6471,
 			"friends_count": 945,
 			"listed_count": 194,
 			"created_at": "Thu Apr 16 06:13:33 +0000 2009",
-			"favourites_count": 8603,
+			"favourites_count": 8614,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15311,
+			"statuses_count": 15317,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2199,7 +2787,7 @@ Grailbird.data.tweets_2019_02 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 161,
-		"favorite_count": 203,
+		"favorite_count": 204,
 		"favorited": false,
 		"retweeted": true,
 		"lang": "en",
@@ -2262,16 +2850,16 @@ Grailbird.data.tweets_2019_02 =
 				}
 			},
 			"protected": false,
-			"followers_count": 781,
+			"followers_count": 782,
 			"friends_count": 131,
 			"listed_count": 94,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6471,
+			"favourites_count": 6470,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13287,
+			"statuses_count": 13291,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2400,16 +2988,16 @@ Grailbird.data.tweets_2019_02 =
 				}
 			},
 			"protected": false,
-			"followers_count": 6848,
+			"followers_count": 6859,
 			"friends_count": 1261,
 			"listed_count": 134,
 			"created_at": "Mon May 17 03:02:45 +0000 2010",
-			"favourites_count": 21603,
+			"favourites_count": 21601,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 29724,
+			"statuses_count": 29728,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2495,16 +3083,16 @@ Grailbird.data.tweets_2019_02 =
 					}
 				},
 				"protected": false,
-				"followers_count": 6848,
+				"followers_count": 6859,
 				"friends_count": 1261,
 				"listed_count": 134,
 				"created_at": "Mon May 17 03:02:45 +0000 2010",
-				"favourites_count": 21603,
+				"favourites_count": 21601,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": false,
-				"statuses_count": 29724,
+				"statuses_count": 29728,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -2845,16 +3433,16 @@ Grailbird.data.tweets_2019_02 =
 					}
 				},
 				"protected": false,
-				"followers_count": 1609,
+				"followers_count": 1610,
 				"friends_count": 2196,
 				"listed_count": 37,
 				"created_at": "Mon Oct 10 01:04:58 +0000 2016",
-				"favourites_count": 2203,
+				"favourites_count": 2205,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": false,
-				"statuses_count": 1858,
+				"statuses_count": 1859,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -3108,16 +3696,16 @@ Grailbird.data.tweets_2019_02 =
 				}
 			},
 			"protected": false,
-			"followers_count": 781,
+			"followers_count": 782,
 			"friends_count": 131,
 			"listed_count": 94,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6471,
+			"favourites_count": 6470,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13287,
+			"statuses_count": 13291,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -3292,16 +3880,16 @@ Grailbird.data.tweets_2019_02 =
 				}
 			},
 			"protected": false,
-			"followers_count": 781,
+			"followers_count": 782,
 			"friends_count": 131,
 			"listed_count": 94,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6471,
+			"favourites_count": 6470,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13287,
+			"statuses_count": 13291,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -3476,16 +4064,16 @@ Grailbird.data.tweets_2019_02 =
 				}
 			},
 			"protected": false,
-			"followers_count": 781,
+			"followers_count": 782,
 			"friends_count": 131,
 			"listed_count": 94,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6471,
+			"favourites_count": 6470,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13287,
+			"statuses_count": 13291,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
