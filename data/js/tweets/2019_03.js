@@ -1,6 +1,646 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Sat Mar 02 03:11:20 +0000 2019",
+		"id": 1099429250979979300,
+		"id_str": "1101681366515691520",
+		"full_text": "what if public libraries were open late every night and we could engage in public life there instead of having to choose between drinking at the bar and domestic isolation",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 468076687,
+			"id_str": "468076687",
+			"name": "erin glass",
+			"screen_name": "erinroseglass",
+			"location": "san diego",
+			"description": "retooling student consciousness | digital scholarship librarian @ucsdLibrary | critical infrastructure | writing + writing software |  california ♡",
+			"url": "https://t.co/xB3FMaPgiZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xB3FMaPgiZ",
+							"expanded_url": "http://www.erinroseglass.com",
+							"display_url": "erinroseglass.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11177,
+			"friends_count": 1900,
+			"listed_count": 147,
+			"created_at": "Thu Jan 19 04:34:45 +0000 2012",
+			"favourites_count": 5744,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4535,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/852347650665885696/Tkqv4Vze_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/852347650665885696/Tkqv4Vze_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/468076687/1492050491",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "a592bd6ceb1319f7",
+			"url": "https://api.twitter.com/1.1/geo/id/a592bd6ceb1319f7.json",
+			"place_type": "city",
+			"name": "San Diego",
+			"full_name": "San Diego, CA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-117.282538,
+							32.53962
+						],
+						[
+							-116.9274403,
+							32.53962
+						],
+						[
+							-116.9274403,
+							33.0804044
+						],
+						[
+							-117.282538,
+							33.0804044
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 48126,
+		"favorite_count": 221114,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "what if public libraries were open late every night and we could engage in public life there instead of having to choose between drinking at the bar and domestic isolation"
+	},
+	{
+		"created_at": "Sat Mar 02 00:22:29 +0000 2019",
+		"id": 1100960479604695000,
+		"id_str": "1101638873396916224",
+		"full_text": "Why Frank Brennan (and Bolt et al. who are aping him) are full of shit (but are likely too thick to know it):\n\nA Thread. \n\nI haven't heard all the evidence so it's difficult to elaborate much  further but it's easy enough to point out the horseshit of the apologists",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			266
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2780399934,
+			"id_str": "2780399934",
+			"name": "The Viscount Heckles",
+			"screen_name": "Noodles_Romanov",
+			"location": "Australia",
+			"description": "Ecologist, Litigator, Investor, Author of tweets - Retweets mean that I've retweeted your tweet.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 761,
+			"friends_count": 741,
+			"listed_count": 3,
+			"created_at": "Sat Aug 30 11:33:51 +0000 2014",
+			"favourites_count": 730,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1367,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/511332285098897408/qF3HETER_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/511332285098897408/qF3HETER_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2780399934/1527258338",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 160,
+		"favorite_count": 259,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Why Frank Brennan (and Bolt et al. who are aping him) are full of shit (but are likely too thick to know it):\n\nA Thread. \n\nI haven't heard all the evidence so it's difficult to elaborate much  further but it's easy enough to point out the horseshit of the apologists"
+	},
+	{
+		"created_at": "Sat Mar 02 00:18:05 +0000 2019",
+		"id": 1101637767535124500,
+		"id_str": "1101637767535124485",
+		"full_text": "Am I allowed to say that this looks more like a UI problem than UX? The UX is pretty similar, sliding down a slope, but the interface for doing it is poorly designed. UI matters and it’s not the same as UX. https://t.co/AxZ82gx2X5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			206
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AxZ82gx2X5",
+					"expanded_url": "https://twitter.com/uxlinks/status/1101542916168839168",
+					"display_url": "twitter.com/uxlinks/status…",
+					"indices": [
+						207,
+						230
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Wagga Wagga",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
+			"url": "https://t.co/uC0c3me6KE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uC0c3me6KE",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 786,
+			"friends_count": 133,
+			"listed_count": 95,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 6507,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13344,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1067778743207260160/7c3ZEd6P_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1067778743207260160/7c3ZEd6P_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "5ad8484801b1bae7",
+			"url": "https://api.twitter.com/1.1/geo/id/5ad8484801b1bae7.json",
+			"place_type": "neighborhood",
+			"name": "Wagga Wagga",
+			"full_name": "Wagga Wagga, New South Wales",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							147.33837288,
+							-35.12521197
+						],
+						[
+							147.38281704,
+							-35.12521197
+						],
+						[
+							147.38281704,
+							-35.08806303
+						],
+						[
+							147.33837288,
+							-35.08806303
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1101542916168839200,
+		"quoted_status_id_str": "1101542916168839168",
+		"quoted_status_permalink": {
+			"url": "https://t.co/AxZ82gx2X5",
+			"expanded": "https://twitter.com/uxlinks/status/1101542916168839168",
+			"display": "twitter.com/uxlinks/status…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Mar 01 18:01:11 +0000 2019",
+			"id": 1101542916168839200,
+			"id_str": "1101542916168839168",
+			"full_text": "When the client says \"We don't need research, we know our users. 🧐\"\n\n#ux #uxdesign #research #design #productdesign #designthinking #cx #customers #users #designresearch #productdesign RT moonemotion #userresearch https://t.co/Yiisz730TT",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				213
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ux",
+						"indices": [
+							69,
+							72
+						]
+					},
+					{
+						"text": "uxdesign",
+						"indices": [
+							73,
+							82
+						]
+					},
+					{
+						"text": "research",
+						"indices": [
+							83,
+							92
+						]
+					},
+					{
+						"text": "design",
+						"indices": [
+							93,
+							100
+						]
+					},
+					{
+						"text": "productdesign",
+						"indices": [
+							101,
+							115
+						]
+					},
+					{
+						"text": "designthinking",
+						"indices": [
+							116,
+							131
+						]
+					},
+					{
+						"text": "cx",
+						"indices": [
+							132,
+							135
+						]
+					},
+					{
+						"text": "customers",
+						"indices": [
+							136,
+							146
+						]
+					},
+					{
+						"text": "users",
+						"indices": [
+							147,
+							153
+						]
+					},
+					{
+						"text": "designresearch",
+						"indices": [
+							154,
+							169
+						]
+					},
+					{
+						"text": "productdesign",
+						"indices": [
+							170,
+							184
+						]
+					},
+					{
+						"text": "userresearch",
+						"indices": [
+							200,
+							213
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1101541896109871100,
+						"id_str": "1101541896109871104",
+						"indices": [
+							214,
+							237
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1101541896109871104/pu/img/S2VYDfKIIFVHKkuo.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1101541896109871104/pu/img/S2VYDfKIIFVHKkuo.jpg",
+						"url": "https://t.co/Yiisz730TT",
+						"display_url": "pic.twitter.com/Yiisz730TT",
+						"expanded_url": "https://twitter.com/uxlinks/status/1101542916168839168/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1101541896109871100,
+						"id_str": "1101541896109871104",
+						"indices": [
+							214,
+							237
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1101541896109871104/pu/img/S2VYDfKIIFVHKkuo.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1101541896109871104/pu/img/S2VYDfKIIFVHKkuo.jpg",
+						"url": "https://t.co/Yiisz730TT",
+						"display_url": "pic.twitter.com/Yiisz730TT",
+						"expanded_url": "https://twitter.com/uxlinks/status/1101542916168839168/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 18900,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1101541896109871104/pu/pl/my_CGsKrY32fb4uD.m3u8?tag=6"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1101541896109871104/pu/vid/320x180/OsrPlqfHLFo4owha.mp4?tag=6"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1101541896109871104/pu/vid/640x360/xzyaZ5dgLHIo06Jr.mp4?tag=6"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 21915540,
+				"id_str": "21915540",
+				"name": "UX Links",
+				"screen_name": "uxlinks",
+				"location": "",
+				"description": "The best UX, UX design, code & AR links from around the globe, shared daily.",
+				"url": "https://t.co/nmhpqgp4JK",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/nmhpqgp4JK",
+								"expanded_url": "https://www.facebook.com/UXlinks/",
+								"display_url": "facebook.com/UXlinks/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 30207,
+				"friends_count": 49,
+				"listed_count": 2408,
+				"created_at": "Wed Feb 25 20:40:35 +0000 2009",
+				"favourites_count": 23814,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 13282,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/875379503840854020/Og5QdAbx_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/875379503840854020/Og5QdAbx_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/21915540/1502989330",
+				"profile_link_color": "1AB6E5",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "0A0A0A",
+				"profile_text_color": "999999",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 59,
+			"favorite_count": 129,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Am I allowed to say that this looks more like a UI problem than UX? The UX is pretty similar, sliding down a slope, but the interface for doing it is poorly designed. UI matters and it’s not the same as UX. https://t.co/AxZ82gx2X5"
+	},
+	{
 		"created_at": "Fri Mar 01 01:25:05 +0000 2019",
 		"id": 1101292238108155900,
 		"id_str": "1101292238108155904",
@@ -68,7 +708,7 @@ Grailbird.data.tweets_2019_03 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13341,
+			"statuses_count": 13344,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -354,16 +994,16 @@ Grailbird.data.tweets_2019_03 =
 					}
 				},
 				"protected": false,
-				"followers_count": 1080,
+				"followers_count": 1081,
 				"friends_count": 3676,
 				"listed_count": 24,
 				"created_at": "Fri Feb 15 03:51:10 +0000 2013",
-				"favourites_count": 2045,
+				"favourites_count": 2047,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": false,
-				"statuses_count": 2079,
+				"statuses_count": 2080,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
