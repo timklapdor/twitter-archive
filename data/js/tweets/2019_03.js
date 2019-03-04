@@ -1,6 +1,352 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Sun Mar 03 21:37:36 +0000 2019",
+		"id": 1102322155633619000,
+		"id_str": "1102322155633618944",
+		"full_text": "So Sydney gets all the infrastructure, oh and Newcastle gets trams. The rest of the state? Nothing. Given there’s an election going on you’d think there’d be some effort put into the regions.. but we’ve come to expect nothing. \n\nhttps://t.co/hh43ayXpld",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			252
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hh43ayXpld",
+					"expanded_url": "https://www.theguardian.com/australia-news/ng-interactive/2019/mar/02/roads-rail-and-stadiums-the-big-ticket-nsw-election-promises?CMP=share_btn_tw",
+					"display_url": "theguardian.com/australia-news…",
+					"indices": [
+						229,
+						252
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Wagga Wagga",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
+			"url": "https://t.co/uC0c3me6KE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uC0c3me6KE",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 785,
+			"friends_count": 132,
+			"listed_count": 94,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 6507,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13346,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1067778743207260160/7c3ZEd6P_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1067778743207260160/7c3ZEd6P_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "00fdc8497c0ca7b4",
+			"url": "https://api.twitter.com/1.1/geo/id/00fdc8497c0ca7b4.json",
+			"place_type": "city",
+			"name": "Wagga Wagga",
+			"full_name": "Wagga Wagga, New South Wales",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							147.304038624,
+							-35.187975032
+						],
+						[
+							147.424035232,
+							-35.187975032
+						],
+						[
+							147.424035232,
+							-35.0881893435
+						],
+						[
+							147.304038624,
+							-35.0881893435
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "So Sydney gets all the infrastructure, oh and Newcastle gets trams. The rest of the state? Nothing. Given there’s an election going on you’d think there’d be some effort put into the regions.. but we’ve come to expect nothing. \n\nhttps://t.co/hh43ayXpld"
+	},
+	{
+		"created_at": "Sun Mar 03 20:47:12 +0000 2019",
+		"id": 1102309469126574100,
+		"id_str": "1102309469126574081",
+		"full_text": "Insomnia is balls. But hey I did a 5k walk before the family was up. Also got to see a new hole at the hospital site and watch the sun come up. https://t.co/mr3zWRRXxe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1102309451627880400,
+					"id_str": "1102309451627880448",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/D0wwmyDV4AAMux3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0wwmyDV4AAMux3.jpg",
+					"url": "https://t.co/mr3zWRRXxe",
+					"display_url": "pic.twitter.com/mr3zWRRXxe",
+					"expanded_url": "https://twitter.com/timklapdor/status/1102309469126574081/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1102309451627880400,
+					"id_str": "1102309451627880448",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/D0wwmyDV4AAMux3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D0wwmyDV4AAMux3.jpg",
+					"url": "https://t.co/mr3zWRRXxe",
+					"display_url": "pic.twitter.com/mr3zWRRXxe",
+					"expanded_url": "https://twitter.com/timklapdor/status/1102309469126574081/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Wagga Wagga",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
+			"url": "https://t.co/uC0c3me6KE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uC0c3me6KE",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 785,
+			"friends_count": 132,
+			"listed_count": 94,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 6507,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13346,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1067778743207260160/7c3ZEd6P_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1067778743207260160/7c3ZEd6P_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "00fdc8497c0ca7b4",
+			"url": "https://api.twitter.com/1.1/geo/id/00fdc8497c0ca7b4.json",
+			"place_type": "city",
+			"name": "Wagga Wagga",
+			"full_name": "Wagga Wagga, New South Wales",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							147.304038624,
+							-35.187975032
+						],
+						[
+							147.424035232,
+							-35.187975032
+						],
+						[
+							147.424035232,
+							-35.0881893435
+						],
+						[
+							147.304038624,
+							-35.0881893435
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Insomnia is balls. But hey I did a 5k walk before the family was up. Also got to see a new hole at the hospital site and watch the sun come up. https://t.co/mr3zWRRXxe"
+	},
+	{
 		"created_at": "Sat Mar 02 03:11:20 +0000 2019",
 		"id": 1099429250979979300,
 		"id_str": "1101681366515691520",
@@ -49,16 +395,16 @@ Grailbird.data.tweets_2019_03 =
 				}
 			},
 			"protected": false,
-			"followers_count": 11177,
-			"friends_count": 1900,
-			"listed_count": 147,
+			"followers_count": 11321,
+			"friends_count": 1906,
+			"listed_count": 146,
 			"created_at": "Thu Jan 19 04:34:45 +0000 2012",
-			"favourites_count": 5744,
+			"favourites_count": 5745,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 4535,
+			"statuses_count": 4539,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -121,8 +467,8 @@ Grailbird.data.tweets_2019_03 =
 		},
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 48126,
-		"favorite_count": 221114,
+		"retweet_count": 48715,
+		"favorite_count": 223288,
 		"favorited": false,
 		"retweeted": true,
 		"lang": "en",
@@ -164,16 +510,16 @@ Grailbird.data.tweets_2019_03 =
 				}
 			},
 			"protected": false,
-			"followers_count": 761,
-			"friends_count": 741,
+			"followers_count": 777,
+			"friends_count": 743,
 			"listed_count": 3,
 			"created_at": "Sat Aug 30 11:33:51 +0000 2014",
-			"favourites_count": 730,
+			"favourites_count": 775,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 1367,
+			"statuses_count": 1417,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -203,8 +549,8 @@ Grailbird.data.tweets_2019_03 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 160,
-		"favorite_count": 259,
+		"retweet_count": 163,
+		"favorite_count": 264,
 		"favorited": false,
 		"retweeted": true,
 		"lang": "en",
@@ -269,16 +615,16 @@ Grailbird.data.tweets_2019_03 =
 				}
 			},
 			"protected": false,
-			"followers_count": 786,
-			"friends_count": 133,
-			"listed_count": 95,
+			"followers_count": 785,
+			"friends_count": 132,
+			"listed_count": 94,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
 			"favourites_count": 6507,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13344,
+			"statuses_count": 13346,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -586,16 +932,16 @@ Grailbird.data.tweets_2019_03 =
 					}
 				},
 				"protected": false,
-				"followers_count": 30207,
+				"followers_count": 30226,
 				"friends_count": 49,
 				"listed_count": 2408,
 				"created_at": "Wed Feb 25 20:40:35 +0000 2009",
-				"favourites_count": 23814,
+				"favourites_count": 23816,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": false,
-				"statuses_count": 13282,
+				"statuses_count": 13284,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -625,15 +971,15 @@ Grailbird.data.tweets_2019_03 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 59,
-			"favorite_count": 129,
+			"retweet_count": 81,
+			"favorite_count": 175,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
 			"lang": "en"
 		},
 		"retweet_count": 1,
-		"favorite_count": 4,
+		"favorite_count": 5,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
@@ -699,16 +1045,16 @@ Grailbird.data.tweets_2019_03 =
 				}
 			},
 			"protected": false,
-			"followers_count": 786,
-			"friends_count": 133,
-			"listed_count": 95,
+			"followers_count": 785,
+			"friends_count": 132,
+			"listed_count": 94,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
 			"favourites_count": 6507,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13344,
+			"statuses_count": 13346,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -994,8 +1340,8 @@ Grailbird.data.tweets_2019_03 =
 					}
 				},
 				"protected": false,
-				"followers_count": 1081,
-				"friends_count": 3676,
+				"followers_count": 1083,
+				"friends_count": 3675,
 				"listed_count": 24,
 				"created_at": "Fri Feb 15 03:51:10 +0000 2013",
 				"favourites_count": 2047,
@@ -1003,7 +1349,7 @@ Grailbird.data.tweets_2019_03 =
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": false,
-				"statuses_count": 2080,
+				"statuses_count": 2083,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
