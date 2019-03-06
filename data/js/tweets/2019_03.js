@@ -1,6 +1,648 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Tue Mar 05 22:36:20 +0000 2019",
+		"id": 1103061713224523800,
+		"id_str": "1103061713224523776",
+		"full_text": "@francesbell Happy to inform you the #TheGoodScissors made it to Australia. Both my Nan and Mum spreading it here!",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			114
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TheGoodScissors",
+					"indices": [
+						37,
+						53
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "francesbell",
+					"name": "Frances Bell",
+					"id": 12438922,
+					"id_str": "12438922",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1103042466662486000,
+		"in_reply_to_status_id_str": "1103042466662486016",
+		"in_reply_to_user_id": 12438922,
+		"in_reply_to_user_id_str": "12438922",
+		"in_reply_to_screen_name": "francesbell",
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Wagga Wagga",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
+			"url": "https://t.co/uC0c3me6KE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uC0c3me6KE",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 788,
+			"friends_count": 132,
+			"listed_count": 94,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 6517,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13349,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1067778743207260160/7c3ZEd6P_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1067778743207260160/7c3ZEd6P_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "00de77a74e8155fa",
+			"url": "https://api.twitter.com/1.1/geo/id/00de77a74e8155fa.json",
+			"place_type": "city",
+			"name": "Estella",
+			"full_name": "Estella, New South Wales",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							147.342861344,
+							-35.0844753575
+						],
+						[
+							147.363966496,
+							-35.0844753575
+						],
+						[
+							147.363966496,
+							-35.046804418
+						],
+						[
+							147.342861344,
+							-35.046804418
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@francesbell Happy to inform you the #TheGoodScissors made it to Australia. Both my Nan and Mum spreading it here!"
+	},
+	{
+		"created_at": "Tue Mar 05 13:38:44 +0000 2019",
+		"id": 1102926418621587500,
+		"id_str": "1102926418621587456",
+		"full_text": "If you needed any more proof that gambling companies are just evil bastards - you probably should read this. If you already thought that, it’s worse than you think. Much much worse. https://t.co/K9X7N1zTx6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			181
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/K9X7N1zTx6",
+					"expanded_url": "https://twitter.com/FarrellPF/status/1102843693080371200",
+					"display_url": "twitter.com/FarrellPF/stat…",
+					"indices": [
+						182,
+						205
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Wagga Wagga",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
+			"url": "https://t.co/uC0c3me6KE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uC0c3me6KE",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 788,
+			"friends_count": 132,
+			"listed_count": 94,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 6517,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13349,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1067778743207260160/7c3ZEd6P_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1067778743207260160/7c3ZEd6P_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "00fdc8497c0ca7b4",
+			"url": "https://api.twitter.com/1.1/geo/id/00fdc8497c0ca7b4.json",
+			"place_type": "city",
+			"name": "Wagga Wagga",
+			"full_name": "Wagga Wagga, New South Wales",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							147.304038624,
+							-35.187975032
+						],
+						[
+							147.424035232,
+							-35.187975032
+						],
+						[
+							147.424035232,
+							-35.0881893435
+						],
+						[
+							147.304038624,
+							-35.0881893435
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1102843693080371200,
+		"quoted_status_id_str": "1102843693080371200",
+		"quoted_status_permalink": {
+			"url": "https://t.co/K9X7N1zTx6",
+			"expanded": "https://twitter.com/FarrellPF/status/1102843693080371200",
+			"display": "twitter.com/FarrellPF/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Mar 05 08:10:00 +0000 2019",
+			"id": 1102843693080371200,
+			"id_str": "1102843693080371200",
+			"full_text": "We've just published the staggering details of how Sportsbet has spent $490m in the last five years promoting online gambling in Australia\n\nhttps://t.co/ZZTA9uqGAD",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				163
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ZZTA9uqGAD",
+						"expanded_url": "https://www.abc.net.au/news/2019-03-05/sportsbet-documents-reveal-millions-spent-on-marketing/10833196#",
+						"display_url": "abc.net.au/news/2019-03-0…",
+						"indices": [
+							140,
+							163
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 25877907,
+				"id_str": "25877907",
+				"name": "Paul Farrell",
+				"screen_name": "FarrellPF",
+				"location": "Sydney",
+				"description": "Reporter @ABC730. Previously BuzzFeed, The Guardian | nat sec, immigration, lead reporter on #Naurufiles | Signal +61457262172 farrell.paul@abc.net.au",
+				"url": "https://t.co/URMRt4KTIA",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/URMRt4KTIA",
+								"expanded_url": "https://www.abc.net.au/news/paul-farrell/10423696",
+								"display_url": "abc.net.au/news/paul-farr…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 14327,
+				"friends_count": 4988,
+				"listed_count": 407,
+				"created_at": "Sun Mar 22 20:52:16 +0000 2009",
+				"favourites_count": 5170,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 12874,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1051702447033307136/-W2x3oKd_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1051702447033307136/-W2x3oKd_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 168,
+			"favorite_count": 168,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If you needed any more proof that gambling companies are just evil bastards - you probably should read this. If you already thought that, it’s worse than you think. Much much worse. https://t.co/K9X7N1zTx6"
+	},
+	{
+		"created_at": "Tue Mar 05 08:13:50 +0000 2019",
+		"id": 1102825016872198100,
+		"id_str": "1102844656277053442",
+		"full_text": "Last call: looking for a Learning Experience (LX) Design Lead. Come and work in the most innovative learning organization I’ve ever worked in... #lxd #lxdesign #learningdesign\n https://t.co/U3pwsuLuVv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			200
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "lxd",
+					"indices": [
+						145,
+						149
+					]
+				},
+				{
+					"text": "lxdesign",
+					"indices": [
+						150,
+						159
+					]
+				},
+				{
+					"text": "learningdesign",
+					"indices": [
+						160,
+						175
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/U3pwsuLuVv",
+					"expanded_url": "https://www.linkedin.com/jobs/view/1128120490",
+					"display_url": "linkedin.com/jobs/view/1128…",
+					"indices": [
+						177,
+						200
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 10451462,
+			"id_str": "10451462",
+			"name": "Joyce Seitzinger ❤️📝✏️",
+			"screen_name": "catspyjamasnz",
+			"location": "Melbourne, Australia",
+			"description": "Learning Design Director @ RMIT Online. Designing learning experiences. Hoping that's helpful.",
+			"url": "https://t.co/xjBjQEKUHz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xjBjQEKUHz",
+							"expanded_url": "http://learn.rmitonline.edu.au",
+							"display_url": "learn.rmitonline.edu.au",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12282,
+			"friends_count": 11660,
+			"listed_count": 1232,
+			"created_at": "Wed Nov 21 21:14:58 +0000 2007",
+			"favourites_count": 92987,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 59275,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/690397421499736064/j-HGgre5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/690397421499736064/j-HGgre5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/10451462/1518177565",
+			"profile_link_color": "CC3366",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EECD15",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Last call: looking for a Learning Experience (LX) Design Lead. Come and work in the most innovative learning organization I’ve ever worked in... #lxd #lxdesign #learningdesign\n https://t.co/U3pwsuLuVv"
+	},
+	{
+		"created_at": "Tue Mar 05 05:45:56 +0000 2019",
+		"id": 1102807437717823500,
+		"id_str": "1102807437717823492",
+		"full_text": "I'll be speaking @TheBigDayIn on the 13th of March. Great opportunity to find out more about careers in tech. If you have a teen in the Riverina it's going to be great opportunity. Looks like there's going to be a few creatives too - not just nerds! https://t.co/ndPkEBsAcc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TheBigDayIn",
+					"name": "Big Day In",
+					"id": 1181037025,
+					"id_str": "1181037025",
+					"indices": [
+						17,
+						29
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ndPkEBsAcc",
+					"expanded_url": "https://www.thebigdayin.com.au/",
+					"display_url": "thebigdayin.com.au",
+					"indices": [
+						250,
+						273
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Wagga Wagga",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
+			"url": "https://t.co/uC0c3me6KE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uC0c3me6KE",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 788,
+			"friends_count": 132,
+			"listed_count": 94,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 6517,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13349,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1067778743207260160/7c3ZEd6P_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1067778743207260160/7c3ZEd6P_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I'll be speaking @TheBigDayIn on the 13th of March. Great opportunity to find out more about careers in tech. If you have a teen in the Riverina it's going to be great opportunity. Looks like there's going to be a few creatives too - not just nerds! https://t.co/ndPkEBsAcc"
+	},
+	{
 		"created_at": "Sun Mar 03 21:37:36 +0000 2019",
 		"id": 1102322155633619000,
 		"id_str": "1102322155633618944",
@@ -59,16 +701,16 @@ Grailbird.data.tweets_2019_03 =
 				}
 			},
 			"protected": false,
-			"followers_count": 785,
+			"followers_count": 788,
 			"friends_count": 132,
 			"listed_count": 94,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6507,
+			"favourites_count": 6517,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13345,
+			"statuses_count": 13349,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -266,16 +908,16 @@ Grailbird.data.tweets_2019_03 =
 				}
 			},
 			"protected": false,
-			"followers_count": 785,
+			"followers_count": 788,
 			"friends_count": 132,
 			"listed_count": 94,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6507,
+			"favourites_count": 6517,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13345,
+			"statuses_count": 13349,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -395,16 +1037,16 @@ Grailbird.data.tweets_2019_03 =
 				}
 			},
 			"protected": false,
-			"followers_count": 11361,
-			"friends_count": 1917,
+			"followers_count": 11392,
+			"friends_count": 1922,
 			"listed_count": 147,
 			"created_at": "Thu Jan 19 04:34:45 +0000 2012",
-			"favourites_count": 5758,
+			"favourites_count": 5765,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 4542,
+			"statuses_count": 4546,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -467,8 +1109,8 @@ Grailbird.data.tweets_2019_03 =
 		},
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 48823,
-		"favorite_count": 223668,
+		"retweet_count": 48844,
+		"favorite_count": 223778,
 		"favorited": false,
 		"retweeted": true,
 		"lang": "en",
@@ -510,16 +1152,16 @@ Grailbird.data.tweets_2019_03 =
 				}
 			},
 			"protected": false,
-			"followers_count": 797,
-			"friends_count": 746,
+			"followers_count": 809,
+			"friends_count": 591,
 			"listed_count": 3,
 			"created_at": "Sat Aug 30 11:33:51 +0000 2014",
-			"favourites_count": 807,
+			"favourites_count": 846,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 1504,
+			"statuses_count": 1548,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -549,8 +1191,8 @@ Grailbird.data.tweets_2019_03 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 168,
-		"favorite_count": 268,
+		"retweet_count": 169,
+		"favorite_count": 270,
 		"favorited": false,
 		"retweeted": true,
 		"lang": "en",
@@ -615,16 +1257,16 @@ Grailbird.data.tweets_2019_03 =
 				}
 			},
 			"protected": false,
-			"followers_count": 785,
+			"followers_count": 788,
 			"friends_count": 132,
 			"listed_count": 94,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6507,
+			"favourites_count": 6517,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13345,
+			"statuses_count": 13349,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -932,16 +1574,16 @@ Grailbird.data.tweets_2019_03 =
 					}
 				},
 				"protected": false,
-				"followers_count": 30246,
+				"followers_count": 30275,
 				"friends_count": 49,
 				"listed_count": 2409,
 				"created_at": "Wed Feb 25 20:40:35 +0000 2009",
-				"favourites_count": 23823,
+				"favourites_count": 23834,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": false,
-				"statuses_count": 13288,
+				"statuses_count": 13292,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -971,8 +1613,8 @@ Grailbird.data.tweets_2019_03 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 89,
-			"favorite_count": 183,
+			"retweet_count": 102,
+			"favorite_count": 197,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
@@ -1045,16 +1687,16 @@ Grailbird.data.tweets_2019_03 =
 				}
 			},
 			"protected": false,
-			"followers_count": 785,
+			"followers_count": 788,
 			"friends_count": 132,
 			"listed_count": 94,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6507,
+			"favourites_count": 6517,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13345,
+			"statuses_count": 13349,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1341,15 +1983,15 @@ Grailbird.data.tweets_2019_03 =
 				},
 				"protected": false,
 				"followers_count": 1083,
-				"friends_count": 3676,
+				"friends_count": 3680,
 				"listed_count": 24,
 				"created_at": "Fri Feb 15 03:51:10 +0000 2013",
-				"favourites_count": 2048,
+				"favourites_count": 2055,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": false,
-				"statuses_count": 2086,
+				"statuses_count": 2092,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -1380,7 +2022,7 @@ Grailbird.data.tweets_2019_03 =
 			"contributors": null,
 			"is_quote_status": false,
 			"retweet_count": 0,
-			"favorite_count": 1,
+			"favorite_count": 2,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
