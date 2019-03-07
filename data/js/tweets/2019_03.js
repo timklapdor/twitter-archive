@@ -1,6 +1,431 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Wed Mar 06 20:03:43 +0000 2019",
+		"id": 1103385690627141600,
+		"id_str": "1103385690627141637",
+		"full_text": "First beautiful cool, crisp morning of the year. https://t.co/kTrp55kR0V",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1103385684507672600,
+					"id_str": "1103385684507672576",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/D1ADbx9UwAAfhlK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1ADbx9UwAAfhlK.jpg",
+					"url": "https://t.co/kTrp55kR0V",
+					"display_url": "pic.twitter.com/kTrp55kR0V",
+					"expanded_url": "https://twitter.com/timklapdor/status/1103385690627141637/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1103385684507672600,
+					"id_str": "1103385684507672576",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/D1ADbx9UwAAfhlK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D1ADbx9UwAAfhlK.jpg",
+					"url": "https://t.co/kTrp55kR0V",
+					"display_url": "pic.twitter.com/kTrp55kR0V",
+					"expanded_url": "https://twitter.com/timklapdor/status/1103385690627141637/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Wagga Wagga",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
+			"url": "https://t.co/uC0c3me6KE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uC0c3me6KE",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 788,
+			"friends_count": 132,
+			"listed_count": 94,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 6520,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13350,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1067778743207260160/7c3ZEd6P_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1067778743207260160/7c3ZEd6P_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "47fbe3d3691af707",
+			"url": "https://api.twitter.com/1.1/geo/id/47fbe3d3691af707.json",
+			"place_type": "neighborhood",
+			"name": "Turvey Park",
+			"full_name": "Turvey Park, Wagga Wagga",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							147.34215216,
+							-35.13507804
+						],
+						[
+							147.37781016,
+							-35.13507804
+						],
+						[
+							147.37781016,
+							-35.11972998
+						],
+						[
+							147.34215216,
+							-35.11972998
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "First beautiful cool, crisp morning of the year. https://t.co/kTrp55kR0V"
+	},
+	{
+		"created_at": "Wed Mar 06 10:08:51 +0000 2019",
+		"id": 1102685970720272400,
+		"id_str": "1103235988455735296",
+		"full_text": "\"Every generation pretends gang crime is a new problem.\"\n\nRapper and author Akala says the social indicators of violence have \"remained identical for almost 200 years\". https://t.co/aJO1raMFnn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1102685283382976500,
+					"id_str": "1102685283382976518",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/D02HBO3X0AA-qH-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D02HBO3X0AA-qH-.jpg",
+					"url": "https://t.co/aJO1raMFnn",
+					"display_url": "pic.twitter.com/aJO1raMFnn",
+					"expanded_url": "https://twitter.com/Channel4News/status/1102685970720272384/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1102685283382976500,
+					"id_str": "1102685283382976518",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/D02HBO3X0AA-qH-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D02HBO3X0AA-qH-.jpg",
+					"url": "https://t.co/aJO1raMFnn",
+					"display_url": "pic.twitter.com/aJO1raMFnn",
+					"expanded_url": "https://twitter.com/Channel4News/status/1102685970720272384/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 122880,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1102685283382976518/pl/hEdLLOsd4baob3Dw.m3u8?tag=9"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1102685283382976518/vid/480x480/6pMjmSmwVXJjope0.mp4?tag=9"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1102685283382976518/vid/320x320/f6c3X6mQ9Bzdi_Xa.mp4?tag=9"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1102685283382976518/vid/720x720/gY2pDZwlZm0GtkRN.mp4?tag=9"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "Akala rejects the \"facile explanations\" for gang crime",
+						"description": "Rapper and author Akala says the social indicators of violence have \"remained identical for almost 200 years\". ",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14569869,
+			"id_str": "14569869",
+			"name": "Channel 4 News",
+			"screen_name": "Channel4News",
+			"location": "United Kingdom",
+			"description": "Stories that reveal and inspire, challenging expectations. Follow our new weekly international news series 'Uncovered' on Facebook Watch https://t.co/Y57pFW9YUZ",
+			"url": "https://t.co/LBhZvqcoKL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LBhZvqcoKL",
+							"expanded_url": "http://www.channel4.com/news",
+							"display_url": "channel4.com/news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Y57pFW9YUZ",
+							"expanded_url": "https://bit.ly/2SCh5PM",
+							"display_url": "bit.ly/2SCh5PM",
+							"indices": [
+								137,
+								160
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2142451,
+			"friends_count": 4556,
+			"listed_count": 9796,
+			"created_at": "Mon Apr 28 14:29:37 +0000 2008",
+			"favourites_count": 471,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 94152,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "2C1C36",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875404558528393216/cTknVhwm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875404558528393216/cTknVhwm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14569869/1551461117",
+			"profile_link_color": "421174",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FAF0F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 25669,
+		"favorite_count": 51011,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"Every generation pretends gang crime is a new problem.\"\n\nRapper and author Akala says the social indicators of violence have \"remained identical for almost 200 years\". https://t.co/aJO1raMFnn"
+	},
+	{
 		"created_at": "Tue Mar 05 22:36:20 +0000 2019",
 		"id": 1103061713224523800,
 		"id_str": "1103061713224523776",
@@ -72,12 +497,12 @@ Grailbird.data.tweets_2019_03 =
 			"friends_count": 132,
 			"listed_count": 94,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6517,
+			"favourites_count": 6520,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13349,
+			"statuses_count": 13350,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -141,7 +566,7 @@ Grailbird.data.tweets_2019_03 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 0,
+		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
 		"lang": "en",
@@ -210,12 +635,12 @@ Grailbird.data.tweets_2019_03 =
 			"friends_count": 132,
 			"listed_count": 94,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6517,
+			"favourites_count": 6520,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13349,
+			"statuses_count": 13350,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -344,16 +769,16 @@ Grailbird.data.tweets_2019_03 =
 					}
 				},
 				"protected": false,
-				"followers_count": 14327,
-				"friends_count": 4988,
+				"followers_count": 14331,
+				"friends_count": 4991,
 				"listed_count": 407,
 				"created_at": "Sun Mar 22 20:52:16 +0000 2009",
-				"favourites_count": 5170,
+				"favourites_count": 5172,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": true,
-				"statuses_count": 12874,
+				"statuses_count": 12878,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -382,8 +807,8 @@ Grailbird.data.tweets_2019_03 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 168,
-			"favorite_count": 168,
+			"retweet_count": 190,
+			"favorite_count": 188,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
@@ -478,16 +903,16 @@ Grailbird.data.tweets_2019_03 =
 				}
 			},
 			"protected": false,
-			"followers_count": 12282,
+			"followers_count": 12279,
 			"friends_count": 11660,
 			"listed_count": 1232,
 			"created_at": "Wed Nov 21 21:14:58 +0000 2007",
-			"favourites_count": 92987,
+			"favourites_count": 93027,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 59275,
+			"statuses_count": 59291,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -599,12 +1024,12 @@ Grailbird.data.tweets_2019_03 =
 			"friends_count": 132,
 			"listed_count": 94,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6517,
+			"favourites_count": 6520,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13349,
+			"statuses_count": 13350,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -635,7 +1060,7 @@ Grailbird.data.tweets_2019_03 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 1,
-		"favorite_count": 3,
+		"favorite_count": 4,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
@@ -705,12 +1130,12 @@ Grailbird.data.tweets_2019_03 =
 			"friends_count": 132,
 			"listed_count": 94,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6517,
+			"favourites_count": 6520,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13349,
+			"statuses_count": 13350,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -912,12 +1337,12 @@ Grailbird.data.tweets_2019_03 =
 			"friends_count": 132,
 			"listed_count": 94,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6517,
+			"favourites_count": 6520,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13349,
+			"statuses_count": 13350,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1037,16 +1462,16 @@ Grailbird.data.tweets_2019_03 =
 				}
 			},
 			"protected": false,
-			"followers_count": 11392,
-			"friends_count": 1922,
+			"followers_count": 11399,
+			"friends_count": 1926,
 			"listed_count": 147,
 			"created_at": "Thu Jan 19 04:34:45 +0000 2012",
-			"favourites_count": 5765,
+			"favourites_count": 5774,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 4546,
+			"statuses_count": 4547,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1109,8 +1534,8 @@ Grailbird.data.tweets_2019_03 =
 		},
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 48844,
-		"favorite_count": 223778,
+		"retweet_count": 48878,
+		"favorite_count": 223826,
 		"favorited": false,
 		"retweeted": true,
 		"lang": "en",
@@ -1152,16 +1577,16 @@ Grailbird.data.tweets_2019_03 =
 				}
 			},
 			"protected": false,
-			"followers_count": 809,
+			"followers_count": 816,
 			"friends_count": 591,
 			"listed_count": 3,
 			"created_at": "Sat Aug 30 11:33:51 +0000 2014",
-			"favourites_count": 846,
+			"favourites_count": 851,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 1548,
+			"statuses_count": 1525,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1261,12 +1686,12 @@ Grailbird.data.tweets_2019_03 =
 			"friends_count": 132,
 			"listed_count": 94,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6517,
+			"favourites_count": 6520,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13349,
+			"statuses_count": 13350,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1574,16 +1999,16 @@ Grailbird.data.tweets_2019_03 =
 					}
 				},
 				"protected": false,
-				"followers_count": 30275,
+				"followers_count": 30309,
 				"friends_count": 49,
 				"listed_count": 2409,
 				"created_at": "Wed Feb 25 20:40:35 +0000 2009",
-				"favourites_count": 23834,
+				"favourites_count": 23841,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": false,
-				"statuses_count": 13292,
+				"statuses_count": 13295,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -1613,8 +2038,8 @@ Grailbird.data.tweets_2019_03 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 102,
-			"favorite_count": 197,
+			"retweet_count": 108,
+			"favorite_count": 203,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
@@ -1691,12 +2116,12 @@ Grailbird.data.tweets_2019_03 =
 			"friends_count": 132,
 			"listed_count": 94,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6517,
+			"favourites_count": 6520,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13349,
+			"statuses_count": 13350,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1982,11 +2407,11 @@ Grailbird.data.tweets_2019_03 =
 					}
 				},
 				"protected": false,
-				"followers_count": 1083,
-				"friends_count": 3680,
+				"followers_count": 1084,
+				"friends_count": 3681,
 				"listed_count": 24,
 				"created_at": "Fri Feb 15 03:51:10 +0000 2013",
-				"favourites_count": 2055,
+				"favourites_count": 2056,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
