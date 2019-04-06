@@ -1,6 +1,1423 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Fri Apr 05 22:54:31 +0000 2019",
+		"id": 1114300312787935200,
+		"id_str": "1114300312787935232",
+		"full_text": "And proof of the kind of swill Murdoch puts to press. https://t.co/v37En4MojY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/v37En4MojY",
+					"expanded_url": "https://twitter.com/IndigenousX/status/1114156631141404674",
+					"display_url": "twitter.com/IndigenousX/st…",
+					"indices": [
+						54,
+						77
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Wagga Wagga",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
+			"url": "https://t.co/uC0c3me6KE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uC0c3me6KE",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 793,
+			"friends_count": 137,
+			"listed_count": 95,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 6579,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13429,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1067778743207260160/7c3ZEd6P_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1067778743207260160/7c3ZEd6P_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "5ad8484801b1bae7",
+			"url": "https://api.twitter.com/1.1/geo/id/5ad8484801b1bae7.json",
+			"place_type": "neighborhood",
+			"name": "Wagga Wagga",
+			"full_name": "Wagga Wagga, New South Wales",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							147.33837288,
+							-35.12521197
+						],
+						[
+							147.38281704,
+							-35.12521197
+						],
+						[
+							147.38281704,
+							-35.08806303
+						],
+						[
+							147.33837288,
+							-35.08806303
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1114156631141404700,
+		"quoted_status_id_str": "1114156631141404674",
+		"quoted_status_permalink": {
+			"url": "https://t.co/v37En4MojY",
+			"expanded": "https://twitter.com/IndigenousX/status/1114156631141404674",
+			"display": "twitter.com/IndigenousX/st…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Apr 05 13:23:35 +0000 2019",
+			"id": 1114156631141404700,
+			"id_str": "1114156631141404674",
+			"full_text": "This is very disturbing. The Australian is spruiking a cleaned up version of Fascist \"Replacement\" dogma that inspired the mass murderer in Christchurch https://t.co/fCZk5kMb7m",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				152
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1114156600627945500,
+						"id_str": "1114156600627945473",
+						"indices": [
+							153,
+							176
+						],
+						"media_url": "http://pbs.twimg.com/media/D3ZHhnSV4AE69bL.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D3ZHhnSV4AE69bL.jpg",
+						"url": "https://t.co/fCZk5kMb7m",
+						"display_url": "pic.twitter.com/fCZk5kMb7m",
+						"expanded_url": "https://twitter.com/IndigenousX/status/1114156631141404674/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1107,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 628,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1244,
+								"h": 1348,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1114156600627945500,
+						"id_str": "1114156600627945473",
+						"indices": [
+							153,
+							176
+						],
+						"media_url": "http://pbs.twimg.com/media/D3ZHhnSV4AE69bL.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D3ZHhnSV4AE69bL.jpg",
+						"url": "https://t.co/fCZk5kMb7m",
+						"display_url": "pic.twitter.com/fCZk5kMb7m",
+						"expanded_url": "https://twitter.com/IndigenousX/status/1114156631141404674/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1107,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 628,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1244,
+								"h": 1348,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 172652106,
+				"id_str": "172652106",
+				"name": "Marcia Langton",
+				"screen_name": "IndigenousX",
+				"location": "Tropical Far North, Cairns",
+				"description": "Writer, anthropologist, Indigenous studies.",
+				"url": "https://t.co/rih8iznQhb",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/rih8iznQhb",
+								"expanded_url": "http://indigenousx.com.au",
+								"display_url": "indigenousx.com.au",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 46491,
+				"friends_count": 6278,
+				"listed_count": 836,
+				"created_at": "Fri Jul 30 06:58:27 +0000 2010",
+				"favourites_count": 46077,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 111684,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1113737091567898626/SMpA29QB_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113737091567898626/SMpA29QB_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/172652106/1554370591",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 153,
+			"favorite_count": 199,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "And proof of the kind of swill Murdoch puts to press. https://t.co/v37En4MojY"
+	},
+	{
+		"created_at": "Fri Apr 05 22:54:06 +0000 2019",
+		"id": 1114156631141404700,
+		"id_str": "1114300207972249601",
+		"full_text": "This is very disturbing. The Australian is spruiking a cleaned up version of Fascist \"Replacement\" dogma that inspired the mass murderer in Christchurch https://t.co/fCZk5kMb7m",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1114156600627945500,
+					"id_str": "1114156600627945473",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/D3ZHhnSV4AE69bL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3ZHhnSV4AE69bL.jpg",
+					"url": "https://t.co/fCZk5kMb7m",
+					"display_url": "pic.twitter.com/fCZk5kMb7m",
+					"expanded_url": "https://twitter.com/IndigenousX/status/1114156631141404674/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1107,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 628,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1244,
+							"h": 1348,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1114156600627945500,
+					"id_str": "1114156600627945473",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/D3ZHhnSV4AE69bL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3ZHhnSV4AE69bL.jpg",
+					"url": "https://t.co/fCZk5kMb7m",
+					"display_url": "pic.twitter.com/fCZk5kMb7m",
+					"expanded_url": "https://twitter.com/IndigenousX/status/1114156631141404674/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1107,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 628,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1244,
+							"h": 1348,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 172652106,
+			"id_str": "172652106",
+			"name": "Marcia Langton",
+			"screen_name": "IndigenousX",
+			"location": "Tropical Far North, Cairns",
+			"description": "Writer, anthropologist, Indigenous studies.",
+			"url": "https://t.co/rih8iznQhb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rih8iznQhb",
+							"expanded_url": "http://indigenousx.com.au",
+							"display_url": "indigenousx.com.au",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 46491,
+			"friends_count": 6278,
+			"listed_count": 836,
+			"created_at": "Fri Jul 30 06:58:27 +0000 2010",
+			"favourites_count": 46077,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 111684,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1113737091567898626/SMpA29QB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113737091567898626/SMpA29QB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/172652106/1554370591",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 153,
+		"favorite_count": 199,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is very disturbing. The Australian is spruiking a cleaned up version of Fascist \"Replacement\" dogma that inspired the mass murderer in Christchurch https://t.co/fCZk5kMb7m"
+	},
+	{
+		"created_at": "Fri Apr 05 22:53:29 +0000 2019",
+		"id": 1114300049012351000,
+		"id_str": "1114300049012350976",
+		"full_text": "This is how Murdoch runs the world. Other news organisations promote his bullshit and disinformation. Ignore him and his influence disappears. https://t.co/IK8LTMKeIN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IK8LTMKeIN",
+					"expanded_url": "https://twitter.com/sallymcmanus/status/1114076384723259393",
+					"display_url": "twitter.com/sallymcmanus/s…",
+					"indices": [
+						143,
+						166
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Wagga Wagga",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
+			"url": "https://t.co/uC0c3me6KE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uC0c3me6KE",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 793,
+			"friends_count": 137,
+			"listed_count": 95,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 6579,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13429,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1067778743207260160/7c3ZEd6P_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1067778743207260160/7c3ZEd6P_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "5ad8484801b1bae7",
+			"url": "https://api.twitter.com/1.1/geo/id/5ad8484801b1bae7.json",
+			"place_type": "neighborhood",
+			"name": "Wagga Wagga",
+			"full_name": "Wagga Wagga, New South Wales",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							147.33837288,
+							-35.12521197
+						],
+						[
+							147.38281704,
+							-35.12521197
+						],
+						[
+							147.38281704,
+							-35.08806303
+						],
+						[
+							147.33837288,
+							-35.08806303
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1114076384723259400,
+		"quoted_status_id_str": "1114076384723259393",
+		"quoted_status_permalink": {
+			"url": "https://t.co/IK8LTMKeIN",
+			"expanded": "https://twitter.com/sallymcmanus/status/1114076384723259393",
+			"display": "twitter.com/sallymcmanus/s…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Apr 05 08:04:43 +0000 2019",
+			"id": 1114076384723259400,
+			"id_str": "1114076384723259393",
+			"full_text": "Why is the ABC sharing Murdoch propaganda lines? https://t.co/rpZCIUpbvX",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				48
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/rpZCIUpbvX",
+						"expanded_url": "https://twitter.com/qanda/status/1114044998205366275",
+						"display_url": "twitter.com/qanda/status/1…",
+						"indices": [
+							49,
+							72
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 48624704,
+				"id_str": "48624704",
+				"name": "Sally McManus",
+				"screen_name": "sallymcmanus",
+				"location": "Melbourne, Victoria",
+				"description": "Secretary of the Australian Council of Trade Unions",
+				"url": "https://t.co/7k2HuZbjcb",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/7k2HuZbjcb",
+								"expanded_url": "http://www.actu.org.au",
+								"display_url": "actu.org.au",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 38020,
+				"friends_count": 4496,
+				"listed_count": 244,
+				"created_at": "Fri Jun 19 05:48:13 +0000 2009",
+				"favourites_count": 17984,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 22680,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1102867703012843521/OOPMcHJy_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1102867703012843521/OOPMcHJy_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/48624704/1547343518",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1114044998205366300,
+			"quoted_status_id_str": "1114044998205366275",
+			"quoted_status_permalink": {
+				"url": "https://t.co/rpZCIUpbvX",
+				"expanded": "https://twitter.com/qanda/status/1114044998205366275",
+				"display": "twitter.com/qanda/status/1…"
+			},
+			"retweet_count": 729,
+			"favorite_count": 1805,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is how Murdoch runs the world. Other news organisations promote his bullshit and disinformation. Ignore him and his influence disappears. https://t.co/IK8LTMKeIN"
+	},
+	{
+		"created_at": "Fri Apr 05 14:03:57 +0000 2019",
+		"id": 1113977341242249200,
+		"id_str": "1114166787807956992",
+		"full_text": "Never felt so patriotic as watching this footage of pissed-off Sydney commuters telling an American anti-abortion activist to STFU on a crowded train. https://t.co/dTCGr7s5kN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dTCGr7s5kN",
+					"expanded_url": "https://twitter.com/ginarush/status/1113943128153530368",
+					"display_url": "twitter.com/ginarush/statu…",
+					"indices": [
+						151,
+						174
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 41088384,
+			"id_str": "41088384",
+			"name": "Benjamin Law",
+			"screen_name": "mrbenjaminlaw",
+			"location": "Sydney | Eora Nation",
+			"description": "Writer, raconteur and local homosexual",
+			"url": "https://t.co/RA95X818dS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RA95X818dS",
+							"expanded_url": "http://www.benjamin-law.com",
+							"display_url": "benjamin-law.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 89581,
+			"friends_count": 3184,
+			"listed_count": 898,
+			"created_at": "Tue May 19 10:00:55 +0000 2009",
+			"favourites_count": 82628,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 73584,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1046878187500666880/n5WRk48Z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1046878187500666880/n5WRk48Z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/41088384/1545381085",
+			"profile_link_color": "9C3700",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DBDBDB",
+			"profile_text_color": "003C52",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1113943128153530400,
+		"quoted_status_id_str": "1113943128153530368",
+		"quoted_status_permalink": {
+			"url": "https://t.co/dTCGr7s5kN",
+			"expanded": "https://twitter.com/ginarush/status/1113943128153530368",
+			"display": "twitter.com/ginarush/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Apr 04 23:15:12 +0000 2019",
+			"id": 1113943128153530400,
+			"id_str": "1113943128153530368",
+			"full_text": "An American anti-abortion preacher got on a Sydney train and started yelling at commuters and it went just as you'd expect. (Footage: https://t.co/xaM9tlBSof) https://t.co/GpdTANVEWv",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				158
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/xaM9tlBSof",
+						"expanded_url": "https://www.youtube.com/watch?v=wP4w6hF50XM",
+						"display_url": "youtube.com/watch?v=wP4w6h…",
+						"indices": [
+							134,
+							157
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1113942987543724000,
+						"id_str": "1113942987543724032",
+						"indices": [
+							159,
+							182
+						],
+						"media_url": "http://pbs.twimg.com/media/D3WFPsiUwAAGiED.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D3WFPsiUwAAGiED.jpg",
+						"url": "https://t.co/GpdTANVEWv",
+						"display_url": "pic.twitter.com/GpdTANVEWv",
+						"expanded_url": "https://twitter.com/ginarush/status/1113943128153530368/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 378,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 944,
+								"h": 525,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 944,
+								"h": 525,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1113942987543724000,
+						"id_str": "1113942987543724032",
+						"indices": [
+							159,
+							182
+						],
+						"media_url": "http://pbs.twimg.com/media/D3WFPsiUwAAGiED.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D3WFPsiUwAAGiED.jpg",
+						"url": "https://t.co/GpdTANVEWv",
+						"display_url": "pic.twitter.com/GpdTANVEWv",
+						"expanded_url": "https://twitter.com/ginarush/status/1113943128153530368/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 378,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 944,
+								"h": 525,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 944,
+								"h": 525,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1113943010260054000,
+						"id_str": "1113943010260054018",
+						"indices": [
+							159,
+							182
+						],
+						"media_url": "http://pbs.twimg.com/media/D3WFRBKUcAILQs_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D3WFRBKUcAILQs_.jpg",
+						"url": "https://t.co/GpdTANVEWv",
+						"display_url": "pic.twitter.com/GpdTANVEWv",
+						"expanded_url": "https://twitter.com/ginarush/status/1113943128153530368/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 945,
+								"h": 526,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 378,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 945,
+								"h": 526,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 39748571,
+				"id_str": "39748571",
+				"name": "Gina Rushton",
+				"screen_name": "ginarush",
+				"location": "Glorious Sydney",
+				"description": "@BuzzFeedNews reporter etc. I write about things you should stop calling women’s issues.",
+				"url": "https://t.co/WsZllT9d2y",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/WsZllT9d2y",
+								"expanded_url": "https://www.ginarushton.com/features/",
+								"display_url": "ginarushton.com/features/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 13074,
+				"friends_count": 1973,
+				"listed_count": 200,
+				"created_at": "Wed May 13 13:22:33 +0000 2009",
+				"favourites_count": 29035,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 18250,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme20/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme20/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1113300074258325504/WKEfirww_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113300074258325504/WKEfirww_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/39748571/1546215738",
+				"profile_link_color": "19CF86",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "3D0D3D",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 903,
+			"favorite_count": 3846,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 694,
+		"favorite_count": 3827,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Never felt so patriotic as watching this footage of pissed-off Sydney commuters telling an American anti-abortion activist to STFU on a crowded train. https://t.co/dTCGr7s5kN"
+	},
+	{
+		"created_at": "Fri Apr 05 13:45:40 +0000 2019",
+		"id": 1114162189261127700,
+		"id_str": "1114162189261127682",
+		"full_text": "Just saw the new Rammstein clip - it’s provocative! I was wandering if my very rudimentary German (based almost entirely on other Rammstein songs) was following correctly. Nice article here: https://t.co/d4Br1vdfVz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			214
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/d4Br1vdfVz",
+					"expanded_url": "https://www.japantimes.co.jp/opinion/2019/04/02/commentary/world-commentary/rammstein-revealed-germanys-soul/",
+					"display_url": "japantimes.co.jp/opinion/2019/0…",
+					"indices": [
+						191,
+						214
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Wagga Wagga",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
+			"url": "https://t.co/uC0c3me6KE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uC0c3me6KE",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 793,
+			"friends_count": 137,
+			"listed_count": 95,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 6579,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13429,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1067778743207260160/7c3ZEd6P_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1067778743207260160/7c3ZEd6P_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "00fdc8497c0ca7b4",
+			"url": "https://api.twitter.com/1.1/geo/id/00fdc8497c0ca7b4.json",
+			"place_type": "city",
+			"name": "Wagga Wagga",
+			"full_name": "Wagga Wagga, New South Wales",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							147.304038624,
+							-35.187975032
+						],
+						[
+							147.424035232,
+							-35.187975032
+						],
+						[
+							147.424035232,
+							-35.0881893435
+						],
+						[
+							147.304038624,
+							-35.0881893435
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Just saw the new Rammstein clip - it’s provocative! I was wandering if my very rudimentary German (based almost entirely on other Rammstein songs) was following correctly. Nice article here: https://t.co/d4Br1vdfVz"
+	},
+	{
+		"created_at": "Fri Apr 05 03:47:11 +0000 2019",
+		"id": 1114011573163401200,
+		"id_str": "1114011573163401216",
+		"full_text": "On April 15 I'll be sharing some of what I learnt on my recent trip to India - the opportunities, lessons and experiences from the @SSENSW Bootcamp to India. Come down to Hubb Hubb for the lunchtime session! Tickets &amp; details are here: https://t.co/iFPWVrMXn8 https://t.co/m8Ic1nUoSP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			263
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SSENSW",
+					"name": "SSE NSW",
+					"id": 785284958973677600,
+					"id_str": "785284958973677568",
+					"indices": [
+						131,
+						138
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/iFPWVrMXn8",
+					"expanded_url": "https://www.facebook.com/events/445764716163194/",
+					"display_url": "facebook.com/events/4457647…",
+					"indices": [
+						240,
+						263
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1114010444824338400,
+					"id_str": "1114010444824338433",
+					"indices": [
+						264,
+						287
+					],
+					"media_url": "http://pbs.twimg.com/media/D3XCmOfUYAE4nc_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3XCmOfUYAE4nc_.jpg",
+					"url": "https://t.co/m8Ic1nUoSP",
+					"display_url": "pic.twitter.com/m8Ic1nUoSP",
+					"expanded_url": "https://twitter.com/timklapdor/status/1114011573163401216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1114010444824338400,
+					"id_str": "1114010444824338433",
+					"indices": [
+						264,
+						287
+					],
+					"media_url": "http://pbs.twimg.com/media/D3XCmOfUYAE4nc_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D3XCmOfUYAE4nc_.jpg",
+					"url": "https://t.co/m8Ic1nUoSP",
+					"display_url": "pic.twitter.com/m8Ic1nUoSP",
+					"expanded_url": "https://twitter.com/timklapdor/status/1114011573163401216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Wagga Wagga",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
+			"url": "https://t.co/uC0c3me6KE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uC0c3me6KE",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 793,
+			"friends_count": 137,
+			"listed_count": 95,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 6579,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13429,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1067778743207260160/7c3ZEd6P_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1067778743207260160/7c3ZEd6P_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "On April 15 I'll be sharing some of what I learnt on my recent trip to India - the opportunities, lessons and experiences from the @SSENSW Bootcamp to India. Come down to Hubb Hubb for the lunchtime session! Tickets &amp; details are here: https://t.co/iFPWVrMXn8 https://t.co/m8Ic1nUoSP"
+	},
+	{
 		"created_at": "Thu Apr 04 09:29:50 +0000 2019",
 		"id": 1113538670299103200,
 		"id_str": "1113735417549819904",
@@ -137,16 +1554,16 @@ Grailbird.data.tweets_2019_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 9526,
+			"followers_count": 9535,
 			"friends_count": 5505,
 			"listed_count": 168,
 			"created_at": "Tue Feb 22 08:55:24 +0000 2011",
-			"favourites_count": 17156,
+			"favourites_count": 17203,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 36047,
+			"statuses_count": 36083,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -176,8 +1593,8 @@ Grailbird.data.tweets_2019_04 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 394,
-		"favorite_count": 1131,
+		"retweet_count": 410,
+		"favorite_count": 1182,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -247,12 +1664,12 @@ Grailbird.data.tweets_2019_04 =
 			"friends_count": 137,
 			"listed_count": 95,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6575,
+			"favourites_count": 6579,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13423,
+			"statuses_count": 13429,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -509,16 +1926,16 @@ Grailbird.data.tweets_2019_04 =
 					}
 				},
 				"protected": false,
-				"followers_count": 407532,
+				"followers_count": 407587,
 				"friends_count": 15792,
-				"listed_count": 4280,
+				"listed_count": 4278,
 				"created_at": "Sat Oct 18 02:39:23 +0000 2008",
 				"favourites_count": 1664,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": true,
-				"statuses_count": 231204,
+				"statuses_count": 231271,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -548,8 +1965,8 @@ Grailbird.data.tweets_2019_04 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 211,
-			"favorite_count": 717,
+			"retweet_count": 212,
+			"favorite_count": 723,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
@@ -627,9 +2044,9 @@ Grailbird.data.tweets_2019_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 121635,
+			"followers_count": 121670,
 			"friends_count": 1202,
-			"listed_count": 829,
+			"listed_count": 831,
 			"created_at": "Mon May 04 06:40:15 +0000 2009",
 			"favourites_count": 497,
 			"utc_offset": null,
@@ -666,8 +2083,8 @@ Grailbird.data.tweets_2019_04 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 480,
-		"favorite_count": 1721,
+		"retweet_count": 481,
+		"favorite_count": 1731,
 		"favorited": false,
 		"retweeted": true,
 		"lang": "en",
@@ -736,12 +2153,12 @@ Grailbird.data.tweets_2019_04 =
 			"friends_count": 137,
 			"listed_count": 95,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6575,
+			"favourites_count": 6579,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13423,
+			"statuses_count": 13429,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -875,9 +2292,9 @@ Grailbird.data.tweets_2019_04 =
 					}
 				},
 				"protected": false,
-				"followers_count": 121635,
+				"followers_count": 121670,
 				"friends_count": 1202,
-				"listed_count": 829,
+				"listed_count": 831,
 				"created_at": "Mon May 04 06:40:15 +0000 2009",
 				"favourites_count": 497,
 				"utc_offset": null,
@@ -914,8 +2331,8 @@ Grailbird.data.tweets_2019_04 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 969,
-			"favorite_count": 2121,
+			"retweet_count": 972,
+			"favorite_count": 2131,
 			"favorited": false,
 			"retweeted": false,
 			"lang": "en"
@@ -1080,12 +2497,12 @@ Grailbird.data.tweets_2019_04 =
 			"friends_count": 137,
 			"listed_count": 95,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6575,
+			"favourites_count": 6579,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13423,
+			"statuses_count": 13429,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1172,16 +2589,16 @@ Grailbird.data.tweets_2019_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 318,
+			"followers_count": 325,
 			"friends_count": 324,
 			"listed_count": 32,
 			"created_at": "Mon Sep 17 02:27:27 +0000 2007",
-			"favourites_count": 3817,
+			"favourites_count": 3824,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 18755,
+			"statuses_count": 18758,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1211,8 +2628,8 @@ Grailbird.data.tweets_2019_04 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 1468,
-		"favorite_count": 2584,
+		"retweet_count": 1520,
+		"favorite_count": 2658,
 		"favorited": false,
 		"retweeted": true,
 		"lang": "en",
@@ -1282,16 +2699,16 @@ Grailbird.data.tweets_2019_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1188,
-			"friends_count": 2062,
+			"followers_count": 1191,
+			"friends_count": 2065,
 			"listed_count": 202,
 			"created_at": "Tue Jul 06 13:19:30 +0000 2010",
-			"favourites_count": 3816,
+			"favourites_count": 3820,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 2682,
+			"statuses_count": 2681,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1424,12 +2841,12 @@ Grailbird.data.tweets_2019_04 =
 			"friends_count": 137,
 			"listed_count": 95,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6575,
+			"favourites_count": 6579,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13423,
+			"statuses_count": 13429,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1503,8 +2920,8 @@ Grailbird.data.tweets_2019_04 =
 			"urls": [
 				{
 					"url": "https://t.co/jW0lq31dRr",
-					"expanded_url": "https://twitter.com/joshfrydenberg/status/1112121540479315968",
-					"display_url": "twitter.com/joshfrydenberg…",
+					"expanded_url": "https://twitter.com/JoshFrydenberg/status/1112121540479315968",
+					"display_url": "twitter.com/JoshFrydenberg…",
 					"indices": [
 						173,
 						196
@@ -1545,16 +2962,16 @@ Grailbird.data.tweets_2019_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 79866,
-			"friends_count": 1425,
-			"listed_count": 1162,
+			"followers_count": 79933,
+			"friends_count": 1426,
+			"listed_count": 1163,
 			"created_at": "Tue Jan 13 02:28:44 +0000 2009",
-			"favourites_count": 11241,
+			"favourites_count": 11289,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 5082,
+			"statuses_count": 5143,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1588,8 +3005,8 @@ Grailbird.data.tweets_2019_04 =
 		"quoted_status_id_str": "1112121540479315968",
 		"quoted_status_permalink": {
 			"url": "https://t.co/jW0lq31dRr",
-			"expanded": "https://twitter.com/joshfrydenberg/status/1112121540479315968",
-			"display": "twitter.com/joshfrydenberg…"
+			"expanded": "https://twitter.com/JoshFrydenberg/status/1112121540479315968",
+			"display": "twitter.com/JoshFrydenberg…"
 		},
 		"quoted_status": {
 			"created_at": "Sat Mar 30 22:36:52 +0000 2019",
@@ -1669,16 +3086,16 @@ Grailbird.data.tweets_2019_04 =
 					}
 				},
 				"protected": false,
-				"followers_count": 43385,
+				"followers_count": 43423,
 				"friends_count": 512,
-				"listed_count": 518,
+				"listed_count": 519,
 				"created_at": "Sat Aug 08 09:45:57 +0000 2009",
 				"favourites_count": 63,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": true,
-				"statuses_count": 5396,
+				"statuses_count": 5403,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -1709,14 +3126,14 @@ Grailbird.data.tweets_2019_04 =
 			"contributors": null,
 			"is_quote_status": false,
 			"retweet_count": 59,
-			"favorite_count": 130,
+			"favorite_count": 131,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
 			"lang": "en"
 		},
 		"retweet_count": 1636,
-		"favorite_count": 3197,
+		"favorite_count": 3199,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -1776,12 +3193,12 @@ Grailbird.data.tweets_2019_04 =
 			"friends_count": 306,
 			"listed_count": 286,
 			"created_at": "Sun Jan 28 08:28:45 +0000 2007",
-			"favourites_count": 9129,
+			"favourites_count": 9130,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 1131,
+			"statuses_count": 1156,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
