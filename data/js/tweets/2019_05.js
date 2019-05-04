@@ -1,6 +1,239 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Fri May 03 23:58:16 +0000 2019",
+		"id": 1123886879873622000,
+		"id_str": "1124463214597533697",
+		"full_text": "This clear, well written FB reply to a ridiculous complaint about Labor's #FrankingCredits policy, recovering $6b windfall gifts to the wealthy is excellent. Written by a tax accountant. Worth a read. Daring any @LiberalAus person to refute it. #ausvotes #auspol #AusVotes2019 https://t.co/7Gha15p0Fo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "FrankingCredits",
+					"indices": [
+						74,
+						90
+					]
+				},
+				{
+					"text": "ausvotes",
+					"indices": [
+						245,
+						254
+					]
+				},
+				{
+					"text": "auspol",
+					"indices": [
+						255,
+						262
+					]
+				},
+				{
+					"text": "AusVotes2019",
+					"indices": [
+						263,
+						276
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LiberalAus",
+					"name": "Liberal Party",
+					"id": 28739612,
+					"id_str": "28739612",
+					"indices": [
+						212,
+						223
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1123885946594889700,
+					"id_str": "1123885946594889732",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/D5jYUFbXkAQoVkk.png",
+					"media_url_https": "https://pbs.twimg.com/media/D5jYUFbXkAQoVkk.png",
+					"url": "https://t.co/7Gha15p0Fo",
+					"display_url": "pic.twitter.com/7Gha15p0Fo",
+					"expanded_url": "https://twitter.com/MGoldschlager/status/1123886879873622016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 552,
+							"h": 412,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 552,
+							"h": 412,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 552,
+							"h": 412,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1123885946594889700,
+					"id_str": "1123885946594889732",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/D5jYUFbXkAQoVkk.png",
+					"media_url_https": "https://pbs.twimg.com/media/D5jYUFbXkAQoVkk.png",
+					"url": "https://t.co/7Gha15p0Fo",
+					"display_url": "pic.twitter.com/7Gha15p0Fo",
+					"expanded_url": "https://twitter.com/MGoldschlager/status/1123886879873622016/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 552,
+							"h": 412,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 552,
+							"h": 412,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 552,
+							"h": 412,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 169332508,
+			"id_str": "169332508",
+			"name": "Michael Goldschlager Gutless Keyboard Warrior",
+			"screen_name": "MGoldschlager",
+			"location": "Perth, Western Australia",
+			"description": "Concert cellist, ABC recording artist, political writer, TED and keynote speaker, university lecturer, Warner Brothers music supervisor. I don't toe party lines",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1435,
+			"friends_count": 1297,
+			"listed_count": 54,
+			"created_at": "Thu Jul 22 02:44:23 +0000 2010",
+			"favourites_count": 12775,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22165,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061145143250546688/c17cy9mU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061145143250546688/c17cy9mU_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "0118c71c0ed41109",
+			"url": "https://api.twitter.com/1.1/geo/id/0118c71c0ed41109.json",
+			"place_type": "city",
+			"name": "Perth (WA)",
+			"full_name": "Perth, Western Australia",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							115.617614368,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-32.675715325
+						],
+						[
+							116.239023008,
+							-31.6244855145
+						],
+						[
+							115.617614368,
+							-31.6244855145
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 263,
+		"favorite_count": 251,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This clear, well written FB reply to a ridiculous complaint about Labor's #FrankingCredits policy, recovering $6b windfall gifts to the wealthy is excellent. Written by a tax accountant. Worth a read. Daring any @LiberalAus person to refute it. #ausvotes #auspol #AusVotes2019 https://t.co/7Gha15p0Fo"
+	},
+	{
 		"created_at": "Thu May 02 09:42:10 +0000 2019",
 		"id": 1123389416532213800,
 		"id_str": "1123885380636413953",
@@ -49,16 +282,16 @@ Grailbird.data.tweets_2019_05 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1109,
-			"friends_count": 422,
-			"listed_count": 54,
+			"followers_count": 1175,
+			"friends_count": 423,
+			"listed_count": 55,
 			"created_at": "Fri Jul 03 18:47:03 +0000 2009",
-			"favourites_count": 7209,
+			"favourites_count": 7223,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 8922,
+			"statuses_count": 8890,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -88,8 +321,8 @@ Grailbird.data.tweets_2019_05 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 17532,
-		"favorite_count": 84607,
+		"retweet_count": 19313,
+		"favorite_count": 92235,
 		"favorited": false,
 		"retweeted": true,
 		"lang": "en",
@@ -144,16 +377,16 @@ Grailbird.data.tweets_2019_05 =
 				}
 			},
 			"protected": false,
-			"followers_count": 56480,
+			"followers_count": 56552,
 			"friends_count": 1597,
 			"listed_count": 1283,
 			"created_at": "Thu Jun 25 05:26:47 +0000 2009",
-			"favourites_count": 21905,
+			"favourites_count": 21968,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 24717,
+			"statuses_count": 24766,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -183,8 +416,8 @@ Grailbird.data.tweets_2019_05 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 1585,
-		"favorite_count": 4064,
+		"retweet_count": 1715,
+		"favorite_count": 4437,
 		"favorited": false,
 		"retweeted": true,
 		"lang": "en",
@@ -239,16 +472,16 @@ Grailbird.data.tweets_2019_05 =
 				}
 			},
 			"protected": false,
-			"followers_count": 12249,
-			"friends_count": 3687,
-			"listed_count": 318,
+			"followers_count": 12251,
+			"friends_count": 3686,
+			"listed_count": 317,
 			"created_at": "Sat Jun 13 04:45:19 +0000 2009",
-			"favourites_count": 4985,
+			"favourites_count": 4987,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 50726,
+			"statuses_count": 50746,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -334,16 +567,16 @@ Grailbird.data.tweets_2019_05 =
 				}
 			},
 			"protected": false,
-			"followers_count": 12249,
-			"friends_count": 3687,
-			"listed_count": 318,
+			"followers_count": 12251,
+			"friends_count": 3686,
+			"listed_count": 317,
 			"created_at": "Sat Jun 13 04:45:19 +0000 2009",
-			"favourites_count": 4985,
+			"favourites_count": 4987,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 50726,
+			"statuses_count": 50746,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -429,16 +662,16 @@ Grailbird.data.tweets_2019_05 =
 				}
 			},
 			"protected": false,
-			"followers_count": 12249,
-			"friends_count": 3687,
-			"listed_count": 318,
+			"followers_count": 12251,
+			"friends_count": 3686,
+			"listed_count": 317,
 			"created_at": "Sat Jun 13 04:45:19 +0000 2009",
-			"favourites_count": 4985,
+			"favourites_count": 4987,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 50726,
+			"statuses_count": 50746,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -524,16 +757,16 @@ Grailbird.data.tweets_2019_05 =
 				}
 			},
 			"protected": false,
-			"followers_count": 12249,
-			"friends_count": 3687,
-			"listed_count": 318,
+			"followers_count": 12251,
+			"friends_count": 3686,
+			"listed_count": 317,
 			"created_at": "Sat Jun 13 04:45:19 +0000 2009",
-			"favourites_count": 4985,
+			"favourites_count": 4987,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 50726,
+			"statuses_count": 50746,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -640,16 +873,16 @@ Grailbird.data.tweets_2019_05 =
 				}
 			},
 			"protected": false,
-			"followers_count": 2250,
+			"followers_count": 2251,
 			"friends_count": 498,
 			"listed_count": 51,
 			"created_at": "Sun Nov 22 02:54:53 +0000 2009",
-			"favourites_count": 1569,
+			"favourites_count": 1573,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 1665,
+			"statuses_count": 1669,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -743,15 +976,15 @@ Grailbird.data.tweets_2019_05 =
 				},
 				"protected": false,
 				"followers_count": 206,
-				"friends_count": 478,
+				"friends_count": 480,
 				"listed_count": 0,
 				"created_at": "Sat Apr 25 03:27:02 +0000 2009",
-				"favourites_count": 2643,
+				"favourites_count": 2661,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": false,
-				"statuses_count": 244,
+				"statuses_count": 246,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
