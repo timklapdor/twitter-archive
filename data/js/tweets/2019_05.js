@@ -1,6 +1,211 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Mon May 06 23:37:31 +0000 2019",
+		"id": 1124697680116998100,
+		"id_str": "1125545155744821248",
+		"full_text": "I built a Roomba that swears when it bumps into stuff https://t.co/ZdbKWGszT8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1124697151416651800,
+					"id_str": "1124697151416651778",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1124697151416651778/pu/img/00Ry0_FRDtWmIlSh.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1124697151416651778/pu/img/00Ry0_FRDtWmIlSh.jpg",
+					"url": "https://t.co/ZdbKWGszT8",
+					"display_url": "pic.twitter.com/ZdbKWGszT8",
+					"expanded_url": "https://twitter.com/michaelreeves08/status/1124697680116998150/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1124697151416651800,
+					"id_str": "1124697151416651778",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1124697151416651778/pu/img/00Ry0_FRDtWmIlSh.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1124697151416651778/pu/img/00Ry0_FRDtWmIlSh.jpg",
+					"url": "https://t.co/ZdbKWGszT8",
+					"display_url": "pic.twitter.com/ZdbKWGszT8",
+					"expanded_url": "https://twitter.com/michaelreeves08/status/1124697680116998150/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 12312,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1124697151416651778/pu/vid/480x270/JvP7X5Fw85bHfShO.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1124697151416651778/pu/vid/1280x720/N80RmCBCirFbDqbN.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1124697151416651778/pu/pl/Tz0K7meJMYsMPMcL.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1124697151416651778/pu/vid/640x360/LOB8aek1pBsagCBR.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 826288847562559500,
+			"id_str": "826288847562559488",
+			"name": "Michael Reeves",
+			"screen_name": "michaelreeves08",
+			"location": "",
+			"description": "chaotic braindead",
+			"url": "https://t.co/8AsucyhbIl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8AsucyhbIl",
+							"expanded_url": "https://www.youtube.com/michaelreeves",
+							"display_url": "youtube.com/michaelreeves",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 118737,
+			"friends_count": 135,
+			"listed_count": 51,
+			"created_at": "Tue Jan 31 04:39:47 +0000 2017",
+			"favourites_count": 262,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 665,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/854851622039465985/g3ODLKQK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/854851622039465985/g3ODLKQK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/826288847562559488/1492647585",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 97838,
+		"favorite_count": 325456,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I built a Roomba that swears when it bumps into stuff https://t.co/ZdbKWGszT8"
+	},
+	{
 		"created_at": "Fri May 03 23:58:16 +0000 2019",
 		"id": 1123886879873622000,
 		"id_str": "1124463214597533697",
@@ -154,16 +359,16 @@ Grailbird.data.tweets_2019_05 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1449,
+			"followers_count": 1450,
 			"friends_count": 1303,
 			"listed_count": 54,
 			"created_at": "Thu Jul 22 02:44:23 +0000 2010",
-			"favourites_count": 12854,
+			"favourites_count": 12882,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 22267,
+			"statuses_count": 22312,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -225,8 +430,8 @@ Grailbird.data.tweets_2019_05 =
 		},
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 517,
-		"favorite_count": 606,
+		"retweet_count": 520,
+		"favorite_count": 612,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -282,11 +487,11 @@ Grailbird.data.tweets_2019_05 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1223,
+			"followers_count": 1230,
 			"friends_count": 423,
 			"listed_count": 57,
 			"created_at": "Fri Jul 03 18:47:03 +0000 2009",
-			"favourites_count": 7233,
+			"favourites_count": 7235,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
@@ -321,8 +526,8 @@ Grailbird.data.tweets_2019_05 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 20140,
-		"favorite_count": 95637,
+		"retweet_count": 20259,
+		"favorite_count": 96055,
 		"favorited": false,
 		"retweeted": true,
 		"lang": "en",
@@ -377,16 +582,16 @@ Grailbird.data.tweets_2019_05 =
 				}
 			},
 			"protected": false,
-			"followers_count": 56668,
+			"followers_count": 56699,
 			"friends_count": 1597,
-			"listed_count": 1283,
+			"listed_count": 1284,
 			"created_at": "Thu Jun 25 05:26:47 +0000 2009",
-			"favourites_count": 22074,
+			"favourites_count": 22140,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 24841,
+			"statuses_count": 24960,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -416,8 +621,8 @@ Grailbird.data.tweets_2019_05 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 1738,
-		"favorite_count": 4490,
+		"retweet_count": 1746,
+		"favorite_count": 4504,
 		"favorited": false,
 		"retweeted": true,
 		"lang": "en",
@@ -472,16 +677,16 @@ Grailbird.data.tweets_2019_05 =
 				}
 			},
 			"protected": false,
-			"followers_count": 12255,
-			"friends_count": 3686,
-			"listed_count": 317,
+			"followers_count": 12253,
+			"friends_count": 3687,
+			"listed_count": 315,
 			"created_at": "Sat Jun 13 04:45:19 +0000 2009",
-			"favourites_count": 4990,
+			"favourites_count": 4994,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 50755,
+			"statuses_count": 50775,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -567,16 +772,16 @@ Grailbird.data.tweets_2019_05 =
 				}
 			},
 			"protected": false,
-			"followers_count": 12255,
-			"friends_count": 3686,
-			"listed_count": 317,
+			"followers_count": 12253,
+			"friends_count": 3687,
+			"listed_count": 315,
 			"created_at": "Sat Jun 13 04:45:19 +0000 2009",
-			"favourites_count": 4990,
+			"favourites_count": 4994,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 50755,
+			"statuses_count": 50775,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -662,16 +867,16 @@ Grailbird.data.tweets_2019_05 =
 				}
 			},
 			"protected": false,
-			"followers_count": 12255,
-			"friends_count": 3686,
-			"listed_count": 317,
+			"followers_count": 12253,
+			"friends_count": 3687,
+			"listed_count": 315,
 			"created_at": "Sat Jun 13 04:45:19 +0000 2009",
-			"favourites_count": 4990,
+			"favourites_count": 4994,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 50755,
+			"statuses_count": 50775,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -757,16 +962,16 @@ Grailbird.data.tweets_2019_05 =
 				}
 			},
 			"protected": false,
-			"followers_count": 12255,
-			"friends_count": 3686,
-			"listed_count": 317,
+			"followers_count": 12253,
+			"friends_count": 3687,
+			"listed_count": 315,
 			"created_at": "Sat Jun 13 04:45:19 +0000 2009",
-			"favourites_count": 4990,
+			"favourites_count": 4994,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 50755,
+			"statuses_count": 50775,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -873,16 +1078,16 @@ Grailbird.data.tweets_2019_05 =
 				}
 			},
 			"protected": false,
-			"followers_count": 2251,
-			"friends_count": 498,
+			"followers_count": 2255,
+			"friends_count": 499,
 			"listed_count": 51,
 			"created_at": "Sun Nov 22 02:54:53 +0000 2009",
-			"favourites_count": 1574,
+			"favourites_count": 1582,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 1671,
+			"statuses_count": 1673,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -975,16 +1180,16 @@ Grailbird.data.tweets_2019_05 =
 					}
 				},
 				"protected": false,
-				"followers_count": 207,
+				"followers_count": 208,
 				"friends_count": 481,
 				"listed_count": 0,
 				"created_at": "Sat Apr 25 03:27:02 +0000 2009",
-				"favourites_count": 2677,
+				"favourites_count": 2680,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": false,
-				"statuses_count": 252,
+				"statuses_count": 253,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
