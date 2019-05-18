@@ -1,6 +1,740 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Fri May 17 15:55:02 +0000 2019",
+		"id": 1129383027912716300,
+		"id_str": "1129415034298200064",
+		"full_text": "Extending the metaphor: marathoners train and run differently. You don’t get a marathon’s 42k distance by running it like it’s 400m over and over.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1129382262246715400,
+		"in_reply_to_status_id_str": "1129382262246715394",
+		"in_reply_to_user_id": 13212522,
+		"in_reply_to_user_id_str": "13212522",
+		"in_reply_to_screen_name": "frank_chimero",
+		"user": {
+			"id": 13212522,
+			"id_str": "13212522",
+			"name": "Frank Chimero",
+			"screen_name": "frank_chimero",
+			"location": "NYC",
+			"description": "Another designer in Brooklyn. I delete tweets because it feels good.",
+			"url": "https://t.co/BTrngJuk86",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BTrngJuk86",
+							"expanded_url": "http://frankchimero.com",
+							"display_url": "frankchimero.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 54959,
+			"friends_count": 0,
+			"listed_count": 2815,
+			"created_at": "Thu Feb 07 17:24:09 +0000 2008",
+			"favourites_count": 4420,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 192,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1089306477955813376/tbYeklRg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1089306477955813376/tbYeklRg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13212522/1547515524",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F5F5F5",
+			"profile_text_color": "242424",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 65,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Extending the metaphor: marathoners train and run differently. You don’t get a marathon’s 42k distance by running it like it’s 400m over and over."
+	},
+	{
+		"created_at": "Fri May 17 15:54:50 +0000 2019",
+		"id": 1129382262246715400,
+		"id_str": "1129414983505260544",
+		"full_text": "On my mind: If design sprints are sprints, they should be short durations of heightened activity at a faster-than-normal pace. Then: rest. They shouldn’t be immediately followed with another sprint. That's not 2 sprints—that's one mega-sprint and a fast way to burn out.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			270
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13212522,
+			"id_str": "13212522",
+			"name": "Frank Chimero",
+			"screen_name": "frank_chimero",
+			"location": "NYC",
+			"description": "Another designer in Brooklyn. I delete tweets because it feels good.",
+			"url": "https://t.co/BTrngJuk86",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BTrngJuk86",
+							"expanded_url": "http://frankchimero.com",
+							"display_url": "frankchimero.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 54959,
+			"friends_count": 0,
+			"listed_count": 2815,
+			"created_at": "Thu Feb 07 17:24:09 +0000 2008",
+			"favourites_count": 4420,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 192,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1089306477955813376/tbYeklRg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1089306477955813376/tbYeklRg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13212522/1547515524",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F5F5F5",
+			"profile_text_color": "242424",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 56,
+		"favorite_count": 425,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "On my mind: If design sprints are sprints, they should be short durations of heightened activity at a faster-than-normal pace. Then: rest. They shouldn’t be immediately followed with another sprint. That's not 2 sprints—that's one mega-sprint and a fast way to burn out."
+	},
+	{
+		"created_at": "Fri May 17 02:13:05 +0000 2019",
+		"id": 1128811143127064600,
+		"id_str": "1129208184558669825",
+		"full_text": "Simply telling college students that there is gender bias in student evals is enough to reduce that bias, according to a new PLoS One study. Language used in the experimental condition is in the screenshot. Full article (open access): https://t.co/qgs2iFDPlO https://t.co/PBGJqjN4UN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			258
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qgs2iFDPlO",
+					"expanded_url": "https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0216241",
+					"display_url": "journals.plos.org/plosone/articl…",
+					"indices": [
+						235,
+						258
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1128810941737574400,
+					"id_str": "1128810941737574402",
+					"indices": [
+						259,
+						282
+					],
+					"media_url": "http://pbs.twimg.com/media/D6pXkiDXoAIJdRT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6pXkiDXoAIJdRT.jpg",
+					"url": "https://t.co/PBGJqjN4UN",
+					"display_url": "pic.twitter.com/PBGJqjN4UN",
+					"expanded_url": "https://twitter.com/jvitak/status/1128811143127064581/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1166,
+							"h": 710,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 414,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1166,
+							"h": 710,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1128810941737574400,
+					"id_str": "1128810941737574402",
+					"indices": [
+						259,
+						282
+					],
+					"media_url": "http://pbs.twimg.com/media/D6pXkiDXoAIJdRT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6pXkiDXoAIJdRT.jpg",
+					"url": "https://t.co/PBGJqjN4UN",
+					"display_url": "pic.twitter.com/PBGJqjN4UN",
+					"expanded_url": "https://twitter.com/jvitak/status/1128811143127064581/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1166,
+							"h": 710,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 414,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1166,
+							"h": 710,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94384796,
+			"id_str": "94384796",
+			"name": "Dr. Jessica Vitak",
+			"screen_name": "jvitak",
+			"location": "Maryland",
+			"description": "Prof @ischoolUMD & @hcil_umd. Research focus: networked privacy, security, data ethics. HCI/CMC/CSCW. Spoonie. DMs open. she/her https://t.co/rlyPDoYq2W",
+			"url": "https://t.co/CDMsFCw9fe",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CDMsFCw9fe",
+							"expanded_url": "http://jessicavitak.com",
+							"display_url": "jessicavitak.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/rlyPDoYq2W",
+							"expanded_url": "https://pearl.umd.edu",
+							"display_url": "pearl.umd.edu",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3372,
+			"friends_count": 663,
+			"listed_count": 181,
+			"created_at": "Thu Dec 03 18:29:40 +0000 2009",
+			"favourites_count": 10990,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10642,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/754859214544175104/7Xk06_Hr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/754859214544175104/7Xk06_Hr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94384796/1445870572",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 194,
+		"favorite_count": 349,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Simply telling college students that there is gender bias in student evals is enough to reduce that bias, according to a new PLoS One study. Language used in the experimental condition is in the screenshot. Full article (open access): https://t.co/qgs2iFDPlO https://t.co/PBGJqjN4UN"
+	},
+	{
+		"created_at": "Fri May 17 02:12:48 +0000 2019",
+		"id": 1129208114283130900,
+		"id_str": "1129208114283130880",
+		"full_text": "@SarinaKilham thought this was interesting https://t.co/ZTM5MF5jeL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SarinaKilham",
+					"name": "Dr. Sarina Kilham",
+					"id": 706272415,
+					"id_str": "706272415",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ZTM5MF5jeL",
+					"expanded_url": "https://twitter.com/jvitak/status/1128811143127064581",
+					"display_url": "twitter.com/jvitak/status/…",
+					"indices": [
+						43,
+						66
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 706272415,
+		"in_reply_to_user_id_str": "706272415",
+		"in_reply_to_screen_name": "SarinaKilham",
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Wagga Wagga",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
+			"url": "https://t.co/uC0c3me6KE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uC0c3me6KE",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 790,
+			"friends_count": 136,
+			"listed_count": 94,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 6698,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13478,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1067778743207260160/7c3ZEd6P_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1067778743207260160/7c3ZEd6P_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "5ad8484801b1bae7",
+			"url": "https://api.twitter.com/1.1/geo/id/5ad8484801b1bae7.json",
+			"place_type": "neighborhood",
+			"name": "Wagga Wagga",
+			"full_name": "Wagga Wagga, New South Wales",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							147.33837288,
+							-35.12521197
+						],
+						[
+							147.38281704,
+							-35.12521197
+						],
+						[
+							147.38281704,
+							-35.08806303
+						],
+						[
+							147.33837288,
+							-35.08806303
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1128811143127064600,
+		"quoted_status_id_str": "1128811143127064581",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ZTM5MF5jeL",
+			"expanded": "https://twitter.com/jvitak/status/1128811143127064581",
+			"display": "twitter.com/jvitak/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Wed May 15 23:55:23 +0000 2019",
+			"id": 1128811143127064600,
+			"id_str": "1128811143127064581",
+			"full_text": "Simply telling college students that there is gender bias in student evals is enough to reduce that bias, according to a new PLoS One study. Language used in the experimental condition is in the screenshot. Full article (open access): https://t.co/qgs2iFDPlO https://t.co/PBGJqjN4UN",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				258
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/qgs2iFDPlO",
+						"expanded_url": "https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0216241",
+						"display_url": "journals.plos.org/plosone/articl…",
+						"indices": [
+							235,
+							258
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1128810941737574400,
+						"id_str": "1128810941737574402",
+						"indices": [
+							259,
+							282
+						],
+						"media_url": "http://pbs.twimg.com/media/D6pXkiDXoAIJdRT.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D6pXkiDXoAIJdRT.jpg",
+						"url": "https://t.co/PBGJqjN4UN",
+						"display_url": "pic.twitter.com/PBGJqjN4UN",
+						"expanded_url": "https://twitter.com/jvitak/status/1128811143127064581/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1166,
+								"h": 710,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 414,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1166,
+								"h": 710,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1128810941737574400,
+						"id_str": "1128810941737574402",
+						"indices": [
+							259,
+							282
+						],
+						"media_url": "http://pbs.twimg.com/media/D6pXkiDXoAIJdRT.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D6pXkiDXoAIJdRT.jpg",
+						"url": "https://t.co/PBGJqjN4UN",
+						"display_url": "pic.twitter.com/PBGJqjN4UN",
+						"expanded_url": "https://twitter.com/jvitak/status/1128811143127064581/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1166,
+								"h": 710,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 414,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1166,
+								"h": 710,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 94384796,
+				"id_str": "94384796",
+				"name": "Dr. Jessica Vitak",
+				"screen_name": "jvitak",
+				"location": "Maryland",
+				"description": "Prof @ischoolUMD & @hcil_umd. Research focus: networked privacy, security, data ethics. HCI/CMC/CSCW. Spoonie. DMs open. she/her https://t.co/rlyPDoYq2W",
+				"url": "https://t.co/CDMsFCw9fe",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/CDMsFCw9fe",
+								"expanded_url": "http://jessicavitak.com",
+								"display_url": "jessicavitak.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/rlyPDoYq2W",
+								"expanded_url": "https://pearl.umd.edu",
+								"display_url": "pearl.umd.edu",
+								"indices": [
+									129,
+									152
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 3372,
+				"friends_count": 663,
+				"listed_count": 181,
+				"created_at": "Thu Dec 03 18:29:40 +0000 2009",
+				"favourites_count": 10990,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 10642,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/754859214544175104/7Xk06_Hr_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/754859214544175104/7Xk06_Hr_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/94384796/1445870572",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 194,
+			"favorite_count": 349,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@SarinaKilham thought this was interesting https://t.co/ZTM5MF5jeL"
+	},
+	{
 		"created_at": "Thu May 16 13:41:09 +0000 2019",
 		"id": 1129018955471835100,
 		"id_str": "1129018955471835137",
@@ -84,12 +818,12 @@ Grailbird.data.tweets_2019_05 =
 			"friends_count": 136,
 			"listed_count": 94,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6695,
+			"favourites_count": 6698,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13474,
+			"statuses_count": 13478,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -223,12 +957,12 @@ Grailbird.data.tweets_2019_05 =
 			"friends_count": 136,
 			"listed_count": 94,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6695,
+			"favourites_count": 6698,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13474,
+			"statuses_count": 13478,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -361,12 +1095,12 @@ Grailbird.data.tweets_2019_05 =
 			"friends_count": 136,
 			"listed_count": 94,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6695,
+			"favourites_count": 6698,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13474,
+			"statuses_count": 13478,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -397,7 +1131,7 @@ Grailbird.data.tweets_2019_05 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 1,
+		"favorite_count": 2,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
@@ -545,12 +1279,12 @@ Grailbird.data.tweets_2019_05 =
 			"friends_count": 136,
 			"listed_count": 94,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6695,
+			"favourites_count": 6698,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13474,
+			"statuses_count": 13478,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -651,12 +1385,12 @@ Grailbird.data.tweets_2019_05 =
 			"friends_count": 136,
 			"listed_count": 94,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6695,
+			"favourites_count": 6698,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13474,
+			"statuses_count": 13478,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -752,16 +1486,16 @@ Grailbird.data.tweets_2019_05 =
 					}
 				},
 				"protected": false,
-				"followers_count": 12973,
-				"friends_count": 2136,
+				"followers_count": 13009,
+				"friends_count": 2137,
 				"listed_count": 180,
 				"created_at": "Sun Apr 26 05:52:43 +0000 2009",
-				"favourites_count": 19124,
+				"favourites_count": 19135,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": false,
-				"statuses_count": 10799,
+				"statuses_count": 10816,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -770,8 +1504,8 @@ Grailbird.data.tweets_2019_05 =
 				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
 				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 				"profile_background_tile": false,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/1125805349955440642/5URikBie_normal.png",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1125805349955440642/5URikBie_normal.png",
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1129530926235508736/6Xz66-H8_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1129530926235508736/6Xz66-H8_normal.png",
 				"profile_banner_url": "https://pbs.twimg.com/profile_banners/35414986/1557247849",
 				"profile_link_color": "0084B4",
 				"profile_sidebar_border_color": "000000",
@@ -855,16 +1589,16 @@ Grailbird.data.tweets_2019_05 =
 				}
 			},
 			"protected": false,
-			"followers_count": 12413,
-			"friends_count": 3698,
+			"followers_count": 12419,
+			"friends_count": 3701,
 			"listed_count": 316,
 			"created_at": "Sat Jun 13 04:45:19 +0000 2009",
-			"favourites_count": 5069,
+			"favourites_count": 5072,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 51172,
+			"statuses_count": 51192,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -950,16 +1684,16 @@ Grailbird.data.tweets_2019_05 =
 				}
 			},
 			"protected": false,
-			"followers_count": 97448,
-			"friends_count": 2115,
-			"listed_count": 912,
+			"followers_count": 97486,
+			"friends_count": 2116,
+			"listed_count": 913,
 			"created_at": "Fri Nov 27 08:59:27 +0000 2009",
-			"favourites_count": 27707,
+			"favourites_count": 27855,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 147391,
+			"statuses_count": 147540,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -990,7 +1724,7 @@ Grailbird.data.tweets_2019_05 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 1141,
-		"favorite_count": 4951,
+		"favorite_count": 4955,
 		"favorited": false,
 		"retweeted": true,
 		"lang": "en",
@@ -1059,12 +1793,12 @@ Grailbird.data.tweets_2019_05 =
 			"friends_count": 136,
 			"listed_count": 94,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6695,
+			"favourites_count": 6698,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13474,
+			"statuses_count": 13478,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1165,12 +1899,12 @@ Grailbird.data.tweets_2019_05 =
 			"friends_count": 136,
 			"listed_count": 94,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6695,
+			"favourites_count": 6698,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13474,
+			"statuses_count": 13478,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1282,16 +2016,16 @@ Grailbird.data.tweets_2019_05 =
 					}
 				},
 				"protected": false,
-				"followers_count": 7386,
-				"friends_count": 1898,
+				"followers_count": 7393,
+				"friends_count": 1899,
 				"listed_count": 229,
 				"created_at": "Sun Apr 15 23:52:52 +0000 2012",
-				"favourites_count": 9868,
+				"favourites_count": 9892,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": true,
-				"statuses_count": 20710,
+				"statuses_count": 20727,
 				"lang": "en",
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -1398,12 +2132,12 @@ Grailbird.data.tweets_2019_05 =
 			"friends_count": 136,
 			"listed_count": 94,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6695,
+			"favourites_count": 6698,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13474,
+			"statuses_count": 13478,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1599,16 +2333,16 @@ Grailbird.data.tweets_2019_05 =
 				}
 			},
 			"protected": false,
-			"followers_count": 125689,
+			"followers_count": 126229,
 			"friends_count": 137,
 			"listed_count": 60,
 			"created_at": "Tue Jan 31 04:39:47 +0000 2017",
-			"favourites_count": 266,
+			"favourites_count": 265,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 669,
+			"statuses_count": 671,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1638,8 +2372,8 @@ Grailbird.data.tweets_2019_05 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 102646,
-		"favorite_count": 339172,
+		"retweet_count": 102653,
+		"favorite_count": 339287,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -1800,16 +2534,16 @@ Grailbird.data.tweets_2019_05 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1478,
+			"followers_count": 1480,
 			"friends_count": 1319,
 			"listed_count": 54,
 			"created_at": "Thu Jul 22 02:44:23 +0000 2010",
-			"favourites_count": 13090,
+			"favourites_count": 13123,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 22528,
+			"statuses_count": 22548,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1872,7 +2606,7 @@ Grailbird.data.tweets_2019_05 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 582,
-		"favorite_count": 679,
+		"favorite_count": 678,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -1928,16 +2662,16 @@ Grailbird.data.tweets_2019_05 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1234,
+			"followers_count": 1236,
 			"friends_count": 425,
 			"listed_count": 57,
 			"created_at": "Fri Jul 03 18:47:03 +0000 2009",
-			"favourites_count": 7293,
+			"favourites_count": 7300,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 9054,
+			"statuses_count": 9068,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1967,8 +2701,8 @@ Grailbird.data.tweets_2019_05 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 20392,
-		"favorite_count": 96506,
+		"retweet_count": 20388,
+		"favorite_count": 96502,
 		"favorited": false,
 		"retweeted": true,
 		"lang": "en",
@@ -2023,16 +2757,16 @@ Grailbird.data.tweets_2019_05 =
 				}
 			},
 			"protected": false,
-			"followers_count": 57095,
-			"friends_count": 1597,
+			"followers_count": 57135,
+			"friends_count": 1599,
 			"listed_count": 1287,
 			"created_at": "Thu Jun 25 05:26:47 +0000 2009",
-			"favourites_count": 22743,
+			"favourites_count": 22831,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 25868,
+			"statuses_count": 25947,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2062,7 +2796,7 @@ Grailbird.data.tweets_2019_05 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 1816,
+		"retweet_count": 1813,
 		"favorite_count": 4646,
 		"favorited": false,
 		"retweeted": true,
@@ -2118,16 +2852,16 @@ Grailbird.data.tweets_2019_05 =
 				}
 			},
 			"protected": false,
-			"followers_count": 12413,
-			"friends_count": 3698,
+			"followers_count": 12419,
+			"friends_count": 3701,
 			"listed_count": 316,
 			"created_at": "Sat Jun 13 04:45:19 +0000 2009",
-			"favourites_count": 5069,
+			"favourites_count": 5072,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 51172,
+			"statuses_count": 51192,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2213,16 +2947,16 @@ Grailbird.data.tweets_2019_05 =
 				}
 			},
 			"protected": false,
-			"followers_count": 12413,
-			"friends_count": 3698,
+			"followers_count": 12419,
+			"friends_count": 3701,
 			"listed_count": 316,
 			"created_at": "Sat Jun 13 04:45:19 +0000 2009",
-			"favourites_count": 5069,
+			"favourites_count": 5072,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 51172,
+			"statuses_count": 51192,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2308,16 +3042,16 @@ Grailbird.data.tweets_2019_05 =
 				}
 			},
 			"protected": false,
-			"followers_count": 12413,
-			"friends_count": 3698,
+			"followers_count": 12419,
+			"friends_count": 3701,
 			"listed_count": 316,
 			"created_at": "Sat Jun 13 04:45:19 +0000 2009",
-			"favourites_count": 5069,
+			"favourites_count": 5072,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 51172,
+			"statuses_count": 51192,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2403,16 +3137,16 @@ Grailbird.data.tweets_2019_05 =
 				}
 			},
 			"protected": false,
-			"followers_count": 12413,
-			"friends_count": 3698,
+			"followers_count": 12419,
+			"friends_count": 3701,
 			"listed_count": 316,
 			"created_at": "Sat Jun 13 04:45:19 +0000 2009",
-			"favourites_count": 5069,
+			"favourites_count": 5072,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 51172,
+			"statuses_count": 51192,
 			"lang": "en",
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2519,11 +3253,11 @@ Grailbird.data.tweets_2019_05 =
 				}
 			},
 			"protected": false,
-			"followers_count": 2266,
-			"friends_count": 500,
+			"followers_count": 2269,
+			"friends_count": 501,
 			"listed_count": 51,
 			"created_at": "Sun Nov 22 02:54:53 +0000 2009",
-			"favourites_count": 1631,
+			"favourites_count": 1635,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
@@ -2625,7 +3359,7 @@ Grailbird.data.tweets_2019_05 =
 				"friends_count": 484,
 				"listed_count": 0,
 				"created_at": "Sat Apr 25 03:27:02 +0000 2009",
-				"favourites_count": 2787,
+				"favourites_count": 2788,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
