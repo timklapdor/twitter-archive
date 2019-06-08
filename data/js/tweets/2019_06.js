@@ -1,6 +1,166 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Fri Jun 07 08:02:50 +0000 2019",
+		"id": 1136906349025980400,
+		"id_str": "1136906349025980416",
+		"full_text": "@helsouth Need inspiration? @KeeganSLW has some awesome stuff out there. https://t.co/SHxGbFloKW",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			96
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "helsouth",
+					"name": "Helen South ♻️",
+					"id": 2546966910,
+					"id_str": "2546966910",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "KeeganSLW",
+					"name": "Keegan🦔Long-Wheeler",
+					"id": 117573509,
+					"id_str": "117573509",
+					"indices": [
+						28,
+						38
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/SHxGbFloKW",
+					"expanded_url": "https://keeganslw.com/games/",
+					"display_url": "keeganslw.com/games/",
+					"indices": [
+						73,
+						96
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1136886038415040500,
+		"in_reply_to_status_id_str": "1136886038415040512",
+		"in_reply_to_user_id": 2546966910,
+		"in_reply_to_user_id_str": "2546966910",
+		"in_reply_to_screen_name": "helsouth",
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Wagga Wagga",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
+			"url": "https://t.co/uC0c3me6KE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uC0c3me6KE",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 804,
+			"friends_count": 141,
+			"listed_count": 95,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 6757,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13526,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1067778743207260160/7c3ZEd6P_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1067778743207260160/7c3ZEd6P_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "00fdc8497c0ca7b4",
+			"url": "https://api.twitter.com/1.1/geo/id/00fdc8497c0ca7b4.json",
+			"place_type": "city",
+			"name": "Wagga Wagga",
+			"full_name": "Wagga Wagga, New South Wales",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							147.304038624,
+							-35.187975032
+						],
+						[
+							147.424035232,
+							-35.187975032
+						],
+						[
+							147.424035232,
+							-35.0881893435
+						],
+						[
+							147.304038624,
+							-35.0881893435
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@helsouth Need inspiration? @KeeganSLW has some awesome stuff out there. https://t.co/SHxGbFloKW"
+	},
+	{
 		"created_at": "Wed Jun 05 00:50:25 +0000 2019",
 		"id": 1136062484299698200,
 		"id_str": "1136072749686767617",
@@ -115,15 +275,15 @@ Grailbird.data.tweets_2019_06 =
 			},
 			"protected": false,
 			"followers_count": 137,
-			"friends_count": 2116,
+			"friends_count": 2115,
 			"listed_count": 0,
 			"created_at": "Sun Jun 10 05:48:58 +0000 2018",
-			"favourites_count": 6262,
+			"favourites_count": 6285,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 579,
+			"statuses_count": 580,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -153,8 +313,8 @@ Grailbird.data.tweets_2019_06 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 110,
-		"favorite_count": 359,
+		"retweet_count": 112,
+		"favorite_count": 364,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -225,12 +385,12 @@ Grailbird.data.tweets_2019_06 =
 			"friends_count": 141,
 			"listed_count": 95,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6754,
+			"favourites_count": 6757,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13525,
+			"statuses_count": 13526,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -441,12 +601,12 @@ Grailbird.data.tweets_2019_06 =
 			"friends_count": 141,
 			"listed_count": 95,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6754,
+			"favourites_count": 6757,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13525,
+			"statuses_count": 13526,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -558,12 +718,12 @@ Grailbird.data.tweets_2019_06 =
 			"friends_count": 141,
 			"listed_count": 95,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6754,
+			"favourites_count": 6757,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13525,
+			"statuses_count": 13526,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -717,12 +877,12 @@ Grailbird.data.tweets_2019_06 =
 			"friends_count": 141,
 			"listed_count": 95,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6754,
+			"favourites_count": 6757,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13525,
+			"statuses_count": 13526,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -812,12 +972,12 @@ Grailbird.data.tweets_2019_06 =
 			"friends_count": 577,
 			"listed_count": 414,
 			"created_at": "Mon Sep 10 19:58:43 +0000 2007",
-			"favourites_count": 11675,
+			"favourites_count": 11678,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 28889,
+			"statuses_count": 28892,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
