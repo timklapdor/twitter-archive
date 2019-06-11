@@ -1,6 +1,460 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Tue Jun 11 00:14:08 +0000 2019",
+		"id": 1138237944274100200,
+		"id_str": "1138237944274100226",
+		"full_text": "Missing out on all the fun of #Domains19. Thanks everyone for sharing. Love all your work and effort in creating a future worth living in. Hopefully the effort of organising pays dividends and I can make it to the next one. \n\nI miss the penguins.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			246
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Domains19",
+					"indices": [
+						30,
+						40
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Wagga Wagga",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
+			"url": "https://t.co/uC0c3me6KE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uC0c3me6KE",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 805,
+			"friends_count": 141,
+			"listed_count": 95,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 6775,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13527,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1067778743207260160/7c3ZEd6P_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1067778743207260160/7c3ZEd6P_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Missing out on all the fun of #Domains19. Thanks everyone for sharing. Love all your work and effort in creating a future worth living in. Hopefully the effort of organising pays dividends and I can make it to the next one. \n\nI miss the penguins."
+	},
+	{
+		"created_at": "Mon Jun 10 23:26:34 +0000 2019",
+		"id": 1138172165684158500,
+		"id_str": "1138225976976891904",
+		"full_text": "This is an impressive level of delusion: https://t.co/ycHwsJbkXB #geopoliticalflux https://t.co/1QIeiQrvTQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "geopoliticalflux",
+					"indices": [
+						65,
+						82
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ycHwsJbkXB",
+					"expanded_url": "http://nymag.com/intelligencer/2019/06/wework-adam-neumann.html",
+					"display_url": "nymag.com/intelligencer/…",
+					"indices": [
+						41,
+						64
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1138172161724751900,
+					"id_str": "1138172161724751872",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/D8uZjQDXoAAJa_U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8uZjQDXoAAJa_U.jpg",
+					"url": "https://t.co/1QIeiQrvTQ",
+					"display_url": "pic.twitter.com/1QIeiQrvTQ",
+					"expanded_url": "https://twitter.com/MilenaRodban/status/1138172165684158466/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 521,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 920,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1124,
+							"h": 1466,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1138172161724751900,
+					"id_str": "1138172161724751872",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/D8uZjQDXoAAJa_U.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8uZjQDXoAAJa_U.jpg",
+					"url": "https://t.co/1QIeiQrvTQ",
+					"display_url": "pic.twitter.com/1QIeiQrvTQ",
+					"expanded_url": "https://twitter.com/MilenaRodban/status/1138172165684158466/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 521,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 920,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1124,
+							"h": 1466,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 123107239,
+			"id_str": "123107239",
+			"name": "Milena Rodban",
+			"screen_name": "MilenaRodban",
+			"location": "Washington, D.C.",
+			"description": "#GeopoliticalRisk Consultant+ Interactive Simulation Designer. Executive decision support, in stilettos. Polymath in progress. #geopoliticalflux Views=own",
+			"url": "https://t.co/4JTDAnd7u5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4JTDAnd7u5",
+							"expanded_url": "http://www.milenarodban.com/",
+							"display_url": "milenarodban.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7891,
+			"friends_count": 1795,
+			"listed_count": 328,
+			"created_at": "Mon Mar 15 01:13:34 +0000 2010",
+			"favourites_count": 26279,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 86930,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1072323301928775682/w9HzKUDx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072323301928775682/w9HzKUDx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/123107239/1554951022",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 28,
+		"favorite_count": 50,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is an impressive level of delusion: https://t.co/ycHwsJbkXB #geopoliticalflux https://t.co/1QIeiQrvTQ"
+	},
+	{
+		"created_at": "Mon Jun 10 21:10:08 +0000 2019",
+		"id": 1138191641691295700,
+		"id_str": "1138191641691295744",
+		"full_text": "@jimgroom @JohnStewartPhD @KeeganSLW You guys rock! This is awesome 👏 👏 👏",
+		"truncated": false,
+		"display_text_range": [
+			37,
+			73
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jimgroom",
+					"name": "Jim Groom",
+					"id": 3362981,
+					"id_str": "3362981",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "JohnStewartPhD",
+					"name": "John Stewart",
+					"id": 73977188,
+					"id_str": "73977188",
+					"indices": [
+						10,
+						25
+					]
+				},
+				{
+					"screen_name": "KeeganSLW",
+					"name": "Keegan🦔Long-Wheeler",
+					"id": 117573509,
+					"id_str": "117573509",
+					"indices": [
+						26,
+						36
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1138135404249567200,
+		"in_reply_to_status_id_str": "1138135404249567232",
+		"in_reply_to_user_id": 3362981,
+		"in_reply_to_user_id_str": "3362981",
+		"in_reply_to_screen_name": "jimgroom",
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Wagga Wagga",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
+			"url": "https://t.co/uC0c3me6KE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uC0c3me6KE",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 805,
+			"friends_count": 141,
+			"listed_count": 95,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 6775,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13527,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1067778743207260160/7c3ZEd6P_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1067778743207260160/7c3ZEd6P_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "00fdc8497c0ca7b4",
+			"url": "https://api.twitter.com/1.1/geo/id/00fdc8497c0ca7b4.json",
+			"place_type": "city",
+			"name": "Wagga Wagga",
+			"full_name": "Wagga Wagga, New South Wales",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							147.304038624,
+							-35.187975032
+						],
+						[
+							147.424035232,
+							-35.187975032
+						],
+						[
+							147.424035232,
+							-35.0881893435
+						],
+						[
+							147.304038624,
+							-35.0881893435
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@jimgroom @JohnStewartPhD @KeeganSLW You guys rock! This is awesome 👏 👏 👏"
+	},
+	{
 		"created_at": "Fri Jun 07 08:02:50 +0000 2019",
 		"id": 1136906349025980400,
 		"id_str": "1136906349025980416",
@@ -84,12 +538,12 @@ Grailbird.data.tweets_2019_06 =
 			"friends_count": 141,
 			"listed_count": 95,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6761,
+			"favourites_count": 6775,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13524,
+			"statuses_count": 13527,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -274,16 +728,16 @@ Grailbird.data.tweets_2019_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 135,
-			"friends_count": 2114,
+			"followers_count": 134,
+			"friends_count": 2116,
 			"listed_count": 0,
 			"created_at": "Sun Jun 10 05:48:58 +0000 2018",
-			"favourites_count": 6330,
+			"favourites_count": 6335,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 584,
+			"statuses_count": 585,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -314,7 +768,7 @@ Grailbird.data.tweets_2019_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 113,
-		"favorite_count": 365,
+		"favorite_count": 366,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -385,12 +839,12 @@ Grailbird.data.tweets_2019_06 =
 			"friends_count": 141,
 			"listed_count": 95,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6761,
+			"favourites_count": 6775,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13524,
+			"statuses_count": 13527,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -601,12 +1055,12 @@ Grailbird.data.tweets_2019_06 =
 			"friends_count": 141,
 			"listed_count": 95,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6761,
+			"favourites_count": 6775,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13524,
+			"statuses_count": 13527,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -718,12 +1172,12 @@ Grailbird.data.tweets_2019_06 =
 			"friends_count": 141,
 			"listed_count": 95,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6761,
+			"favourites_count": 6775,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13524,
+			"statuses_count": 13527,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -877,12 +1331,12 @@ Grailbird.data.tweets_2019_06 =
 			"friends_count": 141,
 			"listed_count": 95,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6761,
+			"favourites_count": 6775,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13524,
+			"statuses_count": 13527,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -968,16 +1422,16 @@ Grailbird.data.tweets_2019_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 3690,
+			"followers_count": 3691,
 			"friends_count": 577,
 			"listed_count": 414,
 			"created_at": "Mon Sep 10 19:58:43 +0000 2007",
-			"favourites_count": 11683,
+			"favourites_count": 11686,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 28893,
+			"statuses_count": 28896,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
