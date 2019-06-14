@@ -1,6 +1,554 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Thu Jun 13 22:52:59 +0000 2019",
+		"id": 1139304688543653900,
+		"id_str": "1139304688543653888",
+		"full_text": "My daughter came home with new knowledge. I’m glad she’s inheriting her father’s penchant for acquiring and storing information only useful at a  trivia night. https://t.co/8DahdORWC4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1139304667618267100,
+					"id_str": "1139304667618267137",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/D8-fjxRU0AEqnnx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8-fjxRU0AEqnnx.jpg",
+					"url": "https://t.co/8DahdORWC4",
+					"display_url": "pic.twitter.com/8DahdORWC4",
+					"expanded_url": "https://twitter.com/timklapdor/status/1139304688543653888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 496,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1495,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 876,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1139304667618267100,
+					"id_str": "1139304667618267137",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/D8-fjxRU0AEqnnx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8-fjxRU0AEqnnx.jpg",
+					"url": "https://t.co/8DahdORWC4",
+					"display_url": "pic.twitter.com/8DahdORWC4",
+					"expanded_url": "https://twitter.com/timklapdor/status/1139304688543653888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 496,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1495,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 876,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1139304668654260200,
+					"id_str": "1139304668654260224",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/D8-fj1IU0AAMlUB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D8-fj1IU0AAMlUB.jpg",
+					"url": "https://t.co/8DahdORWC4",
+					"display_url": "pic.twitter.com/8DahdORWC4",
+					"expanded_url": "https://twitter.com/timklapdor/status/1139304688543653888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 480,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 847,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1446,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Wagga Wagga",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
+			"url": "https://t.co/uC0c3me6KE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uC0c3me6KE",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 806,
+			"friends_count": 140,
+			"listed_count": 95,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 6798,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13533,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1067778743207260160/7c3ZEd6P_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1067778743207260160/7c3ZEd6P_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "00fdc8497c0ca7b4",
+			"url": "https://api.twitter.com/1.1/geo/id/00fdc8497c0ca7b4.json",
+			"place_type": "city",
+			"name": "Wagga Wagga",
+			"full_name": "Wagga Wagga, New South Wales",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							147.304038624,
+							-35.187975032
+						],
+						[
+							147.424035232,
+							-35.187975032
+						],
+						[
+							147.424035232,
+							-35.0881893435
+						],
+						[
+							147.304038624,
+							-35.0881893435
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "My daughter came home with new knowledge. I’m glad she’s inheriting her father’s penchant for acquiring and storing information only useful at a  trivia night. https://t.co/8DahdORWC4"
+	},
+	{
+		"created_at": "Thu Jun 13 22:48:49 +0000 2019",
+		"id": 1139262897714892800,
+		"id_str": "1139303638973571072",
+		"full_text": "'That's insane': Bitcoin's annual carbon footprint equal to Las Vegas, researchers say https://t.co/HUp7hQseBq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HUp7hQseBq",
+					"expanded_url": "https://www.abc.net.au/news/2019-06-14/bitcoins-carbon-footprint-equal-to-las-vegas-say-researchers/11208378",
+					"display_url": "abc.net.au/news/2019-06-1…",
+					"indices": [
+						87,
+						110
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.powerapps.com\" rel=\"nofollow\">Microsoft PowerApps and Flow</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2768501,
+			"id_str": "2768501",
+			"name": "ABC News",
+			"screen_name": "abcnews",
+			"location": "Australia",
+			"description": "Latest news updates from the Australian Broadcasting Corp. This is an official @abcaustralia account.",
+			"url": "http://t.co/knlFvfwxkf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/knlFvfwxkf",
+							"expanded_url": "http://www.abc.net.au/news",
+							"display_url": "abc.net.au/news",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1520898,
+			"friends_count": 1209,
+			"listed_count": 11880,
+			"created_at": "Thu Mar 29 02:15:36 +0000 2007",
+			"favourites_count": 2798,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 278530,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1034589406005317632/Cdi3F2ro_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1034589406005317632/Cdi3F2ro_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2768501/1558315597",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "CCCCCC",
+			"profile_sidebar_fill_color": "C8C8C8",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "'That's insane': Bitcoin's annual carbon footprint equal to Las Vegas, researchers say https://t.co/HUp7hQseBq"
+	},
+	{
+		"created_at": "Thu Jun 13 03:19:08 +0000 2019",
+		"id": 1138989011198865400,
+		"id_str": "1139009278411362306",
+		"full_text": "I used to follow a very fun scholar of Elizabethan(?) &amp; medieval literature - teaching Chaucer &amp; Donne ? - Brit/Canadian? - with a penchant for beer &amp; inappropriate selfies. Can't find them again. Ring a bell with anyone?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			233
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2546966910,
+			"id_str": "2546966910",
+			"name": "Helen South ♻️",
+			"screen_name": "helsouth",
+			"location": "Australia",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 850,
+			"friends_count": 392,
+			"listed_count": 108,
+			"created_at": "Wed Jun 04 23:13:42 +0000 2014",
+			"favourites_count": 4836,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3395,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "352726",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1115332972691877888/VkW7BdwX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1115332972691877888/VkW7BdwX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2546966910/1553467075",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "I used to follow a very fun scholar of Elizabethan(?) &amp; medieval literature - teaching Chaucer &amp; Donne ? - Brit/Canadian? - with a penchant for beer &amp; inappropriate selfies. Can't find them again. Ring a bell with anyone?"
+	},
+	{
+		"created_at": "Thu Jun 13 03:18:33 +0000 2019",
+		"id": 1138985315689934800,
+		"id_str": "1139009133183610881",
+		"full_text": "'It is horrific': The Queensland law allowing rapists off scot-free https://t.co/T1gdCw7n7z via @brisbanetimes",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "brisbanetimes",
+					"name": "Brisbane Times",
+					"id": 18749677,
+					"id_str": "18749677",
+					"indices": [
+						96,
+						110
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/T1gdCw7n7z",
+					"expanded_url": "https://www.brisbanetimes.com.au/national/queensland/it-is-horrific-the-queensland-law-allowing-rapists-off-scot-free-20190607-p51vmn.html",
+					"display_url": "brisbanetimes.com.au/national/queen…",
+					"indices": [
+						68,
+						91
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 106923936,
+			"id_str": "106923936",
+			"name": "Luke Henriques-Gomes",
+			"screen_name": "lukehgomes",
+			"location": "Brunswick, Melbourne",
+			"description": "@GuardianAus reporter in Melbourne, covering welfare and inequality. @collingwoodfc, @oasis fan. 🇦🇺🇹🇱 luke.henriques-gomes@theguardian.com",
+			"url": "https://t.co/RM1vkKX9UL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RM1vkKX9UL",
+							"expanded_url": "https://www.theguardian.com/profile/luke-henriques-gomes",
+							"display_url": "theguardian.com/profile/luke-h…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5251,
+			"friends_count": 2995,
+			"listed_count": 93,
+			"created_at": "Thu Jan 21 02:47:14 +0000 2010",
+			"favourites_count": 15181,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 21929,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1080453217312399360/rnJrSUYs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1080453217312399360/rnJrSUYs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/106923936/1546620173",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "'It is horrific': The Queensland law allowing rapists off scot-free https://t.co/T1gdCw7n7z via @brisbanetimes"
+	},
+	{
 		"created_at": "Wed Jun 12 19:19:03 +0000 2019",
 		"id": 1138888462034018300,
 		"id_str": "1138888462034018305",
@@ -71,15 +619,15 @@ Grailbird.data.tweets_2019_06 =
 			},
 			"protected": false,
 			"followers_count": 806,
-			"friends_count": 141,
+			"friends_count": 140,
 			"listed_count": 95,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6792,
+			"favourites_count": 6798,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13529,
+			"statuses_count": 13533,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -220,15 +768,15 @@ Grailbird.data.tweets_2019_06 =
 			},
 			"protected": false,
 			"followers_count": 806,
-			"friends_count": 141,
+			"friends_count": 140,
 			"listed_count": 95,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6792,
+			"favourites_count": 6798,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13529,
+			"statuses_count": 13533,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -342,16 +890,16 @@ Grailbird.data.tweets_2019_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1068868,
+			"followers_count": 1069249,
 			"friends_count": 985,
-			"listed_count": 8029,
+			"listed_count": 8030,
 			"created_at": "Fri Feb 27 15:36:24 +0000 2009",
 			"favourites_count": 2287,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 29376,
+			"statuses_count": 29390,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -381,8 +929,8 @@ Grailbird.data.tweets_2019_06 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 9524,
-		"favorite_count": 42067,
+		"retweet_count": 9622,
+		"favorite_count": 42388,
 		"favorited": false,
 		"retweeted": true,
 		"lang": "en",
@@ -446,15 +994,15 @@ Grailbird.data.tweets_2019_06 =
 			},
 			"protected": false,
 			"followers_count": 806,
-			"friends_count": 141,
+			"friends_count": 140,
 			"listed_count": 95,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6792,
+			"favourites_count": 6798,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13529,
+			"statuses_count": 13533,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -636,16 +1184,16 @@ Grailbird.data.tweets_2019_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 7913,
-			"friends_count": 1799,
+			"followers_count": 7918,
+			"friends_count": 1795,
 			"listed_count": 328,
 			"created_at": "Mon Mar 15 01:13:34 +0000 2010",
-			"favourites_count": 26361,
+			"favourites_count": 26393,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 87033,
+			"statuses_count": 87099,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -764,15 +1312,15 @@ Grailbird.data.tweets_2019_06 =
 			},
 			"protected": false,
 			"followers_count": 806,
-			"friends_count": 141,
+			"friends_count": 140,
 			"listed_count": 95,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6792,
+			"favourites_count": 6798,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13529,
+			"statuses_count": 13533,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -923,15 +1471,15 @@ Grailbird.data.tweets_2019_06 =
 			},
 			"protected": false,
 			"followers_count": 806,
-			"friends_count": 141,
+			"friends_count": 140,
 			"listed_count": 95,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6792,
+			"favourites_count": 6798,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13529,
+			"statuses_count": 13533,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1117,15 +1665,15 @@ Grailbird.data.tweets_2019_06 =
 			},
 			"protected": false,
 			"followers_count": 133,
-			"friends_count": 2122,
+			"friends_count": 2134,
 			"listed_count": 0,
 			"created_at": "Sun Jun 10 05:48:58 +0000 2018",
-			"favourites_count": 6359,
+			"favourites_count": 6395,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 587,
+			"statuses_count": 594,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1224,15 +1772,15 @@ Grailbird.data.tweets_2019_06 =
 			},
 			"protected": false,
 			"followers_count": 806,
-			"friends_count": 141,
+			"friends_count": 140,
 			"listed_count": 95,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6792,
+			"favourites_count": 6798,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13529,
+			"statuses_count": 13533,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1440,15 +1988,15 @@ Grailbird.data.tweets_2019_06 =
 			},
 			"protected": false,
 			"followers_count": 806,
-			"friends_count": 141,
+			"friends_count": 140,
 			"listed_count": 95,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6792,
+			"favourites_count": 6798,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13529,
+			"statuses_count": 13533,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1557,15 +2105,15 @@ Grailbird.data.tweets_2019_06 =
 			},
 			"protected": false,
 			"followers_count": 806,
-			"friends_count": 141,
+			"friends_count": 140,
 			"listed_count": 95,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6792,
+			"favourites_count": 6798,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13529,
+			"statuses_count": 13533,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1716,15 +2264,15 @@ Grailbird.data.tweets_2019_06 =
 			},
 			"protected": false,
 			"followers_count": 806,
-			"friends_count": 141,
+			"friends_count": 140,
 			"listed_count": 95,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6792,
+			"favourites_count": 6798,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13529,
+			"statuses_count": 13533,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1810,16 +2358,16 @@ Grailbird.data.tweets_2019_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 3690,
+			"followers_count": 3692,
 			"friends_count": 576,
 			"listed_count": 414,
 			"created_at": "Mon Sep 10 19:58:43 +0000 2007",
-			"favourites_count": 11691,
+			"favourites_count": 11695,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 28897,
+			"statuses_count": 28901,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
