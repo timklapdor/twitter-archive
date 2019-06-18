@@ -1,6 +1,2007 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Mon Jun 17 09:52:09 +0000 2019",
+		"id": 1140557736498753500,
+		"id_str": "1140557736498753536",
+		"full_text": "Siong Tan @FGC_Siong is on at @AgriTechCSU discussing how to add value to Canola production by creating a high protein fish meal. https://t.co/tLcEpQ8zpG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "FGC_Siong",
+					"name": "Siong Tan",
+					"id": 3031670145,
+					"id_str": "3031670145",
+					"indices": [
+						10,
+						20
+					]
+				},
+				{
+					"screen_name": "AgriTechCSU",
+					"name": "AgriTech Incubator",
+					"id": 912562929496555500,
+					"id_str": "912562929496555520",
+					"indices": [
+						30,
+						42
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1140557729452347400,
+					"id_str": "1140557729452347392",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/D9QTNkXVUAAfytw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9QTNkXVUAAfytw.jpg",
+					"url": "https://t.co/tLcEpQ8zpG",
+					"display_url": "pic.twitter.com/tLcEpQ8zpG",
+					"expanded_url": "https://twitter.com/timklapdor/status/1140557736498753536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1140557729452347400,
+					"id_str": "1140557729452347392",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/D9QTNkXVUAAfytw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9QTNkXVUAAfytw.jpg",
+					"url": "https://t.co/tLcEpQ8zpG",
+					"display_url": "pic.twitter.com/tLcEpQ8zpG",
+					"expanded_url": "https://twitter.com/timklapdor/status/1140557736498753536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Wagga Wagga",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
+			"url": "https://t.co/uC0c3me6KE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uC0c3me6KE",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 808,
+			"friends_count": 140,
+			"listed_count": 95,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 6810,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13544,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1067778743207260160/7c3ZEd6P_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1067778743207260160/7c3ZEd6P_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "5e0e003223080a70",
+			"url": "https://api.twitter.com/1.1/geo/id/5e0e003223080a70.json",
+			"place_type": "neighborhood",
+			"name": "Charles Sturt University",
+			"full_name": "Charles Sturt University, Estella",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							147.34653984,
+							-35.068851
+						],
+						[
+							147.37674996,
+							-35.068851
+						],
+						[
+							147.37674996,
+							-35.04680397
+						],
+						[
+							147.34653984,
+							-35.04680397
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Siong Tan @FGC_Siong is on at @AgriTechCSU discussing how to add value to Canola production by creating a high protein fish meal. https://t.co/tLcEpQ8zpG"
+	},
+	{
+		"created_at": "Mon Jun 17 09:44:17 +0000 2019",
+		"id": 1140555756636237800,
+		"id_str": "1140555756636237824",
+		"full_text": "Brogan on the stage at @AgriTechCSU with Chuck’s Kitchen - gourmet pet meals delivered straight your door. And the dogs love it in the live demonstration:) https://t.co/MMKYGDLLw2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AgriTechCSU",
+					"name": "AgriTech Incubator",
+					"id": 912562929496555500,
+					"id_str": "912562929496555520",
+					"indices": [
+						23,
+						35
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1140555744426643500,
+					"id_str": "1140555744426643456",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/D9QRaBkU0AAnh2d.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9QRaBkU0AAnh2d.jpg",
+					"url": "https://t.co/MMKYGDLLw2",
+					"display_url": "pic.twitter.com/MMKYGDLLw2",
+					"expanded_url": "https://twitter.com/timklapdor/status/1140555756636237824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1140555744426643500,
+					"id_str": "1140555744426643456",
+					"indices": [
+						156,
+						179
+					],
+					"media_url": "http://pbs.twimg.com/media/D9QRaBkU0AAnh2d.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9QRaBkU0AAnh2d.jpg",
+					"url": "https://t.co/MMKYGDLLw2",
+					"display_url": "pic.twitter.com/MMKYGDLLw2",
+					"expanded_url": "https://twitter.com/timklapdor/status/1140555756636237824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Wagga Wagga",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
+			"url": "https://t.co/uC0c3me6KE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uC0c3me6KE",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 808,
+			"friends_count": 140,
+			"listed_count": 95,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 6810,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13544,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1067778743207260160/7c3ZEd6P_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1067778743207260160/7c3ZEd6P_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "5e0e003223080a70",
+			"url": "https://api.twitter.com/1.1/geo/id/5e0e003223080a70.json",
+			"place_type": "neighborhood",
+			"name": "Charles Sturt University",
+			"full_name": "Charles Sturt University, Estella",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							147.34653984,
+							-35.068851
+						],
+						[
+							147.37674996,
+							-35.068851
+						],
+						[
+							147.37674996,
+							-35.04680397
+						],
+						[
+							147.34653984,
+							-35.04680397
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Brogan on the stage at @AgriTechCSU with Chuck’s Kitchen - gourmet pet meals delivered straight your door. And the dogs love it in the live demonstration:) https://t.co/MMKYGDLLw2"
+	},
+	{
+		"created_at": "Mon Jun 17 09:34:36 +0000 2019",
+		"id": 1140553320500777000,
+		"id_str": "1140553320500776960",
+		"full_text": "Nathan Angel on next at @AgriTechCSU #pitchnight. SmoothiePods a zero waste food system that removes plastic from the equation with a 100% plant based a packaging. https://t.co/C5J4GqtFFn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "pitchnight",
+					"indices": [
+						37,
+						48
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AgriTechCSU",
+					"name": "AgriTech Incubator",
+					"id": 912562929496555500,
+					"id_str": "912562929496555520",
+					"indices": [
+						24,
+						36
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1140553312388804600,
+					"id_str": "1140553312388804608",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/D9QPMdhUcAA1bfR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9QPMdhUcAA1bfR.jpg",
+					"url": "https://t.co/C5J4GqtFFn",
+					"display_url": "pic.twitter.com/C5J4GqtFFn",
+					"expanded_url": "https://twitter.com/timklapdor/status/1140553320500776960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1140553312388804600,
+					"id_str": "1140553312388804608",
+					"indices": [
+						164,
+						187
+					],
+					"media_url": "http://pbs.twimg.com/media/D9QPMdhUcAA1bfR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9QPMdhUcAA1bfR.jpg",
+					"url": "https://t.co/C5J4GqtFFn",
+					"display_url": "pic.twitter.com/C5J4GqtFFn",
+					"expanded_url": "https://twitter.com/timklapdor/status/1140553320500776960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Wagga Wagga",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
+			"url": "https://t.co/uC0c3me6KE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uC0c3me6KE",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 808,
+			"friends_count": 140,
+			"listed_count": 95,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 6810,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13544,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1067778743207260160/7c3ZEd6P_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1067778743207260160/7c3ZEd6P_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "5e0e003223080a70",
+			"url": "https://api.twitter.com/1.1/geo/id/5e0e003223080a70.json",
+			"place_type": "neighborhood",
+			"name": "Charles Sturt University",
+			"full_name": "Charles Sturt University, Estella",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							147.34653984,
+							-35.068851
+						],
+						[
+							147.37674996,
+							-35.068851
+						],
+						[
+							147.37674996,
+							-35.04680397
+						],
+						[
+							147.34653984,
+							-35.04680397
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Nathan Angel on next at @AgriTechCSU #pitchnight. SmoothiePods a zero waste food system that removes plastic from the equation with a 100% plant based a packaging. https://t.co/C5J4GqtFFn"
+	},
+	{
+		"created_at": "Mon Jun 17 09:30:29 +0000 2019",
+		"id": 1140552283387621400,
+		"id_str": "1140552283387621376",
+		"full_text": "Next at @AgriTechCSU #pitchnight is Leanne Sanders with Visual Dreaming. A powerful tool to connect indigenous people with support services on the NDIS.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "pitchnight",
+					"indices": [
+						21,
+						32
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AgriTechCSU",
+					"name": "AgriTech Incubator",
+					"id": 912562929496555500,
+					"id_str": "912562929496555520",
+					"indices": [
+						8,
+						20
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Wagga Wagga",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
+			"url": "https://t.co/uC0c3me6KE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uC0c3me6KE",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 808,
+			"friends_count": 140,
+			"listed_count": 95,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 6810,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13544,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1067778743207260160/7c3ZEd6P_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1067778743207260160/7c3ZEd6P_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "5e0e003223080a70",
+			"url": "https://api.twitter.com/1.1/geo/id/5e0e003223080a70.json",
+			"place_type": "neighborhood",
+			"name": "Charles Sturt University",
+			"full_name": "Charles Sturt University, Estella",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							147.34653984,
+							-35.068851
+						],
+						[
+							147.37674996,
+							-35.068851
+						],
+						[
+							147.37674996,
+							-35.04680397
+						],
+						[
+							147.34653984,
+							-35.04680397
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Next at @AgriTechCSU #pitchnight is Leanne Sanders with Visual Dreaming. A powerful tool to connect indigenous people with support services on the NDIS."
+	},
+	{
+		"created_at": "Mon Jun 17 09:19:36 +0000 2019",
+		"id": 1140549545731903500,
+		"id_str": "1140549545731903490",
+		"full_text": "Katie Thomas is an Ag student who’s pitching TempGro at @AgriTechCSU. Water temperature monitoring device and on farm water management. https://t.co/aDzNrytQ1f",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AgriTechCSU",
+					"name": "AgriTech Incubator",
+					"id": 912562929496555500,
+					"id_str": "912562929496555520",
+					"indices": [
+						56,
+						68
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1140549538312122400,
+					"id_str": "1140549538312122368",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/D9QLwx_UcAAe0M2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9QLwx_UcAAe0M2.jpg",
+					"url": "https://t.co/aDzNrytQ1f",
+					"display_url": "pic.twitter.com/aDzNrytQ1f",
+					"expanded_url": "https://twitter.com/timklapdor/status/1140549545731903490/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1140549538312122400,
+					"id_str": "1140549538312122368",
+					"indices": [
+						136,
+						159
+					],
+					"media_url": "http://pbs.twimg.com/media/D9QLwx_UcAAe0M2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9QLwx_UcAAe0M2.jpg",
+					"url": "https://t.co/aDzNrytQ1f",
+					"display_url": "pic.twitter.com/aDzNrytQ1f",
+					"expanded_url": "https://twitter.com/timklapdor/status/1140549545731903490/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Wagga Wagga",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
+			"url": "https://t.co/uC0c3me6KE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uC0c3me6KE",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 808,
+			"friends_count": 140,
+			"listed_count": 95,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 6810,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13544,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1067778743207260160/7c3ZEd6P_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1067778743207260160/7c3ZEd6P_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "5e0e003223080a70",
+			"url": "https://api.twitter.com/1.1/geo/id/5e0e003223080a70.json",
+			"place_type": "neighborhood",
+			"name": "Charles Sturt University",
+			"full_name": "Charles Sturt University, Estella",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							147.34653984,
+							-35.068851
+						],
+						[
+							147.37674996,
+							-35.068851
+						],
+						[
+							147.37674996,
+							-35.04680397
+						],
+						[
+							147.34653984,
+							-35.04680397
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Katie Thomas is an Ag student who’s pitching TempGro at @AgriTechCSU. Water temperature monitoring device and on farm water management. https://t.co/aDzNrytQ1f"
+	},
+	{
+		"created_at": "Mon Jun 17 09:12:22 +0000 2019",
+		"id": 1140547723910737900,
+		"id_str": "1140547723910737920",
+		"full_text": "Ben Angel up next at @AgriTechCSU. B-Tag education provides resources and toys to help educate kids and parents on the issues faced by endangered animals. https://t.co/BZgoxRBx11",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AgriTechCSU",
+					"name": "AgriTech Incubator",
+					"id": 912562929496555500,
+					"id_str": "912562929496555520",
+					"indices": [
+						21,
+						33
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1140547716864303100,
+					"id_str": "1140547716864303104",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/D9QKGwkUYAAMod5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9QKGwkUYAAMod5.jpg",
+					"url": "https://t.co/BZgoxRBx11",
+					"display_url": "pic.twitter.com/BZgoxRBx11",
+					"expanded_url": "https://twitter.com/timklapdor/status/1140547723910737920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1140547716864303100,
+					"id_str": "1140547716864303104",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/D9QKGwkUYAAMod5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9QKGwkUYAAMod5.jpg",
+					"url": "https://t.co/BZgoxRBx11",
+					"display_url": "pic.twitter.com/BZgoxRBx11",
+					"expanded_url": "https://twitter.com/timklapdor/status/1140547723910737920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Wagga Wagga",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
+			"url": "https://t.co/uC0c3me6KE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uC0c3me6KE",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 808,
+			"friends_count": 140,
+			"listed_count": 95,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 6810,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13544,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1067778743207260160/7c3ZEd6P_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1067778743207260160/7c3ZEd6P_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "5e0e003223080a70",
+			"url": "https://api.twitter.com/1.1/geo/id/5e0e003223080a70.json",
+			"place_type": "neighborhood",
+			"name": "Charles Sturt University",
+			"full_name": "Charles Sturt University, Estella",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							147.34653984,
+							-35.068851
+						],
+						[
+							147.37674996,
+							-35.068851
+						],
+						[
+							147.37674996,
+							-35.04680397
+						],
+						[
+							147.34653984,
+							-35.04680397
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Ben Angel up next at @AgriTechCSU. B-Tag education provides resources and toys to help educate kids and parents on the issues faced by endangered animals. https://t.co/BZgoxRBx11"
+	},
+	{
+		"created_at": "Mon Jun 17 09:04:40 +0000 2019",
+		"id": 1140545785349791700,
+		"id_str": "1140545785349791744",
+		"full_text": "Jo Palmer pitching Pointer at @AgriTechCSU  - a talent management platform for remote workers. Includes Remote work certification and leadership programs. https://t.co/Xl4Ps1CCi5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AgriTechCSU",
+					"name": "AgriTech Incubator",
+					"id": 912562929496555500,
+					"id_str": "912562929496555520",
+					"indices": [
+						30,
+						42
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1140545775698448400,
+					"id_str": "1140545775698448385",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/D9QIVxKUEAE9MQs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9QIVxKUEAE9MQs.jpg",
+					"url": "https://t.co/Xl4Ps1CCi5",
+					"display_url": "pic.twitter.com/Xl4Ps1CCi5",
+					"expanded_url": "https://twitter.com/timklapdor/status/1140545785349791744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1140545775698448400,
+					"id_str": "1140545775698448385",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/D9QIVxKUEAE9MQs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9QIVxKUEAE9MQs.jpg",
+					"url": "https://t.co/Xl4Ps1CCi5",
+					"display_url": "pic.twitter.com/Xl4Ps1CCi5",
+					"expanded_url": "https://twitter.com/timklapdor/status/1140545785349791744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Wagga Wagga",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
+			"url": "https://t.co/uC0c3me6KE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uC0c3me6KE",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 808,
+			"friends_count": 140,
+			"listed_count": 95,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 6810,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13544,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1067778743207260160/7c3ZEd6P_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1067778743207260160/7c3ZEd6P_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "5e0e003223080a70",
+			"url": "https://api.twitter.com/1.1/geo/id/5e0e003223080a70.json",
+			"place_type": "neighborhood",
+			"name": "Charles Sturt University",
+			"full_name": "Charles Sturt University, Estella",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							147.34653984,
+							-35.068851
+						],
+						[
+							147.37674996,
+							-35.068851
+						],
+						[
+							147.37674996,
+							-35.04680397
+						],
+						[
+							147.34653984,
+							-35.04680397
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Jo Palmer pitching Pointer at @AgriTechCSU  - a talent management platform for remote workers. Includes Remote work certification and leadership programs. https://t.co/Xl4Ps1CCi5"
+	},
+	{
+		"created_at": "Mon Jun 17 09:00:18 +0000 2019",
+		"id": 1140544688169992200,
+		"id_str": "1140544688169992193",
+		"full_text": "Ben pitching all the way from\nBotswana! @AgriTechCSU is going global. Livestock production has a huge impact on society. Repro Masters skills up people to be more sustainable and competitive through education. https://t.co/Ac6nKKNeia",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			209
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AgriTechCSU",
+					"name": "AgriTech Incubator",
+					"id": 912562929496555500,
+					"id_str": "912562929496555520",
+					"indices": [
+						40,
+						52
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1140544680116936700,
+					"id_str": "1140544680116936704",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/media/D9QHV_zU4AA62lh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9QHV_zU4AA62lh.jpg",
+					"url": "https://t.co/Ac6nKKNeia",
+					"display_url": "pic.twitter.com/Ac6nKKNeia",
+					"expanded_url": "https://twitter.com/timklapdor/status/1140544688169992193/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1140544680116936700,
+					"id_str": "1140544680116936704",
+					"indices": [
+						210,
+						233
+					],
+					"media_url": "http://pbs.twimg.com/media/D9QHV_zU4AA62lh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9QHV_zU4AA62lh.jpg",
+					"url": "https://t.co/Ac6nKKNeia",
+					"display_url": "pic.twitter.com/Ac6nKKNeia",
+					"expanded_url": "https://twitter.com/timklapdor/status/1140544688169992193/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Wagga Wagga",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
+			"url": "https://t.co/uC0c3me6KE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uC0c3me6KE",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 808,
+			"friends_count": 140,
+			"listed_count": 95,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 6810,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13544,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1067778743207260160/7c3ZEd6P_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1067778743207260160/7c3ZEd6P_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "5e0e003223080a70",
+			"url": "https://api.twitter.com/1.1/geo/id/5e0e003223080a70.json",
+			"place_type": "neighborhood",
+			"name": "Charles Sturt University",
+			"full_name": "Charles Sturt University, Estella",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							147.34653984,
+							-35.068851
+						],
+						[
+							147.37674996,
+							-35.068851
+						],
+						[
+							147.37674996,
+							-35.04680397
+						],
+						[
+							147.34653984,
+							-35.04680397
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Ben pitching all the way from\nBotswana! @AgriTechCSU is going global. Livestock production has a huge impact on society. Repro Masters skills up people to be more sustainable and competitive through education. https://t.co/Ac6nKKNeia"
+	},
+	{
+		"created_at": "Mon Jun 17 08:24:50 +0000 2019",
+		"id": 1140535762393243600,
+		"id_str": "1140535762393243649",
+		"full_text": "It’s filling up for pitch night at @AgriTechCSU. This cohort had the added pressure of a big audience, including Acting PM @M_McCormackMP https://t.co/KnaSpsJwZm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AgriTechCSU",
+					"name": "AgriTech Incubator",
+					"id": 912562929496555500,
+					"id_str": "912562929496555520",
+					"indices": [
+						35,
+						47
+					]
+				},
+				{
+					"screen_name": "M_McCormackMP",
+					"name": "Michael McCormack",
+					"id": 1195051945,
+					"id_str": "1195051945",
+					"indices": [
+						123,
+						137
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1140535755590099000,
+					"id_str": "1140535755590098944",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/D9P_OhWUYAAupXC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9P_OhWUYAAupXC.jpg",
+					"url": "https://t.co/KnaSpsJwZm",
+					"display_url": "pic.twitter.com/KnaSpsJwZm",
+					"expanded_url": "https://twitter.com/timklapdor/status/1140535762393243649/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1140535755590099000,
+					"id_str": "1140535755590098944",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/D9P_OhWUYAAupXC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9P_OhWUYAAupXC.jpg",
+					"url": "https://t.co/KnaSpsJwZm",
+					"display_url": "pic.twitter.com/KnaSpsJwZm",
+					"expanded_url": "https://twitter.com/timklapdor/status/1140535762393243649/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Wagga Wagga",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
+			"url": "https://t.co/uC0c3me6KE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uC0c3me6KE",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 808,
+			"friends_count": 140,
+			"listed_count": 95,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 6810,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13544,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1067778743207260160/7c3ZEd6P_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1067778743207260160/7c3ZEd6P_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "5e0e003223080a70",
+			"url": "https://api.twitter.com/1.1/geo/id/5e0e003223080a70.json",
+			"place_type": "neighborhood",
+			"name": "Charles Sturt University",
+			"full_name": "Charles Sturt University, Estella",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							147.34653984,
+							-35.068851
+						],
+						[
+							147.37674996,
+							-35.068851
+						],
+						[
+							147.37674996,
+							-35.04680397
+						],
+						[
+							147.34653984,
+							-35.04680397
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It’s filling up for pitch night at @AgriTechCSU. This cohort had the added pressure of a big audience, including Acting PM @M_McCormackMP https://t.co/KnaSpsJwZm"
+	},
+	{
+		"created_at": "Mon Jun 17 05:41:07 +0000 2019",
+		"id": 1140455951738134500,
+		"id_str": "1140494560562311168",
+		"full_text": "ABC managing director is musing in the paper about how to diversify ABC panel shows. \n\nI have quite a radical suggestion for getting people from more diverse and/or marginalised people on your panel shows, as opposed to salaried experts.\n\nFucking pay us. \n\nPAY THE PANELISTS.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 85178891,
+			"id_str": "85178891",
+			"name": "Maxine Beneba Clarke",
+			"screen_name": "slamup",
+			"location": "",
+			"description": "I try to write beautifully about ugly things. Author of Foreign Soil/The Patchwork Bike/The Hate Race/Wide Big World.   \n\nPoet Laureate of @satpaper.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18388,
+			"friends_count": 1601,
+			"listed_count": 203,
+			"created_at": "Sun Oct 25 22:21:39 +0000 2009",
+			"favourites_count": 17262,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20943,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1071961457217007616/AUGqeD5h_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1071961457217007616/AUGqeD5h_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/85178891/1557106382",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 175,
+		"favorite_count": 1061,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "ABC managing director is musing in the paper about how to diversify ABC panel shows. \n\nI have quite a radical suggestion for getting people from more diverse and/or marginalised people on your panel shows, as opposed to salaried experts.\n\nFucking pay us. \n\nPAY THE PANELISTS."
+	},
+	{
 		"created_at": "Sun Jun 16 00:46:44 +0000 2019",
 		"id": 1140058090705838100,
 		"id_str": "1140058090705838080",
@@ -80,16 +2081,16 @@ Grailbird.data.tweets_2019_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 806,
+			"followers_count": 808,
 			"friends_count": 140,
 			"listed_count": 95,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6805,
+			"favourites_count": 6810,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13534,
+			"statuses_count": 13544,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -219,15 +2220,15 @@ Grailbird.data.tweets_2019_06 =
 			},
 			"protected": false,
 			"followers_count": 7014,
-			"friends_count": 801,
+			"friends_count": 802,
 			"listed_count": 760,
 			"created_at": "Sun Jun 17 11:18:48 +0000 2007",
-			"favourites_count": 7089,
+			"favourites_count": 7092,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 21636,
+			"statuses_count": 21641,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -313,16 +2314,16 @@ Grailbird.data.tweets_2019_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 19814,
+			"followers_count": 20017,
 			"friends_count": 1,
-			"listed_count": 121,
+			"listed_count": 120,
 			"created_at": "Sun Nov 05 23:19:33 +0000 2017",
 			"favourites_count": 2,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 479,
+			"statuses_count": 480,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -352,8 +2353,8 @@ Grailbird.data.tweets_2019_06 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 14267,
-		"favorite_count": 60377,
+		"retweet_count": 14396,
+		"favorite_count": 60834,
 		"favorited": false,
 		"retweeted": true,
 		"lang": "en",
@@ -522,16 +2523,16 @@ Grailbird.data.tweets_2019_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 806,
+			"followers_count": 808,
 			"friends_count": 140,
 			"listed_count": 95,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6805,
+			"favourites_count": 6810,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13534,
+			"statuses_count": 13544,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -661,16 +2662,16 @@ Grailbird.data.tweets_2019_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1521357,
+			"followers_count": 1521537,
 			"friends_count": 1209,
-			"listed_count": 11883,
+			"listed_count": 11885,
 			"created_at": "Thu Mar 29 02:15:36 +0000 2007",
-			"favourites_count": 2795,
+			"favourites_count": 2796,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 269380,
+			"statuses_count": 269498,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -744,16 +2745,16 @@ Grailbird.data.tweets_2019_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 848,
-			"friends_count": 399,
+			"followers_count": 850,
+			"friends_count": 400,
 			"listed_count": 108,
 			"created_at": "Wed Jun 04 23:13:42 +0000 2014",
-			"favourites_count": 4861,
+			"favourites_count": 4873,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 3440,
+			"statuses_count": 3455,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -860,16 +2861,16 @@ Grailbird.data.tweets_2019_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 5273,
-			"friends_count": 2999,
+			"followers_count": 5283,
+			"friends_count": 3002,
 			"listed_count": 92,
 			"created_at": "Thu Jan 21 02:47:14 +0000 2010",
-			"favourites_count": 15222,
+			"favourites_count": 15249,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 21957,
+			"statuses_count": 21965,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -977,16 +2978,16 @@ Grailbird.data.tweets_2019_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 806,
+			"followers_count": 808,
 			"friends_count": 140,
 			"listed_count": 95,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6805,
+			"favourites_count": 6810,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13534,
+			"statuses_count": 13544,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1126,16 +3127,16 @@ Grailbird.data.tweets_2019_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 806,
+			"followers_count": 808,
 			"friends_count": 140,
 			"listed_count": 95,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6805,
+			"favourites_count": 6810,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13534,
+			"statuses_count": 13544,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1249,16 +3250,16 @@ Grailbird.data.tweets_2019_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1070350,
+			"followers_count": 1070784,
 			"friends_count": 985,
-			"listed_count": 8036,
+			"listed_count": 8035,
 			"created_at": "Fri Feb 27 15:36:24 +0000 2009",
-			"favourites_count": 2286,
+			"favourites_count": 2287,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 29428,
+			"statuses_count": 29443,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1289,7 +3290,7 @@ Grailbird.data.tweets_2019_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 9707,
-		"favorite_count": 42684,
+		"favorite_count": 42704,
 		"favorited": false,
 		"retweeted": true,
 		"lang": "en",
@@ -1352,16 +3353,16 @@ Grailbird.data.tweets_2019_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 806,
+			"followers_count": 808,
 			"friends_count": 140,
 			"listed_count": 95,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6805,
+			"favourites_count": 6810,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13534,
+			"statuses_count": 13544,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1543,16 +3544,16 @@ Grailbird.data.tweets_2019_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 7934,
-			"friends_count": 1793,
-			"listed_count": 326,
+			"followers_count": 7932,
+			"friends_count": 1795,
+			"listed_count": 327,
 			"created_at": "Mon Mar 15 01:13:34 +0000 2010",
-			"favourites_count": 26467,
+			"favourites_count": 26502,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 87155,
+			"statuses_count": 87198,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1670,16 +3671,16 @@ Grailbird.data.tweets_2019_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 806,
+			"followers_count": 808,
 			"friends_count": 140,
 			"listed_count": 95,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6805,
+			"favourites_count": 6810,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13534,
+			"statuses_count": 13544,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1829,16 +3830,16 @@ Grailbird.data.tweets_2019_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 806,
+			"followers_count": 808,
 			"friends_count": 140,
 			"listed_count": 95,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6805,
+			"favourites_count": 6810,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13534,
+			"statuses_count": 13544,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2024,15 +4025,15 @@ Grailbird.data.tweets_2019_06 =
 			},
 			"protected": false,
 			"followers_count": 132,
-			"friends_count": 2141,
+			"friends_count": 2144,
 			"listed_count": 0,
 			"created_at": "Sun Jun 10 05:48:58 +0000 2018",
-			"favourites_count": 6410,
+			"favourites_count": 6449,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 597,
+			"statuses_count": 602,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2130,16 +4131,16 @@ Grailbird.data.tweets_2019_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 806,
+			"followers_count": 808,
 			"friends_count": 140,
 			"listed_count": 95,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6805,
+			"favourites_count": 6810,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13534,
+			"statuses_count": 13544,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2346,16 +4347,16 @@ Grailbird.data.tweets_2019_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 806,
+			"followers_count": 808,
 			"friends_count": 140,
 			"listed_count": 95,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6805,
+			"favourites_count": 6810,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13534,
+			"statuses_count": 13544,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2463,16 +4464,16 @@ Grailbird.data.tweets_2019_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 806,
+			"followers_count": 808,
 			"friends_count": 140,
 			"listed_count": 95,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6805,
+			"favourites_count": 6810,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13534,
+			"statuses_count": 13544,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2622,16 +4623,16 @@ Grailbird.data.tweets_2019_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 806,
+			"followers_count": 808,
 			"friends_count": 140,
 			"listed_count": 95,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6805,
+			"favourites_count": 6810,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13534,
+			"statuses_count": 13544,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2721,7 +4722,7 @@ Grailbird.data.tweets_2019_06 =
 			"friends_count": 576,
 			"listed_count": 414,
 			"created_at": "Mon Sep 10 19:58:43 +0000 2007",
-			"favourites_count": 11704,
+			"favourites_count": 11706,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
