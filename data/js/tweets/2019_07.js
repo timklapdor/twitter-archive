@@ -1,6 +1,271 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Fri Jul 05 08:21:50 +0000 2019",
+		"id": 1147057987632001000,
+		"id_str": "1147057987632001025",
+		"full_text": "@emmareynolds77 @TransportforNSW Congrats Emma!",
+		"truncated": false,
+		"display_text_range": [
+			33,
+			47
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "emmareynolds77",
+					"name": "Emma Reynolds",
+					"id": 894746216193339400,
+					"id_str": "894746216193339395",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "TransportforNSW",
+					"name": "Transport for NSW",
+					"id": 436226316,
+					"id_str": "436226316",
+					"indices": [
+						16,
+						32
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1146710686224937000,
+		"in_reply_to_status_id_str": "1146710686224936962",
+		"in_reply_to_user_id": 894746216193339400,
+		"in_reply_to_user_id_str": "894746216193339395",
+		"in_reply_to_screen_name": "emmareynolds77",
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Wagga Wagga",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
+			"url": "https://t.co/uC0c3me6KE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uC0c3me6KE",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 807,
+			"friends_count": 139,
+			"listed_count": 96,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 6868,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13569,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1067778743207260160/7c3ZEd6P_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1067778743207260160/7c3ZEd6P_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "00fdc8497c0ca7b4",
+			"url": "https://api.twitter.com/1.1/geo/id/00fdc8497c0ca7b4.json",
+			"place_type": "city",
+			"name": "Wagga Wagga",
+			"full_name": "Wagga Wagga, New South Wales",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							147.304038624,
+							-35.187975032
+						],
+						[
+							147.424035232,
+							-35.187975032
+						],
+						[
+							147.424035232,
+							-35.0881893435
+						],
+						[
+							147.304038624,
+							-35.0881893435
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ca",
+		"text": "@emmareynolds77 @TransportforNSW Congrats Emma!"
+	},
+	{
+		"created_at": "Fri Jul 05 02:37:12 +0000 2019",
+		"id": 1146971260452106200,
+		"id_str": "1146971260452106240",
+		"full_text": "@mdevraj @LetsRuck Looks very cool!",
+		"truncated": false,
+		"display_text_range": [
+			19,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mdevraj",
+					"name": "Dev Mukherjee",
+					"id": 15340674,
+					"id_str": "15340674",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "LetsRuck",
+					"name": "Ruck",
+					"id": 1142997675794546700,
+					"id_str": "1142997675794546689",
+					"indices": [
+						9,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1146966577230704600,
+		"in_reply_to_status_id_str": "1146966577230704640",
+		"in_reply_to_user_id": 15340674,
+		"in_reply_to_user_id_str": "15340674",
+		"in_reply_to_screen_name": "mdevraj",
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Wagga Wagga",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
+			"url": "https://t.co/uC0c3me6KE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uC0c3me6KE",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 807,
+			"friends_count": 139,
+			"listed_count": 96,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 6868,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13569,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1067778743207260160/7c3ZEd6P_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1067778743207260160/7c3ZEd6P_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@mdevraj @LetsRuck Looks very cool!"
+	},
+	{
 		"created_at": "Thu Jul 04 23:39:41 +0000 2019",
 		"id": 1146926585016012800,
 		"id_str": "1146926585016012800",
@@ -63,12 +328,12 @@ Grailbird.data.tweets_2019_07 =
 			"friends_count": 139,
 			"listed_count": 96,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6864,
+			"favourites_count": 6868,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13567,
+			"statuses_count": 13569,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -289,16 +554,16 @@ Grailbird.data.tweets_2019_07 =
 									}
 								},
 								"protected": false,
-								"followers_count": 2065717,
-								"friends_count": 532,
-								"listed_count": 1022,
+								"followers_count": 2066015,
+								"friends_count": 533,
+								"listed_count": 1017,
 								"created_at": "Sun Feb 27 10:48:45 +0000 2011",
-								"favourites_count": 3805,
+								"favourites_count": 3808,
 								"utc_offset": null,
 								"time_zone": null,
 								"geo_enabled": true,
 								"verified": true,
-								"statuses_count": 37022,
+								"statuses_count": 37031,
 								"lang": null,
 								"contributors_enabled": false,
 								"is_translator": false,
@@ -379,16 +644,16 @@ Grailbird.data.tweets_2019_07 =
 					}
 				},
 				"protected": false,
-				"followers_count": 1570526,
-				"friends_count": 3070,
-				"listed_count": 17180,
+				"followers_count": 1570619,
+				"friends_count": 3074,
+				"listed_count": 17173,
 				"created_at": "Fri Feb 27 00:19:20 +0000 2009",
-				"favourites_count": 418982,
+				"favourites_count": 419163,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": true,
-				"statuses_count": 55247,
+				"statuses_count": 55299,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -418,14 +683,14 @@ Grailbird.data.tweets_2019_07 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 308,
-			"favorite_count": 2048,
+			"retweet_count": 400,
+			"favorite_count": 2645,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
 			"lang": "und"
 		},
-		"retweet_count": 0,
+		"retweet_count": 1,
 		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
@@ -496,12 +761,12 @@ Grailbird.data.tweets_2019_07 =
 			"friends_count": 139,
 			"listed_count": 96,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6864,
+			"favourites_count": 6868,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13567,
+			"statuses_count": 13569,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -598,16 +863,16 @@ Grailbird.data.tweets_2019_07 =
 					}
 				},
 				"protected": false,
-				"followers_count": 12729,
+				"followers_count": 12737,
 				"friends_count": 3733,
 				"listed_count": 315,
 				"created_at": "Sat Jun 13 04:45:19 +0000 2009",
-				"favourites_count": 5247,
+				"favourites_count": 5255,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": true,
-				"statuses_count": 52016,
+				"statuses_count": 52030,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -637,8 +902,8 @@ Grailbird.data.tweets_2019_07 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 462,
-			"favorite_count": 657,
+			"retweet_count": 481,
+			"favorite_count": 693,
 			"favorited": false,
 			"retweeted": false,
 			"lang": "en"
@@ -712,12 +977,12 @@ Grailbird.data.tweets_2019_07 =
 			"friends_count": 139,
 			"listed_count": 96,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6864,
+			"favourites_count": 6868,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13567,
+			"statuses_count": 13569,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
