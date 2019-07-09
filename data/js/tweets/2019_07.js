@@ -1,6 +1,317 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Mon Jul 08 22:59:20 +0000 2019",
+		"id": 1148185334334623700,
+		"id_str": "1148365980646555648",
+		"full_text": "Wagga Wagga becomes the first inland city in Australia to declare climate emergency. Yes, the council voted to pass the Climate emergency declaration. I and am so proud to be living in this incredible city 😊. Thank you @clr_keenan for your leadership, initiative &amp; inspiration👏",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			281
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "clr_keenan",
+					"name": "Clr Vanessa Keenan",
+					"id": 824096453408591900,
+					"id_str": "824096453408591872",
+					"indices": [
+						219,
+						230
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 804280763252248600,
+			"id_str": "804280763252248576",
+			"name": "Dr Razia Shaik",
+			"screen_name": "RaziaShaik1",
+			"location": "Wagga Wagga",
+			"description": "A nature lover, trilingual, dressage national level gold medallist, biodiversity enthusiast, agriculturist, secularist, best girl cadet APNCC directorate",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 747,
+			"friends_count": 1469,
+			"listed_count": 2,
+			"created_at": "Thu Dec 01 11:07:31 +0000 2016",
+			"favourites_count": 12665,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3037,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1130670479046455296/EXDTcyD7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1130670479046455296/EXDTcyD7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/804280763252248576/1556692294",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 66,
+		"favorite_count": 318,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Wagga Wagga becomes the first inland city in Australia to declare climate emergency. Yes, the council voted to pass the Climate emergency declaration. I and am so proud to be living in this incredible city 😊. Thank you @clr_keenan for your leadership, initiative &amp; inspiration👏"
+	},
+	{
+		"created_at": "Mon Jul 08 21:56:44 +0000 2019",
+		"id": 1148350227348258800,
+		"id_str": "1148350227348258816",
+		"full_text": "“For the last twenty years I have seen the web as a stream of information, energy, and consciousness flowing in my direction. Increasingly I’m seeing it as a flow of information, energy, and behavioral surplus from me to the cloud.”\nGreat post @kinlane! https://t.co/iAmSrLRyXY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kinlane",
+					"name": "Kin Lane",
+					"id": 5954192,
+					"id_str": "5954192",
+					"indices": [
+						244,
+						252
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/iAmSrLRyXY",
+					"expanded_url": "http://kinlane.com/2019/07/08/behavioral-surplus-extraction-fatigue/",
+					"display_url": "kinlane.com/2019/07/08/beh…",
+					"indices": [
+						254,
+						277
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Wagga Wagga",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
+			"url": "https://t.co/uC0c3me6KE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uC0c3me6KE",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 808,
+			"friends_count": 139,
+			"listed_count": 96,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 6870,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13569,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1067778743207260160/7c3ZEd6P_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1067778743207260160/7c3ZEd6P_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“For the last twenty years I have seen the web as a stream of information, energy, and consciousness flowing in my direction. Increasingly I’m seeing it as a flow of information, energy, and behavioral surplus from me to the cloud.”\nGreat post @kinlane! https://t.co/iAmSrLRyXY"
+	},
+	{
+		"created_at": "Mon Jul 08 14:02:48 +0000 2019",
+		"id": 1148178130248450000,
+		"id_str": "1148230959076003841",
+		"full_text": "Netflix needs about 4 or 5 Mbps. The #NBN was planned as a 100 Mbps network. The notion that Netflix has harmed the NBN is sensationally pathetic nonsense, streaming would be a drop in the ocean if the project hadn’t already failed. https://t.co/8J8SwasmDt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			256
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NBN",
+					"indices": [
+						37,
+						41
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8J8SwasmDt",
+					"expanded_url": "https://www.abc.net.au/news/2019-07-08/streaming-tv-killed-the-nbns-dream-of-superfast-fixed-wireless/11278694",
+					"display_url": "abc.net.au/news/2019-07-0…",
+					"indices": [
+						233,
+						256
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17615430,
+			"id_str": "17615430",
+			"name": "Mark Newton 🥚",
+			"screen_name": "NewtonMark",
+			"location": "Get a warrant",
+			"description": "Over-opinionated geek.  It turns out the other guy rusted first.  Opinions are mine, all mine. Get a goddamn warrant. he/him/his",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7639,
+			"friends_count": 1907,
+			"listed_count": 387,
+			"created_at": "Tue Nov 25 08:25:53 +0000 2008",
+			"favourites_count": 302,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 221842,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3045314585/4922085c72973f00a7ad59ce6c0d5693_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3045314585/4922085c72973f00a7ad59ce6c0d5693_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17615430/1355351081",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 151,
+		"favorite_count": 368,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Netflix needs about 4 or 5 Mbps. The #NBN was planned as a 100 Mbps network. The notion that Netflix has harmed the NBN is sensationally pathetic nonsense, streaming would be a drop in the ocean if the project hadn’t already failed. https://t.co/8J8SwasmDt"
+	},
+	{
 		"created_at": "Fri Jul 05 08:21:50 +0000 2019",
 		"id": 1147057987632001000,
 		"id_str": "1147057987632001025",
@@ -70,7 +381,7 @@ Grailbird.data.tweets_2019_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 807,
+			"followers_count": 808,
 			"friends_count": 139,
 			"listed_count": 96,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
@@ -219,7 +530,7 @@ Grailbird.data.tweets_2019_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 807,
+			"followers_count": 808,
 			"friends_count": 139,
 			"listed_count": 96,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
@@ -324,7 +635,7 @@ Grailbird.data.tweets_2019_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 807,
+			"followers_count": 808,
 			"friends_count": 139,
 			"listed_count": 96,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
@@ -554,16 +865,16 @@ Grailbird.data.tweets_2019_07 =
 									}
 								},
 								"protected": false,
-								"followers_count": 2066743,
+								"followers_count": 2067052,
 								"friends_count": 534,
-								"listed_count": 1022,
+								"listed_count": 1024,
 								"created_at": "Sun Feb 27 10:48:45 +0000 2011",
-								"favourites_count": 3806,
+								"favourites_count": 3807,
 								"utc_offset": null,
 								"time_zone": null,
 								"geo_enabled": true,
 								"verified": true,
-								"statuses_count": 37043,
+								"statuses_count": 37045,
 								"lang": null,
 								"contributors_enabled": false,
 								"is_translator": false,
@@ -644,16 +955,16 @@ Grailbird.data.tweets_2019_07 =
 					}
 				},
 				"protected": false,
-				"followers_count": 1571357,
-				"friends_count": 3078,
-				"listed_count": 17176,
+				"followers_count": 1571441,
+				"friends_count": 3081,
+				"listed_count": 17184,
 				"created_at": "Fri Feb 27 00:19:20 +0000 2009",
-				"favourites_count": 419371,
+				"favourites_count": 419405,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": true,
-				"statuses_count": 55363,
+				"statuses_count": 55376,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -683,8 +994,8 @@ Grailbird.data.tweets_2019_07 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 410,
-			"favorite_count": 2706,
+			"retweet_count": 412,
+			"favorite_count": 2713,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
@@ -757,7 +1068,7 @@ Grailbird.data.tweets_2019_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 807,
+			"followers_count": 808,
 			"friends_count": 139,
 			"listed_count": 96,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
@@ -863,16 +1174,16 @@ Grailbird.data.tweets_2019_07 =
 					}
 				},
 				"protected": false,
-				"followers_count": 12744,
-				"friends_count": 3732,
+				"followers_count": 12746,
+				"friends_count": 3733,
 				"listed_count": 315,
 				"created_at": "Sat Jun 13 04:45:19 +0000 2009",
-				"favourites_count": 5257,
+				"favourites_count": 5261,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": true,
-				"statuses_count": 52031,
+				"statuses_count": 52063,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -903,7 +1214,7 @@ Grailbird.data.tweets_2019_07 =
 			"contributors": null,
 			"is_quote_status": false,
 			"retweet_count": 483,
-			"favorite_count": 703,
+			"favorite_count": 704,
 			"favorited": false,
 			"retweeted": false,
 			"lang": "en"
@@ -973,7 +1284,7 @@ Grailbird.data.tweets_2019_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 807,
+			"followers_count": 808,
 			"friends_count": 139,
 			"listed_count": 96,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
