@@ -1,6 +1,316 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Tue Jul 09 02:29:53 +0000 2019",
+		"id": 1148398618161774600,
+		"id_str": "1148418970891931649",
+		"full_text": ".@monstapals just went on sale for the #schoolholidays grab a copy and let the little ones learn about #Aussie animals and permutations. https://t.co/8cAQlcB2pY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "schoolholidays",
+					"indices": [
+						39,
+						54
+					]
+				},
+				{
+					"text": "Aussie",
+					"indices": [
+						103,
+						110
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "monstapals",
+					"name": "monstapals",
+					"id": 1004894021582389200,
+					"id_str": "1004894021582389248",
+					"indices": [
+						1,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/8cAQlcB2pY",
+					"expanded_url": "https://twitter.com/monstapals/status/1148397698497650689",
+					"display_url": "twitter.com/monstapals/sta…",
+					"indices": [
+						137,
+						160
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15340674,
+			"id_str": "15340674",
+			"name": "Dev Mukherjee",
+			"screen_name": "mdevraj",
+			"location": "Australia",
+			"description": "Fire fighter at Anomaly Software, makers of many cool things, AngelList https://t.co/X4meLbxyNl | Tesla referral https://t.co/YOugnhfUHU",
+			"url": "https://t.co/l6wPXuI27o",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/l6wPXuI27o",
+							"expanded_url": "http://anomaly.net.au",
+							"display_url": "anomaly.net.au",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/X4meLbxyNl",
+							"expanded_url": "https://angel.co/mdevraj",
+							"display_url": "angel.co/mdevraj",
+							"indices": [
+								72,
+								95
+							]
+						},
+						{
+							"url": "https://t.co/YOugnhfUHU",
+							"expanded_url": "http://ts.la/devraj8109",
+							"display_url": "ts.la/devraj8109",
+							"indices": [
+								113,
+								136
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 793,
+			"friends_count": 2507,
+			"listed_count": 17,
+			"created_at": "Mon Jul 07 10:36:27 +0000 2008",
+			"favourites_count": 13371,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7797,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1133219579050651649/oBvdQxrz_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1133219579050651649/oBvdQxrz_normal.png",
+			"profile_link_color": "5B5B5B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1148397698497650700,
+		"quoted_status_id_str": "1148397698497650689",
+		"quoted_status_permalink": {
+			"url": "https://t.co/8cAQlcB2pY",
+			"expanded": "https://twitter.com/monstapals/status/1148397698497650689",
+			"display": "twitter.com/monstapals/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jul 09 01:05:22 +0000 2019",
+			"id": 1148397698497650700,
+			"id_str": "1148397698497650689",
+			"full_text": "Looking for something to do this school holidays? Well you're in luck as Monstapals is on sale on iOS and OSX from today until the 21st of July.\n#schoolholidays #kids #fun #iOS\n\nhttps://t.co/ZD4679nuKn",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				201
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "schoolholidays",
+						"indices": [
+							145,
+							160
+						]
+					},
+					{
+						"text": "kids",
+						"indices": [
+							161,
+							166
+						]
+					},
+					{
+						"text": "fun",
+						"indices": [
+							167,
+							171
+						]
+					},
+					{
+						"text": "iOS",
+						"indices": [
+							172,
+							176
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ZD4679nuKn",
+						"expanded_url": "https://itunes.apple.com/us/app/monstapals/id1313615216?mt=8&at=1l3v8JX",
+						"display_url": "itunes.apple.com/us/app/monstap…",
+						"indices": [
+							178,
+							201
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1004894021582389200,
+				"id_str": "1004894021582389248",
+				"name": "monstapals",
+				"screen_name": "monstapals",
+				"location": "Wagga Wagga, New South Wales",
+				"description": "Discover, combine & unleash with Monstapals! A kids iOS https://t.co/IUb3RTAWTa and Android https://t.co/bq8i9mDxql game proudly made by regional Aussie talent",
+				"url": "https://t.co/OvMResF4c2",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/OvMResF4c2",
+								"expanded_url": "http://monstapals.com",
+								"display_url": "monstapals.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/IUb3RTAWTa",
+								"expanded_url": "https://goo.gl/jgngJq",
+								"display_url": "goo.gl/jgngJq",
+								"indices": [
+									56,
+									79
+								]
+							},
+							{
+								"url": "https://t.co/bq8i9mDxql",
+								"expanded_url": "https://goo.gl/v8FPZB",
+								"display_url": "goo.gl/v8FPZB",
+								"indices": [
+									92,
+									115
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 40,
+				"friends_count": 112,
+				"listed_count": 0,
+				"created_at": "Fri Jun 08 01:12:59 +0000 2018",
+				"favourites_count": 144,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 107,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1016481990952943619/EgX7HsuE_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1016481990952943619/EgX7HsuE_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1004894021582389248/1541483270",
+				"profile_link_color": "BF5B73",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": ".@monstapals just went on sale for the #schoolholidays grab a copy and let the little ones learn about #Aussie animals and permutations. https://t.co/8cAQlcB2pY"
+	},
+	{
 		"created_at": "Mon Jul 08 22:59:20 +0000 2019",
 		"id": 1148185334334623700,
 		"id_str": "1148365980646555648",
@@ -47,16 +357,16 @@ Grailbird.data.tweets_2019_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 747,
-			"friends_count": 1469,
+			"followers_count": 781,
+			"friends_count": 1503,
 			"listed_count": 2,
 			"created_at": "Thu Dec 01 11:07:31 +0000 2016",
-			"favourites_count": 12665,
+			"favourites_count": 12782,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 3037,
+			"statuses_count": 3141,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -86,8 +396,8 @@ Grailbird.data.tweets_2019_07 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 66,
-		"favorite_count": 318,
+		"retweet_count": 286,
+		"favorite_count": 1011,
 		"favorited": false,
 		"retweeted": true,
 		"lang": "en",
@@ -167,12 +477,12 @@ Grailbird.data.tweets_2019_07 =
 			"friends_count": 139,
 			"listed_count": 96,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6870,
+			"favourites_count": 6878,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13569,
+			"statuses_count": 13573,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -203,7 +513,7 @@ Grailbird.data.tweets_2019_07 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 0,
+		"favorite_count": 2,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
@@ -264,7 +574,7 @@ Grailbird.data.tweets_2019_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 7639,
+			"followers_count": 7641,
 			"friends_count": 1907,
 			"listed_count": 387,
 			"created_at": "Tue Nov 25 08:25:53 +0000 2008",
@@ -273,7 +583,7 @@ Grailbird.data.tweets_2019_07 =
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 221842,
+			"statuses_count": 222014,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -303,8 +613,8 @@ Grailbird.data.tweets_2019_07 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 151,
-		"favorite_count": 368,
+		"retweet_count": 339,
+		"favorite_count": 747,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -385,12 +695,12 @@ Grailbird.data.tweets_2019_07 =
 			"friends_count": 139,
 			"listed_count": 96,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6870,
+			"favourites_count": 6878,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13569,
+			"statuses_count": 13573,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -534,12 +844,12 @@ Grailbird.data.tweets_2019_07 =
 			"friends_count": 139,
 			"listed_count": 96,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6870,
+			"favourites_count": 6878,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13569,
+			"statuses_count": 13573,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -639,12 +949,12 @@ Grailbird.data.tweets_2019_07 =
 			"friends_count": 139,
 			"listed_count": 96,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6870,
+			"favourites_count": 6878,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13569,
+			"statuses_count": 13573,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -865,16 +1175,16 @@ Grailbird.data.tweets_2019_07 =
 									}
 								},
 								"protected": false,
-								"followers_count": 2067052,
-								"friends_count": 534,
-								"listed_count": 1024,
+								"followers_count": 2067179,
+								"friends_count": 535,
+								"listed_count": 1022,
 								"created_at": "Sun Feb 27 10:48:45 +0000 2011",
-								"favourites_count": 3807,
+								"favourites_count": 3809,
 								"utc_offset": null,
 								"time_zone": null,
 								"geo_enabled": true,
 								"verified": true,
-								"statuses_count": 37045,
+								"statuses_count": 37067,
 								"lang": null,
 								"contributors_enabled": false,
 								"is_translator": false,
@@ -955,16 +1265,16 @@ Grailbird.data.tweets_2019_07 =
 					}
 				},
 				"protected": false,
-				"followers_count": 1571441,
-				"friends_count": 3081,
-				"listed_count": 17184,
+				"followers_count": 1571431,
+				"friends_count": 3080,
+				"listed_count": 17181,
 				"created_at": "Fri Feb 27 00:19:20 +0000 2009",
-				"favourites_count": 419405,
+				"favourites_count": 419468,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": true,
-				"statuses_count": 55376,
+				"statuses_count": 55393,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -995,7 +1305,7 @@ Grailbird.data.tweets_2019_07 =
 			"contributors": null,
 			"is_quote_status": false,
 			"retweet_count": 412,
-			"favorite_count": 2713,
+			"favorite_count": 2718,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
@@ -1072,12 +1382,12 @@ Grailbird.data.tweets_2019_07 =
 			"friends_count": 139,
 			"listed_count": 96,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6870,
+			"favourites_count": 6878,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13569,
+			"statuses_count": 13573,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1174,16 +1484,16 @@ Grailbird.data.tweets_2019_07 =
 					}
 				},
 				"protected": false,
-				"followers_count": 12746,
-				"friends_count": 3733,
-				"listed_count": 315,
+				"followers_count": 12751,
+				"friends_count": 3736,
+				"listed_count": 316,
 				"created_at": "Sat Jun 13 04:45:19 +0000 2009",
-				"favourites_count": 5261,
+				"favourites_count": 5265,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": true,
-				"statuses_count": 52063,
+				"statuses_count": 52100,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -1213,8 +1523,8 @@ Grailbird.data.tweets_2019_07 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 483,
-			"favorite_count": 704,
+			"retweet_count": 486,
+			"favorite_count": 706,
 			"favorited": false,
 			"retweeted": false,
 			"lang": "en"
@@ -1288,12 +1598,12 @@ Grailbird.data.tweets_2019_07 =
 			"friends_count": 139,
 			"listed_count": 96,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6870,
+			"favourites_count": 6878,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13569,
+			"statuses_count": 13573,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
