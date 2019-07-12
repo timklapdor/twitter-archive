@@ -1753,16 +1753,16 @@ Grailbird.data.tweets_2017_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 129639,
-			"friends_count": 5453,
-			"listed_count": 3900,
+			"followers_count": 129633,
+			"friends_count": 5461,
+			"listed_count": 3903,
 			"created_at": "Thu Mar 05 06:48:00 +0000 2009",
-			"favourites_count": 108560,
+			"favourites_count": 108616,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 242631,
+			"statuses_count": 242697,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1792,8 +1792,8 @@ Grailbird.data.tweets_2017_06 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 22598,
-		"favorite_count": 58285,
+		"retweet_count": 22593,
+		"favorite_count": 58276,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -2256,16 +2256,16 @@ Grailbird.data.tweets_2017_06 =
 					}
 				},
 				"protected": false,
-				"followers_count": 7067,
+				"followers_count": 7065,
 				"friends_count": 5046,
-				"listed_count": 461,
+				"listed_count": 460,
 				"created_at": "Tue Feb 20 13:34:20 +0000 2007",
-				"favourites_count": 25590,
+				"favourites_count": 25607,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": true,
-				"statuses_count": 48875,
+				"statuses_count": 48884,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -2584,16 +2584,16 @@ Grailbird.data.tweets_2017_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 7067,
+			"followers_count": 7065,
 			"friends_count": 5046,
-			"listed_count": 461,
+			"listed_count": 460,
 			"created_at": "Tue Feb 20 13:34:20 +0000 2007",
-			"favourites_count": 25590,
+			"favourites_count": 25607,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 48875,
+			"statuses_count": 48884,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2949,7 +2949,7 @@ Grailbird.data.tweets_2017_06 =
 					}
 				},
 				"protected": false,
-				"followers_count": 1165,
+				"followers_count": 1170,
 				"friends_count": 356,
 				"listed_count": 77,
 				"created_at": "Fri Nov 09 15:30:27 +0000 2007",
@@ -3059,16 +3059,16 @@ Grailbird.data.tweets_2017_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 17446,
-			"friends_count": 4486,
+			"followers_count": 17475,
+			"friends_count": 4489,
 			"listed_count": 165,
 			"created_at": "Fri Mar 13 11:01:33 +0000 2009",
-			"favourites_count": 90374,
+			"favourites_count": 90451,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 46446,
+			"statuses_count": 46484,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -3105,8 +3105,8 @@ Grailbird.data.tweets_2017_06 =
 			"expanded": "https://twitter.com/iDeanPod/status/877542856117940225",
 			"display": "twitter.com/iDeanPod/statu…"
 		},
-		"retweet_count": 5544,
-		"favorite_count": 17283,
+		"retweet_count": 5543,
+		"favorite_count": 17277,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -3972,7 +3972,7 @@ Grailbird.data.tweets_2017_06 =
 				},
 				"protected": false,
 				"followers_count": 1986,
-				"friends_count": 2740,
+				"friends_count": 2742,
 				"listed_count": 91,
 				"created_at": "Thu Mar 05 06:03:28 +0000 2009",
 				"favourites_count": 1558,
@@ -3980,7 +3980,7 @@ Grailbird.data.tweets_2017_06 =
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": false,
-				"statuses_count": 20484,
+				"statuses_count": 20485,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -5370,16 +5370,16 @@ Grailbird.data.tweets_2017_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 10080,
-			"friends_count": 1780,
-			"listed_count": 722,
+			"followers_count": 10083,
+			"friends_count": 1781,
+			"listed_count": 723,
 			"created_at": "Thu Jun 28 09:14:11 +0000 2007",
-			"favourites_count": 4838,
+			"favourites_count": 4848,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 38709,
+			"statuses_count": 38728,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -5963,15 +5963,15 @@ Grailbird.data.tweets_2017_06 =
 			},
 			"protected": false,
 			"followers_count": 31765,
-			"friends_count": 882,
-			"listed_count": 1241,
+			"friends_count": 883,
+			"listed_count": 1240,
 			"created_at": "Thu Apr 30 13:56:54 +0000 2009",
-			"favourites_count": 18863,
+			"favourites_count": 18872,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 93027,
+			"statuses_count": 93037,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -6002,7 +6002,7 @@ Grailbird.data.tweets_2017_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 3398,
-		"favorite_count": 11218,
+		"favorite_count": 11214,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -8822,11 +8822,11 @@ Grailbird.data.tweets_2017_06 =
 					}
 				},
 				"protected": false,
-				"followers_count": 4992,
-				"friends_count": 2965,
+				"followers_count": 4991,
+				"friends_count": 2966,
 				"listed_count": 326,
 				"created_at": "Fri Feb 02 02:43:12 +0000 2007",
-				"favourites_count": 12612,
+				"favourites_count": 12614,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": false,
@@ -9356,15 +9356,15 @@ Grailbird.data.tweets_2017_06 =
 				},
 				"protected": false,
 				"followers_count": 2334,
-				"friends_count": 3033,
+				"friends_count": 3032,
 				"listed_count": 187,
 				"created_at": "Thu Nov 08 19:58:25 +0000 2007",
-				"favourites_count": 3415,
+				"favourites_count": 3413,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": false,
-				"statuses_count": 20451,
+				"statuses_count": 20433,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -9590,25 +9590,17 @@ Grailbird.data.tweets_2017_06 =
 		"text": "Listening to @cogdog share his secrets and magic of working with Wordpress. #Domains17"
 	},
 	{
-		"created_at": "Mon Jun 05 16:19:25 +0000 2017",
-		"id": 871763397892649000,
-		"id_str": "871763397892648961",
-		"full_text": "@laurapasquini So @mburtis is the #penguinwhisperer https://t.co/QCwuNYRX3M",
+		"created_at": "Mon Jun 05 15:22:11 +0000 2017",
+		"id": 871748994057216000,
+		"id_str": "871748994057216000",
+		"full_text": "@laurapasquini I’d smuggle one in the car but they’re huge!",
 		"truncated": false,
 		"display_text_range": [
 			15,
-			51
+			59
 		],
 		"entities": {
-			"hashtags": [
-				{
-					"text": "penguinwhisperer",
-					"indices": [
-						34,
-						51
-					]
-				}
-			],
+			"hashtags": [],
 			"symbols": [],
 			"user_mentions": [
 				{
@@ -9620,101 +9612,13 @@ Grailbird.data.tweets_2017_06 =
 						0,
 						14
 					]
-				},
-				{
-					"screen_name": "mburtis",
-					"name": "martha",
-					"id": 744533,
-					"id_str": "744533",
-					"indices": [
-						18,
-						26
-					]
 				}
 			],
-			"urls": [],
-			"media": [
-				{
-					"id": 871763374991790100,
-					"id_str": "871763374991790082",
-					"indices": [
-						52,
-						75
-					],
-					"media_url": "http://pbs.twimg.com/media/DBkgK7aU0AIhE4q.jpg",
-					"media_url_https": "https://pbs.twimg.com/media/DBkgK7aU0AIhE4q.jpg",
-					"url": "https://t.co/QCwuNYRX3M",
-					"display_url": "pic.twitter.com/QCwuNYRX3M",
-					"expanded_url": "https://twitter.com/timklapdor/status/871763397892648961/photo/1",
-					"type": "photo",
-					"sizes": {
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"small": {
-							"w": 510,
-							"h": 680,
-							"resize": "fit"
-						},
-						"large": {
-							"w": 1536,
-							"h": 2048,
-							"resize": "fit"
-						},
-						"medium": {
-							"w": 900,
-							"h": 1200,
-							"resize": "fit"
-						}
-					}
-				}
-			]
-		},
-		"extended_entities": {
-			"media": [
-				{
-					"id": 871763374991790100,
-					"id_str": "871763374991790082",
-					"indices": [
-						52,
-						75
-					],
-					"media_url": "http://pbs.twimg.com/media/DBkgK7aU0AIhE4q.jpg",
-					"media_url_https": "https://pbs.twimg.com/media/DBkgK7aU0AIhE4q.jpg",
-					"url": "https://t.co/QCwuNYRX3M",
-					"display_url": "pic.twitter.com/QCwuNYRX3M",
-					"expanded_url": "https://twitter.com/timklapdor/status/871763397892648961/photo/1",
-					"type": "photo",
-					"sizes": {
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"small": {
-							"w": 510,
-							"h": 680,
-							"resize": "fit"
-						},
-						"large": {
-							"w": 1536,
-							"h": 2048,
-							"resize": "fit"
-						},
-						"medium": {
-							"w": 900,
-							"h": 1200,
-							"resize": "fit"
-						}
-					}
-				}
-			]
+			"urls": []
 		},
 		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
-		"in_reply_to_status_id": 871749608854216700,
-		"in_reply_to_status_id_str": "871749608854216710",
+		"in_reply_to_status_id": 871744232280776700,
+		"in_reply_to_status_id_str": "871744232280776704",
 		"in_reply_to_user_id": 16708242,
 		"in_reply_to_user_id_str": "16708242",
 		"in_reply_to_screen_name": "laurapasquini",
@@ -9788,9 +9692,8 @@ Grailbird.data.tweets_2017_06 =
 		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
-		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "@laurapasquini So @mburtis is the #penguinwhisperer https://t.co/QCwuNYRX3M"
+		"text": "@laurapasquini I’d smuggle one in the car but they’re huge!"
 	},
 	{
 		"created_at": "Mon Jun 05 14:00:25 +0000 2017",
