@@ -1,6 +1,659 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Wed Aug 07 00:12:00 +0000 2019",
+		"id": 1158893518389010400,
+		"id_str": "1158893518389010432",
+		"full_text": "Follow the right people and you get to see the most incredible and intelligent threads of conversation and discussion. Twitter gets a bad wrap as a platform, but some of the affordances are incredible.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			201
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Wagga Wagga",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
+			"url": "https://t.co/uC0c3me6KE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uC0c3me6KE",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 808,
+			"friends_count": 140,
+			"listed_count": 96,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 6926,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13611,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1067778743207260160/7c3ZEd6P_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1067778743207260160/7c3ZEd6P_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "5ad8484801b1bae7",
+			"url": "https://api.twitter.com/1.1/geo/id/5ad8484801b1bae7.json",
+			"place_type": "neighborhood",
+			"name": "Wagga Wagga",
+			"full_name": "Wagga Wagga, New South Wales",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							147.33837288,
+							-35.12521197
+						],
+						[
+							147.38281704,
+							-35.12521197
+						],
+						[
+							147.38281704,
+							-35.08806303
+						],
+						[
+							147.33837288,
+							-35.08806303
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Follow the right people and you get to see the most incredible and intelligent threads of conversation and discussion. Twitter gets a bad wrap as a platform, but some of the affordances are incredible."
+	},
+	{
+		"created_at": "Wed Aug 07 00:05:26 +0000 2019",
+		"id": 1158833910744326100,
+		"id_str": "1158891865166381059",
+		"full_text": "Slide on an alternative model for teaching &amp; learning, by Katie: https://t.co/SevuIDiQSf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1158833763595559000,
+					"id_str": "1158833763595558920",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/EBUBKxDXoAggDuw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBUBKxDXoAggDuw.jpg",
+					"url": "https://t.co/SevuIDiQSf",
+					"display_url": "pic.twitter.com/SevuIDiQSf",
+					"expanded_url": "https://twitter.com/actualham/status/1158833910744326145/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1158833763595559000,
+					"id_str": "1158833763595558920",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/EBUBKxDXoAggDuw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBUBKxDXoAggDuw.jpg",
+					"url": "https://t.co/SevuIDiQSf",
+					"display_url": "pic.twitter.com/SevuIDiQSf",
+					"expanded_url": "https://twitter.com/actualham/status/1158833910744326145/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2182862052,
+			"id_str": "2182862052",
+			"name": "Robin DeRosa",
+			"screen_name": "actualham",
+			"location": "New Hampshire, USA",
+			"description": "Director, @PSUOpenCoLab; Interdisciplinary Prof; #OpenPed #OER #OA; public university/community college missions; cherish outliers",
+			"url": "https://t.co/SeO0KU15y5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SeO0KU15y5",
+							"expanded_url": "http://robinderosa.net",
+							"display_url": "robinderosa.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7958,
+			"friends_count": 1649,
+			"listed_count": 412,
+			"created_at": "Fri Nov 08 20:13:27 +0000 2013",
+			"favourites_count": 50023,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11824,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030A09",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1079572911369998342/JWZPPVZp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1079572911369998342/JWZPPVZp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2182862052/1544568902",
+			"profile_link_color": "C94410",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 9,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Slide on an alternative model for teaching &amp; learning, by Katie: https://t.co/SevuIDiQSf"
+	},
+	{
+		"created_at": "Wed Aug 07 00:04:56 +0000 2019",
+		"id": 1158836280169554000,
+		"id_str": "1158891738737438720",
+		"full_text": "I am starting to wonder if instead of talking about online or f2f, we should be talking about human-centered or content-centered. IMO, that is the main thing that has repercussions for how we move through both f2f and online spaces and curriculum. #uwdtl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			254
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "uwdtl",
+					"indices": [
+						248,
+						254
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2182862052,
+			"id_str": "2182862052",
+			"name": "Robin DeRosa",
+			"screen_name": "actualham",
+			"location": "New Hampshire, USA",
+			"description": "Director, @PSUOpenCoLab; Interdisciplinary Prof; #OpenPed #OER #OA; public university/community college missions; cherish outliers",
+			"url": "https://t.co/SeO0KU15y5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SeO0KU15y5",
+							"expanded_url": "http://robinderosa.net",
+							"display_url": "robinderosa.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7958,
+			"friends_count": 1649,
+			"listed_count": 412,
+			"created_at": "Fri Nov 08 20:13:27 +0000 2013",
+			"favourites_count": 50023,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11824,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "030A09",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1079572911369998342/JWZPPVZp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1079572911369998342/JWZPPVZp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2182862052/1544568902",
+			"profile_link_color": "C94410",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 90,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "I am starting to wonder if instead of talking about online or f2f, we should be talking about human-centered or content-centered. IMO, that is the main thing that has repercussions for how we move through both f2f and online spaces and curriculum. #uwdtl"
+	},
+	{
+		"created_at": "Tue Aug 06 00:52:22 +0000 2019",
+		"id": 1158541287881990100,
+		"id_str": "1158541287881990144",
+		"full_text": "I’m with Sarah on this - we need more How To presentations at conferences. We can all watch a fancy video to find out What. Be good to here the stories and experiences of How https://t.co/ql8ekBa2vX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ql8ekBa2vX",
+					"expanded_url": "https://twitter.com/sthcrft/status/1158530075874086914",
+					"display_url": "twitter.com/sthcrft/status…",
+					"indices": [
+						175,
+						198
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Wagga Wagga",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
+			"url": "https://t.co/uC0c3me6KE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uC0c3me6KE",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 808,
+			"friends_count": 140,
+			"listed_count": 96,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 6926,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13611,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1067778743207260160/7c3ZEd6P_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1067778743207260160/7c3ZEd6P_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "47fbe3d3691af707",
+			"url": "https://api.twitter.com/1.1/geo/id/47fbe3d3691af707.json",
+			"place_type": "neighborhood",
+			"name": "Turvey Park",
+			"full_name": "Turvey Park, Wagga Wagga",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							147.34215216,
+							-35.13507804
+						],
+						[
+							147.37781016,
+							-35.13507804
+						],
+						[
+							147.37781016,
+							-35.11972998
+						],
+						[
+							147.34215216,
+							-35.11972998
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1158530075874087000,
+		"quoted_status_id_str": "1158530075874086914",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ql8ekBa2vX",
+			"expanded": "https://twitter.com/sthcrft/status/1158530075874086914",
+			"display": "twitter.com/sthcrft/status…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Aug 06 00:07:49 +0000 2019",
+			"id": 1158530075874087000,
+			"id_str": "1158530075874086914",
+			"full_text": "Now hearing about the postgraduate futures model at UTS - again lots of what and not much how. #ldsummit19",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				106
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ldsummit19",
+						"indices": [
+							95,
+							106
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17125931,
+				"id_str": "17125931",
+				"name": "Sarah Thorneycroft",
+				"screen_name": "sthcrft",
+				"location": "",
+				"description": "Schrödinger's Learning Designer. Middle-Aged Millenial™.",
+				"url": "https://t.co/yUBg1glsVz",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/yUBg1glsVz",
+								"expanded_url": "http://sarahthorneycroft.com",
+								"display_url": "sarahthorneycroft.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1253,
+				"friends_count": 1131,
+				"listed_count": 84,
+				"created_at": "Mon Nov 03 04:46:59 +0000 2008",
+				"favourites_count": 4532,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 24072,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1158346440873132033/OPcZin5N_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1158346440873132033/OPcZin5N_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17125931/1565007294",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I’m with Sarah on this - we need more How To presentations at conferences. We can all watch a fancy video to find out What. Be good to here the stories and experiences of How https://t.co/ql8ekBa2vX"
+	},
+	{
 		"created_at": "Mon Aug 05 21:11:15 +0000 2019",
 		"id": 1158485643862786000,
 		"id_str": "1158485643862786048",
@@ -142,12 +795,12 @@ Grailbird.data.tweets_2019_08 =
 			"friends_count": 140,
 			"listed_count": 96,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6918,
+			"favourites_count": 6926,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13610,
+			"statuses_count": 13611,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -302,12 +955,12 @@ Grailbird.data.tweets_2019_08 =
 			"friends_count": 140,
 			"listed_count": 96,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6918,
+			"favourites_count": 6926,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13610,
+			"statuses_count": 13611,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -438,12 +1091,12 @@ Grailbird.data.tweets_2019_08 =
 			"friends_count": 140,
 			"listed_count": 96,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6918,
+			"favourites_count": 6926,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13610,
+			"statuses_count": 13611,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -474,7 +1127,7 @@ Grailbird.data.tweets_2019_08 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 5,
-		"favorite_count": 19,
+		"favorite_count": 20,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
@@ -517,7 +1170,7 @@ Grailbird.data.tweets_2019_08 =
 				}
 			},
 			"protected": false,
-			"followers_count": 4921,
+			"followers_count": 4974,
 			"friends_count": 238,
 			"listed_count": 23,
 			"created_at": "Tue Jun 11 19:32:22 +0000 2019",
@@ -526,7 +1179,7 @@ Grailbird.data.tweets_2019_08 =
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 161,
+			"statuses_count": 162,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -556,8 +1209,8 @@ Grailbird.data.tweets_2019_08 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 1737,
-		"favorite_count": 6791,
+		"retweet_count": 1761,
+		"favorite_count": 6871,
 		"favorited": false,
 		"retweeted": true,
 		"lang": "en",
@@ -627,12 +1280,12 @@ Grailbird.data.tweets_2019_08 =
 			"friends_count": 140,
 			"listed_count": 96,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6918,
+			"favourites_count": 6926,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13610,
+			"statuses_count": 13611,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -761,8 +1414,8 @@ Grailbird.data.tweets_2019_08 =
 				}
 			},
 			"protected": false,
-			"followers_count": 2348,
-			"friends_count": 534,
+			"followers_count": 2350,
+			"friends_count": 535,
 			"listed_count": 51,
 			"created_at": "Sun Nov 22 02:54:53 +0000 2009",
 			"favourites_count": 1839,
@@ -770,7 +1423,7 @@ Grailbird.data.tweets_2019_08 =
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 1844,
+			"statuses_count": 1848,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -800,7 +1453,7 @@ Grailbird.data.tweets_2019_08 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 47,
-		"favorite_count": 85,
+		"favorite_count": 83,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -870,12 +1523,12 @@ Grailbird.data.tweets_2019_08 =
 			"friends_count": 140,
 			"listed_count": 96,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6918,
+			"favourites_count": 6926,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13610,
+			"statuses_count": 13611,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
