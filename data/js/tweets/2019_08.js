@@ -1,6 +1,219 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Fri Aug 09 04:41:18 +0000 2019",
+		"id": 1159631083500998700,
+		"id_str": "1159686063553564673",
+		"full_text": "Education consistently rates as Australia’s third largest export, representing eight per cent of the nation’s international exports by va... https://t.co/1WjJD3zYjJ #Opinion #TopStories #AustralianUniversities #CrossborderPayments https://t.co/Ul6VA41fFc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			230
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Opinion",
+					"indices": [
+						165,
+						173
+					]
+				},
+				{
+					"text": "TopStories",
+					"indices": [
+						174,
+						185
+					]
+				},
+				{
+					"text": "AustralianUniversities",
+					"indices": [
+						186,
+						209
+					]
+				},
+				{
+					"text": "CrossborderPayments",
+					"indices": [
+						210,
+						230
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1WjJD3zYjJ",
+					"expanded_url": "https://www.campusreview.com.au/2019/08/the-changing-profile-of-australias-international-student-market/",
+					"display_url": "campusreview.com.au/2019/08/the-ch…",
+					"indices": [
+						141,
+						164
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1159631076181958700,
+					"id_str": "1159631076181958656",
+					"indices": [
+						231,
+						254
+					],
+					"media_url": "http://pbs.twimg.com/media/EBfWUd5UYAA6uXz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBfWUd5UYAA6uXz.jpg",
+					"url": "https://t.co/Ul6VA41fFc",
+					"display_url": "pic.twitter.com/Ul6VA41fFc",
+					"expanded_url": "https://twitter.com/CampusReview/status/1159631083500998656/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 620,
+							"h": 330,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 620,
+							"h": 330,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 620,
+							"h": 330,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1159631076181958700,
+					"id_str": "1159631076181958656",
+					"indices": [
+						231,
+						254
+					],
+					"media_url": "http://pbs.twimg.com/media/EBfWUd5UYAA6uXz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EBfWUd5UYAA6uXz.jpg",
+					"url": "https://t.co/Ul6VA41fFc",
+					"display_url": "pic.twitter.com/Ul6VA41fFc",
+					"expanded_url": "https://twitter.com/CampusReview/status/1159631083500998656/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 620,
+							"h": 330,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 620,
+							"h": 330,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 620,
+							"h": 330,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.campusreview.com.au\" rel=\"nofollow\">Campus Review posting</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 194387132,
+			"id_str": "194387132",
+			"name": "Campus Review",
+			"screen_name": "CampusReview",
+			"location": "Australia",
+			"description": "Higher education news, features, opinion and headlines from Campus Review.",
+			"url": "https://t.co/QdkOs9ZyHt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QdkOs9ZyHt",
+							"expanded_url": "http://www.campusreview.com.au",
+							"display_url": "campusreview.com.au",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4880,
+			"friends_count": 1056,
+			"listed_count": 151,
+			"created_at": "Fri Sep 24 00:36:08 +0000 2010",
+			"favourites_count": 342,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6505,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/494980768423092224/KMJhImXi_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/494980768423092224/KMJhImXi_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/194387132/1474870437",
+			"profile_link_color": "F08903",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C7C7C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Education consistently rates as Australia’s third largest export, representing eight per cent of the nation’s international exports by va... https://t.co/1WjJD3zYjJ #Opinion #TopStories #AustralianUniversities #CrossborderPayments https://t.co/Ul6VA41fFc"
+	},
+	{
 		"created_at": "Thu Aug 08 05:41:47 +0000 2019",
 		"id": 1159338899388240000,
 		"id_str": "1159338899388239872",
@@ -320,12 +533,12 @@ Grailbird.data.tweets_2019_08 =
 			"contributors": null,
 			"is_quote_status": false,
 			"retweet_count": 0,
-			"favorite_count": 11,
+			"favorite_count": 12,
 			"favorited": false,
 			"retweeted": false,
 			"lang": "en"
 		},
-		"retweet_count": 0,
+		"retweet_count": 1,
 		"favorite_count": 3,
 		"favorited": false,
 		"retweeted": false,
@@ -422,7 +635,7 @@ Grailbird.data.tweets_2019_08 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 11,
+		"favorite_count": 12,
 		"favorited": false,
 		"retweeted": false,
 		"lang": "en",
@@ -623,16 +836,16 @@ Grailbird.data.tweets_2019_08 =
 					}
 				},
 				"protected": false,
-				"followers_count": 3563,
+				"followers_count": 3565,
 				"friends_count": 2089,
 				"listed_count": 137,
 				"created_at": "Thu Jan 19 01:04:16 +0000 2012",
-				"favourites_count": 30310,
+				"favourites_count": 30324,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": true,
-				"statuses_count": 29855,
+				"statuses_count": 29858,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -662,7 +875,7 @@ Grailbird.data.tweets_2019_08 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 13,
+			"retweet_count": 14,
 			"favorite_count": 7,
 			"favorited": false,
 			"retweeted": false,
@@ -951,7 +1164,7 @@ Grailbird.data.tweets_2019_08 =
 					}
 				},
 				"protected": false,
-				"followers_count": 37584,
+				"followers_count": 37606,
 				"friends_count": 1579,
 				"listed_count": 169,
 				"created_at": "Mon Oct 27 02:08:57 +0000 2014",
@@ -991,7 +1204,7 @@ Grailbird.data.tweets_2019_08 =
 			"contributors": null,
 			"is_quote_status": false,
 			"retweet_count": 75,
-			"favorite_count": 227,
+			"favorite_count": 228,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
@@ -1260,16 +1473,16 @@ Grailbird.data.tweets_2019_08 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8081,
-			"friends_count": 1653,
-			"listed_count": 411,
+			"followers_count": 8134,
+			"friends_count": 1646,
+			"listed_count": 413,
 			"created_at": "Fri Nov 08 20:13:27 +0000 2013",
-			"favourites_count": 50188,
+			"favourites_count": 50251,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 11843,
+			"statuses_count": 11877,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1364,16 +1577,16 @@ Grailbird.data.tweets_2019_08 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8081,
-			"friends_count": 1653,
-			"listed_count": 411,
+			"followers_count": 8134,
+			"friends_count": 1646,
+			"listed_count": 413,
 			"created_at": "Fri Nov 08 20:13:27 +0000 2013",
-			"favourites_count": 50188,
+			"favourites_count": 50251,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 11843,
+			"statuses_count": 11877,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1404,7 +1617,7 @@ Grailbird.data.tweets_2019_08 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 62,
-		"favorite_count": 272,
+		"favorite_count": 275,
 		"favorited": true,
 		"retweeted": true,
 		"lang": "en",
@@ -1606,7 +1819,7 @@ Grailbird.data.tweets_2019_08 =
 				},
 				"protected": false,
 				"followers_count": 1256,
-				"friends_count": 1135,
+				"friends_count": 1134,
 				"listed_count": 84,
 				"created_at": "Mon Nov 03 04:46:59 +0000 2008",
 				"favourites_count": 4556,
@@ -2132,7 +2345,7 @@ Grailbird.data.tweets_2019_08 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 5,
-		"favorite_count": 21,
+		"favorite_count": 22,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
@@ -2175,8 +2388,8 @@ Grailbird.data.tweets_2019_08 =
 				}
 			},
 			"protected": false,
-			"followers_count": 4995,
-			"friends_count": 236,
+			"followers_count": 5009,
+			"friends_count": 235,
 			"listed_count": 23,
 			"created_at": "Tue Jun 11 19:32:22 +0000 2019",
 			"favourites_count": 100,
@@ -2214,8 +2427,8 @@ Grailbird.data.tweets_2019_08 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 1772,
-		"favorite_count": 6923,
+		"retweet_count": 1788,
+		"favorite_count": 6972,
 		"favorited": false,
 		"retweeted": true,
 		"lang": "en",
@@ -2428,7 +2641,7 @@ Grailbird.data.tweets_2019_08 =
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 1851,
+			"statuses_count": 1854,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2458,7 +2671,7 @@ Grailbird.data.tweets_2019_08 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 46,
-		"favorite_count": 83,
+		"favorite_count": 84,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
