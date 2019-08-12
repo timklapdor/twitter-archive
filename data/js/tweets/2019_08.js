@@ -1,6 +1,407 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Sun Aug 11 08:33:03 +0000 2019",
+		"id": 1160469164198203400,
+		"id_str": "1160469164198203392",
+		"full_text": "@sthcrft No one done Dad Violin (ala flight of the concords)? https://t.co/gEI3oEx2xs",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			85
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sthcrft",
+					"name": "Sarah Thorneycroft",
+					"id": 17125931,
+					"id_str": "17125931",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/gEI3oEx2xs",
+					"expanded_url": "https://youtu.be/y5iG11s-dok",
+					"display_url": "youtu.be/y5iG11s-dok",
+					"indices": [
+						62,
+						85
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1160467946952523800,
+		"in_reply_to_status_id_str": "1160467946952523776",
+		"in_reply_to_user_id": 17125931,
+		"in_reply_to_user_id_str": "17125931",
+		"in_reply_to_screen_name": "sthcrft",
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Wagga Wagga",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
+			"url": "https://t.co/uC0c3me6KE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uC0c3me6KE",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 808,
+			"friends_count": 140,
+			"listed_count": 96,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 6937,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13619,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1067778743207260160/7c3ZEd6P_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1067778743207260160/7c3ZEd6P_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "48470aec07fef1d9",
+			"url": "https://api.twitter.com/1.1/geo/id/48470aec07fef1d9.json",
+			"place_type": "neighborhood",
+			"name": "North Adelaide",
+			"full_name": "North Adelaide, Adelaide",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							138.57701688,
+							-34.91948997
+						],
+						[
+							138.61290492,
+							-34.91948997
+						],
+						[
+							138.61290492,
+							-34.89854697
+						],
+						[
+							138.57701688,
+							-34.89854697
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@sthcrft No one done Dad Violin (ala flight of the concords)? https://t.co/gEI3oEx2xs"
+	},
+	{
+		"created_at": "Sun Aug 11 08:21:31 +0000 2019",
+		"id": 1160466258623471600,
+		"id_str": "1160466258623471617",
+		"full_text": "@shalailah would this be something you or someone you know be interested in? Asking for a friend. https://t.co/rb4A5GksXu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "shalailah",
+					"name": "Shalailah Medhora",
+					"id": 46828208,
+					"id_str": "46828208",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/rb4A5GksXu",
+					"expanded_url": "https://twitter.com/Frank_Kneebone/status/1160457852965675008",
+					"display_url": "twitter.com/Frank_Kneebone…",
+					"indices": [
+						98,
+						121
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 46828208,
+		"in_reply_to_user_id_str": "46828208",
+		"in_reply_to_screen_name": "shalailah",
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Wagga Wagga",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
+			"url": "https://t.co/uC0c3me6KE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uC0c3me6KE",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 808,
+			"friends_count": 140,
+			"listed_count": 96,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 6937,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13619,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1067778743207260160/7c3ZEd6P_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1067778743207260160/7c3ZEd6P_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "48470aec07fef1d9",
+			"url": "https://api.twitter.com/1.1/geo/id/48470aec07fef1d9.json",
+			"place_type": "neighborhood",
+			"name": "North Adelaide",
+			"full_name": "North Adelaide, Adelaide",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							138.57701688,
+							-34.91948997
+						],
+						[
+							138.61290492,
+							-34.91948997
+						],
+						[
+							138.61290492,
+							-34.89854697
+						],
+						[
+							138.57701688,
+							-34.89854697
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1160457852965675000,
+		"quoted_status_id_str": "1160457852965675008",
+		"quoted_status_permalink": {
+			"url": "https://t.co/rb4A5GksXu",
+			"expanded": "https://twitter.com/Frank_Kneebone/status/1160457852965675008",
+			"display": "twitter.com/Frank_Kneebone…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Aug 11 07:48:07 +0000 2019",
+			"id": 1160457852965675000,
+			"id_str": "1160457852965675008",
+			"full_text": "I want to talk to ABC local radio about the house gigs I've been doing this year, the life of a song writer and the house/garden gig movement in general. \n\nAnybody know a journalist with a gap in programming?",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				208
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 149041424,
+				"id_str": "149041424",
+				"name": "𝔽𝕣𝕒𝕟𝕜 𝕂𝕟𝕖𝕖𝕓𝕠𝕟𝕖",
+				"screen_name": "Frank_Kneebone",
+				"location": "Brisbane, Queensland",
+				"description": "Learning Designer + Developer. The Human Shazam. Incorrigible Artist & Songwriter (streaming albums in link).",
+				"url": "https://t.co/3OtmPu2N62",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/3OtmPu2N62",
+								"expanded_url": "http://smarturl.it/g3n78u",
+								"display_url": "smarturl.it/g3n78u",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1121,
+				"friends_count": 1260,
+				"listed_count": 93,
+				"created_at": "Fri May 28 07:42:07 +0000 2010",
+				"favourites_count": 14973,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 13562,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "DEF7F3",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1120926486981042176/xMBISTTB_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1120926486981042176/xMBISTTB_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/149041424/1550534749",
+				"profile_link_color": "038543",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@shalailah would this be something you or someone you know be interested in? Asking for a friend. https://t.co/rb4A5GksXu"
+	},
+	{
 		"created_at": "Sat Aug 10 11:50:15 +0000 2019",
 		"id": 1160156403060789200,
 		"id_str": "1160156403060789248",
@@ -66,7 +467,7 @@ Grailbird.data.tweets_2019_08 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13617,
+			"statuses_count": 13619,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -202,7 +603,7 @@ Grailbird.data.tweets_2019_08 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13617,
+			"statuses_count": 13619,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -438,7 +839,7 @@ Grailbird.data.tweets_2019_08 =
 				}
 			},
 			"protected": false,
-			"followers_count": 4881,
+			"followers_count": 4880,
 			"friends_count": 1056,
 			"listed_count": 151,
 			"created_at": "Fri Sep 24 00:36:08 +0000 2010",
@@ -564,7 +965,7 @@ Grailbird.data.tweets_2019_08 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13617,
+			"statuses_count": 13619,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -679,7 +1080,7 @@ Grailbird.data.tweets_2019_08 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13617,
+			"statuses_count": 13619,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -774,7 +1175,7 @@ Grailbird.data.tweets_2019_08 =
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": false,
-				"statuses_count": 13617,
+				"statuses_count": 13619,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -876,7 +1277,7 @@ Grailbird.data.tweets_2019_08 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13617,
+			"statuses_count": 13619,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -981,7 +1382,7 @@ Grailbird.data.tweets_2019_08 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13617,
+			"statuses_count": 13619,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1108,16 +1509,16 @@ Grailbird.data.tweets_2019_08 =
 					}
 				},
 				"protected": false,
-				"followers_count": 3568,
+				"followers_count": 3566,
 				"friends_count": 2090,
 				"listed_count": 137,
 				"created_at": "Thu Jan 19 01:04:16 +0000 2012",
-				"favourites_count": 30327,
+				"favourites_count": 30330,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": true,
-				"statuses_count": 29858,
+				"statuses_count": 29864,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -1229,7 +1630,7 @@ Grailbird.data.tweets_2019_08 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13617,
+			"statuses_count": 13619,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1436,16 +1837,16 @@ Grailbird.data.tweets_2019_08 =
 					}
 				},
 				"protected": false,
-				"followers_count": 37644,
+				"followers_count": 37685,
 				"friends_count": 1579,
-				"listed_count": 169,
+				"listed_count": 170,
 				"created_at": "Mon Oct 27 02:08:57 +0000 2014",
 				"favourites_count": 671,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": true,
-				"statuses_count": 2580,
+				"statuses_count": 2581,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -1476,7 +1877,7 @@ Grailbird.data.tweets_2019_08 =
 			"contributors": null,
 			"is_quote_status": false,
 			"retweet_count": 75,
-			"favorite_count": 230,
+			"favorite_count": 229,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
@@ -1548,7 +1949,7 @@ Grailbird.data.tweets_2019_08 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13617,
+			"statuses_count": 13619,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1745,16 +2146,16 @@ Grailbird.data.tweets_2019_08 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8145,
+			"followers_count": 8149,
 			"friends_count": 1649,
 			"listed_count": 413,
 			"created_at": "Fri Nov 08 20:13:27 +0000 2013",
-			"favourites_count": 50312,
+			"favourites_count": 50318,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 11855,
+			"statuses_count": 11836,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1849,16 +2250,16 @@ Grailbird.data.tweets_2019_08 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8145,
+			"followers_count": 8149,
 			"friends_count": 1649,
 			"listed_count": 413,
 			"created_at": "Fri Nov 08 20:13:27 +0000 2013",
-			"favourites_count": 50312,
+			"favourites_count": 50318,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 11855,
+			"statuses_count": 11836,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1963,7 +2364,7 @@ Grailbird.data.tweets_2019_08 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13617,
+			"statuses_count": 13619,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2090,16 +2491,16 @@ Grailbird.data.tweets_2019_08 =
 					}
 				},
 				"protected": false,
-				"followers_count": 1255,
+				"followers_count": 1256,
 				"friends_count": 1135,
 				"listed_count": 84,
 				"created_at": "Mon Nov 03 04:46:59 +0000 2008",
-				"favourites_count": 4559,
+				"favourites_count": 4563,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": false,
-				"statuses_count": 24091,
+				"statuses_count": 24094,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -2290,7 +2691,7 @@ Grailbird.data.tweets_2019_08 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13617,
+			"statuses_count": 13619,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2450,7 +2851,7 @@ Grailbird.data.tweets_2019_08 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13617,
+			"statuses_count": 13619,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2586,7 +2987,7 @@ Grailbird.data.tweets_2019_08 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13617,
+			"statuses_count": 13619,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2660,7 +3061,7 @@ Grailbird.data.tweets_2019_08 =
 				}
 			},
 			"protected": false,
-			"followers_count": 5024,
+			"followers_count": 5037,
 			"friends_count": 235,
 			"listed_count": 23,
 			"created_at": "Tue Jun 11 19:32:22 +0000 2019",
@@ -2669,7 +3070,7 @@ Grailbird.data.tweets_2019_08 =
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 165,
+			"statuses_count": 166,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2699,8 +3100,8 @@ Grailbird.data.tweets_2019_08 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 1790,
-		"favorite_count": 6983,
+		"retweet_count": 1795,
+		"favorite_count": 7000,
 		"favorited": false,
 		"retweeted": true,
 		"lang": "en",
@@ -2775,7 +3176,7 @@ Grailbird.data.tweets_2019_08 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13617,
+			"statuses_count": 13619,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2904,16 +3305,16 @@ Grailbird.data.tweets_2019_08 =
 				}
 			},
 			"protected": false,
-			"followers_count": 2359,
+			"followers_count": 2363,
 			"friends_count": 536,
 			"listed_count": 51,
 			"created_at": "Sun Nov 22 02:54:53 +0000 2009",
-			"favourites_count": 1843,
+			"favourites_count": 1850,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 1854,
+			"statuses_count": 1859,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -3018,7 +3419,7 @@ Grailbird.data.tweets_2019_08 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13617,
+			"statuses_count": 13619,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
