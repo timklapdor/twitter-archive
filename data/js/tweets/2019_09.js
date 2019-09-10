@@ -1,6 +1,284 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Mon Sep 09 03:01:45 +0000 2019",
+		"id": 1170810646285283300,
+		"id_str": "1170895035203641344",
+		"full_text": "Really one of the great @ARationalFear episodes  — featuring: @markhumphries, @shalailah, @mpbowers, @LewisHobba, @dylabolical.\nSUBSCRIBE: https://t.co/RFumgcxezL https://t.co/XSjTRJ3lar",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ARationalFear",
+					"name": "A Rational Fear",
+					"id": 505544317,
+					"id_str": "505544317",
+					"indices": [
+						24,
+						38
+					]
+				},
+				{
+					"screen_name": "markhumphries",
+					"name": "Mark Humphries",
+					"id": 152396100,
+					"id_str": "152396100",
+					"indices": [
+						62,
+						76
+					]
+				},
+				{
+					"screen_name": "shalailah",
+					"name": "Shalailah Medhora",
+					"id": 46828208,
+					"id_str": "46828208",
+					"indices": [
+						78,
+						88
+					]
+				},
+				{
+					"screen_name": "mpbowers",
+					"name": "Mikearoo",
+					"id": 44286651,
+					"id_str": "44286651",
+					"indices": [
+						90,
+						99
+					]
+				},
+				{
+					"screen_name": "LewisHobba",
+					"name": "Lewis Hobba",
+					"id": 21396909,
+					"id_str": "21396909",
+					"indices": [
+						101,
+						112
+					]
+				},
+				{
+					"screen_name": "dylabolical",
+					"name": "Dylan Behan",
+					"id": 152910883,
+					"id_str": "152910883",
+					"indices": [
+						114,
+						126
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/RFumgcxezL",
+					"expanded_url": "http://arationalfear.com",
+					"display_url": "arationalfear.com",
+					"indices": [
+						139,
+						162
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1170810635149402000,
+					"id_str": "1170810635149402112",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/ED-OEcdUYAAoYLR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED-OEcdUYAAoYLR.jpg",
+					"url": "https://t.co/XSjTRJ3lar",
+					"display_url": "pic.twitter.com/XSjTRJ3lar",
+					"expanded_url": "https://twitter.com/danilic/status/1170810646285283329/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1048,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1079,
+							"h": 1235,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 594,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1170810635149402000,
+					"id_str": "1170810635149402112",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/media/ED-OEcdUYAAoYLR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED-OEcdUYAAoYLR.jpg",
+					"url": "https://t.co/XSjTRJ3lar",
+					"display_url": "pic.twitter.com/XSjTRJ3lar",
+					"expanded_url": "https://twitter.com/danilic/status/1170810646285283329/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1048,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1079,
+							"h": 1235,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 594,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15414356,
+			"id_str": "15414356",
+			"name": "Dan Ilic",
+			"screen_name": "danilic",
+			"location": "Sydney, New South Wales",
+			"description": "Investigative Humourist @arationalfear host. @fbiradio Board member. Nee @abc_comedy, @abcsydney, @fusionmedia, @ajplus, @hungry_beast. Cadigal sitter.",
+			"url": "https://t.co/zSvAKT96rD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zSvAKT96rD",
+							"expanded_url": "http://danilic.com",
+							"display_url": "danilic.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 30244,
+			"friends_count": 8993,
+			"listed_count": 621,
+			"created_at": "Sun Jul 13 12:33:17 +0000 2008",
+			"favourites_count": 31152,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4523,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1163681186918481920/HkcsH5-E_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1163681186918481920/HkcsH5-E_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15414356/1516232371",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "0073b76548e5984f",
+			"url": "https://api.twitter.com/1.1/geo/id/0073b76548e5984f.json",
+			"place_type": "city",
+			"name": "Sydney",
+			"full_name": "Sydney, New South Wales",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							150.520928608,
+							-34.1183470085
+						],
+						[
+							151.343020992,
+							-34.1183470085
+						],
+						[
+							151.343020992,
+							-33.578140996
+						],
+						[
+							150.520928608,
+							-33.578140996
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Really one of the great @ARationalFear episodes  — featuring: @markhumphries, @shalailah, @mpbowers, @LewisHobba, @dylabolical.\nSUBSCRIBE: https://t.co/RFumgcxezL https://t.co/XSjTRJ3lar"
+	},
+	{
 		"created_at": "Sat Sep 07 12:35:58 +0000 2019",
 		"id": 1170314766700576800,
 		"id_str": "1170314766700576768",
@@ -64,12 +342,12 @@ Grailbird.data.tweets_2019_09 =
 			"friends_count": 141,
 			"listed_count": 96,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6979,
+			"favourites_count": 6978,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13647,
+			"statuses_count": 13648,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -203,16 +481,16 @@ Grailbird.data.tweets_2019_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 59487,
+			"followers_count": 59500,
 			"friends_count": 7390,
-			"listed_count": 708,
+			"listed_count": 707,
 			"created_at": "Sat Jan 15 14:03:07 +0000 2011",
-			"favourites_count": 53911,
+			"favourites_count": 53914,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 69079,
+			"statuses_count": 69088,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -242,8 +520,8 @@ Grailbird.data.tweets_2019_09 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 2007,
-		"favorite_count": 5079,
+		"retweet_count": 2017,
+		"favorite_count": 5100,
 		"favorited": false,
 		"retweeted": true,
 		"lang": "en",
@@ -380,12 +658,12 @@ Grailbird.data.tweets_2019_09 =
 			"friends_count": 141,
 			"listed_count": 96,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6979,
+			"favourites_count": 6978,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13647,
+			"statuses_count": 13648,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -520,12 +798,12 @@ Grailbird.data.tweets_2019_09 =
 			"friends_count": 141,
 			"listed_count": 96,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6979,
+			"favourites_count": 6978,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13647,
+			"statuses_count": 13648,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -687,12 +965,12 @@ Grailbird.data.tweets_2019_09 =
 			"friends_count": 141,
 			"listed_count": 96,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 6979,
+			"favourites_count": 6978,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13647,
+			"statuses_count": 13648,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
