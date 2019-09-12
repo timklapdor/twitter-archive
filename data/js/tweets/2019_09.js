@@ -1,6 +1,174 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Wed Sep 11 13:17:55 +0000 2019",
+		"id": 1171774874290835500,
+		"id_str": "1171774874290835456",
+		"full_text": "Totally binged @OllieWards podcast Snowball on #UnravelTrueCrime over the last two days. The story is crazy but it’s probably the lovable dulcet Kiwi accent, the dad who’s like Murray and the obsession with @DrPhil that makes it for me. Check it out https://t.co/fn9qGwBXyJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "UnravelTrueCrime",
+					"indices": [
+						47,
+						64
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OllieWards",
+					"name": "Ollie Wards",
+					"id": 153262342,
+					"id_str": "153262342",
+					"indices": [
+						15,
+						26
+					]
+				},
+				{
+					"screen_name": "DrPhil",
+					"name": "Dr. Phil",
+					"id": 7025662,
+					"id_str": "7025662",
+					"indices": [
+						207,
+						214
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/fn9qGwBXyJ",
+					"expanded_url": "https://www.abc.net.au/radio/programs/truecrime/the-girl-with-the-dragonfly-tattoo/11428024",
+					"display_url": "abc.net.au/radio/programs…",
+					"indices": [
+						250,
+						273
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Wagga Wagga",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
+			"url": "https://t.co/uC0c3me6KE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uC0c3me6KE",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 809,
+			"friends_count": 141,
+			"listed_count": 96,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 6979,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13658,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1067778743207260160/7c3ZEd6P_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1067778743207260160/7c3ZEd6P_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7b46944933d8137e",
+			"url": "https://api.twitter.com/1.1/geo/id/7b46944933d8137e.json",
+			"place_type": "neighborhood",
+			"name": "Norwood",
+			"full_name": "Norwood, Adelaide",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							138.62264616,
+							-34.92790299
+						],
+						[
+							138.64147308,
+							-34.92790299
+						],
+						[
+							138.64147308,
+							-34.91480097
+						],
+						[
+							138.62264616,
+							-34.91480097
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Totally binged @OllieWards podcast Snowball on #UnravelTrueCrime over the last two days. The story is crazy but it’s probably the lovable dulcet Kiwi accent, the dad who’s like Murray and the obsession with @DrPhil that makes it for me. Check it out https://t.co/fn9qGwBXyJ"
+	},
+	{
 		"created_at": "Tue Sep 10 15:03:49 +0000 2019",
 		"id": 1171439136256905200,
 		"id_str": "1171439136256905218",
@@ -58,7 +226,7 @@ Grailbird.data.tweets_2019_09 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13657,
+			"statuses_count": 13658,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -186,7 +354,7 @@ Grailbird.data.tweets_2019_09 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13657,
+			"statuses_count": 13658,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -314,7 +482,7 @@ Grailbird.data.tweets_2019_09 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13657,
+			"statuses_count": 13658,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -442,7 +610,7 @@ Grailbird.data.tweets_2019_09 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13657,
+			"statuses_count": 13658,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -570,7 +738,7 @@ Grailbird.data.tweets_2019_09 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13657,
+			"statuses_count": 13658,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -709,7 +877,7 @@ Grailbird.data.tweets_2019_09 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13657,
+			"statuses_count": 13658,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -848,7 +1016,7 @@ Grailbird.data.tweets_2019_09 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13657,
+			"statuses_count": 13658,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -986,7 +1154,7 @@ Grailbird.data.tweets_2019_09 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13657,
+			"statuses_count": 13658,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1049,8 +1217,8 @@ Grailbird.data.tweets_2019_09 =
 		},
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 1,
+		"retweet_count": 1,
+		"favorite_count": 2,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
@@ -1204,7 +1372,7 @@ Grailbird.data.tweets_2019_09 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13657,
+			"statuses_count": 13658,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1412,8 +1580,8 @@ Grailbird.data.tweets_2019_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 25786,
-			"friends_count": 466,
+			"followers_count": 25784,
+			"friends_count": 465,
 			"listed_count": 257,
 			"created_at": "Mon Apr 30 12:38:04 +0000 2012",
 			"favourites_count": 517,
@@ -1421,7 +1589,7 @@ Grailbird.data.tweets_2019_09 =
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 3872,
+			"statuses_count": 3874,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1657,16 +1825,16 @@ Grailbird.data.tweets_2019_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 30259,
-			"friends_count": 8994,
-			"listed_count": 621,
+			"followers_count": 30261,
+			"friends_count": 8996,
+			"listed_count": 622,
 			"created_at": "Sun Jul 13 12:33:17 +0000 2008",
-			"favourites_count": 31178,
+			"favourites_count": 31226,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 4542,
+			"statuses_count": 4563,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1806,7 +1974,7 @@ Grailbird.data.tweets_2019_09 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13657,
+			"statuses_count": 13658,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1940,7 +2108,7 @@ Grailbird.data.tweets_2019_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 59525,
+			"followers_count": 59530,
 			"friends_count": 7392,
 			"listed_count": 706,
 			"created_at": "Sat Jan 15 14:03:07 +0000 2011",
@@ -1949,7 +2117,7 @@ Grailbird.data.tweets_2019_09 =
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 69098,
+			"statuses_count": 69109,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1979,8 +2147,8 @@ Grailbird.data.tweets_2019_09 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 2020,
-		"favorite_count": 5111,
+		"retweet_count": 2023,
+		"favorite_count": 5126,
 		"favorited": false,
 		"retweeted": true,
 		"lang": "en",
@@ -2122,7 +2290,7 @@ Grailbird.data.tweets_2019_09 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13657,
+			"statuses_count": 13658,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2262,7 +2430,7 @@ Grailbird.data.tweets_2019_09 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13657,
+			"statuses_count": 13658,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2429,7 +2597,7 @@ Grailbird.data.tweets_2019_09 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13657,
+			"statuses_count": 13658,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
