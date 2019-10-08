@@ -1,6 +1,123 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Mon Oct 07 05:43:17 +0000 2019",
+		"id": 1181027152524763100,
+		"id_str": "1181082545695277056",
+		"full_text": "Very interesting article by @Gay_Alcorn on Aiia Maasarwe's killer. I like how it outlines the context of Codey Herrmann's life, without lessening the horror of his crimes: https://t.co/lygZz9FEDd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			195
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Gay_Alcorn",
+					"name": "Gay Alcorn",
+					"id": 252504525,
+					"id_str": "252504525",
+					"indices": [
+						28,
+						39
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/lygZz9FEDd",
+					"expanded_url": "https://www.theguardian.com/australia-news/2019/oct/07/so-bleak-as-to-defy-description-confronting-the-life-of-aiia-maasarwes-killer?CMP=share_btn_tw",
+					"display_url": "theguardian.com/australia-news…",
+					"indices": [
+						172,
+						195
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 46828208,
+			"id_str": "46828208",
+			"name": "Shalailah Medhora",
+			"screen_name": "shalailah",
+			"location": "Canberra",
+			"description": "Perpetually trying to find the perfect red lipstick. Political reporter for @triplejhack. Often tweets about bad reality TV. Views are mine, not the ABC's",
+			"url": "https://t.co/mXbx7nKVPf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mXbx7nKVPf",
+							"expanded_url": "http://www.abc.net.au/triplej/programs/hack",
+							"display_url": "abc.net.au/triplej/progra…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13491,
+			"friends_count": 3762,
+			"listed_count": 319,
+			"created_at": "Sat Jun 13 04:45:19 +0000 2009",
+			"favourites_count": 5523,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 53689,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/750135069205946368/Efu1rW_C_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/750135069205946368/Efu1rW_C_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/46828208/1444882588",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Very interesting article by @Gay_Alcorn on Aiia Maasarwe's killer. I like how it outlines the context of Codey Herrmann's life, without lessening the horror of his crimes: https://t.co/lygZz9FEDd"
+	},
+	{
 		"created_at": "Wed Oct 02 21:37:45 +0000 2019",
 		"id": 1179398380340093000,
 		"id_str": "1179510807635218432",
@@ -49,16 +166,16 @@ Grailbird.data.tweets_2019_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1794,
+			"followers_count": 1796,
 			"friends_count": 4881,
 			"listed_count": 23,
 			"created_at": "Wed May 03 12:25:00 +0000 2017",
-			"favourites_count": 5495,
+			"favourites_count": 5500,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 4804,
+			"statuses_count": 4815,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
