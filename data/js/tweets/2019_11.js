@@ -1,6 +1,503 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Mon Nov 04 08:15:45 +0000 2019",
+		"id": 1191207471936749600,
+		"id_str": "1191267779120259072",
+		"full_text": "So let me get this right. Morrison thinks the Chinese should sit down and talk to protesters in Hong Kong but he thinks protesters here should be criminalised...it’s so hard to predict when Conservatives will defend free speech and when they wont #auspol https://t.co/VoxxsCgMst",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "auspol",
+					"indices": [
+						247,
+						254
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VoxxsCgMst",
+					"expanded_url": "https://www.afr.com/policy/foreign-affairs/morrison-backs-trump-on-hong-kong-protests-20190816-p52hq4",
+					"display_url": "afr.com/policy/foreign…",
+					"indices": [
+						255,
+						278
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2479226604,
+			"id_str": "2479226604",
+			"name": "Richard Denniss",
+			"screen_name": "RDNS_TAI",
+			"location": "Canberra",
+			"description": "Chief Economist @TheAusInstitute",
+			"url": "https://t.co/CONo1Zt8uu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CONo1Zt8uu",
+							"expanded_url": "http://www.tai.org.au",
+							"display_url": "tai.org.au",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15689,
+			"friends_count": 1745,
+			"listed_count": 223,
+			"created_at": "Tue May 06 04:16:40 +0000 2014",
+			"favourites_count": 16053,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11381,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/978029833149022208/reXPrPOx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/978029833149022208/reXPrPOx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2479226604/1549234418",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 985,
+		"favorite_count": 2817,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "So let me get this right. Morrison thinks the Chinese should sit down and talk to protesters in Hong Kong but he thinks protesters here should be criminalised...it’s so hard to predict when Conservatives will defend free speech and when they wont #auspol https://t.co/VoxxsCgMst"
+	},
+	{
+		"created_at": "Mon Nov 04 02:26:43 +0000 2019",
+		"id": 1191179942437896200,
+		"id_str": "1191179942437896192",
+		"full_text": "@mdevraj Found a worthy challenger to @Crow_Brewer just around the corner. Definitely worth getting some Little Bang Brewing beers to sample :)",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			143
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mdevraj",
+					"name": "Dev Mukherjee",
+					"id": 15340674,
+					"id_str": "15340674",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "Crow_Brewer",
+					"name": "Thirsty Crow",
+					"id": 434891849,
+					"id_str": "434891849",
+					"indices": [
+						38,
+						50
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1191129285362212900,
+		"in_reply_to_status_id_str": "1191129285362212865",
+		"in_reply_to_user_id": 15340674,
+		"in_reply_to_user_id_str": "15340674",
+		"in_reply_to_screen_name": "mdevraj",
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Wagga Wagga",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
+			"url": "https://t.co/uC0c3me6KE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uC0c3me6KE",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 807,
+			"friends_count": 144,
+			"listed_count": 96,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 7118,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13715,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1067778743207260160/7c3ZEd6P_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1067778743207260160/7c3ZEd6P_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "38a6e758f2ba889c",
+			"url": "https://api.twitter.com/1.1/geo/id/38a6e758f2ba889c.json",
+			"place_type": "neighborhood",
+			"name": "Adelaide",
+			"full_name": "Adelaide, South Australia",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							138.57706008,
+							-34.94215998
+						],
+						[
+							138.62447712,
+							-34.94215998
+						],
+						[
+							138.62447712,
+							-34.90911801
+						],
+						[
+							138.57706008,
+							-34.90911801
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@mdevraj Found a worthy challenger to @Crow_Brewer just around the corner. Definitely worth getting some Little Bang Brewing beers to sample :)"
+	},
+	{
+		"created_at": "Mon Nov 04 02:18:30 +0000 2019",
+		"id": 1191125213821276200,
+		"id_str": "1191177874234982400",
+		"full_text": "This is so good. How we pursue tax fraud v welfare fraud. #auspol https://t.co/54Rv2lNzDf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			65
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "auspol",
+					"indices": [
+						58,
+						65
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/54Rv2lNzDf",
+					"expanded_url": "https://twitter.com/danjite/status/1190913665966305281",
+					"display_url": "twitter.com/danjite/status…",
+					"indices": [
+						66,
+						89
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 10451462,
+			"id_str": "10451462",
+			"name": "👩🏻‍💻Joyce Seitzinger",
+			"screen_name": "catspyjamasnz",
+			"location": "Melbourne AU. Wurundjeri land.",
+			"description": "Designing learning experiences. Hoping that's helpful.",
+			"url": "https://t.co/pJ0bXLEABw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pJ0bXLEABw",
+							"expanded_url": "http://online.rmit.edu.au",
+							"display_url": "online.rmit.edu.au",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12425,
+			"friends_count": 11927,
+			"listed_count": 1220,
+			"created_at": "Wed Nov 21 21:14:58 +0000 2007",
+			"favourites_count": 107174,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 61613,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "DBE9ED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/690397421499736064/j-HGgre5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/690397421499736064/j-HGgre5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/10451462/1518177565",
+			"profile_link_color": "CC3366",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EECD15",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1190913665966305300,
+		"quoted_status_id_str": "1190913665966305281",
+		"quoted_status_permalink": {
+			"url": "https://t.co/54Rv2lNzDf",
+			"expanded": "https://twitter.com/danjite/status/1190913665966305281",
+			"display": "twitter.com/danjite/status…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Nov 03 08:48:38 +0000 2019",
+			"id": 1190913665966305300,
+			"id_str": "1190913665966305281",
+			"full_text": "https://t.co/o34kmuhtUc",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				23
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/o34kmuhtUc",
+						"expanded_url": "https://www.rnz.co.nz/news/the-wireless/374753/the-pencilsword-greed-vs-need",
+						"display_url": "rnz.co.nz/news/the-wirel…",
+						"indices": [
+							0,
+							23
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14119325,
+				"id_str": "14119325",
+				"name": "What good have you done for the world today?",
+				"screen_name": "Danjite",
+				"location": "Wellington, NZ",
+				"description": "Pro Open: source/data/sci, & civil liberties. Decolonisation. Business advisor, technologist, foodie, fan of engaged, considerate people the world over.",
+				"url": "https://t.co/wcfwkKxdrw",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/wcfwkKxdrw",
+								"expanded_url": "http://nz.linkedin.com/in/danielspector",
+								"display_url": "nz.linkedin.com/in/danielspect…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2050,
+				"friends_count": 1933,
+				"listed_count": 178,
+				"created_at": "Tue Mar 11 01:30:04 +0000 2008",
+				"favourites_count": 19210,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 39074,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "6AD72A",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1126777769646383104/v2_ZgFso_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1126777769646383104/v2_ZgFso_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14119325/1501909938",
+				"profile_link_color": "EB870C",
+				"profile_sidebar_border_color": "E16414",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": false,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is so good. How we pursue tax fraud v welfare fraud. #auspol https://t.co/54Rv2lNzDf"
+	},
+	{
 		"created_at": "Sun Nov 03 14:11:55 +0000 2019",
 		"id": 1190995021102608400,
 		"id_str": "1190995021102608389",
@@ -313,12 +810,12 @@ Grailbird.data.tweets_2019_11 =
 			"friends_count": 144,
 			"listed_count": 96,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7119,
+			"favourites_count": 7118,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13713,
+			"statuses_count": 13715,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -465,16 +962,16 @@ Grailbird.data.tweets_2019_11 =
 				}
 			},
 			"protected": false,
-			"followers_count": 2923911,
+			"followers_count": 2928310,
 			"friends_count": 1768,
-			"listed_count": 6262,
+			"listed_count": 6276,
 			"created_at": "Tue Jun 12 06:14:23 +0000 2018",
 			"favourites_count": 15967,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 6020,
+			"statuses_count": 6021,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -582,16 +1079,16 @@ Grailbird.data.tweets_2019_11 =
 					}
 				},
 				"protected": false,
-				"followers_count": 14377057,
+				"followers_count": 14380732,
 				"friends_count": 1646,
-				"listed_count": 91584,
+				"listed_count": 91605,
 				"created_at": "Tue Mar 27 11:19:39 +0000 2007",
-				"favourites_count": 4501,
+				"favourites_count": 4500,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": true,
-				"statuses_count": 336384,
+				"statuses_count": 336523,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -623,15 +1120,15 @@ Grailbird.data.tweets_2019_11 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 559,
-			"favorite_count": 854,
+			"retweet_count": 620,
+			"favorite_count": 978,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
 			"lang": "en"
 		},
-		"retweet_count": 8845,
-		"favorite_count": 50505,
+		"retweet_count": 9339,
+		"favorite_count": 52462,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -712,12 +1209,12 @@ Grailbird.data.tweets_2019_11 =
 			"friends_count": 144,
 			"listed_count": 96,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7119,
+			"favourites_count": 7118,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13713,
+			"statuses_count": 13715,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -958,16 +1455,16 @@ Grailbird.data.tweets_2019_11 =
 					}
 				},
 				"protected": false,
-				"followers_count": 531365,
+				"followers_count": 531501,
 				"friends_count": 206,
-				"listed_count": 2270,
+				"listed_count": 2271,
 				"created_at": "Thu Mar 05 22:51:02 +0000 2009",
 				"favourites_count": 221,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": true,
-				"statuses_count": 278336,
+				"statuses_count": 278382,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -999,8 +1496,8 @@ Grailbird.data.tweets_2019_11 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 290,
-			"favorite_count": 362,
+			"retweet_count": 294,
+			"favorite_count": 370,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
@@ -1013,103 +1510,6 @@ Grailbird.data.tweets_2019_11 =
 		"possibly_sensitive": false,
 		"lang": "en",
 		"text": "@audreywatters state sponsored school surveillance down under https://t.co/9AkY5ZSruh"
-	},
-	{
-		"created_at": "Sun Nov 03 09:45:36 +0000 2019",
-		"id": 1190346492621574100,
-		"id_str": "1190928001313034240",
-		"full_text": "ALL MAJORS ARE VALUABLE \n- we need stem majors 2 help build the guillotines \n- we need humanities majors 2 tell us who to guillotine \n- we need business majors to guillotine",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			173
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": []
-		},
-		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 906677888,
-			"id_str": "906677888",
-			"name": "alisha",
-			"screen_name": "alishabhag",
-			"location": "",
-			"description": "One fork, no friends, and multiple copies of Prozac Nation",
-			"url": "https://t.co/DOkbKHgayL",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/DOkbKHgayL",
-							"expanded_url": "http://instagram.com/alishabhag",
-							"display_url": "instagram.com/alishabhag",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 773,
-			"friends_count": 621,
-			"listed_count": 5,
-			"created_at": "Fri Oct 26 19:58:26 +0000 2012",
-			"favourites_count": 90061,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 9771,
-			"lang": null,
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "C0DEED",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1191032259467456513/K99BvA-A_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1191032259467456513/K99BvA-A_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/906677888/1548589144",
-			"profile_link_color": "0084B4",
-			"profile_sidebar_border_color": "FFFFFF",
-			"profile_sidebar_fill_color": "DDEEF6",
-			"profile_text_color": "333333",
-			"profile_use_background_image": false,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"can_media_tag": false,
-			"followed_by": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "regular"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 21227,
-		"favorite_count": 91248,
-		"favorited": false,
-		"retweeted": true,
-		"lang": "en",
-		"text": "ALL MAJORS ARE VALUABLE \n- we need stem majors 2 help build the guillotines \n- we need humanities majors 2 tell us who to guillotine \n- we need business majors to guillotine"
 	},
 	{
 		"created_at": "Sun Nov 03 09:45:13 +0000 2019",
@@ -1310,9 +1710,9 @@ Grailbird.data.tweets_2019_11 =
 				}
 			},
 			"protected": false,
-			"followers_count": 73601,
+			"followers_count": 73645,
 			"friends_count": 648,
-			"listed_count": 583,
+			"listed_count": 581,
 			"created_at": "Wed Jan 23 03:33:46 +0000 2013",
 			"favourites_count": 408,
 			"utc_offset": null,
@@ -1351,8 +1751,8 @@ Grailbird.data.tweets_2019_11 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 528,
-		"favorite_count": 1356,
+		"retweet_count": 543,
+		"favorite_count": 1400,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -1422,12 +1822,12 @@ Grailbird.data.tweets_2019_11 =
 			"friends_count": 144,
 			"listed_count": 96,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7119,
+			"favourites_count": 7118,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13713,
+			"statuses_count": 13715,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1566,16 +1966,16 @@ Grailbird.data.tweets_2019_11 =
 					}
 				},
 				"protected": false,
-				"followers_count": 62367,
-				"friends_count": 1684,
+				"followers_count": 62393,
+				"friends_count": 1685,
 				"listed_count": 1301,
 				"created_at": "Thu Jun 25 05:26:47 +0000 2009",
-				"favourites_count": 29292,
+				"favourites_count": 29325,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": true,
-				"statuses_count": 34932,
+				"statuses_count": 34988,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -1607,8 +2007,8 @@ Grailbird.data.tweets_2019_11 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 1126,
-			"favorite_count": 2865,
+			"retweet_count": 1156,
+			"favorite_count": 2969,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
@@ -1675,12 +2075,12 @@ Grailbird.data.tweets_2019_11 =
 			"friends_count": 144,
 			"listed_count": 96,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7119,
+			"favourites_count": 7118,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13713,
+			"statuses_count": 13715,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
