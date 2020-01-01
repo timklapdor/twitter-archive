@@ -1,0 +1,87 @@
+Grailbird.data.tweets_2020_01 = 
+[
+	{
+		"created_at": "Wed Jan 01 00:10:54 +0000 2020",
+		"id": 1212119810273759200,
+		"id_str": "1212164256356945920",
+		"full_text": "BTW are you all aware that a) firies on Newstart can ( and are) having their tiny fortnightly payments docked if they cant fulfil their other Newstart obligations but that this would change if a national emergency was declared. Also",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			232
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 480785251,
+			"id_str": "480785251",
+			"name": "furiousnotanxious",
+			"screen_name": "MargaretClark12",
+			"location": "Canberra, Australia",
+			"description": "IT IS TOO LATE TO LEAVE  - terrifying words heard right across OZ.  But in global terms this is where we are.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3401,
+			"friends_count": 4990,
+			"listed_count": 65,
+			"created_at": "Wed Feb 01 22:13:55 +0000 2012",
+			"favourites_count": 12104,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 44548,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1173880300503388160/WjugFog3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1173880300503388160/WjugFog3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/480785251/1454464016",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 187,
+		"favorite_count": 300,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "BTW are you all aware that a) firies on Newstart can ( and are) having their tiny fortnightly payments docked if they cant fulfil their other Newstart obligations but that this would change if a national emergency was declared. Also"
+	}
+]
