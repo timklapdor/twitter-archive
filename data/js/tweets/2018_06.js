@@ -59,16 +59,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 876171,
+			"followers_count": 876257,
 			"friends_count": 1149,
-			"listed_count": 4554,
+			"listed_count": 4556,
 			"created_at": "Thu Apr 16 23:28:23 +0000 2009",
 			"favourites_count": 465,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 108492,
+			"statuses_count": 108516,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -172,16 +172,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 823,
+			"followers_count": 822,
 			"friends_count": 152,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7320,
+			"favourites_count": 7327,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13870,
+			"statuses_count": 13873,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -423,8 +423,8 @@ Grailbird.data.tweets_2018_06 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 19087,
-		"favorite_count": 47402,
+		"retweet_count": 19083,
+		"favorite_count": 47396,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -501,16 +501,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 823,
+			"followers_count": 822,
 			"friends_count": 152,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7320,
+			"favourites_count": 7327,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13870,
+			"statuses_count": 13873,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -598,16 +598,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 823,
+			"followers_count": 822,
 			"friends_count": 152,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7320,
+			"favourites_count": 7327,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13870,
+			"statuses_count": 13873,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -703,16 +703,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 823,
+			"followers_count": 822,
 			"friends_count": 152,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7320,
+			"favourites_count": 7327,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13870,
+			"statuses_count": 13873,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -810,16 +810,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 823,
+			"followers_count": 822,
 			"friends_count": 152,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7320,
+			"favourites_count": 7327,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13870,
+			"statuses_count": 13873,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1138,8 +1138,8 @@ Grailbird.data.tweets_2018_06 =
 					}
 				},
 				"protected": false,
-				"followers_count": 194835,
-				"friends_count": 14634,
+				"followers_count": 194855,
+				"friends_count": 14635,
 				"listed_count": 2527,
 				"created_at": "Thu Oct 04 02:41:59 +0000 2007",
 				"favourites_count": 2692,
@@ -1147,7 +1147,7 @@ Grailbird.data.tweets_2018_06 =
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": true,
-				"statuses_count": 221734,
+				"statuses_count": 221759,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -1271,16 +1271,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 24953,
-			"friends_count": 5903,
+			"followers_count": 24958,
+			"friends_count": 5902,
 			"listed_count": 355,
 			"created_at": "Wed Jun 03 10:40:52 +0000 2009",
-			"favourites_count": 4753,
+			"favourites_count": 4752,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 15994,
+			"statuses_count": 15996,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1599,8 +1599,8 @@ Grailbird.data.tweets_2018_06 =
 					}
 				},
 				"protected": false,
-				"followers_count": 194835,
-				"friends_count": 14634,
+				"followers_count": 194855,
+				"friends_count": 14635,
 				"listed_count": 2527,
 				"created_at": "Thu Oct 04 02:41:59 +0000 2007",
 				"favourites_count": 2692,
@@ -1608,7 +1608,7 @@ Grailbird.data.tweets_2018_06 =
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": true,
-				"statuses_count": 221734,
+				"statuses_count": 221759,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -1648,7 +1648,7 @@ Grailbird.data.tweets_2018_06 =
 			"lang": "en"
 		},
 		"retweet_count": 465,
-		"favorite_count": 817,
+		"favorite_count": 814,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -1715,16 +1715,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 823,
+			"followers_count": 822,
 			"friends_count": 152,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7320,
+			"favourites_count": 7327,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13870,
+			"statuses_count": 13873,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1845,16 +1845,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 823,
+			"followers_count": 822,
 			"friends_count": 152,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7320,
+			"favourites_count": 7327,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13870,
+			"statuses_count": 13873,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2026,16 +2026,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 823,
+			"followers_count": 822,
 			"friends_count": 152,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7320,
+			"favourites_count": 7327,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13870,
+			"statuses_count": 13873,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2133,16 +2133,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 823,
+			"followers_count": 822,
 			"friends_count": 152,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7320,
+			"favourites_count": 7327,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13870,
+			"statuses_count": 13873,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2225,16 +2225,16 @@ Grailbird.data.tweets_2018_06 =
 					}
 				},
 				"protected": false,
-				"followers_count": 8940,
-				"friends_count": 9084,
+				"followers_count": 8976,
+				"friends_count": 9100,
 				"listed_count": 31,
 				"created_at": "Tue Dec 02 09:29:11 +0000 2014",
-				"favourites_count": 51249,
+				"favourites_count": 51294,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": false,
-				"statuses_count": 24639,
+				"statuses_count": 24650,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -2266,7 +2266,7 @@ Grailbird.data.tweets_2018_06 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 500,
+			"retweet_count": 499,
 			"favorite_count": 698,
 			"favorited": false,
 			"retweeted": false,
@@ -2339,16 +2339,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 823,
+			"followers_count": 822,
 			"friends_count": 152,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7320,
+			"favourites_count": 7327,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13870,
+			"statuses_count": 13873,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2558,9 +2558,9 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 387859,
-			"friends_count": 5935,
-			"listed_count": 2187,
+			"followers_count": 387861,
+			"friends_count": 5937,
+			"listed_count": 2188,
 			"created_at": "Thu Jul 05 12:11:09 +0000 2007",
 			"favourites_count": 12233,
 			"utc_offset": null,
@@ -2599,8 +2599,8 @@ Grailbird.data.tweets_2018_06 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 19437,
-		"favorite_count": 38074,
+		"retweet_count": 19441,
+		"favorite_count": 38068,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -2647,12 +2647,12 @@ Grailbird.data.tweets_2018_06 =
 			"friends_count": 240,
 			"listed_count": 17,
 			"created_at": "Wed Jan 07 05:05:48 +0000 2009",
-			"favourites_count": 3706,
+			"favourites_count": 3710,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 4099,
+			"statuses_count": 4100,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2684,8 +2684,8 @@ Grailbird.data.tweets_2018_06 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 76790,
-		"favorite_count": 309398,
+		"retweet_count": 76780,
+		"favorite_count": 309369,
 		"favorited": false,
 		"retweeted": true,
 		"lang": "en",
@@ -3008,7 +3008,7 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 48036,
+			"followers_count": 48181,
 			"friends_count": 1585,
 			"listed_count": 184,
 			"created_at": "Mon Oct 27 02:08:57 +0000 2014",
@@ -3106,16 +3106,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 823,
+			"followers_count": 822,
 			"friends_count": 152,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7320,
+			"favourites_count": 7327,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13870,
+			"statuses_count": 13873,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -3200,16 +3200,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 3624,
-			"friends_count": 5000,
+			"followers_count": 3635,
+			"friends_count": 4998,
 			"listed_count": 24,
 			"created_at": "Sun Mar 04 10:39:15 +0000 2012",
-			"favourites_count": 56717,
+			"favourites_count": 56826,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 61689,
+			"statuses_count": 61807,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -3307,16 +3307,16 @@ Grailbird.data.tweets_2018_06 =
 					}
 				},
 				"protected": false,
-				"followers_count": 982387,
+				"followers_count": 982480,
 				"friends_count": 282,
-				"listed_count": 4126,
+				"listed_count": 4125,
 				"created_at": "Tue Oct 14 07:18:41 +0000 2008",
-				"favourites_count": 433,
+				"favourites_count": 436,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": true,
-				"statuses_count": 11328,
+				"statuses_count": 11333,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -3348,14 +3348,14 @@ Grailbird.data.tweets_2018_06 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 437,
+			"retweet_count": 436,
 			"favorite_count": 1976,
 			"favorited": false,
 			"retweeted": false,
 			"lang": "en"
 		},
 		"retweet_count": 789,
-		"favorite_count": 1651,
+		"favorite_count": 1650,
 		"favorited": true,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -3447,8 +3447,8 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 816,
-			"friends_count": 2008,
+			"followers_count": 817,
+			"friends_count": 2007,
 			"listed_count": 10,
 			"created_at": "Tue Feb 12 05:46:46 +0000 2013",
 			"favourites_count": 2774,
@@ -3522,7 +3522,7 @@ Grailbird.data.tweets_2018_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 1309,
-		"favorite_count": 2252,
+		"favorite_count": 2251,
 		"favorited": true,
 		"retweeted": true,
 		"lang": "en",
@@ -3680,16 +3680,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 267505,
-			"friends_count": 2082,
-			"listed_count": 1313,
+			"followers_count": 268032,
+			"friends_count": 2081,
+			"listed_count": 1319,
 			"created_at": "Sat Apr 24 15:30:50 +0000 2010",
-			"favourites_count": 24017,
+			"favourites_count": 24048,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 70957,
+			"statuses_count": 71004,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -3721,8 +3721,8 @@ Grailbird.data.tweets_2018_06 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 2952,
-		"favorite_count": 7894,
+		"retweet_count": 2950,
+		"favorite_count": 7896,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -3916,9 +3916,9 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 308,
+			"followers_count": 307,
 			"friends_count": 99,
-			"listed_count": 0,
+			"listed_count": 5,
 			"created_at": "Fri Jul 29 05:51:32 +0000 2016",
 			"favourites_count": 43,
 			"utc_offset": null,
@@ -4025,16 +4025,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 823,
+			"followers_count": 822,
 			"friends_count": 152,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7320,
+			"favourites_count": 7327,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13870,
+			"statuses_count": 13873,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -4141,16 +4141,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 823,
+			"followers_count": 822,
 			"friends_count": 152,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7320,
+			"favourites_count": 7327,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13870,
+			"statuses_count": 13873,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -4257,16 +4257,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 823,
+			"followers_count": 822,
 			"friends_count": 152,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7320,
+			"favourites_count": 7327,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13870,
+			"statuses_count": 13873,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -4468,16 +4468,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 823,
+			"followers_count": 822,
 			"friends_count": 152,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7320,
+			"favourites_count": 7327,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13870,
+			"statuses_count": 13873,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -4584,16 +4584,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 823,
+			"followers_count": 822,
 			"friends_count": 152,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7320,
+			"favourites_count": 7327,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13870,
+			"statuses_count": 13873,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -4690,16 +4690,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 823,
+			"followers_count": 822,
 			"friends_count": 152,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7320,
+			"favourites_count": 7327,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13870,
+			"statuses_count": 13873,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -4795,16 +4795,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 823,
+			"followers_count": 822,
 			"friends_count": 152,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7320,
+			"favourites_count": 7327,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13870,
+			"statuses_count": 13873,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -5141,16 +5141,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 823,
+			"followers_count": 822,
 			"friends_count": 152,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7320,
+			"favourites_count": 7327,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13870,
+			"statuses_count": 13873,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -5247,16 +5247,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 823,
+			"followers_count": 822,
 			"friends_count": 152,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7320,
+			"favourites_count": 7327,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13870,
+			"statuses_count": 13873,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -5475,7 +5475,7 @@ Grailbird.data.tweets_2018_06 =
 			"friends_count": 1085,
 			"listed_count": 679,
 			"created_at": "Wed Apr 22 09:09:25 +0000 2009",
-			"favourites_count": 9538,
+			"favourites_count": 9540,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
@@ -5691,16 +5691,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 392191,
+			"followers_count": 392274,
 			"friends_count": 2676,
-			"listed_count": 2212,
+			"listed_count": 2213,
 			"created_at": "Thu Sep 03 11:25:05 +0000 2009",
 			"favourites_count": 44969,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 35197,
+			"statuses_count": 35198,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -5732,8 +5732,8 @@ Grailbird.data.tweets_2018_06 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 3913,
-		"favorite_count": 9362,
+		"retweet_count": 3912,
+		"favorite_count": 9361,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -5787,15 +5787,15 @@ Grailbird.data.tweets_2018_06 =
 			},
 			"protected": false,
 			"followers_count": 4007,
-			"friends_count": 1616,
+			"friends_count": 1617,
 			"listed_count": 72,
 			"created_at": "Sun Apr 15 18:02:04 +0000 2012",
-			"favourites_count": 53015,
+			"favourites_count": 53105,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 27845,
+			"statuses_count": 27879,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -5827,8 +5827,8 @@ Grailbird.data.tweets_2018_06 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 14323,
-		"favorite_count": 47378,
+		"retweet_count": 14322,
+		"favorite_count": 47375,
 		"favorited": true,
 		"retweeted": true,
 		"lang": "en",
@@ -5989,16 +5989,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 27647,
-			"friends_count": 3988,
-			"listed_count": 266,
+			"followers_count": 27743,
+			"friends_count": 3991,
+			"listed_count": 267,
 			"created_at": "Sat Aug 30 16:29:26 +0000 2014",
-			"favourites_count": 20450,
+			"favourites_count": 20476,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 27820,
+			"statuses_count": 27843,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -6108,16 +6108,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 823,
+			"followers_count": 822,
 			"friends_count": 152,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7320,
+			"favourites_count": 7327,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13870,
+			"statuses_count": 13873,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -6202,16 +6202,16 @@ Grailbird.data.tweets_2018_06 =
 					}
 				},
 				"protected": false,
-				"followers_count": 1714,
-				"friends_count": 2353,
+				"followers_count": 1717,
+				"friends_count": 2365,
 				"listed_count": 26,
 				"created_at": "Thu Oct 18 23:25:25 +0000 2012",
-				"favourites_count": 6488,
+				"favourites_count": 6502,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": false,
-				"statuses_count": 22003,
+				"statuses_count": 22030,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -6436,16 +6436,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 823,
+			"followers_count": 822,
 			"friends_count": 152,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7320,
+			"favourites_count": 7327,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13870,
+			"statuses_count": 13873,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -6578,7 +6578,7 @@ Grailbird.data.tweets_2018_06 =
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": false,
-				"statuses_count": 16993,
+				"statuses_count": 16998,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -6684,16 +6684,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 823,
+			"followers_count": 822,
 			"friends_count": 152,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7320,
+			"favourites_count": 7327,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13870,
+			"statuses_count": 13873,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -6792,16 +6792,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1574981,
+			"followers_count": 1575751,
 			"friends_count": 1213,
-			"listed_count": 12129,
+			"listed_count": 12131,
 			"created_at": "Thu Mar 29 02:15:36 +0000 2007",
 			"favourites_count": 2772,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 283835,
+			"statuses_count": 283886,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -6900,16 +6900,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 823,
+			"followers_count": 822,
 			"friends_count": 152,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7320,
+			"favourites_count": 7327,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13870,
+			"statuses_count": 13873,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -7018,16 +7018,16 @@ Grailbird.data.tweets_2018_06 =
 					}
 				},
 				"protected": false,
-				"followers_count": 9654,
-				"friends_count": 2434,
+				"followers_count": 9655,
+				"friends_count": 2428,
 				"listed_count": 574,
 				"created_at": "Fri Jul 24 17:08:17 +0000 2009",
-				"favourites_count": 57999,
+				"favourites_count": 58007,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": false,
-				"statuses_count": 36349,
+				"statuses_count": 36351,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -7140,16 +7140,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 325336,
+			"followers_count": 326194,
 			"friends_count": 666,
-			"listed_count": 1315,
+			"listed_count": 1314,
 			"created_at": "Tue Dec 15 15:09:08 +0000 2009",
-			"favourites_count": 36400,
+			"favourites_count": 36439,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 33699,
+			"statuses_count": 33754,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -7249,7 +7249,7 @@ Grailbird.data.tweets_2018_06 =
 			},
 			"protected": false,
 			"followers_count": 2012,
-			"friends_count": 2793,
+			"friends_count": 2792,
 			"listed_count": 88,
 			"created_at": "Thu Mar 05 06:03:28 +0000 2009",
 			"favourites_count": 1631,
@@ -7257,7 +7257,7 @@ Grailbird.data.tweets_2018_06 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 21107,
+			"statuses_count": 21108,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -7355,16 +7355,16 @@ Grailbird.data.tweets_2018_06 =
 					}
 				},
 				"protected": false,
-				"followers_count": 4087,
-				"friends_count": 1960,
+				"followers_count": 4089,
+				"friends_count": 1962,
 				"listed_count": 287,
 				"created_at": "Fri Oct 07 23:33:41 +0000 2011",
-				"favourites_count": 58761,
+				"favourites_count": 58790,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": false,
-				"statuses_count": 52103,
+				"statuses_count": 52139,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -7410,447 +7410,6 @@ Grailbird.data.tweets_2018_06 =
 		"possibly_sensitive": false,
 		"lang": "en",
 		"text": "It's a network that doesn't have enough speed or capacity for modern usage (let alone future) but sure, let's blame 'the gamers' https://t.co/n7qEGB2iji"
-	},
-	{
-		"created_at": "Mon Jun 04 08:46:24 +0000 2018",
-		"id": 1003543563202773000,
-		"id_str": "1003558575929638913",
-		"full_text": "Apparently, completely predictable use of a service is the problem with the service. https://t.co/xq7FD4LPKP",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			84
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": [
-				{
-					"url": "https://t.co/xq7FD4LPKP",
-					"expanded_url": "https://twitter.com/abcnews/status/1003541430034358272",
-					"display_url": "twitter.com/abcnews/status…",
-					"indices": [
-						85,
-						108
-					]
-				}
-			]
-		},
-		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 141466282,
-			"id_str": "141466282",
-			"name": "Stuart Palmer",
-			"screen_name": "s_palm",
-			"location": "Geelong, Victoria, Australia",
-			"description": "Chartered professional engineer.🔌\nGetting stuff done.\nhttps://t.co/Trm5XWatEq",
-			"url": "https://t.co/Js3TqymWfz",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/Js3TqymWfz",
-							"expanded_url": "https://spalm.home.exetel.com.au/",
-							"display_url": "spalm.home.exetel.com.au",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": [
-						{
-							"url": "https://t.co/Trm5XWatEq",
-							"expanded_url": "http://spalm.home.exetel.com.au",
-							"display_url": "spalm.home.exetel.com.au",
-							"indices": [
-								54,
-								77
-							]
-						}
-					]
-				}
-			},
-			"protected": false,
-			"followers_count": 1414,
-			"friends_count": 288,
-			"listed_count": 316,
-			"created_at": "Sat May 08 04:59:40 +0000 2010",
-			"favourites_count": 0,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 122611,
-			"lang": null,
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "022330",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1087615364/twitter_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1087615364/twitter_normal.jpg",
-			"profile_link_color": "0084B4",
-			"profile_sidebar_border_color": "A8C7F7",
-			"profile_sidebar_fill_color": "C0DFEC",
-			"profile_text_color": "333333",
-			"profile_use_background_image": true,
-			"has_extended_profile": false,
-			"default_profile": false,
-			"default_profile_image": false,
-			"can_media_tag": false,
-			"followed_by": false,
-			"following": true,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": true,
-		"quoted_status_id": 1003541430034358300,
-		"quoted_status_id_str": "1003541430034358272",
-		"quoted_status_permalink": {
-			"url": "https://t.co/xq7FD4LPKP",
-			"expanded": "https://twitter.com/abcnews/status/1003541430034358272",
-			"display": "twitter.com/abcnews/status…"
-		},
-		"quoted_status": {
-			"created_at": "Mon Jun 04 07:38:16 +0000 2018",
-			"id": 1003541430034358300,
-			"id_str": "1003541430034358272",
-			"full_text": "NBN chief blames online 'gamers predominantly' for fixed wireless congestion https://t.co/eEmMdG7f4B https://t.co/Xft2SKfGqi",
-			"truncated": false,
-			"display_text_range": [
-				0,
-				100
-			],
-			"entities": {
-				"hashtags": [],
-				"symbols": [],
-				"user_mentions": [],
-				"urls": [
-					{
-						"url": "https://t.co/eEmMdG7f4B",
-						"expanded_url": "https://ab.co/2Jn8eRw",
-						"display_url": "ab.co/2Jn8eRw",
-						"indices": [
-							77,
-							100
-						]
-					}
-				],
-				"media": [
-					{
-						"id": 1003541397109010400,
-						"id_str": "1003541397109010432",
-						"indices": [
-							101,
-							124
-						],
-						"media_url": "http://pbs.twimg.com/media/De1LlWwU8AAjn5K.jpg",
-						"media_url_https": "https://pbs.twimg.com/media/De1LlWwU8AAjn5K.jpg",
-						"url": "https://t.co/Xft2SKfGqi",
-						"display_url": "pic.twitter.com/Xft2SKfGqi",
-						"expanded_url": "https://twitter.com/abcnews/status/1003541430034358272/photo/1",
-						"type": "photo",
-						"sizes": {
-							"small": {
-								"w": 680,
-								"h": 454,
-								"resize": "fit"
-							},
-							"thumb": {
-								"w": 150,
-								"h": 150,
-								"resize": "crop"
-							},
-							"medium": {
-								"w": 940,
-								"h": 627,
-								"resize": "fit"
-							},
-							"large": {
-								"w": 940,
-								"h": 627,
-								"resize": "fit"
-							}
-						},
-						"features": {
-							"small": {
-								"faces": [
-									{
-										"x": 239,
-										"y": 116,
-										"h": 30,
-										"w": 30
-									},
-									{
-										"x": 458,
-										"y": 7,
-										"h": 81,
-										"w": 81
-									}
-								]
-							},
-							"medium": {
-								"faces": [
-									{
-										"x": 331,
-										"y": 161,
-										"h": 42,
-										"w": 42
-									},
-									{
-										"x": 634,
-										"y": 10,
-										"h": 112,
-										"w": 112
-									}
-								]
-							},
-							"large": {
-								"faces": [
-									{
-										"x": 331,
-										"y": 161,
-										"h": 42,
-										"w": 42
-									},
-									{
-										"x": 634,
-										"y": 10,
-										"h": 112,
-										"w": 112
-									}
-								]
-							},
-							"orig": {
-								"faces": [
-									{
-										"x": 331,
-										"y": 161,
-										"h": 42,
-										"w": 42
-									},
-									{
-										"x": 634,
-										"y": 10,
-										"h": 112,
-										"w": 112
-									}
-								]
-							}
-						}
-					}
-				]
-			},
-			"extended_entities": {
-				"media": [
-					{
-						"id": 1003541397109010400,
-						"id_str": "1003541397109010432",
-						"indices": [
-							101,
-							124
-						],
-						"media_url": "http://pbs.twimg.com/media/De1LlWwU8AAjn5K.jpg",
-						"media_url_https": "https://pbs.twimg.com/media/De1LlWwU8AAjn5K.jpg",
-						"url": "https://t.co/Xft2SKfGqi",
-						"display_url": "pic.twitter.com/Xft2SKfGqi",
-						"expanded_url": "https://twitter.com/abcnews/status/1003541430034358272/photo/1",
-						"type": "photo",
-						"sizes": {
-							"small": {
-								"w": 680,
-								"h": 454,
-								"resize": "fit"
-							},
-							"thumb": {
-								"w": 150,
-								"h": 150,
-								"resize": "crop"
-							},
-							"medium": {
-								"w": 940,
-								"h": 627,
-								"resize": "fit"
-							},
-							"large": {
-								"w": 940,
-								"h": 627,
-								"resize": "fit"
-							}
-						},
-						"features": {
-							"small": {
-								"faces": [
-									{
-										"x": 239,
-										"y": 116,
-										"h": 30,
-										"w": 30
-									},
-									{
-										"x": 458,
-										"y": 7,
-										"h": 81,
-										"w": 81
-									}
-								]
-							},
-							"medium": {
-								"faces": [
-									{
-										"x": 331,
-										"y": 161,
-										"h": 42,
-										"w": 42
-									},
-									{
-										"x": 634,
-										"y": 10,
-										"h": 112,
-										"w": 112
-									}
-								]
-							},
-							"large": {
-								"faces": [
-									{
-										"x": 331,
-										"y": 161,
-										"h": 42,
-										"w": 42
-									},
-									{
-										"x": 634,
-										"y": 10,
-										"h": 112,
-										"w": 112
-									}
-								]
-							},
-							"orig": {
-								"faces": [
-									{
-										"x": 331,
-										"y": 161,
-										"h": 42,
-										"w": 42
-									},
-									{
-										"x": 634,
-										"y": 10,
-										"h": 112,
-										"w": 112
-									}
-								]
-							}
-						}
-					}
-				]
-			},
-			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-			"in_reply_to_status_id": null,
-			"in_reply_to_status_id_str": null,
-			"in_reply_to_user_id": null,
-			"in_reply_to_user_id_str": null,
-			"in_reply_to_screen_name": null,
-			"user": {
-				"id": 2768501,
-				"id_str": "2768501",
-				"name": "ABC News",
-				"screen_name": "abcnews",
-				"location": "Australia",
-				"description": "Latest news updates from the Australian Broadcasting Corp. This is an official @abcaustralia account.",
-				"url": "http://t.co/knlFvfwxkf",
-				"entities": {
-					"url": {
-						"urls": [
-							{
-								"url": "http://t.co/knlFvfwxkf",
-								"expanded_url": "http://www.abc.net.au/news",
-								"display_url": "abc.net.au/news",
-								"indices": [
-									0,
-									22
-								]
-							}
-						]
-					},
-					"description": {
-						"urls": []
-					}
-				},
-				"protected": false,
-				"followers_count": 1574981,
-				"friends_count": 1213,
-				"listed_count": 12129,
-				"created_at": "Thu Mar 29 02:15:36 +0000 2007",
-				"favourites_count": 2772,
-				"utc_offset": null,
-				"time_zone": null,
-				"geo_enabled": true,
-				"verified": true,
-				"statuses_count": 283835,
-				"lang": null,
-				"contributors_enabled": false,
-				"is_translator": false,
-				"is_translation_enabled": false,
-				"profile_background_color": "000000",
-				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-				"profile_background_tile": false,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/1034589406005317632/Cdi3F2ro_normal.jpg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1034589406005317632/Cdi3F2ro_normal.jpg",
-				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2768501/1576813689",
-				"profile_link_color": "0000FF",
-				"profile_sidebar_border_color": "CCCCCC",
-				"profile_sidebar_fill_color": "C8C8C8",
-				"profile_text_color": "000000",
-				"profile_use_background_image": true,
-				"has_extended_profile": false,
-				"default_profile": false,
-				"default_profile_image": false,
-				"can_media_tag": true,
-				"followed_by": false,
-				"following": false,
-				"follow_request_sent": false,
-				"notifications": false,
-				"translator_type": "none"
-			},
-			"geo": null,
-			"coordinates": null,
-			"place": null,
-			"contributors": null,
-			"is_quote_status": false,
-			"retweet_count": 76,
-			"favorite_count": 146,
-			"favorited": false,
-			"retweeted": false,
-			"possibly_sensitive": false,
-			"lang": "en"
-		},
-		"retweet_count": 6,
-		"favorite_count": 7,
-		"favorited": false,
-		"retweeted": true,
-		"possibly_sensitive": false,
-		"lang": "en",
-		"text": "Apparently, completely predictable use of a service is the problem with the service. https://t.co/xq7FD4LPKP"
 	},
 	{
 		"created_at": "Sun Jun 03 00:25:38 +0000 2018",
@@ -7922,16 +7481,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 823,
+			"followers_count": 822,
 			"friends_count": 152,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7320,
+			"favourites_count": 7327,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13870,
+			"statuses_count": 13873,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -8051,16 +7610,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 823,
+			"followers_count": 822,
 			"friends_count": 152,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7320,
+			"favourites_count": 7327,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13870,
+			"statuses_count": 13873,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -8558,15 +8117,15 @@ Grailbird.data.tweets_2018_06 =
 				},
 				"protected": false,
 				"followers_count": 5037,
-				"friends_count": 2855,
+				"friends_count": 2857,
 				"listed_count": 328,
 				"created_at": "Fri Feb 02 02:43:12 +0000 2007",
-				"favourites_count": 13475,
+				"favourites_count": 13498,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": false,
-				"statuses_count": 17341,
+				"statuses_count": 17348,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -8612,6 +8171,451 @@ Grailbird.data.tweets_2018_06 =
 		"possibly_sensitive": false,
 		"lang": "en",
 		"text": "Alan doesn’t over share but he did mention there was a girl back home. So happy for you @cogdog &amp; @corisaas https://t.co/N9IBxhBRMG"
+	},
+	{
+		"created_at": "Fri Jun 01 09:10:46 +0000 2018",
+		"id": 1002477546963779600,
+		"id_str": "1002477546963779589",
+		"full_text": "Ahhh the joys of machine learning - cc @rockickarse @clawsout https://t.co/n1qPASa9h3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rockickarse",
+					"name": "Ben Atkinson",
+					"id": 52065370,
+					"id_str": "52065370",
+					"indices": [
+						39,
+						51
+					]
+				},
+				{
+					"screen_name": "clawsout",
+					"name": "clawsout",
+					"id": 16444824,
+					"id_str": "16444824",
+					"indices": [
+						52,
+						61
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/n1qPASa9h3",
+					"expanded_url": "https://twitter.com/KeatonPatti/status/1001906391987245067",
+					"display_url": "twitter.com/KeatonPatti/st…",
+					"indices": [
+						62,
+						85
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Adelaide, South Australia",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
+			"url": "https://t.co/uC0c3me6KE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uC0c3me6KE",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 822,
+			"friends_count": 152,
+			"listed_count": 98,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 7327,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13873,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1001906391987245000,
+		"quoted_status_id_str": "1001906391987245067",
+		"quoted_status_permalink": {
+			"url": "https://t.co/n1qPASa9h3",
+			"expanded": "https://twitter.com/KeatonPatti/status/1001906391987245067",
+			"display": "twitter.com/KeatonPatti/st…"
+		},
+		"quoted_status": {
+			"created_at": "Wed May 30 19:21:13 +0000 2018",
+			"id": 1001906391987245000,
+			"id_str": "1001906391987245067",
+			"full_text": "I forced a bot to watch over 1,000 hours of infomercials and then asked it to write an infomercial of its own. Here is the first page. https://t.co/4jDje0gjxk",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				134
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1001906368339685400,
+						"id_str": "1001906368339685376",
+						"indices": [
+							135,
+							158
+						],
+						"media_url": "http://pbs.twimg.com/media/Ded8iJ8WsAATJ99.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ded8iJ8WsAATJ99.jpg",
+						"url": "https://t.co/4jDje0gjxk",
+						"display_url": "pic.twitter.com/4jDje0gjxk",
+						"expanded_url": "https://twitter.com/KeatonPatti/status/1001906391987245067/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 351,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 620,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1560,
+								"h": 806,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"small": {
+								"faces": [
+									{
+										"x": 255,
+										"y": 206,
+										"h": 72,
+										"w": 72
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 450,
+										"y": 363,
+										"h": 127,
+										"w": 127
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 586,
+										"y": 473,
+										"h": 166,
+										"w": 166
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 586,
+										"y": 473,
+										"h": 166,
+										"w": 166
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1001906368339685400,
+						"id_str": "1001906368339685376",
+						"indices": [
+							135,
+							158
+						],
+						"media_url": "http://pbs.twimg.com/media/Ded8iJ8WsAATJ99.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ded8iJ8WsAATJ99.jpg",
+						"url": "https://t.co/4jDje0gjxk",
+						"display_url": "pic.twitter.com/4jDje0gjxk",
+						"expanded_url": "https://twitter.com/KeatonPatti/status/1001906391987245067/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 351,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 620,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1560,
+								"h": 806,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"small": {
+								"faces": [
+									{
+										"x": 255,
+										"y": 206,
+										"h": 72,
+										"w": 72
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 450,
+										"y": 363,
+										"h": 127,
+										"w": 127
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 586,
+										"y": 473,
+										"h": 166,
+										"w": 166
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 586,
+										"y": 473,
+										"h": 166,
+										"w": 166
+									}
+								]
+							}
+						}
+					},
+					{
+						"id": 1001906383434985500,
+						"id_str": "1001906383434985479",
+						"indices": [
+							135,
+							158
+						],
+						"media_url": "http://pbs.twimg.com/media/Ded8jCLWsAcuCgw.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ded8jCLWsAcuCgw.jpg",
+						"url": "https://t.co/4jDje0gjxk",
+						"display_url": "pic.twitter.com/4jDje0gjxk",
+						"expanded_url": "https://twitter.com/KeatonPatti/status/1001906391987245067/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 368,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 649,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1552,
+								"h": 840,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"orig": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							},
+							"medium": {
+								"faces": []
+							},
+							"large": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 472301455,
+				"id_str": "472301455",
+				"name": "Keaton Patti",
+				"screen_name": "KeatonPatti",
+				"location": "",
+				"description": "I've written for @NewYorker, @Marvel, @TheOnion, @ComedyCentral, @McSweeneys, and perform at @UCBTNY. You may remember me from the previous sentence.",
+				"url": "https://t.co/GrRhKP5mY1",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/GrRhKP5mY1",
+								"expanded_url": "http://www.keatonpatti.com",
+								"display_url": "keatonpatti.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 127050,
+				"friends_count": 803,
+				"listed_count": 441,
+				"created_at": "Mon Jan 23 20:19:35 +0000 2012",
+				"favourites_count": 8156,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 22065,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/671199389684248577/VETNUNSd_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/671199389684248577/VETNUNSd_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/472301455/1398269789",
+				"profile_link_color": "11BCF5",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 14231,
+			"favorite_count": 36664,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Ahhh the joys of machine learning - cc @rockickarse @clawsout https://t.co/n1qPASa9h3"
 	},
 	{
 		"created_at": "Fri Jun 01 00:21:14 +0000 2018",
@@ -8673,16 +8677,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 823,
+			"followers_count": 822,
 			"friends_count": 152,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7320,
+			"favourites_count": 7327,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13870,
+			"statuses_count": 13873,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -8770,16 +8774,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 823,
+			"followers_count": 822,
 			"friends_count": 152,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7320,
+			"favourites_count": 7327,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13870,
+			"statuses_count": 13873,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -8911,16 +8915,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 823,
+			"followers_count": 822,
 			"friends_count": 152,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7320,
+			"favourites_count": 7327,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13870,
+			"statuses_count": 13873,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -9052,16 +9056,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 823,
+			"followers_count": 822,
 			"friends_count": 152,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7320,
+			"favourites_count": 7327,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13870,
+			"statuses_count": 13873,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -9182,16 +9186,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 823,
+			"followers_count": 822,
 			"friends_count": 152,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7320,
+			"favourites_count": 7327,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13870,
+			"statuses_count": 13873,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -9279,16 +9283,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 823,
+			"followers_count": 822,
 			"friends_count": 152,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7320,
+			"favourites_count": 7327,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13870,
+			"statuses_count": 13873,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -9376,16 +9380,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 823,
+			"followers_count": 822,
 			"friends_count": 152,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7320,
+			"favourites_count": 7327,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13870,
+			"statuses_count": 13873,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -9473,16 +9477,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 823,
+			"followers_count": 822,
 			"friends_count": 152,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7320,
+			"favourites_count": 7327,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13870,
+			"statuses_count": 13873,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -9570,16 +9574,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 823,
+			"followers_count": 822,
 			"friends_count": 152,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7320,
+			"favourites_count": 7327,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13870,
+			"statuses_count": 13873,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -9667,16 +9671,16 @@ Grailbird.data.tweets_2018_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 823,
+			"followers_count": 822,
 			"friends_count": 152,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7320,
+			"favourites_count": 7327,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13870,
+			"statuses_count": 13873,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
