@@ -63,12 +63,12 @@ Grailbird.data.tweets_2019_10 =
 			"friends_count": 152,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7348,
+			"favourites_count": 7350,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13882,
+			"statuses_count": 13886,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -311,15 +311,15 @@ Grailbird.data.tweets_2019_10 =
 				},
 				"protected": false,
 				"followers_count": 1891,
-				"friends_count": 1409,
+				"friends_count": 1411,
 				"listed_count": 74,
 				"created_at": "Thu Nov 04 22:34:28 +0000 2010",
-				"favourites_count": 21293,
+				"favourites_count": 21311,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": false,
-				"statuses_count": 16774,
+				"statuses_count": 16781,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -536,15 +536,15 @@ Grailbird.data.tweets_2019_10 =
 			},
 			"protected": false,
 			"followers_count": 1891,
-			"friends_count": 1409,
+			"friends_count": 1411,
 			"listed_count": 74,
 			"created_at": "Thu Nov 04 22:34:28 +0000 2010",
-			"favourites_count": 21293,
+			"favourites_count": 21311,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 16774,
+			"statuses_count": 16781,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -632,16 +632,16 @@ Grailbird.data.tweets_2019_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1827,
+			"followers_count": 1828,
 			"friends_count": 770,
 			"listed_count": 84,
 			"created_at": "Tue Apr 17 23:17:12 +0000 2007",
-			"favourites_count": 4082,
+			"favourites_count": 4096,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 14790,
+			"statuses_count": 14801,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1006,12 +1006,12 @@ Grailbird.data.tweets_2019_10 =
 			"friends_count": 152,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7348,
+			"favourites_count": 7350,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13882,
+			"statuses_count": 13886,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1370,16 +1370,16 @@ Grailbird.data.tweets_2019_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 25489,
-			"friends_count": 2747,
+			"followers_count": 25544,
+			"friends_count": 2748,
 			"listed_count": 107,
 			"created_at": "Tue Dec 13 04:11:00 +0000 2016",
-			"favourites_count": 166822,
+			"favourites_count": 166892,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 46643,
+			"statuses_count": 46672,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1411,8 +1411,8 @@ Grailbird.data.tweets_2019_10 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 73097,
-		"favorite_count": 410977,
+		"retweet_count": 73076,
+		"favorite_count": 410943,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -1468,16 +1468,16 @@ Grailbird.data.tweets_2019_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 4187,
-			"friends_count": 3491,
+			"followers_count": 4188,
+			"friends_count": 3494,
 			"listed_count": 250,
 			"created_at": "Tue Jul 24 19:40:50 +0000 2007",
-			"favourites_count": 27295,
+			"favourites_count": 27313,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 32995,
+			"statuses_count": 33005,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1590,12 +1590,12 @@ Grailbird.data.tweets_2019_10 =
 			"friends_count": 152,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7348,
+			"favourites_count": 7350,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13882,
+			"statuses_count": 13886,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2094,16 +2094,16 @@ Grailbird.data.tweets_2019_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 61994,
-			"friends_count": 1812,
-			"listed_count": 567,
+			"followers_count": 62059,
+			"friends_count": 1813,
+			"listed_count": 569,
 			"created_at": "Thu Jun 23 04:46:45 +0000 2011",
-			"favourites_count": 168214,
+			"favourites_count": 168306,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 33389,
+			"statuses_count": 33405,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2135,8 +2135,8 @@ Grailbird.data.tweets_2019_10 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 3021,
-		"favorite_count": 18238,
+		"retweet_count": 3020,
+		"favorite_count": 18232,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -2206,12 +2206,12 @@ Grailbird.data.tweets_2019_10 =
 			"friends_count": 152,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7348,
+			"favourites_count": 7350,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13882,
+			"statuses_count": 13886,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2443,16 +2443,16 @@ Grailbird.data.tweets_2019_10 =
 					}
 				},
 				"protected": false,
-				"followers_count": 10400,
-				"friends_count": 2615,
-				"listed_count": 238,
+				"followers_count": 10397,
+				"friends_count": 2616,
+				"listed_count": 237,
 				"created_at": "Sat Apr 04 06:51:45 +0000 2009",
-				"favourites_count": 65379,
+				"favourites_count": 65405,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": true,
-				"statuses_count": 77638,
+				"statuses_count": 77662,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -2484,8 +2484,8 @@ Grailbird.data.tweets_2019_10 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 88528,
-			"favorite_count": 262481,
+			"retweet_count": 88515,
+			"favorite_count": 262460,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
@@ -2498,114 +2498,6 @@ Grailbird.data.tweets_2019_10 =
 		"possibly_sensitive": false,
 		"lang": "en",
 		"text": "This is amazing! https://t.co/9gf1lw2shu"
-	},
-	{
-		"created_at": "Fri Oct 18 19:29:25 +0000 2019",
-		"id": 1185024901888897000,
-		"id_str": "1185276718153469952",
-		"full_text": "Looking for a job managing ed tech and innovation in Higher Ed? Swinburne is advertising for a new Manager of Learning and Innovation - HEW 9 contract to 2024. https://t.co/zyPCh3gzVx",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			183
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": [
-				{
-					"url": "https://t.co/zyPCh3gzVx",
-					"expanded_url": "https://swinjobs.nga.net.au/cp/index.cfm?event=jobs.checkJobDetailsNewApplication&returnToEvent=jobs.listJobs&jobid=04EE4D1B-41BD-61BA-88F9-ADA4FE4DA1EA&CurATC=EXT&CurBID=F785AF71%2D0F15%2D4AFF%2DAFB2%2D9DB401359086&JobListID=fee42a2c%2D48d7%2Dc09f%2Df9fc%2D5b3e8847c19d&jobsListKey=ed686292%2D5182%2D42a4%2Da6eb%2D1b83a302ec6f&persistVariables=CurATC,CurBID,JobListID,jobsListKey,JobID&lid=11653960108",
-					"display_url": "swinjobs.nga.net.au/cp/index.cfm?e…",
-					"indices": [
-						160,
-						183
-					]
-				}
-			]
-		},
-		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 239649193,
-			"id_str": "239649193",
-			"name": "Colin Simpson",
-			"screen_name": "gamerlearner",
-			"location": "Melbourne, Victoria",
-			"description": "Monash Education Innovation team, convenor of @TELedvisors SIG, PhD candidate in education at Sydney University. He/Him Opinions & vested interests are mine",
-			"url": "https://t.co/kW5NYH14a8",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/kW5NYH14a8",
-							"expanded_url": "http://about.me/colin.simpson",
-							"display_url": "about.me/colin.simpson",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 2060,
-			"friends_count": 3090,
-			"listed_count": 91,
-			"created_at": "Tue Jan 18 03:17:55 +0000 2011",
-			"favourites_count": 6878,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": false,
-			"verified": false,
-			"statuses_count": 11185,
-			"lang": null,
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "C0DEED",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/652682599769346048/aor9XI6F_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/652682599769346048/aor9XI6F_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/239649193/1398660308",
-			"profile_link_color": "1DA1F2",
-			"profile_sidebar_border_color": "C0DEED",
-			"profile_sidebar_fill_color": "DDEEF6",
-			"profile_text_color": "333333",
-			"profile_use_background_image": true,
-			"has_extended_profile": false,
-			"default_profile": true,
-			"default_profile_image": false,
-			"can_media_tag": true,
-			"followed_by": true,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 8,
-		"favorite_count": 13,
-		"favorited": false,
-		"retweeted": true,
-		"possibly_sensitive": false,
-		"lang": "en",
-		"text": "Looking for a job managing ed tech and innovation in Higher Ed? Swinburne is advertising for a new Manager of Learning and Innovation - HEW 9 contract to 2024. https://t.co/zyPCh3gzVx"
 	},
 	{
 		"created_at": "Wed Oct 16 23:07:26 +0000 2019",
@@ -2681,12 +2573,12 @@ Grailbird.data.tweets_2019_10 =
 			"friends_count": 152,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7348,
+			"favourites_count": 7350,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13882,
+			"statuses_count": 13886,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2821,12 +2713,12 @@ Grailbird.data.tweets_2019_10 =
 			"friends_count": 152,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7348,
+			"favourites_count": 7350,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13882,
+			"statuses_count": 13886,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -3084,16 +2976,16 @@ Grailbird.data.tweets_2019_10 =
 					}
 				},
 				"protected": false,
-				"followers_count": 5197,
-				"friends_count": 2613,
+				"followers_count": 5199,
+				"friends_count": 2614,
 				"listed_count": 197,
 				"created_at": "Wed May 13 21:10:53 +0000 2009",
-				"favourites_count": 20132,
+				"favourites_count": 20135,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": false,
-				"statuses_count": 11792,
+				"statuses_count": 11799,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -3204,12 +3096,12 @@ Grailbird.data.tweets_2019_10 =
 			"friends_count": 152,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7348,
+			"favourites_count": 7350,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13882,
+			"statuses_count": 13886,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -3247,6 +3139,326 @@ Grailbird.data.tweets_2019_10 =
 		"retweeted": false,
 		"lang": "en",
 		"text": "@KeeganSLW Definitely up for that! Let me know when suits you"
+	},
+	{
+		"created_at": "Mon Oct 14 05:05:50 +0000 2019",
+		"id": 1183606696234537000,
+		"id_str": "1183609839609495553",
+		"full_text": "We'll educate thousands of additional students online thanks to a new five-year partnership with leading learning company @pearson: https://t.co/Lag5PASzpg\n\nTo find out more about studying on your terms: https://t.co/WoMPzs0lW6 https://t.co/DvYBSz3jdw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			227
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pearson",
+					"name": "Pearson",
+					"id": 15146163,
+					"id_str": "15146163",
+					"indices": [
+						122,
+						130
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Lag5PASzpg",
+					"expanded_url": "https://bit.ly/2IPhFrz",
+					"display_url": "bit.ly/2IPhFrz",
+					"indices": [
+						132,
+						155
+					]
+				},
+				{
+					"url": "https://t.co/WoMPzs0lW6",
+					"expanded_url": "https://www.adelaide.edu.au/study/on-your-terms/",
+					"display_url": "adelaide.edu.au/study/on-your-…",
+					"indices": [
+						204,
+						227
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1183606690647687200,
+					"id_str": "1183606690647687168",
+					"indices": [
+						228,
+						251
+					],
+					"media_url": "http://pbs.twimg.com/media/EG0EA53UwAAnNwG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EG0EA53UwAAnNwG.jpg",
+					"url": "https://t.co/DvYBSz3jdw",
+					"display_url": "pic.twitter.com/DvYBSz3jdw",
+					"expanded_url": "https://twitter.com/UniofAdelaide/status/1183606696234536961/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1134,
+							"h": 801,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 480,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1134,
+							"h": 801,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "15146163",
+									"screen_name": "pearson",
+									"name": "Pearson"
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 84,
+									"y": 122,
+									"h": 167,
+									"w": 167
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 84,
+									"y": 122,
+									"h": 167,
+									"w": 167
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 50,
+									"y": 73,
+									"h": 100,
+									"w": 100
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 84,
+									"y": 122,
+									"h": 167,
+									"w": 167
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1183606690647687200,
+					"id_str": "1183606690647687168",
+					"indices": [
+						228,
+						251
+					],
+					"media_url": "http://pbs.twimg.com/media/EG0EA53UwAAnNwG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EG0EA53UwAAnNwG.jpg",
+					"url": "https://t.co/DvYBSz3jdw",
+					"display_url": "pic.twitter.com/DvYBSz3jdw",
+					"expanded_url": "https://twitter.com/UniofAdelaide/status/1183606696234536961/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1134,
+							"h": 801,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 480,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1134,
+							"h": 801,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "15146163",
+									"screen_name": "pearson",
+									"name": "Pearson"
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 84,
+									"y": 122,
+									"h": 167,
+									"w": 167
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 84,
+									"y": 122,
+									"h": 167,
+									"w": 167
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 50,
+									"y": 73,
+									"h": 100,
+									"w": 100
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 84,
+									"y": 122,
+									"h": 167,
+									"w": 167
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 22573758,
+			"id_str": "22573758",
+			"name": "Uni of Adelaide",
+			"screen_name": "UniofAdelaide",
+			"location": "Adelaide, South Australia",
+			"description": "Make more of every moment by studying at SA's leading university: https://t.co/j0P1qLHqOy CRICOS: 00123M",
+			"url": "https://t.co/hPTOWveSC6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hPTOWveSC6",
+							"expanded_url": "http://www.adelaide.edu.au",
+							"display_url": "adelaide.edu.au",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/j0P1qLHqOy",
+							"expanded_url": "http://www.adelaide.edu.au/study/undergraduate/",
+							"display_url": "adelaide.edu.au/study/undergra…",
+							"indices": [
+								66,
+								89
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 50421,
+			"friends_count": 3954,
+			"listed_count": 501,
+			"created_at": "Tue Mar 03 02:44:33 +0000 2009",
+			"favourites_count": 578,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 31505,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1127726902918008832/6yp8nUtl_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1127726902918008832/6yp8nUtl_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/22573758/1567143770",
+			"profile_link_color": "CC0000",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "E3E3E3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We'll educate thousands of additional students online thanks to a new five-year partnership with leading learning company @pearson: https://t.co/Lag5PASzpg\n\nTo find out more about studying on your terms: https://t.co/WoMPzs0lW6 https://t.co/DvYBSz3jdw"
 	},
 	{
 		"created_at": "Sun Oct 13 22:58:59 +0000 2019",
@@ -3463,12 +3675,12 @@ Grailbird.data.tweets_2019_10 =
 			"friends_count": 152,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7348,
+			"favourites_count": 7350,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13882,
+			"statuses_count": 13886,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -3615,12 +3827,12 @@ Grailbird.data.tweets_2019_10 =
 			"friends_count": 152,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7348,
+			"favourites_count": 7350,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13882,
+			"statuses_count": 13886,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -3832,12 +4044,12 @@ Grailbird.data.tweets_2019_10 =
 			"friends_count": 367,
 			"listed_count": 14,
 			"created_at": "Fri Nov 18 04:26:53 +0000 2011",
-			"favourites_count": 1162,
+			"favourites_count": 1163,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 1344,
+			"statuses_count": 1345,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -3926,11 +4138,11 @@ Grailbird.data.tweets_2019_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 66084,
-			"friends_count": 189,
+			"followers_count": 66109,
+			"friends_count": 188,
 			"listed_count": 1796,
 			"created_at": "Tue Dec 04 11:14:14 +0000 2007",
-			"favourites_count": 4777,
+			"favourites_count": 4779,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
@@ -3967,8 +4179,8 @@ Grailbird.data.tweets_2019_10 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 4186,
-		"favorite_count": 11578,
+		"retweet_count": 4183,
+		"favorite_count": 11577,
 		"favorited": false,
 		"retweeted": true,
 		"lang": "en",
@@ -4037,12 +4249,12 @@ Grailbird.data.tweets_2019_10 =
 			"friends_count": 152,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7348,
+			"favourites_count": 7350,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13882,
+			"statuses_count": 13886,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -4174,15 +4386,15 @@ Grailbird.data.tweets_2019_10 =
 				},
 				"protected": false,
 				"followers_count": 1891,
-				"friends_count": 1409,
+				"friends_count": 1411,
 				"listed_count": 74,
 				"created_at": "Thu Nov 04 22:34:28 +0000 2010",
-				"favourites_count": 21293,
+				"favourites_count": 21311,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": false,
-				"statuses_count": 16774,
+				"statuses_count": 16781,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -4328,16 +4540,16 @@ Grailbird.data.tweets_2019_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 45084,
-			"friends_count": 916,
+			"followers_count": 45105,
+			"friends_count": 917,
 			"listed_count": 937,
 			"created_at": "Wed Jun 08 06:15:26 +0000 2011",
-			"favourites_count": 4335,
+			"favourites_count": 4336,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 17970,
+			"statuses_count": 17974,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -4593,12 +4805,12 @@ Grailbird.data.tweets_2019_10 =
 				"friends_count": 1545,
 				"listed_count": 47,
 				"created_at": "Wed Dec 17 20:41:21 +0000 2008",
-				"favourites_count": 22183,
+				"favourites_count": 22209,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": false,
-				"statuses_count": 17593,
+				"statuses_count": 17606,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -4705,16 +4917,16 @@ Grailbird.data.tweets_2019_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 120347,
+			"followers_count": 120430,
 			"friends_count": 1348,
-			"listed_count": 2905,
+			"listed_count": 2908,
 			"created_at": "Thu May 08 23:34:06 +0000 2008",
-			"favourites_count": 14828,
+			"favourites_count": 14824,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 18983,
+			"statuses_count": 18987,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -4747,7 +4959,7 @@ Grailbird.data.tweets_2019_10 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 282,
-		"favorite_count": 1009,
+		"favorite_count": 1007,
 		"favorited": true,
 		"retweeted": true,
 		"lang": "en",
@@ -4847,12 +5059,12 @@ Grailbird.data.tweets_2019_10 =
 			"friends_count": 152,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7348,
+			"favourites_count": 7350,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13882,
+			"statuses_count": 13886,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -4955,12 +5167,12 @@ Grailbird.data.tweets_2019_10 =
 			"friends_count": 152,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7348,
+			"favourites_count": 7350,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13882,
+			"statuses_count": 13886,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -5015,7 +5227,7 @@ Grailbird.data.tweets_2019_10 =
 			"user_mentions": [
 				{
 					"screen_name": "greeneterry",
-					"name": "Terry Christmas",
+					"name": "Terry Green with an e",
 					"id": 212019344,
 					"id_str": "212019344",
 					"indices": [
@@ -5093,12 +5305,12 @@ Grailbird.data.tweets_2019_10 =
 			"friends_count": 152,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7348,
+			"favourites_count": 7350,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13882,
+			"statuses_count": 13886,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -5211,12 +5423,12 @@ Grailbird.data.tweets_2019_10 =
 			"friends_count": 152,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7348,
+			"favourites_count": 7350,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13882,
+			"statuses_count": 13886,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -5326,16 +5538,16 @@ Grailbird.data.tweets_2019_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 14484,
-			"friends_count": 3833,
+			"followers_count": 14501,
+			"friends_count": 3835,
 			"listed_count": 314,
 			"created_at": "Sat Jun 13 04:45:19 +0000 2009",
-			"favourites_count": 6029,
+			"favourites_count": 6002,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 56262,
+			"statuses_count": 56230,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -5424,16 +5636,16 @@ Grailbird.data.tweets_2019_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 2075,
+			"followers_count": 2079,
 			"friends_count": 5001,
 			"listed_count": 24,
 			"created_at": "Wed May 03 12:25:00 +0000 2017",
-			"favourites_count": 6618,
+			"favourites_count": 6629,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 5758,
+			"statuses_count": 5771,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
