@@ -1,6 +1,355 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Sun Feb 02 13:15:12 +0000 2020",
+		"id": 1223958044188364800,
+		"id_str": "1223958044188364801",
+		"full_text": "So this tweet has got a lot of traction. \n\nI've had this post up on my blog since 2016 and it's had consistent traffic every month since. Now getting a sense of why! https://t.co/SjNdEdNE4K https://t.co/IPOzasw2KK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SjNdEdNE4K",
+					"expanded_url": "https://timklapdor.wordpress.com/2016/01/22/i-dont-think-in-words/",
+					"display_url": "timklapdor.wordpress.com/2016/01/22/i-d…",
+					"indices": [
+						166,
+						189
+					]
+				},
+				{
+					"url": "https://t.co/IPOzasw2KK",
+					"expanded_url": "https://twitter.com/KylePlantEmoji/status/1221713792913965061",
+					"display_url": "twitter.com/KylePlantEmoji…",
+					"indices": [
+						190,
+						213
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Adelaide, South Australia",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
+			"url": "https://t.co/uC0c3me6KE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uC0c3me6KE",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 829,
+			"friends_count": 152,
+			"listed_count": 98,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 7449,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13950,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1221713792913965000,
+		"quoted_status_id_str": "1221713792913965061",
+		"quoted_status_permalink": {
+			"url": "https://t.co/IPOzasw2KK",
+			"expanded": "https://twitter.com/KylePlantEmoji/status/1221713792913965061",
+			"display": "twitter.com/KylePlantEmoji…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jan 27 08:37:21 +0000 2020",
+			"id": 1221713792913965000,
+			"id_str": "1221713792913965061",
+			"full_text": "Fun fact: some people have an internal narrative and some don't\n\nAs in, some people's thoughts are like sentences they \"hear\", and some people just have abstract non-verbal thoughts, and have to consciously verbalize them\n\nAnd most people aren't aware of the other type of person",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				279
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 703664485593014300,
+				"id_str": "703664485593014272",
+				"name": "Kyle🌱",
+				"screen_name": "KylePlantEmoji",
+				"location": "Seattle, WA",
+				"description": "I am incredibly online | he/him | my top tweets https://t.co/AIjm7eu4z1",
+				"url": "https://t.co/xm8pZwOAgP",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/xm8pZwOAgP",
+								"expanded_url": "https://www.patreon.com/kyleplantemoji",
+								"display_url": "patreon.com/kyleplantemoji",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/AIjm7eu4z1",
+								"expanded_url": "https://twitter.com/KylePlantEmoji/timelines/1018635337923473409",
+								"display_url": "twitter.com/KylePlantEmoji…",
+								"indices": [
+									48,
+									71
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 178080,
+				"friends_count": 978,
+				"listed_count": 415,
+				"created_at": "Sat Feb 27 19:34:21 +0000 2016",
+				"favourites_count": 291914,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 43082,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1217297565403627521/xeq5MwJq_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1217297565403627521/xeq5MwJq_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/703664485593014272/1571096434",
+				"profile_link_color": "46E2D7",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": false,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 25604,
+			"favorite_count": 166507,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "So this tweet has got a lot of traction. \n\nI've had this post up on my blog since 2016 and it's had consistent traffic every month since. Now getting a sense of why! https://t.co/SjNdEdNE4K https://t.co/IPOzasw2KK"
+	},
+	{
+		"created_at": "Sun Feb 02 02:11:43 +0000 2020",
+		"id": 1223483966243496000,
+		"id_str": "1223791072037326849",
+		"full_text": "In the middle of a heatwave with Canberra burning, after months of #Bushfires &amp; #SmokeHaze Scott Morrison &amp; Gladys Berejiklian signed a gas deal that will lock in higher prices, higher emissions &amp; exacerbate #climatechange\n\nOur politicians don't work for us, they work for Santos.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			292
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Bushfires",
+					"indices": [
+						67,
+						77
+					]
+				},
+				{
+					"text": "SmokeHaze",
+					"indices": [
+						84,
+						94
+					]
+				},
+				{
+					"text": "climatechange",
+					"indices": [
+						220,
+						234
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 311856115,
+			"id_str": "311856115",
+			"name": "Seano",
+			"screen_name": "SeanBradbery",
+			"location": "Born to Lose, Live to Win",
+			"description": "Dad. Hobbyist comedian. Bogan philosopher. Sean/Seano. Ngunnawal land.\n\n*See avatar for message.",
+			"url": "https://t.co/SrGxbtJY34",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SrGxbtJY34",
+							"expanded_url": "http://climate.nasa.gov/evidence",
+							"display_url": "climate.nasa.gov/evidence",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9842,
+			"friends_count": 7782,
+			"listed_count": 300,
+			"created_at": "Mon Jun 06 05:21:56 +0000 2011",
+			"favourites_count": 113793,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 26327,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "642D8B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/875567013208268801/x_KDqZqv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/875567013208268801/x_KDqZqv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/311856115/1462700731",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "65B0DA",
+			"profile_sidebar_fill_color": "7AC3EE",
+			"profile_text_color": "3D1957",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 189,
+		"favorite_count": 360,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "In the middle of a heatwave with Canberra burning, after months of #Bushfires &amp; #SmokeHaze Scott Morrison &amp; Gladys Berejiklian signed a gas deal that will lock in higher prices, higher emissions &amp; exacerbate #climatechange\n\nOur politicians don't work for us, they work for Santos."
+	},
+	{
 		"created_at": "Sun Feb 02 00:00:11 +0000 2020",
 		"id": 1223757971743621000,
 		"id_str": "1223757971743621120",
@@ -63,12 +412,12 @@ Grailbird.data.tweets_2020_02 =
 			"friends_count": 152,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7450,
+			"favourites_count": 7449,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13949,
+			"statuses_count": 13950,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -143,16 +492,16 @@ Grailbird.data.tweets_2020_02 =
 					}
 				},
 				"protected": false,
-				"followers_count": 1263,
+				"followers_count": 1265,
 				"friends_count": 1328,
 				"listed_count": 67,
 				"created_at": "Thu Mar 19 02:33:01 +0000 2009",
-				"favourites_count": 7664,
+				"favourites_count": 7669,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": false,
-				"statuses_count": 52584,
+				"statuses_count": 52603,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -184,8 +533,8 @@ Grailbird.data.tweets_2020_02 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 17,
-			"favorite_count": 30,
+			"retweet_count": 31,
+			"favorite_count": 90,
 			"favorited": false,
 			"retweeted": false,
 			"lang": "en"
@@ -272,12 +621,12 @@ Grailbird.data.tweets_2020_02 =
 			"friends_count": 152,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7450,
+			"favourites_count": 7449,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13949,
+			"statuses_count": 13950,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -385,9 +734,9 @@ Grailbird.data.tweets_2020_02 =
 					}
 				},
 				"protected": false,
-				"followers_count": 43657,
+				"followers_count": 43701,
 				"friends_count": 185,
-				"listed_count": 253,
+				"listed_count": 254,
 				"created_at": "Thu Dec 26 01:54:14 +0000 2013",
 				"favourites_count": 893,
 				"utc_offset": null,
@@ -426,8 +775,8 @@ Grailbird.data.tweets_2020_02 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 1086,
-			"favorite_count": 4674,
+			"retweet_count": 1099,
+			"favorite_count": 4709,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
@@ -494,12 +843,12 @@ Grailbird.data.tweets_2020_02 =
 			"friends_count": 152,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7450,
+			"favourites_count": 7449,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13949,
+			"statuses_count": 13950,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -602,12 +951,12 @@ Grailbird.data.tweets_2020_02 =
 			"friends_count": 152,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7450,
+			"favourites_count": 7449,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13949,
+			"statuses_count": 13950,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -703,16 +1052,16 @@ Grailbird.data.tweets_2020_02 =
 				}
 			},
 			"protected": false,
-			"followers_count": 18140,
-			"friends_count": 2866,
-			"listed_count": 270,
+			"followers_count": 18184,
+			"friends_count": 2868,
+			"listed_count": 271,
 			"created_at": "Wed Aug 24 22:19:44 +0000 2011",
-			"favourites_count": 19999,
+			"favourites_count": 20012,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 31218,
+			"statuses_count": 31225,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -744,8 +1093,8 @@ Grailbird.data.tweets_2020_02 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 1300,
-		"favorite_count": 4878,
+		"retweet_count": 1347,
+		"favorite_count": 5119,
 		"favorited": false,
 		"retweeted": true,
 		"lang": "en",
