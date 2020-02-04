@@ -1,6 +1,268 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Mon Feb 03 09:36:48 +0000 2020",
+		"id": 1224265469407817700,
+		"id_str": "1224265469407817730",
+		"full_text": "More like completely ignored by corrupt Nationals. https://t.co/blBCOx0nUq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/blBCOx0nUq",
+					"expanded_url": "https://twitter.com/TJ__OBrien/status/1224224262761803776",
+					"display_url": "twitter.com/TJ__OBrien/sta…",
+					"indices": [
+						51,
+						74
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Adelaide, South Australia",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
+			"url": "https://t.co/uC0c3me6KE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uC0c3me6KE",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 830,
+			"friends_count": 152,
+			"listed_count": 98,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 7451,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13951,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7b46944933d8137e",
+			"url": "https://api.twitter.com/1.1/geo/id/7b46944933d8137e.json",
+			"place_type": "neighborhood",
+			"name": "Norwood",
+			"full_name": "Norwood, Adelaide",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							138.62264616,
+							-34.92790299
+						],
+						[
+							138.64147308,
+							-34.92790299
+						],
+						[
+							138.64147308,
+							-34.91480097
+						],
+						[
+							138.62264616,
+							-34.91480097
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1224224262761803800,
+		"quoted_status_id_str": "1224224262761803776",
+		"quoted_status_permalink": {
+			"url": "https://t.co/blBCOx0nUq",
+			"expanded": "https://twitter.com/TJ__OBrien/status/1224224262761803776",
+			"display": "twitter.com/TJ__OBrien/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Feb 03 06:53:03 +0000 2020",
+			"id": 1224224262761803800,
+			"id_str": "1224224262761803776",
+			"full_text": "Joyce: \"I've informed Michael McCormack...there will be a spill. PM talks about the quiet Australians, our job is to represent the new invisible Australians (in regional and rural Aust). Have to make sure we're not a shadow of another party.\" #auspol",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				250
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "auspol",
+						"indices": [
+							243,
+							250
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 357977242,
+				"id_str": "357977242",
+				"name": "Thomas O'Brien",
+				"screen_name": "TJ__OBrien",
+				"location": "Canberra",
+				"description": "Sky News Canberra Bureau Chief. Views my own. https://t.co/SIM1fNdFVJ and tom.obrien@skynews.com.au",
+				"url": "https://t.co/9Nd6V1XqOP",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/9Nd6V1XqOP",
+								"expanded_url": "https://2600.skynews.com.au/2600-talks/",
+								"display_url": "2600.skynews.com.au/2600-talks/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/SIM1fNdFVJ",
+								"expanded_url": "http://2600.skynews.com.au/2600-talks/",
+								"display_url": "2600.skynews.com.au/2600-talks/",
+								"indices": [
+									46,
+									69
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1796,
+				"friends_count": 989,
+				"listed_count": 34,
+				"created_at": "Fri Aug 19 05:24:04 +0000 2011",
+				"favourites_count": 1827,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2742,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1173499024839606272/hL-sHwVG_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1173499024839606272/hL-sHwVG_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/357977242/1514846903",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": false,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 16,
+			"favorite_count": 18,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "More like completely ignored by corrupt Nationals. https://t.co/blBCOx0nUq"
+	},
+	{
 		"created_at": "Sun Feb 02 13:15:12 +0000 2020",
 		"id": 1223958044188364800,
 		"id_str": "1223958044188364801",
@@ -68,16 +330,16 @@ Grailbird.data.tweets_2020_02 =
 				}
 			},
 			"protected": false,
-			"followers_count": 829,
+			"followers_count": 830,
 			"friends_count": 152,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7449,
+			"favourites_count": 7451,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13950,
+			"statuses_count": 13951,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -175,16 +437,16 @@ Grailbird.data.tweets_2020_02 =
 					}
 				},
 				"protected": false,
-				"followers_count": 178080,
-				"friends_count": 978,
-				"listed_count": 415,
+				"followers_count": 178222,
+				"friends_count": 979,
+				"listed_count": 416,
 				"created_at": "Sat Feb 27 19:34:21 +0000 2016",
-				"favourites_count": 291914,
+				"favourites_count": 292290,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": false,
-				"statuses_count": 43082,
+				"statuses_count": 43141,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -216,8 +478,8 @@ Grailbird.data.tweets_2020_02 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 25604,
-			"favorite_count": 166507,
+			"retweet_count": 25772,
+			"favorite_count": 166977,
 			"favorited": false,
 			"retweeted": false,
 			"lang": "en"
@@ -301,16 +563,16 @@ Grailbird.data.tweets_2020_02 =
 				}
 			},
 			"protected": false,
-			"followers_count": 9842,
-			"friends_count": 7782,
+			"followers_count": 9859,
+			"friends_count": 7785,
 			"listed_count": 300,
 			"created_at": "Mon Jun 06 05:21:56 +0000 2011",
-			"favourites_count": 113793,
+			"favourites_count": 113942,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 26327,
+			"statuses_count": 26557,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -408,16 +670,16 @@ Grailbird.data.tweets_2020_02 =
 				}
 			},
 			"protected": false,
-			"followers_count": 829,
+			"followers_count": 830,
 			"friends_count": 152,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7449,
+			"favourites_count": 7451,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13950,
+			"statuses_count": 13951,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -496,12 +758,12 @@ Grailbird.data.tweets_2020_02 =
 				"friends_count": 1328,
 				"listed_count": 67,
 				"created_at": "Thu Mar 19 02:33:01 +0000 2009",
-				"favourites_count": 7669,
+				"favourites_count": 7679,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": false,
-				"statuses_count": 52603,
+				"statuses_count": 52618,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -534,7 +796,7 @@ Grailbird.data.tweets_2020_02 =
 			"contributors": null,
 			"is_quote_status": false,
 			"retweet_count": 31,
-			"favorite_count": 90,
+			"favorite_count": 89,
 			"favorited": false,
 			"retweeted": false,
 			"lang": "en"
@@ -617,16 +879,16 @@ Grailbird.data.tweets_2020_02 =
 				}
 			},
 			"protected": false,
-			"followers_count": 829,
+			"followers_count": 830,
 			"friends_count": 152,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7449,
+			"favourites_count": 7451,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13950,
+			"statuses_count": 13951,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -734,9 +996,9 @@ Grailbird.data.tweets_2020_02 =
 					}
 				},
 				"protected": false,
-				"followers_count": 43701,
+				"followers_count": 43723,
 				"friends_count": 185,
-				"listed_count": 254,
+				"listed_count": 253,
 				"created_at": "Thu Dec 26 01:54:14 +0000 2013",
 				"favourites_count": 893,
 				"utc_offset": null,
@@ -775,8 +1037,8 @@ Grailbird.data.tweets_2020_02 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 1099,
-			"favorite_count": 4709,
+			"retweet_count": 1102,
+			"favorite_count": 4716,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
@@ -839,16 +1101,16 @@ Grailbird.data.tweets_2020_02 =
 				}
 			},
 			"protected": false,
-			"followers_count": 829,
+			"followers_count": 830,
 			"friends_count": 152,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7449,
+			"favourites_count": 7451,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13950,
+			"statuses_count": 13951,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -947,16 +1209,16 @@ Grailbird.data.tweets_2020_02 =
 				}
 			},
 			"protected": false,
-			"followers_count": 829,
+			"followers_count": 830,
 			"friends_count": 152,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7449,
+			"favourites_count": 7451,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13950,
+			"statuses_count": 13951,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1052,16 +1314,16 @@ Grailbird.data.tweets_2020_02 =
 				}
 			},
 			"protected": false,
-			"followers_count": 18184,
-			"friends_count": 2868,
+			"followers_count": 18225,
+			"friends_count": 2871,
 			"listed_count": 271,
 			"created_at": "Wed Aug 24 22:19:44 +0000 2011",
-			"favourites_count": 20012,
+			"favourites_count": 20045,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 31225,
+			"statuses_count": 31244,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1093,8 +1355,8 @@ Grailbird.data.tweets_2020_02 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 1347,
-		"favorite_count": 5119,
+		"retweet_count": 1354,
+		"favorite_count": 5144,
 		"favorited": false,
 		"retweeted": true,
 		"lang": "en",
