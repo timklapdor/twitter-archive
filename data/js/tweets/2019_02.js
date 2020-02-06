@@ -50,48 +50,6 @@ Grailbird.data.tweets_2019_02 =
 							"h": 460,
 							"resize": "fit"
 						}
-					},
-					"features": {
-						"small": {
-							"faces": [
-								{
-									"x": 224,
-									"y": 184,
-									"h": 70,
-									"w": 70
-								}
-							]
-						},
-						"orig": {
-							"faces": [
-								{
-									"x": 224,
-									"y": 184,
-									"h": 70,
-									"w": 70
-								}
-							]
-						},
-						"medium": {
-							"faces": [
-								{
-									"x": 224,
-									"y": 184,
-									"h": 70,
-									"w": 70
-								}
-							]
-						},
-						"large": {
-							"faces": [
-								{
-									"x": 224,
-									"y": 184,
-									"h": 70,
-									"w": 70
-								}
-							]
-						}
 					}
 				}
 			]
@@ -132,48 +90,6 @@ Grailbird.data.tweets_2019_02 =
 							"h": 460,
 							"resize": "fit"
 						}
-					},
-					"features": {
-						"small": {
-							"faces": [
-								{
-									"x": 224,
-									"y": 184,
-									"h": 70,
-									"w": 70
-								}
-							]
-						},
-						"orig": {
-							"faces": [
-								{
-									"x": 224,
-									"y": 184,
-									"h": 70,
-									"w": 70
-								}
-							]
-						},
-						"medium": {
-							"faces": [
-								{
-									"x": 224,
-									"y": 184,
-									"h": 70,
-									"w": 70
-								}
-							]
-						},
-						"large": {
-							"faces": [
-								{
-									"x": 224,
-									"y": 184,
-									"h": 70,
-									"w": 70
-								}
-							]
-						}
 					}
 				}
 			]
@@ -211,16 +127,16 @@ Grailbird.data.tweets_2019_02 =
 				}
 			},
 			"protected": false,
-			"followers_count": 187498,
+			"followers_count": 187551,
 			"friends_count": 1568,
-			"listed_count": 3094,
+			"listed_count": 3097,
 			"created_at": "Sat Jun 13 04:10:49 +0000 2009",
-			"favourites_count": 42974,
+			"favourites_count": 43006,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 393629,
+			"statuses_count": 393703,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -240,8 +156,6 @@ Grailbird.data.tweets_2019_02 =
 			"has_extended_profile": true,
 			"default_profile": false,
 			"default_profile_image": false,
-			"can_media_tag": false,
-			"followed_by": false,
 			"following": false,
 			"follow_request_sent": false,
 			"notifications": false,
@@ -252,7 +166,7 @@ Grailbird.data.tweets_2019_02 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 353,
+		"retweet_count": 354,
 		"favorite_count": 1858,
 		"favorited": false,
 		"retweeted": true,
@@ -310,8 +224,7 @@ Grailbird.data.tweets_2019_02 =
 							"h": 720,
 							"resize": "fit"
 						}
-					},
-					"features": {}
+					}
 				}
 			]
 		},
@@ -380,7 +293,6 @@ Grailbird.data.tweets_2019_02 =
 							}
 						]
 					},
-					"features": {},
 					"additional_media_info": {
 						"title": "Let's get frank about franking.",
 						"description": "There's nothing fake about Maureen – and she has a message for Scott and Bill 😉",
@@ -423,16 +335,16 @@ Grailbird.data.tweets_2019_02 =
 				}
 			},
 			"protected": false,
-			"followers_count": 139973,
+			"followers_count": 139994,
 			"friends_count": 6551,
-			"listed_count": 1665,
+			"listed_count": 1664,
 			"created_at": "Tue Mar 24 06:14:31 +0000 2009",
 			"favourites_count": 3513,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 23061,
+			"statuses_count": 23064,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -452,8 +364,6 @@ Grailbird.data.tweets_2019_02 =
 			"has_extended_profile": false,
 			"default_profile": false,
 			"default_profile_image": false,
-			"can_media_tag": false,
-			"followed_by": false,
 			"following": false,
 			"follow_request_sent": false,
 			"notifications": false,
@@ -521,16 +431,16 @@ Grailbird.data.tweets_2019_02 =
 				}
 			},
 			"protected": false,
-			"followers_count": 14906,
+			"followers_count": 14914,
 			"friends_count": 3840,
 			"listed_count": 318,
 			"created_at": "Sat Jun 13 04:45:19 +0000 2009",
-			"favourites_count": 6089,
+			"favourites_count": 6091,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 56742,
+			"statuses_count": 56798,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -550,8 +460,6 @@ Grailbird.data.tweets_2019_02 =
 			"has_extended_profile": false,
 			"default_profile": false,
 			"default_profile_image": false,
-			"can_media_tag": false,
-			"followed_by": true,
 			"following": true,
 			"follow_request_sent": false,
 			"notifications": false,
@@ -643,12 +551,12 @@ Grailbird.data.tweets_2019_02 =
 			"friends_count": 152,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7440,
+			"favourites_count": 7450,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13951,
+			"statuses_count": 13955,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -668,8 +576,6 @@ Grailbird.data.tweets_2019_02 =
 			"has_extended_profile": true,
 			"default_profile": false,
 			"default_profile_image": false,
-			"can_media_tag": true,
-			"followed_by": false,
 			"following": false,
 			"follow_request_sent": false,
 			"notifications": false,
@@ -789,14 +695,14 @@ Grailbird.data.tweets_2019_02 =
 				"protected": false,
 				"followers_count": 5644,
 				"friends_count": 542,
-				"listed_count": 123,
+				"listed_count": 122,
 				"created_at": "Fri Feb 08 07:39:40 +0000 2013",
-				"favourites_count": 21179,
+				"favourites_count": 21151,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": true,
-				"statuses_count": 41574,
+				"statuses_count": 41573,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -816,8 +722,6 @@ Grailbird.data.tweets_2019_02 =
 				"has_extended_profile": false,
 				"default_profile": true,
 				"default_profile_image": false,
-				"can_media_tag": true,
-				"followed_by": false,
 				"following": false,
 				"follow_request_sent": false,
 				"notifications": false,
@@ -901,16 +805,16 @@ Grailbird.data.tweets_2019_02 =
 				}
 			},
 			"protected": false,
-			"followers_count": 24406,
-			"friends_count": 6967,
-			"listed_count": 383,
+			"followers_count": 24418,
+			"friends_count": 6973,
+			"listed_count": 385,
 			"created_at": "Thu Apr 03 16:10:25 +0000 2008",
-			"favourites_count": 25561,
+			"favourites_count": 25552,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 38282,
+			"statuses_count": 38314,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -930,8 +834,6 @@ Grailbird.data.tweets_2019_02 =
 			"has_extended_profile": false,
 			"default_profile": false,
 			"default_profile_image": false,
-			"can_media_tag": true,
-			"followed_by": false,
 			"following": false,
 			"follow_request_sent": false,
 			"notifications": false,
@@ -1046,16 +948,16 @@ Grailbird.data.tweets_2019_02 =
 					}
 				},
 				"protected": false,
-				"followers_count": 85130,
-				"friends_count": 8190,
-				"listed_count": 1082,
+				"followers_count": 85245,
+				"friends_count": 8192,
+				"listed_count": 1081,
 				"created_at": "Wed Jan 14 03:47:23 +0000 2009",
-				"favourites_count": 15823,
+				"favourites_count": 15831,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": true,
-				"statuses_count": 40983,
+				"statuses_count": 41005,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -1075,8 +977,6 @@ Grailbird.data.tweets_2019_02 =
 				"has_extended_profile": false,
 				"default_profile": false,
 				"default_profile_image": false,
-				"can_media_tag": true,
-				"followed_by": false,
 				"following": false,
 				"follow_request_sent": false,
 				"notifications": false,
@@ -1087,13 +987,13 @@ Grailbird.data.tweets_2019_02 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 471,
+			"retweet_count": 470,
 			"favorite_count": 578,
 			"favorited": false,
 			"retweeted": false,
 			"lang": "en"
 		},
-		"retweet_count": 1047,
+		"retweet_count": 1046,
 		"favorite_count": 2559,
 		"favorited": false,
 		"retweeted": true,
@@ -1172,12 +1072,12 @@ Grailbird.data.tweets_2019_02 =
 			"friends_count": 152,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7440,
+			"favourites_count": 7450,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13951,
+			"statuses_count": 13955,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1197,8 +1097,6 @@ Grailbird.data.tweets_2019_02 =
 			"has_extended_profile": true,
 			"default_profile": false,
 			"default_profile_image": false,
-			"can_media_tag": true,
-			"followed_by": false,
 			"following": false,
 			"follow_request_sent": false,
 			"notifications": false,
@@ -1296,20 +1194,6 @@ Grailbird.data.tweets_2019_02 =
 							"h": 2048,
 							"resize": "fit"
 						}
-					},
-					"features": {
-						"medium": {
-							"faces": []
-						},
-						"small": {
-							"faces": []
-						},
-						"orig": {
-							"faces": []
-						},
-						"large": {
-							"faces": []
-						}
 					}
 				}
 			]
@@ -1350,20 +1234,6 @@ Grailbird.data.tweets_2019_02 =
 							"h": 2048,
 							"resize": "fit"
 						}
-					},
-					"features": {
-						"medium": {
-							"faces": []
-						},
-						"small": {
-							"faces": []
-						},
-						"orig": {
-							"faces": []
-						},
-						"large": {
-							"faces": []
-						}
 					}
 				}
 			]
@@ -1401,16 +1271,16 @@ Grailbird.data.tweets_2019_02 =
 				}
 			},
 			"protected": false,
-			"followers_count": 19534,
+			"followers_count": 19537,
 			"friends_count": 1969,
 			"listed_count": 559,
 			"created_at": "Wed Apr 28 02:09:34 +0000 2010",
-			"favourites_count": 6013,
+			"favourites_count": 6016,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 27674,
+			"statuses_count": 27680,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1430,8 +1300,6 @@ Grailbird.data.tweets_2019_02 =
 			"has_extended_profile": false,
 			"default_profile": true,
 			"default_profile_image": false,
-			"can_media_tag": false,
-			"followed_by": false,
 			"following": false,
 			"follow_request_sent": false,
 			"notifications": false,
@@ -1514,12 +1382,12 @@ Grailbird.data.tweets_2019_02 =
 			"friends_count": 152,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7440,
+			"favourites_count": 7450,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13951,
+			"statuses_count": 13955,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1539,8 +1407,6 @@ Grailbird.data.tweets_2019_02 =
 			"has_extended_profile": true,
 			"default_profile": false,
 			"default_profile_image": false,
-			"can_media_tag": true,
-			"followed_by": false,
 			"following": false,
 			"follow_request_sent": false,
 			"notifications": false,
@@ -1608,20 +1474,6 @@ Grailbird.data.tweets_2019_02 =
 							"h": 1200,
 							"resize": "fit"
 						}
-					},
-					"features": {
-						"large": {
-							"faces": []
-						},
-						"orig": {
-							"faces": []
-						},
-						"small": {
-							"faces": []
-						},
-						"medium": {
-							"faces": []
-						}
 					}
 				}
 			]
@@ -1661,20 +1513,6 @@ Grailbird.data.tweets_2019_02 =
 							"w": 704,
 							"h": 1200,
 							"resize": "fit"
-						}
-					},
-					"features": {
-						"large": {
-							"faces": []
-						},
-						"orig": {
-							"faces": []
-						},
-						"small": {
-							"faces": []
-						},
-						"medium": {
-							"faces": []
 						}
 					}
 				}
@@ -1717,12 +1555,12 @@ Grailbird.data.tweets_2019_02 =
 			"friends_count": 152,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7440,
+			"favourites_count": 7450,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13951,
+			"statuses_count": 13955,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1742,8 +1580,6 @@ Grailbird.data.tweets_2019_02 =
 			"has_extended_profile": true,
 			"default_profile": false,
 			"default_profile_image": false,
-			"can_media_tag": true,
-			"followed_by": false,
 			"following": false,
 			"follow_request_sent": false,
 			"notifications": false,
@@ -1825,12 +1661,12 @@ Grailbird.data.tweets_2019_02 =
 			"friends_count": 152,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7440,
+			"favourites_count": 7450,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13951,
+			"statuses_count": 13955,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1850,8 +1686,6 @@ Grailbird.data.tweets_2019_02 =
 			"has_extended_profile": true,
 			"default_profile": false,
 			"default_profile_image": false,
-			"can_media_tag": true,
-			"followed_by": false,
 			"following": false,
 			"follow_request_sent": false,
 			"notifications": false,
@@ -1939,8 +1773,8 @@ Grailbird.data.tweets_2019_02 =
 				}
 			},
 			"protected": false,
-			"followers_count": 10503,
-			"friends_count": 1506,
+			"followers_count": 10504,
+			"friends_count": 1512,
 			"listed_count": 789,
 			"created_at": "Wed Jan 31 21:24:02 +0000 2007",
 			"favourites_count": 803,
@@ -1948,7 +1782,7 @@ Grailbird.data.tweets_2019_02 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 90162,
+			"statuses_count": 90168,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1968,8 +1802,6 @@ Grailbird.data.tweets_2019_02 =
 			"has_extended_profile": false,
 			"default_profile": false,
 			"default_profile_image": false,
-			"can_media_tag": true,
-			"followed_by": true,
 			"following": true,
 			"follow_request_sent": false,
 			"notifications": false,
@@ -2041,8 +1873,7 @@ Grailbird.data.tweets_2019_02 =
 						"source_status_id": 1099791831133446100,
 						"source_status_id_str": "1099791831133446144",
 						"source_user_id": 701725963,
-						"source_user_id_str": "701725963",
-						"features": {}
+						"source_user_id_str": "701725963"
 					}
 				]
 			},
@@ -2115,7 +1946,6 @@ Grailbird.data.tweets_2019_02 =
 								}
 							]
 						},
-						"features": {},
 						"additional_media_info": {
 							"title": "Trump's Top Trade Rep. Contradicted Him In A Live Meeting",
 							"description": "Watch Trump’s top trade representative directly contradict him during a live televised meeting",
@@ -2158,16 +1988,16 @@ Grailbird.data.tweets_2019_02 =
 									}
 								},
 								"protected": false,
-								"followers_count": 2502588,
-								"friends_count": 12094,
-								"listed_count": 10300,
+								"followers_count": 2503571,
+								"friends_count": 12092,
+								"listed_count": 10309,
 								"created_at": "Tue Jul 17 20:31:08 +0000 2012",
-								"favourites_count": 13160,
+								"favourites_count": 13163,
 								"utc_offset": null,
 								"time_zone": null,
 								"geo_enabled": true,
 								"verified": true,
-								"statuses_count": 144875,
+								"statuses_count": 145013,
 								"lang": null,
 								"contributors_enabled": false,
 								"is_translator": false,
@@ -2187,8 +2017,6 @@ Grailbird.data.tweets_2019_02 =
 								"has_extended_profile": false,
 								"default_profile": false,
 								"default_profile_image": false,
-								"can_media_tag": true,
-								"followed_by": false,
 								"following": false,
 								"follow_request_sent": false,
 								"notifications": false,
@@ -2241,16 +2069,16 @@ Grailbird.data.tweets_2019_02 =
 					}
 				},
 				"protected": false,
-				"followers_count": 599705,
-				"friends_count": 4640,
-				"listed_count": 2980,
+				"followers_count": 599768,
+				"friends_count": 4645,
+				"listed_count": 2984,
 				"created_at": "Wed Dec 10 14:53:54 +0000 2008",
-				"favourites_count": 11187,
+				"favourites_count": 11193,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": true,
-				"statuses_count": 20552,
+				"statuses_count": 20557,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -2270,8 +2098,6 @@ Grailbird.data.tweets_2019_02 =
 				"has_extended_profile": false,
 				"default_profile": false,
 				"default_profile_image": false,
-				"can_media_tag": true,
-				"followed_by": false,
 				"following": false,
 				"follow_request_sent": false,
 				"notifications": false,
@@ -2282,8 +2108,8 @@ Grailbird.data.tweets_2019_02 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 1841,
-			"favorite_count": 6183,
+			"retweet_count": 1842,
+			"favorite_count": 6179,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
@@ -2360,12 +2186,12 @@ Grailbird.data.tweets_2019_02 =
 			"friends_count": 152,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7440,
+			"favourites_count": 7450,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13951,
+			"statuses_count": 13955,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2385,8 +2211,6 @@ Grailbird.data.tweets_2019_02 =
 			"has_extended_profile": true,
 			"default_profile": false,
 			"default_profile_image": false,
-			"can_media_tag": true,
-			"followed_by": false,
 			"following": false,
 			"follow_request_sent": false,
 			"notifications": false,
@@ -2496,16 +2320,16 @@ Grailbird.data.tweets_2019_02 =
 					}
 				},
 				"protected": false,
-				"followers_count": 26911,
-				"friends_count": 926,
-				"listed_count": 756,
+				"followers_count": 26914,
+				"friends_count": 927,
+				"listed_count": 755,
 				"created_at": "Wed May 19 21:45:42 +0000 2010",
-				"favourites_count": 9333,
+				"favourites_count": 9351,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": true,
-				"statuses_count": 4924,
+				"statuses_count": 4927,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -2525,8 +2349,6 @@ Grailbird.data.tweets_2019_02 =
 				"has_extended_profile": true,
 				"default_profile": false,
 				"default_profile_image": false,
-				"can_media_tag": true,
-				"followed_by": false,
 				"following": false,
 				"follow_request_sent": false,
 				"notifications": false,
@@ -2538,7 +2360,7 @@ Grailbird.data.tweets_2019_02 =
 			"contributors": null,
 			"is_quote_status": false,
 			"retweet_count": 9165,
-			"favorite_count": 10721,
+			"favorite_count": 10719,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
@@ -2623,16 +2445,16 @@ Grailbird.data.tweets_2019_02 =
 				}
 			},
 			"protected": false,
-			"followers_count": 2613,
-			"friends_count": 4172,
+			"followers_count": 2625,
+			"friends_count": 4174,
 			"listed_count": 25,
 			"created_at": "Tue Apr 10 04:31:33 +0000 2012",
-			"favourites_count": 28094,
+			"favourites_count": 28127,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 17773,
+			"statuses_count": 17779,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2652,8 +2474,6 @@ Grailbird.data.tweets_2019_02 =
 			"has_extended_profile": true,
 			"default_profile": false,
 			"default_profile_image": false,
-			"can_media_tag": false,
-			"followed_by": false,
 			"following": false,
 			"follow_request_sent": false,
 			"notifications": false,
@@ -2743,12 +2563,12 @@ Grailbird.data.tweets_2019_02 =
 			"friends_count": 152,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7440,
+			"favourites_count": 7450,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13951,
+			"statuses_count": 13955,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2768,8 +2588,6 @@ Grailbird.data.tweets_2019_02 =
 			"has_extended_profile": true,
 			"default_profile": false,
 			"default_profile_image": false,
-			"can_media_tag": true,
-			"followed_by": false,
 			"following": false,
 			"follow_request_sent": false,
 			"notifications": false,
@@ -2852,12 +2670,12 @@ Grailbird.data.tweets_2019_02 =
 			"friends_count": 152,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7440,
+			"favourites_count": 7450,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13951,
+			"statuses_count": 13955,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2877,8 +2695,6 @@ Grailbird.data.tweets_2019_02 =
 			"has_extended_profile": true,
 			"default_profile": false,
 			"default_profile_image": false,
-			"can_media_tag": true,
-			"followed_by": false,
 			"following": false,
 			"follow_request_sent": false,
 			"notifications": false,
@@ -2970,12 +2786,12 @@ Grailbird.data.tweets_2019_02 =
 			"friends_count": 152,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7440,
+			"favourites_count": 7450,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13951,
+			"statuses_count": 13955,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2995,8 +2811,6 @@ Grailbird.data.tweets_2019_02 =
 			"has_extended_profile": true,
 			"default_profile": false,
 			"default_profile_image": false,
-			"can_media_tag": true,
-			"followed_by": false,
 			"following": false,
 			"follow_request_sent": false,
 			"notifications": false,
@@ -3098,12 +2912,12 @@ Grailbird.data.tweets_2019_02 =
 			"friends_count": 152,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7440,
+			"favourites_count": 7450,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13951,
+			"statuses_count": 13955,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -3123,8 +2937,6 @@ Grailbird.data.tweets_2019_02 =
 			"has_extended_profile": true,
 			"default_profile": false,
 			"default_profile_image": false,
-			"can_media_tag": true,
-			"followed_by": false,
 			"following": false,
 			"follow_request_sent": false,
 			"notifications": false,
@@ -3233,7 +3045,7 @@ Grailbird.data.tweets_2019_02 =
 				}
 			},
 			"protected": false,
-			"followers_count": 33679,
+			"followers_count": 33690,
 			"friends_count": 38,
 			"listed_count": 352,
 			"created_at": "Fri Feb 22 05:06:11 +0000 2013",
@@ -3242,7 +3054,7 @@ Grailbird.data.tweets_2019_02 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 20431,
+			"statuses_count": 20440,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -3262,8 +3074,6 @@ Grailbird.data.tweets_2019_02 =
 			"has_extended_profile": false,
 			"default_profile": false,
 			"default_profile_image": false,
-			"can_media_tag": true,
-			"followed_by": false,
 			"following": false,
 			"follow_request_sent": false,
 			"notifications": false,
@@ -3354,12 +3164,12 @@ Grailbird.data.tweets_2019_02 =
 			"friends_count": 1296,
 			"listed_count": 236,
 			"created_at": "Sat Jan 19 19:19:49 +0000 2008",
-			"favourites_count": 8761,
+			"favourites_count": 8768,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 33558,
+			"statuses_count": 33567,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -3379,8 +3189,6 @@ Grailbird.data.tweets_2019_02 =
 			"has_extended_profile": false,
 			"default_profile": false,
 			"default_profile_image": false,
-			"can_media_tag": true,
-			"followed_by": true,
 			"following": true,
 			"follow_request_sent": false,
 			"notifications": false,
@@ -3448,72 +3256,6 @@ Grailbird.data.tweets_2019_02 =
 								"h": 556,
 								"resize": "fit"
 							}
-						},
-						"features": {
-							"large": {
-								"faces": [
-									{
-										"x": 157,
-										"y": 191,
-										"h": 245,
-										"w": 245
-									},
-									{
-										"x": 650,
-										"y": 193,
-										"h": 242,
-										"w": 242
-									}
-								]
-							},
-							"medium": {
-								"faces": [
-									{
-										"x": 157,
-										"y": 191,
-										"h": 245,
-										"w": 245
-									},
-									{
-										"x": 650,
-										"y": 193,
-										"h": 242,
-										"w": 242
-									}
-								]
-							},
-							"orig": {
-								"faces": [
-									{
-										"x": 157,
-										"y": 191,
-										"h": 245,
-										"w": 245
-									},
-									{
-										"x": 650,
-										"y": 193,
-										"h": 242,
-										"w": 242
-									}
-								]
-							},
-							"small": {
-								"faces": [
-									{
-										"x": 108,
-										"y": 132,
-										"h": 169,
-										"w": 169
-									},
-									{
-										"x": 449,
-										"y": 133,
-										"h": 167,
-										"w": 167
-									}
-								]
-							}
 						}
 					}
 				]
@@ -3554,72 +3296,6 @@ Grailbird.data.tweets_2019_02 =
 								"h": 556,
 								"resize": "fit"
 							}
-						},
-						"features": {
-							"large": {
-								"faces": [
-									{
-										"x": 157,
-										"y": 191,
-										"h": 245,
-										"w": 245
-									},
-									{
-										"x": 650,
-										"y": 193,
-										"h": 242,
-										"w": 242
-									}
-								]
-							},
-							"medium": {
-								"faces": [
-									{
-										"x": 157,
-										"y": 191,
-										"h": 245,
-										"w": 245
-									},
-									{
-										"x": 650,
-										"y": 193,
-										"h": 242,
-										"w": 242
-									}
-								]
-							},
-							"orig": {
-								"faces": [
-									{
-										"x": 157,
-										"y": 191,
-										"h": 245,
-										"w": 245
-									},
-									{
-										"x": 650,
-										"y": 193,
-										"h": 242,
-										"w": 242
-									}
-								]
-							},
-							"small": {
-								"faces": [
-									{
-										"x": 108,
-										"y": 132,
-										"h": 169,
-										"w": 169
-									},
-									{
-										"x": 449,
-										"y": 133,
-										"h": 167,
-										"w": 167
-									}
-								]
-							}
 						}
 					}
 				]
@@ -3657,16 +3333,16 @@ Grailbird.data.tweets_2019_02 =
 					}
 				},
 				"protected": false,
-				"followers_count": 196465,
-				"friends_count": 6601,
-				"listed_count": 1346,
+				"followers_count": 196497,
+				"friends_count": 6600,
+				"listed_count": 1342,
 				"created_at": "Tue May 03 23:57:55 +0000 2011",
-				"favourites_count": 65300,
+				"favourites_count": 65462,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": true,
-				"statuses_count": 45503,
+				"statuses_count": 45561,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -3686,8 +3362,6 @@ Grailbird.data.tweets_2019_02 =
 				"has_extended_profile": true,
 				"default_profile": false,
 				"default_profile_image": false,
-				"can_media_tag": false,
-				"followed_by": false,
 				"following": false,
 				"follow_request_sent": false,
 				"notifications": false,
@@ -3698,8 +3372,8 @@ Grailbird.data.tweets_2019_02 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 7647,
-			"favorite_count": 16863,
+			"retweet_count": 7645,
+			"favorite_count": 16860,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
@@ -3767,8 +3441,7 @@ Grailbird.data.tweets_2019_02 =
 					"source_status_id": 1098580810062618600,
 					"source_status_id_str": "1098580810062618627",
 					"source_user_id": 16211566,
-					"source_user_id_str": "16211566",
-					"features": {}
+					"source_user_id_str": "16211566"
 				}
 			]
 		},
@@ -3841,7 +3514,6 @@ Grailbird.data.tweets_2019_02 =
 							}
 						]
 					},
-					"features": {},
 					"additional_media_info": {
 						"monetizable": false,
 						"source_user": {
@@ -3881,16 +3553,16 @@ Grailbird.data.tweets_2019_02 =
 								}
 							},
 							"protected": false,
-							"followers_count": 57589,
-							"friends_count": 4635,
-							"listed_count": 2381,
+							"followers_count": 57611,
+							"friends_count": 4637,
+							"listed_count": 2380,
 							"created_at": "Tue Sep 09 21:25:05 +0000 2008",
-							"favourites_count": 94993,
+							"favourites_count": 94995,
 							"utc_offset": null,
 							"time_zone": null,
 							"geo_enabled": true,
 							"verified": true,
-							"statuses_count": 105702,
+							"statuses_count": 105723,
 							"lang": null,
 							"contributors_enabled": false,
 							"is_translator": false,
@@ -3910,8 +3582,6 @@ Grailbird.data.tweets_2019_02 =
 							"has_extended_profile": true,
 							"default_profile": false,
 							"default_profile_image": false,
-							"can_media_tag": true,
-							"followed_by": false,
 							"following": false,
 							"follow_request_sent": false,
 							"notifications": false,
@@ -3956,14 +3626,14 @@ Grailbird.data.tweets_2019_02 =
 			"protected": false,
 			"followers_count": 3913,
 			"friends_count": 760,
-			"listed_count": 115,
+			"listed_count": 114,
 			"created_at": "Thu Dec 04 16:52:08 +0000 2008",
-			"favourites_count": 59201,
+			"favourites_count": 59254,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 45483,
+			"statuses_count": 45504,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -3983,8 +3653,6 @@ Grailbird.data.tweets_2019_02 =
 			"has_extended_profile": false,
 			"default_profile": false,
 			"default_profile_image": false,
-			"can_media_tag": false,
-			"followed_by": false,
 			"following": false,
 			"follow_request_sent": false,
 			"notifications": false,
@@ -3995,8 +3663,8 @@ Grailbird.data.tweets_2019_02 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 111012,
-		"favorite_count": 267369,
+		"retweet_count": 110979,
+		"favorite_count": 267343,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -4062,11 +3730,11 @@ Grailbird.data.tweets_2019_02 =
 				}
 			},
 			"protected": false,
-			"followers_count": 4330,
+			"followers_count": 4329,
 			"friends_count": 721,
 			"listed_count": 258,
 			"created_at": "Sat Sep 24 09:18:58 +0000 2011",
-			"favourites_count": 21957,
+			"favourites_count": 21970,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
@@ -4091,8 +3759,6 @@ Grailbird.data.tweets_2019_02 =
 			"has_extended_profile": false,
 			"default_profile": false,
 			"default_profile_image": false,
-			"can_media_tag": true,
-			"followed_by": true,
 			"following": true,
 			"follow_request_sent": false,
 			"notifications": false,
@@ -4171,8 +3837,7 @@ Grailbird.data.tweets_2019_02 =
 								"h": 720,
 								"resize": "fit"
 							}
-						},
-						"features": {}
+						}
 					}
 				]
 			},
@@ -4241,7 +3906,6 @@ Grailbird.data.tweets_2019_02 =
 								}
 							]
 						},
-						"features": {},
 						"additional_media_info": {
 							"title": "",
 							"description": "",
@@ -4284,16 +3948,16 @@ Grailbird.data.tweets_2019_02 =
 					}
 				},
 				"protected": false,
-				"followers_count": 1349451,
+				"followers_count": 1349930,
 				"friends_count": 216,
-				"listed_count": 7025,
+				"listed_count": 7028,
 				"created_at": "Fri Sep 07 10:16:29 +0000 2007",
 				"favourites_count": 2239,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": true,
-				"statuses_count": 413239,
+				"statuses_count": 413449,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -4313,8 +3977,6 @@ Grailbird.data.tweets_2019_02 =
 				"has_extended_profile": false,
 				"default_profile": false,
 				"default_profile_image": false,
-				"can_media_tag": true,
-				"followed_by": false,
 				"following": false,
 				"follow_request_sent": false,
 				"notifications": false,
@@ -4399,16 +4061,16 @@ Grailbird.data.tweets_2019_02 =
 				}
 			},
 			"protected": false,
-			"followers_count": 5740,
-			"friends_count": 2248,
+			"followers_count": 5745,
+			"friends_count": 2247,
 			"listed_count": 328,
 			"created_at": "Mon Jan 14 15:05:54 +0000 2008",
-			"favourites_count": 7071,
+			"favourites_count": 7077,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 58735,
+			"statuses_count": 58745,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -4428,8 +4090,6 @@ Grailbird.data.tweets_2019_02 =
 			"has_extended_profile": true,
 			"default_profile": false,
 			"default_profile_image": false,
-			"can_media_tag": false,
-			"followed_by": true,
 			"following": true,
 			"follow_request_sent": false,
 			"notifications": false,
@@ -4506,8 +4166,8 @@ Grailbird.data.tweets_2019_02 =
 					}
 				},
 				"protected": false,
-				"followers_count": 1069,
-				"friends_count": 1479,
+				"followers_count": 1068,
+				"friends_count": 1481,
 				"listed_count": 21,
 				"created_at": "Sat Aug 24 13:49:32 +0000 2013",
 				"favourites_count": 8217,
@@ -4515,7 +4175,7 @@ Grailbird.data.tweets_2019_02 =
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": false,
-				"statuses_count": 5093,
+				"statuses_count": 5095,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -4535,8 +4195,6 @@ Grailbird.data.tweets_2019_02 =
 				"has_extended_profile": false,
 				"default_profile": false,
 				"default_profile_image": false,
-				"can_media_tag": false,
-				"followed_by": false,
 				"following": false,
 				"follow_request_sent": false,
 				"notifications": false,
@@ -4626,12 +4284,12 @@ Grailbird.data.tweets_2019_02 =
 			"friends_count": 152,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7440,
+			"favourites_count": 7450,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13951,
+			"statuses_count": 13955,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -4651,8 +4309,6 @@ Grailbird.data.tweets_2019_02 =
 			"has_extended_profile": true,
 			"default_profile": false,
 			"default_profile_image": false,
-			"can_media_tag": true,
-			"followed_by": false,
 			"following": false,
 			"follow_request_sent": false,
 			"notifications": false,
@@ -4774,12 +4430,12 @@ Grailbird.data.tweets_2019_02 =
 			"friends_count": 152,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7440,
+			"favourites_count": 7450,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13951,
+			"statuses_count": 13955,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -4799,8 +4455,6 @@ Grailbird.data.tweets_2019_02 =
 			"has_extended_profile": true,
 			"default_profile": false,
 			"default_profile_image": false,
-			"can_media_tag": true,
-			"followed_by": false,
 			"following": false,
 			"follow_request_sent": false,
 			"notifications": false,
@@ -4911,15 +4565,15 @@ Grailbird.data.tweets_2019_02 =
 				},
 				"protected": false,
 				"followers_count": 822,
-				"friends_count": 2952,
+				"friends_count": 2953,
 				"listed_count": 18,
 				"created_at": "Mon Jul 07 10:36:27 +0000 2008",
-				"favourites_count": 19003,
+				"favourites_count": 19019,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": false,
-				"statuses_count": 8704,
+				"statuses_count": 8709,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -4938,8 +4592,6 @@ Grailbird.data.tweets_2019_02 =
 				"has_extended_profile": false,
 				"default_profile": false,
 				"default_profile_image": false,
-				"can_media_tag": true,
-				"followed_by": true,
 				"following": true,
 				"follow_request_sent": false,
 				"notifications": false,
@@ -5028,12 +4680,12 @@ Grailbird.data.tweets_2019_02 =
 			"friends_count": 152,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7440,
+			"favourites_count": 7450,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13951,
+			"statuses_count": 13955,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -5053,8 +4705,6 @@ Grailbird.data.tweets_2019_02 =
 			"has_extended_profile": true,
 			"default_profile": false,
 			"default_profile_image": false,
-			"can_media_tag": true,
-			"followed_by": false,
 			"following": false,
 			"follow_request_sent": false,
 			"notifications": false,
@@ -5174,20 +4824,6 @@ Grailbird.data.tweets_2019_02 =
 								"h": 697,
 								"resize": "fit"
 							}
-						},
-						"features": {
-							"medium": {
-								"faces": []
-							},
-							"small": {
-								"faces": []
-							},
-							"orig": {
-								"faces": []
-							},
-							"large": {
-								"faces": []
-							}
 						}
 					}
 				]
@@ -5228,20 +4864,6 @@ Grailbird.data.tweets_2019_02 =
 								"h": 697,
 								"resize": "fit"
 							}
-						},
-						"features": {
-							"medium": {
-								"faces": []
-							},
-							"small": {
-								"faces": []
-							},
-							"orig": {
-								"faces": []
-							},
-							"large": {
-								"faces": []
-							}
 						}
 					}
 				]
@@ -5266,16 +4888,16 @@ Grailbird.data.tweets_2019_02 =
 					}
 				},
 				"protected": false,
-				"followers_count": 95268,
-				"friends_count": 1484,
-				"listed_count": 1189,
+				"followers_count": 95309,
+				"friends_count": 1485,
+				"listed_count": 1192,
 				"created_at": "Tue Jan 13 02:28:44 +0000 2009",
-				"favourites_count": 12982,
+				"favourites_count": 12987,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": true,
-				"statuses_count": 7923,
+				"statuses_count": 7931,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -5295,8 +4917,6 @@ Grailbird.data.tweets_2019_02 =
 				"has_extended_profile": false,
 				"default_profile": false,
 				"default_profile_image": false,
-				"can_media_tag": false,
-				"followed_by": false,
 				"following": false,
 				"follow_request_sent": false,
 				"notifications": false,
@@ -5380,48 +5000,6 @@ Grailbird.data.tweets_2019_02 =
 							"h": 510,
 							"resize": "fit"
 						}
-					},
-					"features": {
-						"large": {
-							"faces": [
-								{
-									"x": 1368,
-									"y": 1432,
-									"h": 70,
-									"w": 70
-								}
-							]
-						},
-						"medium": {
-							"faces": [
-								{
-									"x": 801,
-									"y": 839,
-									"h": 41,
-									"w": 41
-								}
-							]
-						},
-						"small": {
-							"faces": [
-								{
-									"x": 454,
-									"y": 475,
-									"h": 23,
-									"w": 23
-								}
-							]
-						},
-						"orig": {
-							"faces": [
-								{
-									"x": 1368,
-									"y": 1432,
-									"h": 70,
-									"w": 70
-								}
-							]
-						}
 					}
 				}
 			]
@@ -5462,48 +5040,6 @@ Grailbird.data.tweets_2019_02 =
 							"h": 510,
 							"resize": "fit"
 						}
-					},
-					"features": {
-						"large": {
-							"faces": [
-								{
-									"x": 1368,
-									"y": 1432,
-									"h": 70,
-									"w": 70
-								}
-							]
-						},
-						"medium": {
-							"faces": [
-								{
-									"x": 801,
-									"y": 839,
-									"h": 41,
-									"w": 41
-								}
-							]
-						},
-						"small": {
-							"faces": [
-								{
-									"x": 454,
-									"y": 475,
-									"h": 23,
-									"w": 23
-								}
-							]
-						},
-						"orig": {
-							"faces": [
-								{
-									"x": 1368,
-									"y": 1432,
-									"h": 70,
-									"w": 70
-								}
-							]
-						}
 					}
 				}
 			]
@@ -5541,11 +5077,11 @@ Grailbird.data.tweets_2019_02 =
 				}
 			},
 			"protected": false,
-			"followers_count": 523,
-			"friends_count": 298,
+			"followers_count": 526,
+			"friends_count": 299,
 			"listed_count": 8,
 			"created_at": "Tue Sep 26 06:22:11 +0000 2017",
-			"favourites_count": 887,
+			"favourites_count": 888,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
@@ -5570,8 +5106,6 @@ Grailbird.data.tweets_2019_02 =
 			"has_extended_profile": false,
 			"default_profile": true,
 			"default_profile_image": false,
-			"can_media_tag": true,
-			"followed_by": true,
 			"following": false,
 			"follow_request_sent": false,
 			"notifications": false,
@@ -5664,12 +5198,12 @@ Grailbird.data.tweets_2019_02 =
 			"friends_count": 152,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7440,
+			"favourites_count": 7450,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13951,
+			"statuses_count": 13955,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -5689,8 +5223,6 @@ Grailbird.data.tweets_2019_02 =
 			"has_extended_profile": true,
 			"default_profile": false,
 			"default_profile_image": false,
-			"can_media_tag": true,
-			"followed_by": false,
 			"following": false,
 			"follow_request_sent": false,
 			"notifications": false,
@@ -5773,12 +5305,12 @@ Grailbird.data.tweets_2019_02 =
 			"friends_count": 152,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7440,
+			"favourites_count": 7450,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13951,
+			"statuses_count": 13955,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -5798,8 +5330,6 @@ Grailbird.data.tweets_2019_02 =
 			"has_extended_profile": true,
 			"default_profile": false,
 			"default_profile_image": false,
-			"can_media_tag": true,
-			"followed_by": false,
 			"following": false,
 			"follow_request_sent": false,
 			"notifications": false,
@@ -5914,12 +5444,12 @@ Grailbird.data.tweets_2019_02 =
 			"friends_count": 152,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7440,
+			"favourites_count": 7450,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13951,
+			"statuses_count": 13955,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -5939,8 +5469,6 @@ Grailbird.data.tweets_2019_02 =
 			"has_extended_profile": true,
 			"default_profile": false,
 			"default_profile_image": false,
-			"can_media_tag": true,
-			"followed_by": false,
 			"following": false,
 			"follow_request_sent": false,
 			"notifications": false,
@@ -6021,12 +5549,12 @@ Grailbird.data.tweets_2019_02 =
 			"friends_count": 152,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7440,
+			"favourites_count": 7450,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13951,
+			"statuses_count": 13955,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -6046,8 +5574,6 @@ Grailbird.data.tweets_2019_02 =
 			"has_extended_profile": true,
 			"default_profile": false,
 			"default_profile_image": false,
-			"can_media_tag": true,
-			"followed_by": false,
 			"following": false,
 			"follow_request_sent": false,
 			"notifications": false,
@@ -6130,12 +5656,12 @@ Grailbird.data.tweets_2019_02 =
 			"friends_count": 152,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7440,
+			"favourites_count": 7450,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13951,
+			"statuses_count": 13955,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -6155,8 +5681,6 @@ Grailbird.data.tweets_2019_02 =
 			"has_extended_profile": true,
 			"default_profile": false,
 			"default_profile_image": false,
-			"can_media_tag": true,
-			"followed_by": false,
 			"following": false,
 			"follow_request_sent": false,
 			"notifications": false,
@@ -6238,12 +5762,12 @@ Grailbird.data.tweets_2019_02 =
 			"friends_count": 152,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7440,
+			"favourites_count": 7450,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13951,
+			"statuses_count": 13955,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -6263,8 +5787,6 @@ Grailbird.data.tweets_2019_02 =
 			"has_extended_profile": true,
 			"default_profile": false,
 			"default_profile_image": false,
-			"can_media_tag": true,
-			"followed_by": false,
 			"following": false,
 			"follow_request_sent": false,
 			"notifications": false,
@@ -6335,12 +5857,12 @@ Grailbird.data.tweets_2019_02 =
 			"friends_count": 152,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7440,
+			"favourites_count": 7450,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13951,
+			"statuses_count": 13955,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -6360,8 +5882,6 @@ Grailbird.data.tweets_2019_02 =
 			"has_extended_profile": true,
 			"default_profile": false,
 			"default_profile_image": false,
-			"can_media_tag": true,
-			"followed_by": false,
 			"following": false,
 			"follow_request_sent": false,
 			"notifications": false,
@@ -6432,12 +5952,12 @@ Grailbird.data.tweets_2019_02 =
 			"friends_count": 152,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7440,
+			"favourites_count": 7450,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13951,
+			"statuses_count": 13955,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -6457,8 +5977,6 @@ Grailbird.data.tweets_2019_02 =
 			"has_extended_profile": true,
 			"default_profile": false,
 			"default_profile_image": false,
-			"can_media_tag": true,
-			"followed_by": false,
 			"following": false,
 			"follow_request_sent": false,
 			"notifications": false,
@@ -6539,12 +6057,12 @@ Grailbird.data.tweets_2019_02 =
 			"friends_count": 152,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7440,
+			"favourites_count": 7450,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13951,
+			"statuses_count": 13955,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -6564,8 +6082,6 @@ Grailbird.data.tweets_2019_02 =
 			"has_extended_profile": true,
 			"default_profile": false,
 			"default_profile_image": false,
-			"can_media_tag": true,
-			"followed_by": false,
 			"following": false,
 			"follow_request_sent": false,
 			"notifications": false,
@@ -6643,72 +6159,6 @@ Grailbird.data.tweets_2019_02 =
 								"h": 675,
 								"resize": "fit"
 							}
-						},
-						"features": {
-							"large": {
-								"faces": [
-									{
-										"x": 180,
-										"y": 221,
-										"h": 114,
-										"w": 114
-									},
-									{
-										"x": 183,
-										"y": 480,
-										"h": 116,
-										"w": 116
-									}
-								]
-							},
-							"small": {
-								"faces": [
-									{
-										"x": 63,
-										"y": 78,
-										"h": 40,
-										"w": 40
-									},
-									{
-										"x": 64,
-										"y": 170,
-										"h": 41,
-										"w": 41
-									}
-								]
-							},
-							"medium": {
-								"faces": [
-									{
-										"x": 112,
-										"y": 138,
-										"h": 71,
-										"w": 71
-									},
-									{
-										"x": 114,
-										"y": 300,
-										"h": 72,
-										"w": 72
-									}
-								]
-							},
-							"orig": {
-								"faces": [
-									{
-										"x": 180,
-										"y": 221,
-										"h": 114,
-										"w": 114
-									},
-									{
-										"x": 183,
-										"y": 480,
-										"h": 116,
-										"w": 116
-									}
-								]
-							}
 						}
 					}
 				]
@@ -6749,72 +6199,6 @@ Grailbird.data.tweets_2019_02 =
 								"h": 675,
 								"resize": "fit"
 							}
-						},
-						"features": {
-							"large": {
-								"faces": [
-									{
-										"x": 180,
-										"y": 221,
-										"h": 114,
-										"w": 114
-									},
-									{
-										"x": 183,
-										"y": 480,
-										"h": 116,
-										"w": 116
-									}
-								]
-							},
-							"small": {
-								"faces": [
-									{
-										"x": 63,
-										"y": 78,
-										"h": 40,
-										"w": 40
-									},
-									{
-										"x": 64,
-										"y": 170,
-										"h": 41,
-										"w": 41
-									}
-								]
-							},
-							"medium": {
-								"faces": [
-									{
-										"x": 112,
-										"y": 138,
-										"h": 71,
-										"w": 71
-									},
-									{
-										"x": 114,
-										"y": 300,
-										"h": 72,
-										"w": 72
-									}
-								]
-							},
-							"orig": {
-								"faces": [
-									{
-										"x": 180,
-										"y": 221,
-										"h": 114,
-										"w": 114
-									},
-									{
-										"x": 183,
-										"y": 480,
-										"h": 116,
-										"w": 116
-									}
-								]
-							}
 						}
 					}
 				]
@@ -6839,16 +6223,16 @@ Grailbird.data.tweets_2019_02 =
 					}
 				},
 				"protected": false,
-				"followers_count": 12624,
+				"followers_count": 12631,
 				"friends_count": 199,
 				"listed_count": 227,
 				"created_at": "Thu Oct 30 21:12:30 +0000 2008",
-				"favourites_count": 3085,
+				"favourites_count": 3093,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": true,
-				"statuses_count": 10115,
+				"statuses_count": 10122,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -6868,8 +6252,6 @@ Grailbird.data.tweets_2019_02 =
 				"has_extended_profile": false,
 				"default_profile": false,
 				"default_profile_image": false,
-				"can_media_tag": true,
-				"followed_by": true,
 				"following": false,
 				"follow_request_sent": false,
 				"notifications": false,
@@ -6945,15 +6327,15 @@ Grailbird.data.tweets_2019_02 =
 			},
 			"protected": false,
 			"followers_count": 4469,
-			"friends_count": 236,
+			"friends_count": 240,
 			"listed_count": 480,
 			"created_at": "Tue Feb 06 18:33:33 +0000 2007",
-			"favourites_count": 38483,
+			"favourites_count": 38488,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 35084,
+			"statuses_count": 35087,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -6973,8 +6355,6 @@ Grailbird.data.tweets_2019_02 =
 			"has_extended_profile": false,
 			"default_profile": false,
 			"default_profile_image": false,
-			"can_media_tag": false,
-			"followed_by": false,
 			"following": true,
 			"follow_request_sent": false,
 			"notifications": false,
@@ -7061,15 +6441,15 @@ Grailbird.data.tweets_2019_02 =
 			},
 			"protected": false,
 			"followers_count": 5244,
-			"friends_count": 3871,
+			"friends_count": 3872,
 			"listed_count": 78,
 			"created_at": "Thu Apr 09 04:41:40 +0000 2009",
-			"favourites_count": 27403,
+			"favourites_count": 27427,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 37395,
+			"statuses_count": 37424,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -7089,8 +6469,6 @@ Grailbird.data.tweets_2019_02 =
 			"has_extended_profile": false,
 			"default_profile": false,
 			"default_profile_image": false,
-			"can_media_tag": true,
-			"followed_by": false,
 			"following": false,
 			"follow_request_sent": false,
 			"notifications": false,
@@ -7205,552 +6583,6 @@ Grailbird.data.tweets_2019_02 =
 							"h": 768,
 							"resize": "fit"
 						}
-					},
-					"features": {
-						"orig": {
-							"faces": [
-								{
-									"x": 506,
-									"y": 250,
-									"h": 36,
-									"w": 36
-								},
-								{
-									"x": 575,
-									"y": 254,
-									"h": 35,
-									"w": 35
-								},
-								{
-									"x": 366,
-									"y": 270,
-									"h": 33,
-									"w": 33
-								},
-								{
-									"x": 299,
-									"y": 281,
-									"h": 35,
-									"w": 35
-								},
-								{
-									"x": 703,
-									"y": 283,
-									"h": 35,
-									"w": 35
-								},
-								{
-									"x": 221,
-									"y": 284,
-									"h": 34,
-									"w": 34
-								},
-								{
-									"x": 169,
-									"y": 286,
-									"h": 34,
-									"w": 34
-								},
-								{
-									"x": 481,
-									"y": 293,
-									"h": 37,
-									"w": 37
-								},
-								{
-									"x": 662,
-									"y": 296,
-									"h": 38,
-									"w": 38
-								},
-								{
-									"x": 829,
-									"y": 297,
-									"h": 36,
-									"w": 36
-								},
-								{
-									"x": 772,
-									"y": 298,
-									"h": 40,
-									"w": 40
-								},
-								{
-									"x": 423,
-									"y": 302,
-									"h": 35,
-									"w": 35
-								},
-								{
-									"x": 550,
-									"y": 309,
-									"h": 35,
-									"w": 35
-								},
-								{
-									"x": 41,
-									"y": 314,
-									"h": 37,
-									"w": 37
-								},
-								{
-									"x": 725,
-									"y": 315,
-									"h": 39,
-									"w": 39
-								},
-								{
-									"x": 323,
-									"y": 319,
-									"h": 36,
-									"w": 36
-								},
-								{
-									"x": 203,
-									"y": 320,
-									"h": 37,
-									"w": 37
-								},
-								{
-									"x": 513,
-									"y": 320,
-									"h": 35,
-									"w": 35
-								},
-								{
-									"x": 460,
-									"y": 401,
-									"h": 39,
-									"w": 39
-								},
-								{
-									"x": 273,
-									"y": 413,
-									"h": 40,
-									"w": 40
-								},
-								{
-									"x": 340,
-									"y": 423,
-									"h": 36,
-									"w": 36
-								},
-								{
-									"x": 718,
-									"y": 468,
-									"h": 49,
-									"w": 49
-								}
-							]
-						},
-						"small": {
-							"faces": [
-								{
-									"x": 336,
-									"y": 166,
-									"h": 23,
-									"w": 23
-								},
-								{
-									"x": 381,
-									"y": 168,
-									"h": 23,
-									"w": 23
-								},
-								{
-									"x": 243,
-									"y": 179,
-									"h": 21,
-									"w": 21
-								},
-								{
-									"x": 198,
-									"y": 186,
-									"h": 23,
-									"w": 23
-								},
-								{
-									"x": 466,
-									"y": 187,
-									"h": 23,
-									"w": 23
-								},
-								{
-									"x": 146,
-									"y": 188,
-									"h": 22,
-									"w": 22
-								},
-								{
-									"x": 112,
-									"y": 189,
-									"h": 22,
-									"w": 22
-								},
-								{
-									"x": 319,
-									"y": 194,
-									"h": 24,
-									"w": 24
-								},
-								{
-									"x": 439,
-									"y": 196,
-									"h": 25,
-									"w": 25
-								},
-								{
-									"x": 550,
-									"y": 197,
-									"h": 23,
-									"w": 23
-								},
-								{
-									"x": 512,
-									"y": 197,
-									"h": 26,
-									"w": 26
-								},
-								{
-									"x": 280,
-									"y": 200,
-									"h": 23,
-									"w": 23
-								},
-								{
-									"x": 365,
-									"y": 205,
-									"h": 23,
-									"w": 23
-								},
-								{
-									"x": 27,
-									"y": 208,
-									"h": 24,
-									"w": 24
-								},
-								{
-									"x": 481,
-									"y": 209,
-									"h": 25,
-									"w": 25
-								},
-								{
-									"x": 214,
-									"y": 211,
-									"h": 23,
-									"w": 23
-								},
-								{
-									"x": 134,
-									"y": 212,
-									"h": 24,
-									"w": 24
-								},
-								{
-									"x": 340,
-									"y": 212,
-									"h": 23,
-									"w": 23
-								},
-								{
-									"x": 305,
-									"y": 266,
-									"h": 25,
-									"w": 25
-								},
-								{
-									"x": 181,
-									"y": 274,
-									"h": 26,
-									"w": 26
-								},
-								{
-									"x": 225,
-									"y": 280,
-									"h": 23,
-									"w": 23
-								},
-								{
-									"x": 476,
-									"y": 310,
-									"h": 32,
-									"w": 32
-								}
-							]
-						},
-						"large": {
-							"faces": [
-								{
-									"x": 506,
-									"y": 250,
-									"h": 36,
-									"w": 36
-								},
-								{
-									"x": 575,
-									"y": 254,
-									"h": 35,
-									"w": 35
-								},
-								{
-									"x": 366,
-									"y": 270,
-									"h": 33,
-									"w": 33
-								},
-								{
-									"x": 299,
-									"y": 281,
-									"h": 35,
-									"w": 35
-								},
-								{
-									"x": 703,
-									"y": 283,
-									"h": 35,
-									"w": 35
-								},
-								{
-									"x": 221,
-									"y": 284,
-									"h": 34,
-									"w": 34
-								},
-								{
-									"x": 169,
-									"y": 286,
-									"h": 34,
-									"w": 34
-								},
-								{
-									"x": 481,
-									"y": 293,
-									"h": 37,
-									"w": 37
-								},
-								{
-									"x": 662,
-									"y": 296,
-									"h": 38,
-									"w": 38
-								},
-								{
-									"x": 829,
-									"y": 297,
-									"h": 36,
-									"w": 36
-								},
-								{
-									"x": 772,
-									"y": 298,
-									"h": 40,
-									"w": 40
-								},
-								{
-									"x": 423,
-									"y": 302,
-									"h": 35,
-									"w": 35
-								},
-								{
-									"x": 550,
-									"y": 309,
-									"h": 35,
-									"w": 35
-								},
-								{
-									"x": 41,
-									"y": 314,
-									"h": 37,
-									"w": 37
-								},
-								{
-									"x": 725,
-									"y": 315,
-									"h": 39,
-									"w": 39
-								},
-								{
-									"x": 323,
-									"y": 319,
-									"h": 36,
-									"w": 36
-								},
-								{
-									"x": 203,
-									"y": 320,
-									"h": 37,
-									"w": 37
-								},
-								{
-									"x": 513,
-									"y": 320,
-									"h": 35,
-									"w": 35
-								},
-								{
-									"x": 460,
-									"y": 401,
-									"h": 39,
-									"w": 39
-								},
-								{
-									"x": 273,
-									"y": 413,
-									"h": 40,
-									"w": 40
-								},
-								{
-									"x": 340,
-									"y": 423,
-									"h": 36,
-									"w": 36
-								},
-								{
-									"x": 718,
-									"y": 468,
-									"h": 49,
-									"w": 49
-								}
-							]
-						},
-						"medium": {
-							"faces": [
-								{
-									"x": 506,
-									"y": 250,
-									"h": 36,
-									"w": 36
-								},
-								{
-									"x": 575,
-									"y": 254,
-									"h": 35,
-									"w": 35
-								},
-								{
-									"x": 366,
-									"y": 270,
-									"h": 33,
-									"w": 33
-								},
-								{
-									"x": 299,
-									"y": 281,
-									"h": 35,
-									"w": 35
-								},
-								{
-									"x": 703,
-									"y": 283,
-									"h": 35,
-									"w": 35
-								},
-								{
-									"x": 221,
-									"y": 284,
-									"h": 34,
-									"w": 34
-								},
-								{
-									"x": 169,
-									"y": 286,
-									"h": 34,
-									"w": 34
-								},
-								{
-									"x": 481,
-									"y": 293,
-									"h": 37,
-									"w": 37
-								},
-								{
-									"x": 662,
-									"y": 296,
-									"h": 38,
-									"w": 38
-								},
-								{
-									"x": 829,
-									"y": 297,
-									"h": 36,
-									"w": 36
-								},
-								{
-									"x": 772,
-									"y": 298,
-									"h": 40,
-									"w": 40
-								},
-								{
-									"x": 423,
-									"y": 302,
-									"h": 35,
-									"w": 35
-								},
-								{
-									"x": 550,
-									"y": 309,
-									"h": 35,
-									"w": 35
-								},
-								{
-									"x": 41,
-									"y": 314,
-									"h": 37,
-									"w": 37
-								},
-								{
-									"x": 725,
-									"y": 315,
-									"h": 39,
-									"w": 39
-								},
-								{
-									"x": 323,
-									"y": 319,
-									"h": 36,
-									"w": 36
-								},
-								{
-									"x": 203,
-									"y": 320,
-									"h": 37,
-									"w": 37
-								},
-								{
-									"x": 513,
-									"y": 320,
-									"h": 35,
-									"w": 35
-								},
-								{
-									"x": 460,
-									"y": 401,
-									"h": 39,
-									"w": 39
-								},
-								{
-									"x": 273,
-									"y": 413,
-									"h": 40,
-									"w": 40
-								},
-								{
-									"x": 340,
-									"y": 423,
-									"h": 36,
-									"w": 36
-								},
-								{
-									"x": 718,
-									"y": 468,
-									"h": 49,
-									"w": 49
-								}
-							]
-						}
 					}
 				}
 			]
@@ -7790,552 +6622,6 @@ Grailbird.data.tweets_2019_02 =
 							"w": 1024,
 							"h": 768,
 							"resize": "fit"
-						}
-					},
-					"features": {
-						"orig": {
-							"faces": [
-								{
-									"x": 506,
-									"y": 250,
-									"h": 36,
-									"w": 36
-								},
-								{
-									"x": 575,
-									"y": 254,
-									"h": 35,
-									"w": 35
-								},
-								{
-									"x": 366,
-									"y": 270,
-									"h": 33,
-									"w": 33
-								},
-								{
-									"x": 299,
-									"y": 281,
-									"h": 35,
-									"w": 35
-								},
-								{
-									"x": 703,
-									"y": 283,
-									"h": 35,
-									"w": 35
-								},
-								{
-									"x": 221,
-									"y": 284,
-									"h": 34,
-									"w": 34
-								},
-								{
-									"x": 169,
-									"y": 286,
-									"h": 34,
-									"w": 34
-								},
-								{
-									"x": 481,
-									"y": 293,
-									"h": 37,
-									"w": 37
-								},
-								{
-									"x": 662,
-									"y": 296,
-									"h": 38,
-									"w": 38
-								},
-								{
-									"x": 829,
-									"y": 297,
-									"h": 36,
-									"w": 36
-								},
-								{
-									"x": 772,
-									"y": 298,
-									"h": 40,
-									"w": 40
-								},
-								{
-									"x": 423,
-									"y": 302,
-									"h": 35,
-									"w": 35
-								},
-								{
-									"x": 550,
-									"y": 309,
-									"h": 35,
-									"w": 35
-								},
-								{
-									"x": 41,
-									"y": 314,
-									"h": 37,
-									"w": 37
-								},
-								{
-									"x": 725,
-									"y": 315,
-									"h": 39,
-									"w": 39
-								},
-								{
-									"x": 323,
-									"y": 319,
-									"h": 36,
-									"w": 36
-								},
-								{
-									"x": 203,
-									"y": 320,
-									"h": 37,
-									"w": 37
-								},
-								{
-									"x": 513,
-									"y": 320,
-									"h": 35,
-									"w": 35
-								},
-								{
-									"x": 460,
-									"y": 401,
-									"h": 39,
-									"w": 39
-								},
-								{
-									"x": 273,
-									"y": 413,
-									"h": 40,
-									"w": 40
-								},
-								{
-									"x": 340,
-									"y": 423,
-									"h": 36,
-									"w": 36
-								},
-								{
-									"x": 718,
-									"y": 468,
-									"h": 49,
-									"w": 49
-								}
-							]
-						},
-						"small": {
-							"faces": [
-								{
-									"x": 336,
-									"y": 166,
-									"h": 23,
-									"w": 23
-								},
-								{
-									"x": 381,
-									"y": 168,
-									"h": 23,
-									"w": 23
-								},
-								{
-									"x": 243,
-									"y": 179,
-									"h": 21,
-									"w": 21
-								},
-								{
-									"x": 198,
-									"y": 186,
-									"h": 23,
-									"w": 23
-								},
-								{
-									"x": 466,
-									"y": 187,
-									"h": 23,
-									"w": 23
-								},
-								{
-									"x": 146,
-									"y": 188,
-									"h": 22,
-									"w": 22
-								},
-								{
-									"x": 112,
-									"y": 189,
-									"h": 22,
-									"w": 22
-								},
-								{
-									"x": 319,
-									"y": 194,
-									"h": 24,
-									"w": 24
-								},
-								{
-									"x": 439,
-									"y": 196,
-									"h": 25,
-									"w": 25
-								},
-								{
-									"x": 550,
-									"y": 197,
-									"h": 23,
-									"w": 23
-								},
-								{
-									"x": 512,
-									"y": 197,
-									"h": 26,
-									"w": 26
-								},
-								{
-									"x": 280,
-									"y": 200,
-									"h": 23,
-									"w": 23
-								},
-								{
-									"x": 365,
-									"y": 205,
-									"h": 23,
-									"w": 23
-								},
-								{
-									"x": 27,
-									"y": 208,
-									"h": 24,
-									"w": 24
-								},
-								{
-									"x": 481,
-									"y": 209,
-									"h": 25,
-									"w": 25
-								},
-								{
-									"x": 214,
-									"y": 211,
-									"h": 23,
-									"w": 23
-								},
-								{
-									"x": 134,
-									"y": 212,
-									"h": 24,
-									"w": 24
-								},
-								{
-									"x": 340,
-									"y": 212,
-									"h": 23,
-									"w": 23
-								},
-								{
-									"x": 305,
-									"y": 266,
-									"h": 25,
-									"w": 25
-								},
-								{
-									"x": 181,
-									"y": 274,
-									"h": 26,
-									"w": 26
-								},
-								{
-									"x": 225,
-									"y": 280,
-									"h": 23,
-									"w": 23
-								},
-								{
-									"x": 476,
-									"y": 310,
-									"h": 32,
-									"w": 32
-								}
-							]
-						},
-						"large": {
-							"faces": [
-								{
-									"x": 506,
-									"y": 250,
-									"h": 36,
-									"w": 36
-								},
-								{
-									"x": 575,
-									"y": 254,
-									"h": 35,
-									"w": 35
-								},
-								{
-									"x": 366,
-									"y": 270,
-									"h": 33,
-									"w": 33
-								},
-								{
-									"x": 299,
-									"y": 281,
-									"h": 35,
-									"w": 35
-								},
-								{
-									"x": 703,
-									"y": 283,
-									"h": 35,
-									"w": 35
-								},
-								{
-									"x": 221,
-									"y": 284,
-									"h": 34,
-									"w": 34
-								},
-								{
-									"x": 169,
-									"y": 286,
-									"h": 34,
-									"w": 34
-								},
-								{
-									"x": 481,
-									"y": 293,
-									"h": 37,
-									"w": 37
-								},
-								{
-									"x": 662,
-									"y": 296,
-									"h": 38,
-									"w": 38
-								},
-								{
-									"x": 829,
-									"y": 297,
-									"h": 36,
-									"w": 36
-								},
-								{
-									"x": 772,
-									"y": 298,
-									"h": 40,
-									"w": 40
-								},
-								{
-									"x": 423,
-									"y": 302,
-									"h": 35,
-									"w": 35
-								},
-								{
-									"x": 550,
-									"y": 309,
-									"h": 35,
-									"w": 35
-								},
-								{
-									"x": 41,
-									"y": 314,
-									"h": 37,
-									"w": 37
-								},
-								{
-									"x": 725,
-									"y": 315,
-									"h": 39,
-									"w": 39
-								},
-								{
-									"x": 323,
-									"y": 319,
-									"h": 36,
-									"w": 36
-								},
-								{
-									"x": 203,
-									"y": 320,
-									"h": 37,
-									"w": 37
-								},
-								{
-									"x": 513,
-									"y": 320,
-									"h": 35,
-									"w": 35
-								},
-								{
-									"x": 460,
-									"y": 401,
-									"h": 39,
-									"w": 39
-								},
-								{
-									"x": 273,
-									"y": 413,
-									"h": 40,
-									"w": 40
-								},
-								{
-									"x": 340,
-									"y": 423,
-									"h": 36,
-									"w": 36
-								},
-								{
-									"x": 718,
-									"y": 468,
-									"h": 49,
-									"w": 49
-								}
-							]
-						},
-						"medium": {
-							"faces": [
-								{
-									"x": 506,
-									"y": 250,
-									"h": 36,
-									"w": 36
-								},
-								{
-									"x": 575,
-									"y": 254,
-									"h": 35,
-									"w": 35
-								},
-								{
-									"x": 366,
-									"y": 270,
-									"h": 33,
-									"w": 33
-								},
-								{
-									"x": 299,
-									"y": 281,
-									"h": 35,
-									"w": 35
-								},
-								{
-									"x": 703,
-									"y": 283,
-									"h": 35,
-									"w": 35
-								},
-								{
-									"x": 221,
-									"y": 284,
-									"h": 34,
-									"w": 34
-								},
-								{
-									"x": 169,
-									"y": 286,
-									"h": 34,
-									"w": 34
-								},
-								{
-									"x": 481,
-									"y": 293,
-									"h": 37,
-									"w": 37
-								},
-								{
-									"x": 662,
-									"y": 296,
-									"h": 38,
-									"w": 38
-								},
-								{
-									"x": 829,
-									"y": 297,
-									"h": 36,
-									"w": 36
-								},
-								{
-									"x": 772,
-									"y": 298,
-									"h": 40,
-									"w": 40
-								},
-								{
-									"x": 423,
-									"y": 302,
-									"h": 35,
-									"w": 35
-								},
-								{
-									"x": 550,
-									"y": 309,
-									"h": 35,
-									"w": 35
-								},
-								{
-									"x": 41,
-									"y": 314,
-									"h": 37,
-									"w": 37
-								},
-								{
-									"x": 725,
-									"y": 315,
-									"h": 39,
-									"w": 39
-								},
-								{
-									"x": 323,
-									"y": 319,
-									"h": 36,
-									"w": 36
-								},
-								{
-									"x": 203,
-									"y": 320,
-									"h": 37,
-									"w": 37
-								},
-								{
-									"x": 513,
-									"y": 320,
-									"h": 35,
-									"w": 35
-								},
-								{
-									"x": 460,
-									"y": 401,
-									"h": 39,
-									"w": 39
-								},
-								{
-									"x": 273,
-									"y": 413,
-									"h": 40,
-									"w": 40
-								},
-								{
-									"x": 340,
-									"y": 423,
-									"h": 36,
-									"w": 36
-								},
-								{
-									"x": 718,
-									"y": 468,
-									"h": 49,
-									"w": 49
-								}
-							]
 						}
 					}
 				}
@@ -8378,12 +6664,12 @@ Grailbird.data.tweets_2019_02 =
 			"friends_count": 152,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7440,
+			"favourites_count": 7450,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13951,
+			"statuses_count": 13955,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -8403,8 +6689,6 @@ Grailbird.data.tweets_2019_02 =
 			"has_extended_profile": true,
 			"default_profile": false,
 			"default_profile_image": false,
-			"can_media_tag": true,
-			"followed_by": false,
 			"following": false,
 			"follow_request_sent": false,
 			"notifications": false,
@@ -8483,20 +6767,6 @@ Grailbird.data.tweets_2019_02 =
 							"h": 1200,
 							"resize": "fit"
 						}
-					},
-					"features": {
-						"orig": {
-							"faces": []
-						},
-						"small": {
-							"faces": []
-						},
-						"large": {
-							"faces": []
-						},
-						"medium": {
-							"faces": []
-						}
 					}
 				}
 			]
@@ -8536,20 +6806,6 @@ Grailbird.data.tweets_2019_02 =
 							"w": 900,
 							"h": 1200,
 							"resize": "fit"
-						}
-					},
-					"features": {
-						"orig": {
-							"faces": []
-						},
-						"small": {
-							"faces": []
-						},
-						"large": {
-							"faces": []
-						},
-						"medium": {
-							"faces": []
 						}
 					}
 				}
@@ -8592,12 +6848,12 @@ Grailbird.data.tweets_2019_02 =
 			"friends_count": 152,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7440,
+			"favourites_count": 7450,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13951,
+			"statuses_count": 13955,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -8617,8 +6873,6 @@ Grailbird.data.tweets_2019_02 =
 			"has_extended_profile": true,
 			"default_profile": false,
 			"default_profile_image": false,
-			"can_media_tag": true,
-			"followed_by": false,
 			"following": false,
 			"follow_request_sent": false,
 			"notifications": false,
@@ -8697,144 +6951,6 @@ Grailbird.data.tweets_2019_02 =
 							"h": 768,
 							"resize": "fit"
 						}
-					},
-					"features": {
-						"small": {
-							"faces": [
-								{
-									"x": 294,
-									"y": 77,
-									"h": 59,
-									"w": 59
-								},
-								{
-									"x": 256,
-									"y": 164,
-									"h": 67,
-									"w": 67
-								},
-								{
-									"x": 349,
-									"y": 251,
-									"h": 64,
-									"w": 64
-								},
-								{
-									"x": 409,
-									"y": 249,
-									"h": 68,
-									"w": 68
-								},
-								{
-									"x": 167,
-									"y": 186,
-									"h": 73,
-									"w": 73
-								}
-							]
-						},
-						"large": {
-							"faces": [
-								{
-									"x": 443,
-									"y": 117,
-									"h": 90,
-									"w": 90
-								},
-								{
-									"x": 386,
-									"y": 248,
-									"h": 102,
-									"w": 102
-								},
-								{
-									"x": 526,
-									"y": 379,
-									"h": 97,
-									"w": 97
-								},
-								{
-									"x": 616,
-									"y": 376,
-									"h": 103,
-									"w": 103
-								},
-								{
-									"x": 252,
-									"y": 281,
-									"h": 111,
-									"w": 111
-								}
-							]
-						},
-						"orig": {
-							"faces": [
-								{
-									"x": 443,
-									"y": 117,
-									"h": 90,
-									"w": 90
-								},
-								{
-									"x": 386,
-									"y": 248,
-									"h": 102,
-									"w": 102
-								},
-								{
-									"x": 526,
-									"y": 379,
-									"h": 97,
-									"w": 97
-								},
-								{
-									"x": 616,
-									"y": 376,
-									"h": 103,
-									"w": 103
-								},
-								{
-									"x": 252,
-									"y": 281,
-									"h": 111,
-									"w": 111
-								}
-							]
-						},
-						"medium": {
-							"faces": [
-								{
-									"x": 443,
-									"y": 117,
-									"h": 90,
-									"w": 90
-								},
-								{
-									"x": 386,
-									"y": 248,
-									"h": 102,
-									"w": 102
-								},
-								{
-									"x": 526,
-									"y": 379,
-									"h": 97,
-									"w": 97
-								},
-								{
-									"x": 616,
-									"y": 376,
-									"h": 103,
-									"w": 103
-								},
-								{
-									"x": 252,
-									"y": 281,
-									"h": 111,
-									"w": 111
-								}
-							]
-						}
 					}
 				}
 			]
@@ -8874,144 +6990,6 @@ Grailbird.data.tweets_2019_02 =
 							"w": 1024,
 							"h": 768,
 							"resize": "fit"
-						}
-					},
-					"features": {
-						"small": {
-							"faces": [
-								{
-									"x": 294,
-									"y": 77,
-									"h": 59,
-									"w": 59
-								},
-								{
-									"x": 256,
-									"y": 164,
-									"h": 67,
-									"w": 67
-								},
-								{
-									"x": 349,
-									"y": 251,
-									"h": 64,
-									"w": 64
-								},
-								{
-									"x": 409,
-									"y": 249,
-									"h": 68,
-									"w": 68
-								},
-								{
-									"x": 167,
-									"y": 186,
-									"h": 73,
-									"w": 73
-								}
-							]
-						},
-						"large": {
-							"faces": [
-								{
-									"x": 443,
-									"y": 117,
-									"h": 90,
-									"w": 90
-								},
-								{
-									"x": 386,
-									"y": 248,
-									"h": 102,
-									"w": 102
-								},
-								{
-									"x": 526,
-									"y": 379,
-									"h": 97,
-									"w": 97
-								},
-								{
-									"x": 616,
-									"y": 376,
-									"h": 103,
-									"w": 103
-								},
-								{
-									"x": 252,
-									"y": 281,
-									"h": 111,
-									"w": 111
-								}
-							]
-						},
-						"orig": {
-							"faces": [
-								{
-									"x": 443,
-									"y": 117,
-									"h": 90,
-									"w": 90
-								},
-								{
-									"x": 386,
-									"y": 248,
-									"h": 102,
-									"w": 102
-								},
-								{
-									"x": 526,
-									"y": 379,
-									"h": 97,
-									"w": 97
-								},
-								{
-									"x": 616,
-									"y": 376,
-									"h": 103,
-									"w": 103
-								},
-								{
-									"x": 252,
-									"y": 281,
-									"h": 111,
-									"w": 111
-								}
-							]
-						},
-						"medium": {
-							"faces": [
-								{
-									"x": 443,
-									"y": 117,
-									"h": 90,
-									"w": 90
-								},
-								{
-									"x": 386,
-									"y": 248,
-									"h": 102,
-									"w": 102
-								},
-								{
-									"x": 526,
-									"y": 379,
-									"h": 97,
-									"w": 97
-								},
-								{
-									"x": 616,
-									"y": 376,
-									"h": 103,
-									"w": 103
-								},
-								{
-									"x": 252,
-									"y": 281,
-									"h": 111,
-									"w": 111
-								}
-							]
 						}
 					}
 				}
@@ -9054,12 +7032,12 @@ Grailbird.data.tweets_2019_02 =
 			"friends_count": 152,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7440,
+			"favourites_count": 7450,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13951,
+			"statuses_count": 13955,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -9079,8 +7057,6 @@ Grailbird.data.tweets_2019_02 =
 			"has_extended_profile": true,
 			"default_profile": false,
 			"default_profile_image": false,
-			"can_media_tag": true,
-			"followed_by": false,
 			"following": false,
 			"follow_request_sent": false,
 			"notifications": false,
@@ -9162,12 +7138,12 @@ Grailbird.data.tweets_2019_02 =
 			"friends_count": 152,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7440,
+			"favourites_count": 7450,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13951,
+			"statuses_count": 13955,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -9187,8 +7163,6 @@ Grailbird.data.tweets_2019_02 =
 			"has_extended_profile": true,
 			"default_profile": false,
 			"default_profile_image": false,
-			"can_media_tag": true,
-			"followed_by": false,
 			"following": false,
 			"follow_request_sent": false,
 			"notifications": false,
@@ -9298,16 +7272,16 @@ Grailbird.data.tweets_2019_02 =
 					}
 				},
 				"protected": false,
-				"followers_count": 14906,
+				"followers_count": 14914,
 				"friends_count": 3840,
 				"listed_count": 318,
 				"created_at": "Sat Jun 13 04:45:19 +0000 2009",
-				"favourites_count": 6089,
+				"favourites_count": 6091,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": true,
-				"statuses_count": 56742,
+				"statuses_count": 56798,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -9327,8 +7301,6 @@ Grailbird.data.tweets_2019_02 =
 				"has_extended_profile": false,
 				"default_profile": false,
 				"default_profile_image": false,
-				"can_media_tag": false,
-				"followed_by": true,
 				"following": true,
 				"follow_request_sent": false,
 				"notifications": false,
@@ -9424,12 +7396,12 @@ Grailbird.data.tweets_2019_02 =
 			"friends_count": 152,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7440,
+			"favourites_count": 7450,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13951,
+			"statuses_count": 13955,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -9449,8 +7421,6 @@ Grailbird.data.tweets_2019_02 =
 			"has_extended_profile": true,
 			"default_profile": false,
 			"default_profile_image": false,
-			"can_media_tag": true,
-			"followed_by": false,
 			"following": false,
 			"follow_request_sent": false,
 			"notifications": false,
@@ -9561,16 +7531,16 @@ Grailbird.data.tweets_2019_02 =
 					}
 				},
 				"protected": false,
-				"followers_count": 14906,
+				"followers_count": 14914,
 				"friends_count": 3840,
 				"listed_count": 318,
 				"created_at": "Sat Jun 13 04:45:19 +0000 2009",
-				"favourites_count": 6089,
+				"favourites_count": 6091,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": true,
-				"statuses_count": 56742,
+				"statuses_count": 56798,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -9590,8 +7560,6 @@ Grailbird.data.tweets_2019_02 =
 				"has_extended_profile": false,
 				"default_profile": false,
 				"default_profile_image": false,
-				"can_media_tag": false,
-				"followed_by": true,
 				"following": true,
 				"follow_request_sent": false,
 				"notifications": false,
@@ -9680,12 +7648,12 @@ Grailbird.data.tweets_2019_02 =
 			"friends_count": 152,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7440,
+			"favourites_count": 7450,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13951,
+			"statuses_count": 13955,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -9705,8 +7673,6 @@ Grailbird.data.tweets_2019_02 =
 			"has_extended_profile": true,
 			"default_profile": false,
 			"default_profile_image": false,
-			"can_media_tag": true,
-			"followed_by": false,
 			"following": false,
 			"follow_request_sent": false,
 			"notifications": false,
@@ -9858,12 +7824,12 @@ Grailbird.data.tweets_2019_02 =
 			"friends_count": 152,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7440,
+			"favourites_count": 7450,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13951,
+			"statuses_count": 13955,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -9883,8 +7849,6 @@ Grailbird.data.tweets_2019_02 =
 			"has_extended_profile": true,
 			"default_profile": false,
 			"default_profile_image": false,
-			"can_media_tag": true,
-			"followed_by": false,
 			"following": false,
 			"follow_request_sent": false,
 			"notifications": false,
@@ -9996,20 +7960,6 @@ Grailbird.data.tweets_2019_02 =
 							"h": 480,
 							"resize": "fit"
 						}
-					},
-					"features": {
-						"orig": {
-							"faces": []
-						},
-						"small": {
-							"faces": []
-						},
-						"large": {
-							"faces": []
-						},
-						"medium": {
-							"faces": []
-						}
 					}
 				}
 			]
@@ -10050,20 +8000,6 @@ Grailbird.data.tweets_2019_02 =
 							"h": 480,
 							"resize": "fit"
 						}
-					},
-					"features": {
-						"orig": {
-							"faces": []
-						},
-						"small": {
-							"faces": []
-						},
-						"large": {
-							"faces": []
-						},
-						"medium": {
-							"faces": []
-						}
 					}
 				}
 			]
@@ -10101,16 +8037,16 @@ Grailbird.data.tweets_2019_02 =
 				}
 			},
 			"protected": false,
-			"followers_count": 52292,
+			"followers_count": 52352,
 			"friends_count": 1587,
-			"listed_count": 195,
+			"listed_count": 194,
 			"created_at": "Mon Oct 27 02:08:57 +0000 2014",
 			"favourites_count": 717,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 2803,
+			"statuses_count": 2804,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -10130,8 +8066,6 @@ Grailbird.data.tweets_2019_02 =
 			"has_extended_profile": false,
 			"default_profile": false,
 			"default_profile_image": false,
-			"can_media_tag": true,
-			"followed_by": false,
 			"following": true,
 			"follow_request_sent": false,
 			"notifications": false,
@@ -10200,20 +8134,6 @@ Grailbird.data.tweets_2019_02 =
 							"h": 510,
 							"resize": "fit"
 						}
-					},
-					"features": {
-						"medium": {
-							"faces": []
-						},
-						"large": {
-							"faces": []
-						},
-						"small": {
-							"faces": []
-						},
-						"orig": {
-							"faces": []
-						}
 					}
 				}
 			]
@@ -10253,20 +8173,6 @@ Grailbird.data.tweets_2019_02 =
 							"w": 680,
 							"h": 510,
 							"resize": "fit"
-						}
-					},
-					"features": {
-						"medium": {
-							"faces": []
-						},
-						"large": {
-							"faces": []
-						},
-						"small": {
-							"faces": []
-						},
-						"orig": {
-							"faces": []
 						}
 					}
 				}
@@ -10309,12 +8215,12 @@ Grailbird.data.tweets_2019_02 =
 			"friends_count": 152,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7440,
+			"favourites_count": 7450,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13951,
+			"statuses_count": 13955,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -10334,8 +8240,6 @@ Grailbird.data.tweets_2019_02 =
 			"has_extended_profile": true,
 			"default_profile": false,
 			"default_profile_image": false,
-			"can_media_tag": true,
-			"followed_by": false,
 			"following": false,
 			"follow_request_sent": false,
 			"notifications": false,
@@ -10450,12 +8354,12 @@ Grailbird.data.tweets_2019_02 =
 			"friends_count": 152,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7440,
+			"favourites_count": 7450,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13951,
+			"statuses_count": 13955,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -10475,8 +8379,6 @@ Grailbird.data.tweets_2019_02 =
 			"has_extended_profile": true,
 			"default_profile": false,
 			"default_profile_image": false,
-			"can_media_tag": true,
-			"followed_by": false,
 			"following": false,
 			"follow_request_sent": false,
 			"notifications": false,
@@ -10563,20 +8465,6 @@ Grailbird.data.tweets_2019_02 =
 							"h": 383,
 							"resize": "fit"
 						}
-					},
-					"features": {
-						"large": {
-							"faces": []
-						},
-						"orig": {
-							"faces": []
-						},
-						"medium": {
-							"faces": []
-						},
-						"small": {
-							"faces": []
-						}
 					}
 				}
 			]
@@ -10616,20 +8504,6 @@ Grailbird.data.tweets_2019_02 =
 							"w": 680,
 							"h": 383,
 							"resize": "fit"
-						}
-					},
-					"features": {
-						"large": {
-							"faces": []
-						},
-						"orig": {
-							"faces": []
-						},
-						"medium": {
-							"faces": []
-						},
-						"small": {
-							"faces": []
 						}
 					}
 				}
@@ -10672,12 +8546,12 @@ Grailbird.data.tweets_2019_02 =
 			"friends_count": 152,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7440,
+			"favourites_count": 7450,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13951,
+			"statuses_count": 13955,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -10697,8 +8571,6 @@ Grailbird.data.tweets_2019_02 =
 			"has_extended_profile": true,
 			"default_profile": false,
 			"default_profile_image": false,
-			"can_media_tag": true,
-			"followed_by": false,
 			"following": false,
 			"follow_request_sent": false,
 			"notifications": false,
@@ -10788,12 +8660,12 @@ Grailbird.data.tweets_2019_02 =
 			"friends_count": 152,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7440,
+			"favourites_count": 7450,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13951,
+			"statuses_count": 13955,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -10813,8 +8685,6 @@ Grailbird.data.tweets_2019_02 =
 			"has_extended_profile": true,
 			"default_profile": false,
 			"default_profile_image": false,
-			"can_media_tag": true,
-			"followed_by": false,
 			"following": false,
 			"follow_request_sent": false,
 			"notifications": false,
@@ -10893,48 +8763,6 @@ Grailbird.data.tweets_2019_02 =
 							"h": 680,
 							"resize": "fit"
 						}
-					},
-					"features": {
-						"large": {
-							"faces": [
-								{
-									"x": 277,
-									"y": 821,
-									"h": 78,
-									"w": 78
-								}
-							]
-						},
-						"orig": {
-							"faces": [
-								{
-									"x": 277,
-									"y": 821,
-									"h": 78,
-									"w": 78
-								}
-							]
-						},
-						"medium": {
-							"faces": [
-								{
-									"x": 277,
-									"y": 821,
-									"h": 78,
-									"w": 78
-								}
-							]
-						},
-						"small": {
-							"faces": [
-								{
-									"x": 183,
-									"y": 545,
-									"h": 51,
-									"w": 51
-								}
-							]
-						}
 					}
 				}
 			]
@@ -10974,48 +8802,6 @@ Grailbird.data.tweets_2019_02 =
 							"w": 510,
 							"h": 680,
 							"resize": "fit"
-						}
-					},
-					"features": {
-						"large": {
-							"faces": [
-								{
-									"x": 277,
-									"y": 821,
-									"h": 78,
-									"w": 78
-								}
-							]
-						},
-						"orig": {
-							"faces": [
-								{
-									"x": 277,
-									"y": 821,
-									"h": 78,
-									"w": 78
-								}
-							]
-						},
-						"medium": {
-							"faces": [
-								{
-									"x": 277,
-									"y": 821,
-									"h": 78,
-									"w": 78
-								}
-							]
-						},
-						"small": {
-							"faces": [
-								{
-									"x": 183,
-									"y": 545,
-									"h": 51,
-									"w": 51
-								}
-							]
 						}
 					}
 				}
@@ -11058,12 +8844,12 @@ Grailbird.data.tweets_2019_02 =
 			"friends_count": 152,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7440,
+			"favourites_count": 7450,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13951,
+			"statuses_count": 13955,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -11083,8 +8869,6 @@ Grailbird.data.tweets_2019_02 =
 			"has_extended_profile": true,
 			"default_profile": false,
 			"default_profile_image": false,
-			"can_media_tag": true,
-			"followed_by": false,
 			"following": false,
 			"follow_request_sent": false,
 			"notifications": false,
@@ -11167,12 +8951,12 @@ Grailbird.data.tweets_2019_02 =
 			"friends_count": 152,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7440,
+			"favourites_count": 7450,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13951,
+			"statuses_count": 13955,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -11192,8 +8976,6 @@ Grailbird.data.tweets_2019_02 =
 			"has_extended_profile": true,
 			"default_profile": false,
 			"default_profile_image": false,
-			"can_media_tag": true,
-			"followed_by": false,
 			"following": false,
 			"follow_request_sent": false,
 			"notifications": false,
@@ -11308,12 +9090,12 @@ Grailbird.data.tweets_2019_02 =
 			"friends_count": 152,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7440,
+			"favourites_count": 7450,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13951,
+			"statuses_count": 13955,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -11333,8 +9115,6 @@ Grailbird.data.tweets_2019_02 =
 			"has_extended_profile": true,
 			"default_profile": false,
 			"default_profile_image": false,
-			"can_media_tag": true,
-			"followed_by": false,
 			"following": false,
 			"follow_request_sent": false,
 			"notifications": false,
@@ -11435,20 +9215,6 @@ Grailbird.data.tweets_2019_02 =
 							"h": 1536,
 							"resize": "fit"
 						}
-					},
-					"features": {
-						"orig": {
-							"faces": []
-						},
-						"medium": {
-							"faces": []
-						},
-						"small": {
-							"faces": []
-						},
-						"large": {
-							"faces": []
-						}
 					}
 				}
 			]
@@ -11488,20 +9254,6 @@ Grailbird.data.tweets_2019_02 =
 							"w": 2048,
 							"h": 1536,
 							"resize": "fit"
-						}
-					},
-					"features": {
-						"orig": {
-							"faces": []
-						},
-						"medium": {
-							"faces": []
-						},
-						"small": {
-							"faces": []
-						},
-						"large": {
-							"faces": []
 						}
 					}
 				}
@@ -11544,12 +9296,12 @@ Grailbird.data.tweets_2019_02 =
 			"friends_count": 152,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7440,
+			"favourites_count": 7450,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13951,
+			"statuses_count": 13955,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -11569,8 +9321,6 @@ Grailbird.data.tweets_2019_02 =
 			"has_extended_profile": true,
 			"default_profile": false,
 			"default_profile_image": false,
-			"can_media_tag": true,
-			"followed_by": false,
 			"following": false,
 			"follow_request_sent": false,
 			"notifications": false,
@@ -11680,48 +9430,6 @@ Grailbird.data.tweets_2019_02 =
 							"h": 1734,
 							"resize": "fit"
 						}
-					},
-					"features": {
-						"medium": {
-							"faces": [
-								{
-									"x": 37,
-									"y": 580,
-									"h": 115,
-									"w": 115
-								}
-							]
-						},
-						"orig": {
-							"faces": [
-								{
-									"x": 54,
-									"y": 838,
-									"h": 167,
-									"w": 167
-								}
-							]
-						},
-						"small": {
-							"faces": [
-								{
-									"x": 21,
-									"y": 328,
-									"h": 65,
-									"w": 65
-								}
-							]
-						},
-						"large": {
-							"faces": [
-								{
-									"x": 54,
-									"y": 838,
-									"h": 167,
-									"w": 167
-								}
-							]
-						}
 					}
 				}
 			]
@@ -11762,48 +9470,6 @@ Grailbird.data.tweets_2019_02 =
 							"h": 1734,
 							"resize": "fit"
 						}
-					},
-					"features": {
-						"medium": {
-							"faces": [
-								{
-									"x": 37,
-									"y": 580,
-									"h": 115,
-									"w": 115
-								}
-							]
-						},
-						"orig": {
-							"faces": [
-								{
-									"x": 54,
-									"y": 838,
-									"h": 167,
-									"w": 167
-								}
-							]
-						},
-						"small": {
-							"faces": [
-								{
-									"x": 21,
-									"y": 328,
-									"h": 65,
-									"w": 65
-								}
-							]
-						},
-						"large": {
-							"faces": [
-								{
-									"x": 54,
-									"y": 838,
-									"h": 167,
-									"w": 167
-								}
-							]
-						}
 					}
 				}
 			]
@@ -11841,16 +9507,16 @@ Grailbird.data.tweets_2019_02 =
 				}
 			},
 			"protected": false,
-			"followers_count": 12272,
+			"followers_count": 12276,
 			"friends_count": 3225,
 			"listed_count": 658,
 			"created_at": "Tue Apr 10 14:07:17 +0000 2007",
-			"favourites_count": 12273,
+			"favourites_count": 12274,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 61414,
+			"statuses_count": 61416,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -11870,8 +9536,6 @@ Grailbird.data.tweets_2019_02 =
 			"has_extended_profile": false,
 			"default_profile": false,
 			"default_profile_image": false,
-			"can_media_tag": true,
-			"followed_by": false,
 			"following": false,
 			"follow_request_sent": false,
 			"notifications": false,
@@ -11883,7 +9547,7 @@ Grailbird.data.tweets_2019_02 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 2184,
-		"favorite_count": 6174,
+		"favorite_count": 6172,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -11964,12 +9628,12 @@ Grailbird.data.tweets_2019_02 =
 			"friends_count": 152,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7440,
+			"favourites_count": 7450,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13951,
+			"statuses_count": 13955,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -11989,8 +9653,6 @@ Grailbird.data.tweets_2019_02 =
 			"has_extended_profile": true,
 			"default_profile": false,
 			"default_profile_image": false,
-			"can_media_tag": true,
-			"followed_by": false,
 			"following": false,
 			"follow_request_sent": false,
 			"notifications": false,
@@ -12073,12 +9735,12 @@ Grailbird.data.tweets_2019_02 =
 			"friends_count": 152,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7440,
+			"favourites_count": 7450,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13951,
+			"statuses_count": 13955,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -12098,8 +9760,6 @@ Grailbird.data.tweets_2019_02 =
 			"has_extended_profile": true,
 			"default_profile": false,
 			"default_profile_image": false,
-			"can_media_tag": true,
-			"followed_by": false,
 			"following": false,
 			"follow_request_sent": false,
 			"notifications": false,
@@ -12224,12 +9884,12 @@ Grailbird.data.tweets_2019_02 =
 			"friends_count": 152,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7440,
+			"favourites_count": 7450,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13951,
+			"statuses_count": 13955,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -12249,8 +9909,6 @@ Grailbird.data.tweets_2019_02 =
 			"has_extended_profile": true,
 			"default_profile": false,
 			"default_profile_image": false,
-			"can_media_tag": true,
-			"followed_by": false,
 			"following": false,
 			"follow_request_sent": false,
 			"notifications": false,
@@ -12373,12 +10031,12 @@ Grailbird.data.tweets_2019_02 =
 			"friends_count": 152,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7440,
+			"favourites_count": 7450,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13951,
+			"statuses_count": 13955,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -12398,8 +10056,6 @@ Grailbird.data.tweets_2019_02 =
 			"has_extended_profile": true,
 			"default_profile": false,
 			"default_profile_image": false,
-			"can_media_tag": true,
-			"followed_by": false,
 			"following": false,
 			"follow_request_sent": false,
 			"notifications": false,
@@ -12515,12 +10171,12 @@ Grailbird.data.tweets_2019_02 =
 			"friends_count": 152,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7440,
+			"favourites_count": 7450,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13951,
+			"statuses_count": 13955,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -12540,8 +10196,6 @@ Grailbird.data.tweets_2019_02 =
 			"has_extended_profile": true,
 			"default_profile": false,
 			"default_profile_image": false,
-			"can_media_tag": true,
-			"followed_by": false,
 			"following": false,
 			"follow_request_sent": false,
 			"notifications": false,
@@ -12666,12 +10320,12 @@ Grailbird.data.tweets_2019_02 =
 			"friends_count": 152,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7440,
+			"favourites_count": 7450,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13951,
+			"statuses_count": 13955,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -12691,8 +10345,6 @@ Grailbird.data.tweets_2019_02 =
 			"has_extended_profile": true,
 			"default_profile": false,
 			"default_profile_image": false,
-			"can_media_tag": true,
-			"followed_by": false,
 			"following": false,
 			"follow_request_sent": false,
 			"notifications": false,
@@ -12815,48 +10467,6 @@ Grailbird.data.tweets_2019_02 =
 							"h": 398,
 							"resize": "fit"
 						}
-					},
-					"features": {
-						"small": {
-							"faces": [
-								{
-									"x": 181,
-									"y": 46,
-									"h": 177,
-									"w": 177
-								}
-							]
-						},
-						"orig": {
-							"faces": [
-								{
-									"x": 181,
-									"y": 46,
-									"h": 177,
-									"w": 177
-								}
-							]
-						},
-						"large": {
-							"faces": [
-								{
-									"x": 181,
-									"y": 46,
-									"h": 177,
-									"w": 177
-								}
-							]
-						},
-						"medium": {
-							"faces": [
-								{
-									"x": 181,
-									"y": 46,
-									"h": 177,
-									"w": 177
-								}
-							]
-						}
 					}
 				}
 			]
@@ -12897,48 +10507,6 @@ Grailbird.data.tweets_2019_02 =
 							"h": 398,
 							"resize": "fit"
 						}
-					},
-					"features": {
-						"small": {
-							"faces": [
-								{
-									"x": 181,
-									"y": 46,
-									"h": 177,
-									"w": 177
-								}
-							]
-						},
-						"orig": {
-							"faces": [
-								{
-									"x": 181,
-									"y": 46,
-									"h": 177,
-									"w": 177
-								}
-							]
-						},
-						"large": {
-							"faces": [
-								{
-									"x": 181,
-									"y": 46,
-									"h": 177,
-									"w": 177
-								}
-							]
-						},
-						"medium": {
-							"faces": [
-								{
-									"x": 181,
-									"y": 46,
-									"h": 177,
-									"w": 177
-								}
-							]
-						}
 					}
 				}
 			]
@@ -12976,11 +10544,11 @@ Grailbird.data.tweets_2019_02 =
 				}
 			},
 			"protected": false,
-			"followers_count": 30054,
+			"followers_count": 30078,
 			"friends_count": 473,
-			"listed_count": 265,
+			"listed_count": 267,
 			"created_at": "Mon Apr 30 12:38:04 +0000 2012",
-			"favourites_count": 564,
+			"favourites_count": 563,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
@@ -13005,8 +10573,6 @@ Grailbird.data.tweets_2019_02 =
 			"has_extended_profile": false,
 			"default_profile": false,
 			"default_profile_image": false,
-			"can_media_tag": true,
-			"followed_by": false,
 			"following": true,
 			"follow_request_sent": false,
 			"notifications": false,
@@ -13089,12 +10655,12 @@ Grailbird.data.tweets_2019_02 =
 			"friends_count": 152,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7440,
+			"favourites_count": 7450,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13951,
+			"statuses_count": 13955,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -13114,8 +10680,6 @@ Grailbird.data.tweets_2019_02 =
 			"has_extended_profile": true,
 			"default_profile": false,
 			"default_profile_image": false,
-			"can_media_tag": true,
-			"followed_by": false,
 			"following": false,
 			"follow_request_sent": false,
 			"notifications": false,
@@ -13235,96 +10799,6 @@ Grailbird.data.tweets_2019_02 =
 							"h": 768,
 							"resize": "fit"
 						}
-					},
-					"features": {
-						"medium": {
-							"faces": [
-								{
-									"x": 639,
-									"y": 314,
-									"h": 71,
-									"w": 71
-								},
-								{
-									"x": 734,
-									"y": 210,
-									"h": 104,
-									"w": 104
-								},
-								{
-									"x": 428,
-									"y": 237,
-									"h": 138,
-									"w": 138
-								}
-							]
-						},
-						"orig": {
-							"faces": [
-								{
-									"x": 639,
-									"y": 314,
-									"h": 71,
-									"w": 71
-								},
-								{
-									"x": 734,
-									"y": 210,
-									"h": 104,
-									"w": 104
-								},
-								{
-									"x": 428,
-									"y": 237,
-									"h": 138,
-									"w": 138
-								}
-							]
-						},
-						"small": {
-							"faces": [
-								{
-									"x": 424,
-									"y": 208,
-									"h": 47,
-									"w": 47
-								},
-								{
-									"x": 487,
-									"y": 139,
-									"h": 69,
-									"w": 69
-								},
-								{
-									"x": 284,
-									"y": 157,
-									"h": 91,
-									"w": 91
-								}
-							]
-						},
-						"large": {
-							"faces": [
-								{
-									"x": 639,
-									"y": 314,
-									"h": 71,
-									"w": 71
-								},
-								{
-									"x": 734,
-									"y": 210,
-									"h": 104,
-									"w": 104
-								},
-								{
-									"x": 428,
-									"y": 237,
-									"h": 138,
-									"w": 138
-								}
-							]
-						}
 					}
 				}
 			]
@@ -13364,96 +10838,6 @@ Grailbird.data.tweets_2019_02 =
 							"w": 1024,
 							"h": 768,
 							"resize": "fit"
-						}
-					},
-					"features": {
-						"medium": {
-							"faces": [
-								{
-									"x": 639,
-									"y": 314,
-									"h": 71,
-									"w": 71
-								},
-								{
-									"x": 734,
-									"y": 210,
-									"h": 104,
-									"w": 104
-								},
-								{
-									"x": 428,
-									"y": 237,
-									"h": 138,
-									"w": 138
-								}
-							]
-						},
-						"orig": {
-							"faces": [
-								{
-									"x": 639,
-									"y": 314,
-									"h": 71,
-									"w": 71
-								},
-								{
-									"x": 734,
-									"y": 210,
-									"h": 104,
-									"w": 104
-								},
-								{
-									"x": 428,
-									"y": 237,
-									"h": 138,
-									"w": 138
-								}
-							]
-						},
-						"small": {
-							"faces": [
-								{
-									"x": 424,
-									"y": 208,
-									"h": 47,
-									"w": 47
-								},
-								{
-									"x": 487,
-									"y": 139,
-									"h": 69,
-									"w": 69
-								},
-								{
-									"x": 284,
-									"y": 157,
-									"h": 91,
-									"w": 91
-								}
-							]
-						},
-						"large": {
-							"faces": [
-								{
-									"x": 639,
-									"y": 314,
-									"h": 71,
-									"w": 71
-								},
-								{
-									"x": 734,
-									"y": 210,
-									"h": 104,
-									"w": 104
-								},
-								{
-									"x": 428,
-									"y": 237,
-									"h": 138,
-									"w": 138
-								}
-							]
 						}
 					}
 				}
@@ -13496,12 +10880,12 @@ Grailbird.data.tweets_2019_02 =
 			"friends_count": 152,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7440,
+			"favourites_count": 7450,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13951,
+			"statuses_count": 13955,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -13521,8 +10905,6 @@ Grailbird.data.tweets_2019_02 =
 			"has_extended_profile": true,
 			"default_profile": false,
 			"default_profile_image": false,
-			"can_media_tag": true,
-			"followed_by": false,
 			"following": false,
 			"follow_request_sent": false,
 			"notifications": false,
@@ -13632,20 +11014,6 @@ Grailbird.data.tweets_2019_02 =
 							"h": 510,
 							"resize": "fit"
 						}
-					},
-					"features": {
-						"orig": {
-							"faces": []
-						},
-						"medium": {
-							"faces": []
-						},
-						"large": {
-							"faces": []
-						},
-						"small": {
-							"faces": []
-						}
 					}
 				}
 			]
@@ -13686,20 +11054,6 @@ Grailbird.data.tweets_2019_02 =
 							"h": 510,
 							"resize": "fit"
 						}
-					},
-					"features": {
-						"orig": {
-							"faces": []
-						},
-						"medium": {
-							"faces": []
-						},
-						"large": {
-							"faces": []
-						},
-						"small": {
-							"faces": []
-						}
 					}
 				},
 				{
@@ -13736,72 +11090,6 @@ Grailbird.data.tweets_2019_02 =
 							"h": 680,
 							"resize": "fit"
 						}
-					},
-					"features": {
-						"large": {
-							"faces": [
-								{
-									"x": 549,
-									"y": 236,
-									"h": 47,
-									"w": 47
-								},
-								{
-									"x": 6,
-									"y": 350,
-									"h": 92,
-									"w": 92
-								}
-							]
-						},
-						"medium": {
-							"faces": [
-								{
-									"x": 549,
-									"y": 236,
-									"h": 47,
-									"w": 47
-								},
-								{
-									"x": 6,
-									"y": 350,
-									"h": 92,
-									"w": 92
-								}
-							]
-						},
-						"orig": {
-							"faces": [
-								{
-									"x": 549,
-									"y": 236,
-									"h": 47,
-									"w": 47
-								},
-								{
-									"x": 6,
-									"y": 350,
-									"h": 92,
-									"w": 92
-								}
-							]
-						},
-						"small": {
-							"faces": [
-								{
-									"x": 364,
-									"y": 156,
-									"h": 31,
-									"w": 31
-								},
-								{
-									"x": 3,
-									"y": 232,
-									"h": 61,
-									"w": 61
-								}
-							]
-						}
 					}
 				},
 				{
@@ -13837,20 +11125,6 @@ Grailbird.data.tweets_2019_02 =
 							"w": 680,
 							"h": 510,
 							"resize": "fit"
-						}
-					},
-					"features": {
-						"medium": {
-							"faces": []
-						},
-						"large": {
-							"faces": []
-						},
-						"orig": {
-							"faces": []
-						},
-						"small": {
-							"faces": []
 						}
 					}
 				}
@@ -13893,12 +11167,12 @@ Grailbird.data.tweets_2019_02 =
 			"friends_count": 152,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7440,
+			"favourites_count": 7450,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13951,
+			"statuses_count": 13955,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -13918,8 +11192,6 @@ Grailbird.data.tweets_2019_02 =
 			"has_extended_profile": true,
 			"default_profile": false,
 			"default_profile_image": false,
-			"can_media_tag": true,
-			"followed_by": false,
 			"following": false,
 			"follow_request_sent": false,
 			"notifications": false,
@@ -14029,20 +11301,6 @@ Grailbird.data.tweets_2019_02 =
 							"h": 768,
 							"resize": "fit"
 						}
-					},
-					"features": {
-						"large": {
-							"faces": []
-						},
-						"orig": {
-							"faces": []
-						},
-						"small": {
-							"faces": []
-						},
-						"medium": {
-							"faces": []
-						}
 					}
 				}
 			]
@@ -14082,20 +11340,6 @@ Grailbird.data.tweets_2019_02 =
 							"w": 1024,
 							"h": 768,
 							"resize": "fit"
-						}
-					},
-					"features": {
-						"large": {
-							"faces": []
-						},
-						"orig": {
-							"faces": []
-						},
-						"small": {
-							"faces": []
-						},
-						"medium": {
-							"faces": []
 						}
 					}
 				}
@@ -14138,12 +11382,12 @@ Grailbird.data.tweets_2019_02 =
 			"friends_count": 152,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7440,
+			"favourites_count": 7450,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13951,
+			"statuses_count": 13955,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -14163,8 +11407,6 @@ Grailbird.data.tweets_2019_02 =
 			"has_extended_profile": true,
 			"default_profile": false,
 			"default_profile_image": false,
-			"can_media_tag": true,
-			"followed_by": false,
 			"following": false,
 			"follow_request_sent": false,
 			"notifications": false,
@@ -14279,12 +11521,12 @@ Grailbird.data.tweets_2019_02 =
 			"friends_count": 152,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7440,
+			"favourites_count": 7450,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13951,
+			"statuses_count": 13955,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -14304,8 +11546,6 @@ Grailbird.data.tweets_2019_02 =
 			"has_extended_profile": true,
 			"default_profile": false,
 			"default_profile_image": false,
-			"can_media_tag": true,
-			"followed_by": false,
 			"following": false,
 			"follow_request_sent": false,
 			"notifications": false,
@@ -14455,48 +11695,6 @@ Grailbird.data.tweets_2019_02 =
 								"h": 1024,
 								"resize": "fit"
 							}
-						},
-						"features": {
-							"large": {
-								"faces": [
-									{
-										"x": 680,
-										"y": 166,
-										"h": 60,
-										"w": 60
-									}
-								]
-							},
-							"orig": {
-								"faces": [
-									{
-										"x": 680,
-										"y": 166,
-										"h": 60,
-										"w": 60
-									}
-								]
-							},
-							"small": {
-								"faces": [
-									{
-										"x": 451,
-										"y": 110,
-										"h": 39,
-										"w": 39
-									}
-								]
-							},
-							"medium": {
-								"faces": [
-									{
-										"x": 680,
-										"y": 166,
-										"h": 60,
-										"w": 60
-									}
-								]
-							}
 						}
 					}
 				]
@@ -14536,48 +11734,6 @@ Grailbird.data.tweets_2019_02 =
 								"w": 1024,
 								"h": 1024,
 								"resize": "fit"
-							}
-						},
-						"features": {
-							"large": {
-								"faces": [
-									{
-										"x": 680,
-										"y": 166,
-										"h": 60,
-										"w": 60
-									}
-								]
-							},
-							"orig": {
-								"faces": [
-									{
-										"x": 680,
-										"y": 166,
-										"h": 60,
-										"w": 60
-									}
-								]
-							},
-							"small": {
-								"faces": [
-									{
-										"x": 451,
-										"y": 110,
-										"h": 39,
-										"w": 39
-									}
-								]
-							},
-							"medium": {
-								"faces": [
-									{
-										"x": 680,
-										"y": 166,
-										"h": 60,
-										"w": 60
-									}
-								]
 							}
 						}
 					}
@@ -14620,12 +11776,12 @@ Grailbird.data.tweets_2019_02 =
 				"friends_count": 152,
 				"listed_count": 98,
 				"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-				"favourites_count": 7440,
+				"favourites_count": 7450,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": false,
-				"statuses_count": 13951,
+				"statuses_count": 13955,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -14645,8 +11801,6 @@ Grailbird.data.tweets_2019_02 =
 				"has_extended_profile": true,
 				"default_profile": false,
 				"default_profile_image": false,
-				"can_media_tag": true,
-				"followed_by": false,
 				"following": false,
 				"follow_request_sent": false,
 				"notifications": false,
@@ -14771,48 +11925,6 @@ Grailbird.data.tweets_2019_02 =
 							"h": 1024,
 							"resize": "fit"
 						}
-					},
-					"features": {
-						"large": {
-							"faces": [
-								{
-									"x": 680,
-									"y": 166,
-									"h": 60,
-									"w": 60
-								}
-							]
-						},
-						"orig": {
-							"faces": [
-								{
-									"x": 680,
-									"y": 166,
-									"h": 60,
-									"w": 60
-								}
-							]
-						},
-						"small": {
-							"faces": [
-								{
-									"x": 451,
-									"y": 110,
-									"h": 39,
-									"w": 39
-								}
-							]
-						},
-						"medium": {
-							"faces": [
-								{
-									"x": 680,
-									"y": 166,
-									"h": 60,
-									"w": 60
-								}
-							]
-						}
 					}
 				}
 			]
@@ -14852,48 +11964,6 @@ Grailbird.data.tweets_2019_02 =
 							"w": 1024,
 							"h": 1024,
 							"resize": "fit"
-						}
-					},
-					"features": {
-						"large": {
-							"faces": [
-								{
-									"x": 680,
-									"y": 166,
-									"h": 60,
-									"w": 60
-								}
-							]
-						},
-						"orig": {
-							"faces": [
-								{
-									"x": 680,
-									"y": 166,
-									"h": 60,
-									"w": 60
-								}
-							]
-						},
-						"small": {
-							"faces": [
-								{
-									"x": 451,
-									"y": 110,
-									"h": 39,
-									"w": 39
-								}
-							]
-						},
-						"medium": {
-							"faces": [
-								{
-									"x": 680,
-									"y": 166,
-									"h": 60,
-									"w": 60
-								}
-							]
 						}
 					}
 				}
@@ -14936,12 +12006,12 @@ Grailbird.data.tweets_2019_02 =
 			"friends_count": 152,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7440,
+			"favourites_count": 7450,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13951,
+			"statuses_count": 13955,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -14961,8 +12031,6 @@ Grailbird.data.tweets_2019_02 =
 			"has_extended_profile": true,
 			"default_profile": false,
 			"default_profile_image": false,
-			"can_media_tag": true,
-			"followed_by": false,
 			"following": false,
 			"follow_request_sent": false,
 			"notifications": false,
@@ -15055,12 +12123,12 @@ Grailbird.data.tweets_2019_02 =
 			"friends_count": 977,
 			"listed_count": 199,
 			"created_at": "Thu Apr 16 06:13:33 +0000 2009",
-			"favourites_count": 14407,
+			"favourites_count": 14426,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 18007,
+			"statuses_count": 18013,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -15080,8 +12148,6 @@ Grailbird.data.tweets_2019_02 =
 			"has_extended_profile": false,
 			"default_profile": false,
 			"default_profile_image": false,
-			"can_media_tag": false,
-			"followed_by": false,
 			"following": false,
 			"follow_request_sent": false,
 			"notifications": false,
@@ -15160,12 +12226,12 @@ Grailbird.data.tweets_2019_02 =
 			"friends_count": 152,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7440,
+			"favourites_count": 7450,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13951,
+			"statuses_count": 13955,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -15185,8 +12251,6 @@ Grailbird.data.tweets_2019_02 =
 			"has_extended_profile": true,
 			"default_profile": false,
 			"default_profile_image": false,
-			"can_media_tag": true,
-			"followed_by": false,
 			"following": false,
 			"follow_request_sent": false,
 			"notifications": false,
@@ -15296,16 +12360,16 @@ Grailbird.data.tweets_2019_02 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8334,
+			"followers_count": 8339,
 			"friends_count": 1503,
 			"listed_count": 138,
 			"created_at": "Mon May 17 03:02:45 +0000 2010",
-			"favourites_count": 30132,
+			"favourites_count": 30069,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 39613,
+			"statuses_count": 39605,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -15325,8 +12389,6 @@ Grailbird.data.tweets_2019_02 =
 			"has_extended_profile": false,
 			"default_profile": false,
 			"default_profile_image": false,
-			"can_media_tag": false,
-			"followed_by": false,
 			"following": false,
 			"follow_request_sent": false,
 			"notifications": false,
@@ -15393,16 +12455,16 @@ Grailbird.data.tweets_2019_02 =
 					}
 				},
 				"protected": false,
-				"followers_count": 8334,
+				"followers_count": 8339,
 				"friends_count": 1503,
 				"listed_count": 138,
 				"created_at": "Mon May 17 03:02:45 +0000 2010",
-				"favourites_count": 30132,
+				"favourites_count": 30069,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": false,
-				"statuses_count": 39613,
+				"statuses_count": 39605,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -15422,8 +12484,6 @@ Grailbird.data.tweets_2019_02 =
 				"has_extended_profile": false,
 				"default_profile": false,
 				"default_profile_image": false,
-				"can_media_tag": false,
-				"followed_by": false,
 				"following": false,
 				"follow_request_sent": false,
 				"notifications": false,
@@ -15516,7 +12576,7 @@ Grailbird.data.tweets_2019_02 =
 				}
 			},
 			"protected": false,
-			"followers_count": 682,
+			"followers_count": 683,
 			"friends_count": 1099,
 			"listed_count": 159,
 			"created_at": "Thu Mar 06 13:55:45 +0000 2008",
@@ -15545,8 +12605,6 @@ Grailbird.data.tweets_2019_02 =
 			"has_extended_profile": true,
 			"default_profile": false,
 			"default_profile_image": false,
-			"can_media_tag": true,
-			"followed_by": false,
 			"following": false,
 			"follow_request_sent": false,
 			"notifications": false,
@@ -15657,576 +12715,6 @@ Grailbird.data.tweets_2019_02 =
 								"h": 510,
 								"resize": "fit"
 							}
-						},
-						"features": {
-							"medium": {
-								"faces": [
-									{
-										"x": 862,
-										"y": 220,
-										"h": 39,
-										"w": 39
-									},
-									{
-										"x": 310,
-										"y": 239,
-										"h": 46,
-										"w": 46
-									},
-									{
-										"x": 801,
-										"y": 240,
-										"h": 45,
-										"w": 45
-									},
-									{
-										"x": 434,
-										"y": 255,
-										"h": 44,
-										"w": 44
-									},
-									{
-										"x": 908,
-										"y": 253,
-										"h": 50,
-										"w": 50
-									},
-									{
-										"x": 535,
-										"y": 256,
-										"h": 43,
-										"w": 43
-									},
-									{
-										"x": 215,
-										"y": 262,
-										"h": 43,
-										"w": 43
-									},
-									{
-										"x": 624,
-										"y": 278,
-										"h": 43,
-										"w": 43
-									},
-									{
-										"x": 723,
-										"y": 290,
-										"h": 45,
-										"w": 45
-									},
-									{
-										"x": 359,
-										"y": 296,
-										"h": 45,
-										"w": 45
-									},
-									{
-										"x": 498,
-										"y": 412,
-										"h": 50,
-										"w": 50
-									},
-									{
-										"x": 775,
-										"y": 446,
-										"h": 50,
-										"w": 50
-									},
-									{
-										"x": 127,
-										"y": 447,
-										"h": 55,
-										"w": 55
-									},
-									{
-										"x": 636,
-										"y": 450,
-										"h": 48,
-										"w": 48
-									},
-									{
-										"x": 632,
-										"y": 851,
-										"h": 42,
-										"w": 42
-									},
-									{
-										"x": 983,
-										"y": 246,
-										"h": 52,
-										"w": 52
-									},
-									{
-										"x": 98,
-										"y": 280,
-										"h": 55,
-										"w": 55
-									},
-									{
-										"x": 277,
-										"y": 291,
-										"h": 51,
-										"w": 51
-									},
-									{
-										"x": 578,
-										"y": 372,
-										"h": 51,
-										"w": 51
-									},
-									{
-										"x": 444,
-										"y": 412,
-										"h": 59,
-										"w": 59
-									},
-									{
-										"x": 203,
-										"y": 454,
-										"h": 62,
-										"w": 62
-									},
-									{
-										"x": 880,
-										"y": 495,
-										"h": 64,
-										"w": 64
-									},
-									{
-										"x": 972,
-										"y": 377,
-										"h": 69,
-										"w": 69
-									}
-								]
-							},
-							"large": {
-								"faces": [
-									{
-										"x": 1472,
-										"y": 376,
-										"h": 68,
-										"w": 68
-									},
-									{
-										"x": 530,
-										"y": 408,
-										"h": 80,
-										"w": 80
-									},
-									{
-										"x": 1368,
-										"y": 410,
-										"h": 78,
-										"w": 78
-									},
-									{
-										"x": 742,
-										"y": 436,
-										"h": 76,
-										"w": 76
-									},
-									{
-										"x": 1550,
-										"y": 432,
-										"h": 86,
-										"w": 86
-									},
-									{
-										"x": 914,
-										"y": 438,
-										"h": 74,
-										"w": 74
-									},
-									{
-										"x": 368,
-										"y": 448,
-										"h": 74,
-										"w": 74
-									},
-									{
-										"x": 1066,
-										"y": 476,
-										"h": 74,
-										"w": 74
-									},
-									{
-										"x": 1234,
-										"y": 496,
-										"h": 78,
-										"w": 78
-									},
-									{
-										"x": 614,
-										"y": 506,
-										"h": 78,
-										"w": 78
-									},
-									{
-										"x": 850,
-										"y": 704,
-										"h": 86,
-										"w": 86
-									},
-									{
-										"x": 1324,
-										"y": 762,
-										"h": 86,
-										"w": 86
-									},
-									{
-										"x": 218,
-										"y": 764,
-										"h": 94,
-										"w": 94
-									},
-									{
-										"x": 1086,
-										"y": 768,
-										"h": 82,
-										"w": 82
-									},
-									{
-										"x": 1080,
-										"y": 1454,
-										"h": 72,
-										"w": 72
-									},
-									{
-										"x": 1678,
-										"y": 420,
-										"h": 90,
-										"w": 90
-									},
-									{
-										"x": 168,
-										"y": 478,
-										"h": 94,
-										"w": 94
-									},
-									{
-										"x": 474,
-										"y": 498,
-										"h": 88,
-										"w": 88
-									},
-									{
-										"x": 988,
-										"y": 636,
-										"h": 88,
-										"w": 88
-									},
-									{
-										"x": 758,
-										"y": 704,
-										"h": 102,
-										"w": 102
-									},
-									{
-										"x": 348,
-										"y": 776,
-										"h": 106,
-										"w": 106
-									},
-									{
-										"x": 1502,
-										"y": 846,
-										"h": 110,
-										"w": 110
-									},
-									{
-										"x": 1660,
-										"y": 644,
-										"h": 118,
-										"w": 118
-									}
-								]
-							},
-							"small": {
-								"faces": [
-									{
-										"x": 488,
-										"y": 124,
-										"h": 22,
-										"w": 22
-									},
-									{
-										"x": 175,
-										"y": 135,
-										"h": 26,
-										"w": 26
-									},
-									{
-										"x": 454,
-										"y": 136,
-										"h": 25,
-										"w": 25
-									},
-									{
-										"x": 246,
-										"y": 144,
-										"h": 25,
-										"w": 25
-									},
-									{
-										"x": 514,
-										"y": 143,
-										"h": 28,
-										"w": 28
-									},
-									{
-										"x": 303,
-										"y": 145,
-										"h": 24,
-										"w": 24
-									},
-									{
-										"x": 122,
-										"y": 148,
-										"h": 24,
-										"w": 24
-									},
-									{
-										"x": 353,
-										"y": 158,
-										"h": 24,
-										"w": 24
-									},
-									{
-										"x": 409,
-										"y": 164,
-										"h": 25,
-										"w": 25
-									},
-									{
-										"x": 203,
-										"y": 168,
-										"h": 25,
-										"w": 25
-									},
-									{
-										"x": 282,
-										"y": 233,
-										"h": 28,
-										"w": 28
-									},
-									{
-										"x": 439,
-										"y": 253,
-										"h": 28,
-										"w": 28
-									},
-									{
-										"x": 72,
-										"y": 253,
-										"h": 31,
-										"w": 31
-									},
-									{
-										"x": 360,
-										"y": 255,
-										"h": 27,
-										"w": 27
-									},
-									{
-										"x": 358,
-										"y": 482,
-										"h": 23,
-										"w": 23
-									},
-									{
-										"x": 557,
-										"y": 139,
-										"h": 29,
-										"w": 29
-									},
-									{
-										"x": 55,
-										"y": 158,
-										"h": 31,
-										"w": 31
-									},
-									{
-										"x": 157,
-										"y": 165,
-										"h": 29,
-										"w": 29
-									},
-									{
-										"x": 328,
-										"y": 211,
-										"h": 29,
-										"w": 29
-									},
-									{
-										"x": 251,
-										"y": 233,
-										"h": 33,
-										"w": 33
-									},
-									{
-										"x": 115,
-										"y": 257,
-										"h": 35,
-										"w": 35
-									},
-									{
-										"x": 498,
-										"y": 280,
-										"h": 36,
-										"w": 36
-									},
-									{
-										"x": 551,
-										"y": 213,
-										"h": 39,
-										"w": 39
-									}
-								]
-							},
-							"orig": {
-								"faces": [
-									{
-										"x": 1472,
-										"y": 376,
-										"h": 68,
-										"w": 68
-									},
-									{
-										"x": 530,
-										"y": 408,
-										"h": 80,
-										"w": 80
-									},
-									{
-										"x": 1368,
-										"y": 410,
-										"h": 78,
-										"w": 78
-									},
-									{
-										"x": 742,
-										"y": 436,
-										"h": 76,
-										"w": 76
-									},
-									{
-										"x": 1550,
-										"y": 432,
-										"h": 86,
-										"w": 86
-									},
-									{
-										"x": 914,
-										"y": 438,
-										"h": 74,
-										"w": 74
-									},
-									{
-										"x": 368,
-										"y": 448,
-										"h": 74,
-										"w": 74
-									},
-									{
-										"x": 1066,
-										"y": 476,
-										"h": 74,
-										"w": 74
-									},
-									{
-										"x": 1234,
-										"y": 496,
-										"h": 78,
-										"w": 78
-									},
-									{
-										"x": 614,
-										"y": 506,
-										"h": 78,
-										"w": 78
-									},
-									{
-										"x": 850,
-										"y": 704,
-										"h": 86,
-										"w": 86
-									},
-									{
-										"x": 1324,
-										"y": 762,
-										"h": 86,
-										"w": 86
-									},
-									{
-										"x": 218,
-										"y": 764,
-										"h": 94,
-										"w": 94
-									},
-									{
-										"x": 1086,
-										"y": 768,
-										"h": 82,
-										"w": 82
-									},
-									{
-										"x": 1080,
-										"y": 1454,
-										"h": 72,
-										"w": 72
-									},
-									{
-										"x": 1678,
-										"y": 420,
-										"h": 90,
-										"w": 90
-									},
-									{
-										"x": 168,
-										"y": 478,
-										"h": 94,
-										"w": 94
-									},
-									{
-										"x": 474,
-										"y": 498,
-										"h": 88,
-										"w": 88
-									},
-									{
-										"x": 988,
-										"y": 636,
-										"h": 88,
-										"w": 88
-									},
-									{
-										"x": 758,
-										"y": 704,
-										"h": 102,
-										"w": 102
-									},
-									{
-										"x": 348,
-										"y": 776,
-										"h": 106,
-										"w": 106
-									},
-									{
-										"x": 1502,
-										"y": 846,
-										"h": 110,
-										"w": 110
-									},
-									{
-										"x": 1660,
-										"y": 644,
-										"h": 118,
-										"w": 118
-									}
-								]
-							}
 						}
 					}
 				]
@@ -16267,576 +12755,6 @@ Grailbird.data.tweets_2019_02 =
 								"h": 510,
 								"resize": "fit"
 							}
-						},
-						"features": {
-							"medium": {
-								"faces": [
-									{
-										"x": 862,
-										"y": 220,
-										"h": 39,
-										"w": 39
-									},
-									{
-										"x": 310,
-										"y": 239,
-										"h": 46,
-										"w": 46
-									},
-									{
-										"x": 801,
-										"y": 240,
-										"h": 45,
-										"w": 45
-									},
-									{
-										"x": 434,
-										"y": 255,
-										"h": 44,
-										"w": 44
-									},
-									{
-										"x": 908,
-										"y": 253,
-										"h": 50,
-										"w": 50
-									},
-									{
-										"x": 535,
-										"y": 256,
-										"h": 43,
-										"w": 43
-									},
-									{
-										"x": 215,
-										"y": 262,
-										"h": 43,
-										"w": 43
-									},
-									{
-										"x": 624,
-										"y": 278,
-										"h": 43,
-										"w": 43
-									},
-									{
-										"x": 723,
-										"y": 290,
-										"h": 45,
-										"w": 45
-									},
-									{
-										"x": 359,
-										"y": 296,
-										"h": 45,
-										"w": 45
-									},
-									{
-										"x": 498,
-										"y": 412,
-										"h": 50,
-										"w": 50
-									},
-									{
-										"x": 775,
-										"y": 446,
-										"h": 50,
-										"w": 50
-									},
-									{
-										"x": 127,
-										"y": 447,
-										"h": 55,
-										"w": 55
-									},
-									{
-										"x": 636,
-										"y": 450,
-										"h": 48,
-										"w": 48
-									},
-									{
-										"x": 632,
-										"y": 851,
-										"h": 42,
-										"w": 42
-									},
-									{
-										"x": 983,
-										"y": 246,
-										"h": 52,
-										"w": 52
-									},
-									{
-										"x": 98,
-										"y": 280,
-										"h": 55,
-										"w": 55
-									},
-									{
-										"x": 277,
-										"y": 291,
-										"h": 51,
-										"w": 51
-									},
-									{
-										"x": 578,
-										"y": 372,
-										"h": 51,
-										"w": 51
-									},
-									{
-										"x": 444,
-										"y": 412,
-										"h": 59,
-										"w": 59
-									},
-									{
-										"x": 203,
-										"y": 454,
-										"h": 62,
-										"w": 62
-									},
-									{
-										"x": 880,
-										"y": 495,
-										"h": 64,
-										"w": 64
-									},
-									{
-										"x": 972,
-										"y": 377,
-										"h": 69,
-										"w": 69
-									}
-								]
-							},
-							"large": {
-								"faces": [
-									{
-										"x": 1472,
-										"y": 376,
-										"h": 68,
-										"w": 68
-									},
-									{
-										"x": 530,
-										"y": 408,
-										"h": 80,
-										"w": 80
-									},
-									{
-										"x": 1368,
-										"y": 410,
-										"h": 78,
-										"w": 78
-									},
-									{
-										"x": 742,
-										"y": 436,
-										"h": 76,
-										"w": 76
-									},
-									{
-										"x": 1550,
-										"y": 432,
-										"h": 86,
-										"w": 86
-									},
-									{
-										"x": 914,
-										"y": 438,
-										"h": 74,
-										"w": 74
-									},
-									{
-										"x": 368,
-										"y": 448,
-										"h": 74,
-										"w": 74
-									},
-									{
-										"x": 1066,
-										"y": 476,
-										"h": 74,
-										"w": 74
-									},
-									{
-										"x": 1234,
-										"y": 496,
-										"h": 78,
-										"w": 78
-									},
-									{
-										"x": 614,
-										"y": 506,
-										"h": 78,
-										"w": 78
-									},
-									{
-										"x": 850,
-										"y": 704,
-										"h": 86,
-										"w": 86
-									},
-									{
-										"x": 1324,
-										"y": 762,
-										"h": 86,
-										"w": 86
-									},
-									{
-										"x": 218,
-										"y": 764,
-										"h": 94,
-										"w": 94
-									},
-									{
-										"x": 1086,
-										"y": 768,
-										"h": 82,
-										"w": 82
-									},
-									{
-										"x": 1080,
-										"y": 1454,
-										"h": 72,
-										"w": 72
-									},
-									{
-										"x": 1678,
-										"y": 420,
-										"h": 90,
-										"w": 90
-									},
-									{
-										"x": 168,
-										"y": 478,
-										"h": 94,
-										"w": 94
-									},
-									{
-										"x": 474,
-										"y": 498,
-										"h": 88,
-										"w": 88
-									},
-									{
-										"x": 988,
-										"y": 636,
-										"h": 88,
-										"w": 88
-									},
-									{
-										"x": 758,
-										"y": 704,
-										"h": 102,
-										"w": 102
-									},
-									{
-										"x": 348,
-										"y": 776,
-										"h": 106,
-										"w": 106
-									},
-									{
-										"x": 1502,
-										"y": 846,
-										"h": 110,
-										"w": 110
-									},
-									{
-										"x": 1660,
-										"y": 644,
-										"h": 118,
-										"w": 118
-									}
-								]
-							},
-							"small": {
-								"faces": [
-									{
-										"x": 488,
-										"y": 124,
-										"h": 22,
-										"w": 22
-									},
-									{
-										"x": 175,
-										"y": 135,
-										"h": 26,
-										"w": 26
-									},
-									{
-										"x": 454,
-										"y": 136,
-										"h": 25,
-										"w": 25
-									},
-									{
-										"x": 246,
-										"y": 144,
-										"h": 25,
-										"w": 25
-									},
-									{
-										"x": 514,
-										"y": 143,
-										"h": 28,
-										"w": 28
-									},
-									{
-										"x": 303,
-										"y": 145,
-										"h": 24,
-										"w": 24
-									},
-									{
-										"x": 122,
-										"y": 148,
-										"h": 24,
-										"w": 24
-									},
-									{
-										"x": 353,
-										"y": 158,
-										"h": 24,
-										"w": 24
-									},
-									{
-										"x": 409,
-										"y": 164,
-										"h": 25,
-										"w": 25
-									},
-									{
-										"x": 203,
-										"y": 168,
-										"h": 25,
-										"w": 25
-									},
-									{
-										"x": 282,
-										"y": 233,
-										"h": 28,
-										"w": 28
-									},
-									{
-										"x": 439,
-										"y": 253,
-										"h": 28,
-										"w": 28
-									},
-									{
-										"x": 72,
-										"y": 253,
-										"h": 31,
-										"w": 31
-									},
-									{
-										"x": 360,
-										"y": 255,
-										"h": 27,
-										"w": 27
-									},
-									{
-										"x": 358,
-										"y": 482,
-										"h": 23,
-										"w": 23
-									},
-									{
-										"x": 557,
-										"y": 139,
-										"h": 29,
-										"w": 29
-									},
-									{
-										"x": 55,
-										"y": 158,
-										"h": 31,
-										"w": 31
-									},
-									{
-										"x": 157,
-										"y": 165,
-										"h": 29,
-										"w": 29
-									},
-									{
-										"x": 328,
-										"y": 211,
-										"h": 29,
-										"w": 29
-									},
-									{
-										"x": 251,
-										"y": 233,
-										"h": 33,
-										"w": 33
-									},
-									{
-										"x": 115,
-										"y": 257,
-										"h": 35,
-										"w": 35
-									},
-									{
-										"x": 498,
-										"y": 280,
-										"h": 36,
-										"w": 36
-									},
-									{
-										"x": 551,
-										"y": 213,
-										"h": 39,
-										"w": 39
-									}
-								]
-							},
-							"orig": {
-								"faces": [
-									{
-										"x": 1472,
-										"y": 376,
-										"h": 68,
-										"w": 68
-									},
-									{
-										"x": 530,
-										"y": 408,
-										"h": 80,
-										"w": 80
-									},
-									{
-										"x": 1368,
-										"y": 410,
-										"h": 78,
-										"w": 78
-									},
-									{
-										"x": 742,
-										"y": 436,
-										"h": 76,
-										"w": 76
-									},
-									{
-										"x": 1550,
-										"y": 432,
-										"h": 86,
-										"w": 86
-									},
-									{
-										"x": 914,
-										"y": 438,
-										"h": 74,
-										"w": 74
-									},
-									{
-										"x": 368,
-										"y": 448,
-										"h": 74,
-										"w": 74
-									},
-									{
-										"x": 1066,
-										"y": 476,
-										"h": 74,
-										"w": 74
-									},
-									{
-										"x": 1234,
-										"y": 496,
-										"h": 78,
-										"w": 78
-									},
-									{
-										"x": 614,
-										"y": 506,
-										"h": 78,
-										"w": 78
-									},
-									{
-										"x": 850,
-										"y": 704,
-										"h": 86,
-										"w": 86
-									},
-									{
-										"x": 1324,
-										"y": 762,
-										"h": 86,
-										"w": 86
-									},
-									{
-										"x": 218,
-										"y": 764,
-										"h": 94,
-										"w": 94
-									},
-									{
-										"x": 1086,
-										"y": 768,
-										"h": 82,
-										"w": 82
-									},
-									{
-										"x": 1080,
-										"y": 1454,
-										"h": 72,
-										"w": 72
-									},
-									{
-										"x": 1678,
-										"y": 420,
-										"h": 90,
-										"w": 90
-									},
-									{
-										"x": 168,
-										"y": 478,
-										"h": 94,
-										"w": 94
-									},
-									{
-										"x": 474,
-										"y": 498,
-										"h": 88,
-										"w": 88
-									},
-									{
-										"x": 988,
-										"y": 636,
-										"h": 88,
-										"w": 88
-									},
-									{
-										"x": 758,
-										"y": 704,
-										"h": 102,
-										"w": 102
-									},
-									{
-										"x": 348,
-										"y": 776,
-										"h": 106,
-										"w": 106
-									},
-									{
-										"x": 1502,
-										"y": 846,
-										"h": 110,
-										"w": 110
-									},
-									{
-										"x": 1660,
-										"y": 644,
-										"h": 118,
-										"w": 118
-									}
-								]
-							}
 						}
 					}
 				]
@@ -16874,16 +12792,16 @@ Grailbird.data.tweets_2019_02 =
 					}
 				},
 				"protected": false,
-				"followers_count": 1718,
-				"friends_count": 2510,
+				"followers_count": 1720,
+				"friends_count": 2511,
 				"listed_count": 41,
 				"created_at": "Mon Oct 10 01:04:58 +0000 2016",
-				"favourites_count": 3037,
+				"favourites_count": 3038,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": false,
-				"statuses_count": 2398,
+				"statuses_count": 2399,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -16903,8 +12821,6 @@ Grailbird.data.tweets_2019_02 =
 				"has_extended_profile": true,
 				"default_profile": false,
 				"default_profile_image": false,
-				"can_media_tag": true,
-				"followed_by": true,
 				"following": true,
 				"follow_request_sent": false,
 				"notifications": false,
@@ -17062,20 +12978,6 @@ Grailbird.data.tweets_2019_02 =
 							"h": 405,
 							"resize": "fit"
 						}
-					},
-					"features": {
-						"medium": {
-							"faces": []
-						},
-						"small": {
-							"faces": []
-						},
-						"large": {
-							"faces": []
-						},
-						"orig": {
-							"faces": []
-						}
 					}
 				}
 			]
@@ -17115,20 +13017,6 @@ Grailbird.data.tweets_2019_02 =
 							"w": 1024,
 							"h": 405,
 							"resize": "fit"
-						}
-					},
-					"features": {
-						"medium": {
-							"faces": []
-						},
-						"small": {
-							"faces": []
-						},
-						"large": {
-							"faces": []
-						},
-						"orig": {
-							"faces": []
 						}
 					}
 				}
@@ -17171,12 +13059,12 @@ Grailbird.data.tweets_2019_02 =
 			"friends_count": 152,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7440,
+			"favourites_count": 7450,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13951,
+			"statuses_count": 13955,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -17196,8 +13084,6 @@ Grailbird.data.tweets_2019_02 =
 			"has_extended_profile": true,
 			"default_profile": false,
 			"default_profile_image": false,
-			"can_media_tag": true,
-			"followed_by": false,
 			"following": false,
 			"follow_request_sent": false,
 			"notifications": false,
@@ -17276,20 +13162,6 @@ Grailbird.data.tweets_2019_02 =
 							"h": 768,
 							"resize": "fit"
 						}
-					},
-					"features": {
-						"large": {
-							"faces": []
-						},
-						"small": {
-							"faces": []
-						},
-						"orig": {
-							"faces": []
-						},
-						"medium": {
-							"faces": []
-						}
 					}
 				}
 			]
@@ -17329,20 +13201,6 @@ Grailbird.data.tweets_2019_02 =
 							"w": 1024,
 							"h": 768,
 							"resize": "fit"
-						}
-					},
-					"features": {
-						"large": {
-							"faces": []
-						},
-						"small": {
-							"faces": []
-						},
-						"orig": {
-							"faces": []
-						},
-						"medium": {
-							"faces": []
 						}
 					}
 				}
@@ -17385,12 +13243,12 @@ Grailbird.data.tweets_2019_02 =
 			"friends_count": 152,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7440,
+			"favourites_count": 7450,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13951,
+			"statuses_count": 13955,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -17410,8 +13268,6 @@ Grailbird.data.tweets_2019_02 =
 			"has_extended_profile": true,
 			"default_profile": false,
 			"default_profile_image": false,
-			"can_media_tag": true,
-			"followed_by": false,
 			"following": false,
 			"follow_request_sent": false,
 			"notifications": false,
@@ -17490,624 +13346,6 @@ Grailbird.data.tweets_2019_02 =
 							"h": 768,
 							"resize": "fit"
 						}
-					},
-					"features": {
-						"orig": {
-							"faces": [
-								{
-									"x": 659,
-									"y": 146,
-									"h": 35,
-									"w": 35
-								},
-								{
-									"x": 777,
-									"y": 151,
-									"h": 32,
-									"w": 32
-								},
-								{
-									"x": 494,
-									"y": 189,
-									"h": 35,
-									"w": 35
-								},
-								{
-									"x": 802,
-									"y": 191,
-									"h": 33,
-									"w": 33
-								},
-								{
-									"x": 570,
-									"y": 191,
-									"h": 35,
-									"w": 35
-								},
-								{
-									"x": 645,
-									"y": 194,
-									"h": 36,
-									"w": 36
-								},
-								{
-									"x": 724,
-									"y": 196,
-									"h": 35,
-									"w": 35
-								},
-								{
-									"x": 412,
-									"y": 196,
-									"h": 35,
-									"w": 35
-								},
-								{
-									"x": 321,
-									"y": 204,
-									"h": 36,
-									"w": 36
-								},
-								{
-									"x": 398,
-									"y": 244,
-									"h": 37,
-									"w": 37
-								},
-								{
-									"x": 516,
-									"y": 248,
-									"h": 38,
-									"w": 38
-								},
-								{
-									"x": 843,
-									"y": 249,
-									"h": 36,
-									"w": 36
-								},
-								{
-									"x": 923,
-									"y": 251,
-									"h": 35,
-									"w": 35
-								},
-								{
-									"x": 764,
-									"y": 252,
-									"h": 39,
-									"w": 39
-								},
-								{
-									"x": 675,
-									"y": 257,
-									"h": 37,
-									"w": 37
-								},
-								{
-									"x": 608,
-									"y": 258,
-									"h": 38,
-									"w": 38
-								},
-								{
-									"x": 886,
-									"y": 328,
-									"h": 39,
-									"w": 39
-								},
-								{
-									"x": 965,
-									"y": 332,
-									"h": 42,
-									"w": 42
-								},
-								{
-									"x": 664,
-									"y": 336,
-									"h": 37,
-									"w": 37
-								},
-								{
-									"x": 732,
-									"y": 336,
-									"h": 37,
-									"w": 37
-								},
-								{
-									"x": 547,
-									"y": 344,
-									"h": 39,
-									"w": 39
-								},
-								{
-									"x": 434,
-									"y": 349,
-									"h": 42,
-									"w": 42
-								},
-								{
-									"x": 325,
-									"y": 354,
-									"h": 41,
-									"w": 41
-								},
-								{
-									"x": 814,
-									"y": 336,
-									"h": 39,
-									"w": 39
-								},
-								{
-									"x": 241,
-									"y": 338,
-									"h": 61,
-									"w": 61
-								}
-							]
-						},
-						"small": {
-							"faces": [
-								{
-									"x": 437,
-									"y": 96,
-									"h": 23,
-									"w": 23
-								},
-								{
-									"x": 515,
-									"y": 100,
-									"h": 21,
-									"w": 21
-								},
-								{
-									"x": 328,
-									"y": 125,
-									"h": 23,
-									"w": 23
-								},
-								{
-									"x": 532,
-									"y": 126,
-									"h": 21,
-									"w": 21
-								},
-								{
-									"x": 378,
-									"y": 126,
-									"h": 23,
-									"w": 23
-								},
-								{
-									"x": 428,
-									"y": 128,
-									"h": 23,
-									"w": 23
-								},
-								{
-									"x": 480,
-									"y": 130,
-									"h": 23,
-									"w": 23
-								},
-								{
-									"x": 273,
-									"y": 130,
-									"h": 23,
-									"w": 23
-								},
-								{
-									"x": 213,
-									"y": 135,
-									"h": 23,
-									"w": 23
-								},
-								{
-									"x": 264,
-									"y": 162,
-									"h": 24,
-									"w": 24
-								},
-								{
-									"x": 342,
-									"y": 164,
-									"h": 25,
-									"w": 25
-								},
-								{
-									"x": 559,
-									"y": 165,
-									"h": 23,
-									"w": 23
-								},
-								{
-									"x": 612,
-									"y": 166,
-									"h": 23,
-									"w": 23
-								},
-								{
-									"x": 507,
-									"y": 167,
-									"h": 25,
-									"w": 25
-								},
-								{
-									"x": 448,
-									"y": 170,
-									"h": 24,
-									"w": 24
-								},
-								{
-									"x": 403,
-									"y": 171,
-									"h": 25,
-									"w": 25
-								},
-								{
-									"x": 588,
-									"y": 217,
-									"h": 25,
-									"w": 25
-								},
-								{
-									"x": 640,
-									"y": 220,
-									"h": 27,
-									"w": 27
-								},
-								{
-									"x": 440,
-									"y": 223,
-									"h": 24,
-									"w": 24
-								},
-								{
-									"x": 486,
-									"y": 223,
-									"h": 24,
-									"w": 24
-								},
-								{
-									"x": 363,
-									"y": 228,
-									"h": 25,
-									"w": 25
-								},
-								{
-									"x": 288,
-									"y": 231,
-									"h": 27,
-									"w": 27
-								},
-								{
-									"x": 215,
-									"y": 235,
-									"h": 27,
-									"w": 27
-								},
-								{
-									"x": 540,
-									"y": 223,
-									"h": 25,
-									"w": 25
-								},
-								{
-									"x": 160,
-									"y": 224,
-									"h": 40,
-									"w": 40
-								}
-							]
-						},
-						"medium": {
-							"faces": [
-								{
-									"x": 659,
-									"y": 146,
-									"h": 35,
-									"w": 35
-								},
-								{
-									"x": 777,
-									"y": 151,
-									"h": 32,
-									"w": 32
-								},
-								{
-									"x": 494,
-									"y": 189,
-									"h": 35,
-									"w": 35
-								},
-								{
-									"x": 802,
-									"y": 191,
-									"h": 33,
-									"w": 33
-								},
-								{
-									"x": 570,
-									"y": 191,
-									"h": 35,
-									"w": 35
-								},
-								{
-									"x": 645,
-									"y": 194,
-									"h": 36,
-									"w": 36
-								},
-								{
-									"x": 724,
-									"y": 196,
-									"h": 35,
-									"w": 35
-								},
-								{
-									"x": 412,
-									"y": 196,
-									"h": 35,
-									"w": 35
-								},
-								{
-									"x": 321,
-									"y": 204,
-									"h": 36,
-									"w": 36
-								},
-								{
-									"x": 398,
-									"y": 244,
-									"h": 37,
-									"w": 37
-								},
-								{
-									"x": 516,
-									"y": 248,
-									"h": 38,
-									"w": 38
-								},
-								{
-									"x": 843,
-									"y": 249,
-									"h": 36,
-									"w": 36
-								},
-								{
-									"x": 923,
-									"y": 251,
-									"h": 35,
-									"w": 35
-								},
-								{
-									"x": 764,
-									"y": 252,
-									"h": 39,
-									"w": 39
-								},
-								{
-									"x": 675,
-									"y": 257,
-									"h": 37,
-									"w": 37
-								},
-								{
-									"x": 608,
-									"y": 258,
-									"h": 38,
-									"w": 38
-								},
-								{
-									"x": 886,
-									"y": 328,
-									"h": 39,
-									"w": 39
-								},
-								{
-									"x": 965,
-									"y": 332,
-									"h": 42,
-									"w": 42
-								},
-								{
-									"x": 664,
-									"y": 336,
-									"h": 37,
-									"w": 37
-								},
-								{
-									"x": 732,
-									"y": 336,
-									"h": 37,
-									"w": 37
-								},
-								{
-									"x": 547,
-									"y": 344,
-									"h": 39,
-									"w": 39
-								},
-								{
-									"x": 434,
-									"y": 349,
-									"h": 42,
-									"w": 42
-								},
-								{
-									"x": 325,
-									"y": 354,
-									"h": 41,
-									"w": 41
-								},
-								{
-									"x": 814,
-									"y": 336,
-									"h": 39,
-									"w": 39
-								},
-								{
-									"x": 241,
-									"y": 338,
-									"h": 61,
-									"w": 61
-								}
-							]
-						},
-						"large": {
-							"faces": [
-								{
-									"x": 659,
-									"y": 146,
-									"h": 35,
-									"w": 35
-								},
-								{
-									"x": 777,
-									"y": 151,
-									"h": 32,
-									"w": 32
-								},
-								{
-									"x": 494,
-									"y": 189,
-									"h": 35,
-									"w": 35
-								},
-								{
-									"x": 802,
-									"y": 191,
-									"h": 33,
-									"w": 33
-								},
-								{
-									"x": 570,
-									"y": 191,
-									"h": 35,
-									"w": 35
-								},
-								{
-									"x": 645,
-									"y": 194,
-									"h": 36,
-									"w": 36
-								},
-								{
-									"x": 724,
-									"y": 196,
-									"h": 35,
-									"w": 35
-								},
-								{
-									"x": 412,
-									"y": 196,
-									"h": 35,
-									"w": 35
-								},
-								{
-									"x": 321,
-									"y": 204,
-									"h": 36,
-									"w": 36
-								},
-								{
-									"x": 398,
-									"y": 244,
-									"h": 37,
-									"w": 37
-								},
-								{
-									"x": 516,
-									"y": 248,
-									"h": 38,
-									"w": 38
-								},
-								{
-									"x": 843,
-									"y": 249,
-									"h": 36,
-									"w": 36
-								},
-								{
-									"x": 923,
-									"y": 251,
-									"h": 35,
-									"w": 35
-								},
-								{
-									"x": 764,
-									"y": 252,
-									"h": 39,
-									"w": 39
-								},
-								{
-									"x": 675,
-									"y": 257,
-									"h": 37,
-									"w": 37
-								},
-								{
-									"x": 608,
-									"y": 258,
-									"h": 38,
-									"w": 38
-								},
-								{
-									"x": 886,
-									"y": 328,
-									"h": 39,
-									"w": 39
-								},
-								{
-									"x": 965,
-									"y": 332,
-									"h": 42,
-									"w": 42
-								},
-								{
-									"x": 664,
-									"y": 336,
-									"h": 37,
-									"w": 37
-								},
-								{
-									"x": 732,
-									"y": 336,
-									"h": 37,
-									"w": 37
-								},
-								{
-									"x": 547,
-									"y": 344,
-									"h": 39,
-									"w": 39
-								},
-								{
-									"x": 434,
-									"y": 349,
-									"h": 42,
-									"w": 42
-								},
-								{
-									"x": 325,
-									"y": 354,
-									"h": 41,
-									"w": 41
-								},
-								{
-									"x": 814,
-									"y": 336,
-									"h": 39,
-									"w": 39
-								},
-								{
-									"x": 241,
-									"y": 338,
-									"h": 61,
-									"w": 61
-								}
-							]
-						}
 					}
 				}
 			]
@@ -18147,624 +13385,6 @@ Grailbird.data.tweets_2019_02 =
 							"w": 1024,
 							"h": 768,
 							"resize": "fit"
-						}
-					},
-					"features": {
-						"orig": {
-							"faces": [
-								{
-									"x": 659,
-									"y": 146,
-									"h": 35,
-									"w": 35
-								},
-								{
-									"x": 777,
-									"y": 151,
-									"h": 32,
-									"w": 32
-								},
-								{
-									"x": 494,
-									"y": 189,
-									"h": 35,
-									"w": 35
-								},
-								{
-									"x": 802,
-									"y": 191,
-									"h": 33,
-									"w": 33
-								},
-								{
-									"x": 570,
-									"y": 191,
-									"h": 35,
-									"w": 35
-								},
-								{
-									"x": 645,
-									"y": 194,
-									"h": 36,
-									"w": 36
-								},
-								{
-									"x": 724,
-									"y": 196,
-									"h": 35,
-									"w": 35
-								},
-								{
-									"x": 412,
-									"y": 196,
-									"h": 35,
-									"w": 35
-								},
-								{
-									"x": 321,
-									"y": 204,
-									"h": 36,
-									"w": 36
-								},
-								{
-									"x": 398,
-									"y": 244,
-									"h": 37,
-									"w": 37
-								},
-								{
-									"x": 516,
-									"y": 248,
-									"h": 38,
-									"w": 38
-								},
-								{
-									"x": 843,
-									"y": 249,
-									"h": 36,
-									"w": 36
-								},
-								{
-									"x": 923,
-									"y": 251,
-									"h": 35,
-									"w": 35
-								},
-								{
-									"x": 764,
-									"y": 252,
-									"h": 39,
-									"w": 39
-								},
-								{
-									"x": 675,
-									"y": 257,
-									"h": 37,
-									"w": 37
-								},
-								{
-									"x": 608,
-									"y": 258,
-									"h": 38,
-									"w": 38
-								},
-								{
-									"x": 886,
-									"y": 328,
-									"h": 39,
-									"w": 39
-								},
-								{
-									"x": 965,
-									"y": 332,
-									"h": 42,
-									"w": 42
-								},
-								{
-									"x": 664,
-									"y": 336,
-									"h": 37,
-									"w": 37
-								},
-								{
-									"x": 732,
-									"y": 336,
-									"h": 37,
-									"w": 37
-								},
-								{
-									"x": 547,
-									"y": 344,
-									"h": 39,
-									"w": 39
-								},
-								{
-									"x": 434,
-									"y": 349,
-									"h": 42,
-									"w": 42
-								},
-								{
-									"x": 325,
-									"y": 354,
-									"h": 41,
-									"w": 41
-								},
-								{
-									"x": 814,
-									"y": 336,
-									"h": 39,
-									"w": 39
-								},
-								{
-									"x": 241,
-									"y": 338,
-									"h": 61,
-									"w": 61
-								}
-							]
-						},
-						"small": {
-							"faces": [
-								{
-									"x": 437,
-									"y": 96,
-									"h": 23,
-									"w": 23
-								},
-								{
-									"x": 515,
-									"y": 100,
-									"h": 21,
-									"w": 21
-								},
-								{
-									"x": 328,
-									"y": 125,
-									"h": 23,
-									"w": 23
-								},
-								{
-									"x": 532,
-									"y": 126,
-									"h": 21,
-									"w": 21
-								},
-								{
-									"x": 378,
-									"y": 126,
-									"h": 23,
-									"w": 23
-								},
-								{
-									"x": 428,
-									"y": 128,
-									"h": 23,
-									"w": 23
-								},
-								{
-									"x": 480,
-									"y": 130,
-									"h": 23,
-									"w": 23
-								},
-								{
-									"x": 273,
-									"y": 130,
-									"h": 23,
-									"w": 23
-								},
-								{
-									"x": 213,
-									"y": 135,
-									"h": 23,
-									"w": 23
-								},
-								{
-									"x": 264,
-									"y": 162,
-									"h": 24,
-									"w": 24
-								},
-								{
-									"x": 342,
-									"y": 164,
-									"h": 25,
-									"w": 25
-								},
-								{
-									"x": 559,
-									"y": 165,
-									"h": 23,
-									"w": 23
-								},
-								{
-									"x": 612,
-									"y": 166,
-									"h": 23,
-									"w": 23
-								},
-								{
-									"x": 507,
-									"y": 167,
-									"h": 25,
-									"w": 25
-								},
-								{
-									"x": 448,
-									"y": 170,
-									"h": 24,
-									"w": 24
-								},
-								{
-									"x": 403,
-									"y": 171,
-									"h": 25,
-									"w": 25
-								},
-								{
-									"x": 588,
-									"y": 217,
-									"h": 25,
-									"w": 25
-								},
-								{
-									"x": 640,
-									"y": 220,
-									"h": 27,
-									"w": 27
-								},
-								{
-									"x": 440,
-									"y": 223,
-									"h": 24,
-									"w": 24
-								},
-								{
-									"x": 486,
-									"y": 223,
-									"h": 24,
-									"w": 24
-								},
-								{
-									"x": 363,
-									"y": 228,
-									"h": 25,
-									"w": 25
-								},
-								{
-									"x": 288,
-									"y": 231,
-									"h": 27,
-									"w": 27
-								},
-								{
-									"x": 215,
-									"y": 235,
-									"h": 27,
-									"w": 27
-								},
-								{
-									"x": 540,
-									"y": 223,
-									"h": 25,
-									"w": 25
-								},
-								{
-									"x": 160,
-									"y": 224,
-									"h": 40,
-									"w": 40
-								}
-							]
-						},
-						"medium": {
-							"faces": [
-								{
-									"x": 659,
-									"y": 146,
-									"h": 35,
-									"w": 35
-								},
-								{
-									"x": 777,
-									"y": 151,
-									"h": 32,
-									"w": 32
-								},
-								{
-									"x": 494,
-									"y": 189,
-									"h": 35,
-									"w": 35
-								},
-								{
-									"x": 802,
-									"y": 191,
-									"h": 33,
-									"w": 33
-								},
-								{
-									"x": 570,
-									"y": 191,
-									"h": 35,
-									"w": 35
-								},
-								{
-									"x": 645,
-									"y": 194,
-									"h": 36,
-									"w": 36
-								},
-								{
-									"x": 724,
-									"y": 196,
-									"h": 35,
-									"w": 35
-								},
-								{
-									"x": 412,
-									"y": 196,
-									"h": 35,
-									"w": 35
-								},
-								{
-									"x": 321,
-									"y": 204,
-									"h": 36,
-									"w": 36
-								},
-								{
-									"x": 398,
-									"y": 244,
-									"h": 37,
-									"w": 37
-								},
-								{
-									"x": 516,
-									"y": 248,
-									"h": 38,
-									"w": 38
-								},
-								{
-									"x": 843,
-									"y": 249,
-									"h": 36,
-									"w": 36
-								},
-								{
-									"x": 923,
-									"y": 251,
-									"h": 35,
-									"w": 35
-								},
-								{
-									"x": 764,
-									"y": 252,
-									"h": 39,
-									"w": 39
-								},
-								{
-									"x": 675,
-									"y": 257,
-									"h": 37,
-									"w": 37
-								},
-								{
-									"x": 608,
-									"y": 258,
-									"h": 38,
-									"w": 38
-								},
-								{
-									"x": 886,
-									"y": 328,
-									"h": 39,
-									"w": 39
-								},
-								{
-									"x": 965,
-									"y": 332,
-									"h": 42,
-									"w": 42
-								},
-								{
-									"x": 664,
-									"y": 336,
-									"h": 37,
-									"w": 37
-								},
-								{
-									"x": 732,
-									"y": 336,
-									"h": 37,
-									"w": 37
-								},
-								{
-									"x": 547,
-									"y": 344,
-									"h": 39,
-									"w": 39
-								},
-								{
-									"x": 434,
-									"y": 349,
-									"h": 42,
-									"w": 42
-								},
-								{
-									"x": 325,
-									"y": 354,
-									"h": 41,
-									"w": 41
-								},
-								{
-									"x": 814,
-									"y": 336,
-									"h": 39,
-									"w": 39
-								},
-								{
-									"x": 241,
-									"y": 338,
-									"h": 61,
-									"w": 61
-								}
-							]
-						},
-						"large": {
-							"faces": [
-								{
-									"x": 659,
-									"y": 146,
-									"h": 35,
-									"w": 35
-								},
-								{
-									"x": 777,
-									"y": 151,
-									"h": 32,
-									"w": 32
-								},
-								{
-									"x": 494,
-									"y": 189,
-									"h": 35,
-									"w": 35
-								},
-								{
-									"x": 802,
-									"y": 191,
-									"h": 33,
-									"w": 33
-								},
-								{
-									"x": 570,
-									"y": 191,
-									"h": 35,
-									"w": 35
-								},
-								{
-									"x": 645,
-									"y": 194,
-									"h": 36,
-									"w": 36
-								},
-								{
-									"x": 724,
-									"y": 196,
-									"h": 35,
-									"w": 35
-								},
-								{
-									"x": 412,
-									"y": 196,
-									"h": 35,
-									"w": 35
-								},
-								{
-									"x": 321,
-									"y": 204,
-									"h": 36,
-									"w": 36
-								},
-								{
-									"x": 398,
-									"y": 244,
-									"h": 37,
-									"w": 37
-								},
-								{
-									"x": 516,
-									"y": 248,
-									"h": 38,
-									"w": 38
-								},
-								{
-									"x": 843,
-									"y": 249,
-									"h": 36,
-									"w": 36
-								},
-								{
-									"x": 923,
-									"y": 251,
-									"h": 35,
-									"w": 35
-								},
-								{
-									"x": 764,
-									"y": 252,
-									"h": 39,
-									"w": 39
-								},
-								{
-									"x": 675,
-									"y": 257,
-									"h": 37,
-									"w": 37
-								},
-								{
-									"x": 608,
-									"y": 258,
-									"h": 38,
-									"w": 38
-								},
-								{
-									"x": 886,
-									"y": 328,
-									"h": 39,
-									"w": 39
-								},
-								{
-									"x": 965,
-									"y": 332,
-									"h": 42,
-									"w": 42
-								},
-								{
-									"x": 664,
-									"y": 336,
-									"h": 37,
-									"w": 37
-								},
-								{
-									"x": 732,
-									"y": 336,
-									"h": 37,
-									"w": 37
-								},
-								{
-									"x": 547,
-									"y": 344,
-									"h": 39,
-									"w": 39
-								},
-								{
-									"x": 434,
-									"y": 349,
-									"h": 42,
-									"w": 42
-								},
-								{
-									"x": 325,
-									"y": 354,
-									"h": 41,
-									"w": 41
-								},
-								{
-									"x": 814,
-									"y": 336,
-									"h": 39,
-									"w": 39
-								},
-								{
-									"x": 241,
-									"y": 338,
-									"h": 61,
-									"w": 61
-								}
-							]
 						}
 					}
 				}
@@ -18807,12 +13427,12 @@ Grailbird.data.tweets_2019_02 =
 			"friends_count": 152,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7440,
+			"favourites_count": 7450,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13951,
+			"statuses_count": 13955,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -18832,8 +13452,6 @@ Grailbird.data.tweets_2019_02 =
 			"has_extended_profile": true,
 			"default_profile": false,
 			"default_profile_image": false,
-			"can_media_tag": true,
-			"followed_by": false,
 			"following": false,
 			"follow_request_sent": false,
 			"notifications": false,
