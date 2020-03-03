@@ -49,16 +49,16 @@ Grailbird.data.tweets_2016_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 51212,
-			"friends_count": 257,
-			"listed_count": 2303,
+			"followers_count": 51189,
+			"friends_count": 256,
+			"listed_count": 2301,
 			"created_at": "Fri Jul 10 10:24:12 +0000 2009",
-			"favourites_count": 1308,
+			"favourites_count": 1309,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 80148,
+			"statuses_count": 80215,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -144,16 +144,16 @@ Grailbird.data.tweets_2016_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 828,
-			"friends_count": 153,
+			"followers_count": 829,
+			"friends_count": 155,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7551,
+			"favourites_count": 7553,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13999,
+			"statuses_count": 14002,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -270,16 +270,16 @@ Grailbird.data.tweets_2016_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 828,
-			"friends_count": 153,
+			"followers_count": 829,
+			"friends_count": 155,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7551,
+			"favourites_count": 7553,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13999,
+			"statuses_count": 14002,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -377,16 +377,16 @@ Grailbird.data.tweets_2016_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 828,
-			"friends_count": 153,
+			"followers_count": 829,
+			"friends_count": 155,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7551,
+			"favourites_count": 7553,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13999,
+			"statuses_count": 14002,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -516,16 +516,16 @@ Grailbird.data.tweets_2016_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 828,
-			"friends_count": 153,
+			"followers_count": 829,
+			"friends_count": 155,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7551,
+			"favourites_count": 7553,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13999,
+			"statuses_count": 14002,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -655,16 +655,16 @@ Grailbird.data.tweets_2016_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 828,
-			"friends_count": 153,
+			"followers_count": 829,
+			"friends_count": 155,
 			"listed_count": 98,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7551,
+			"favourites_count": 7553,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13999,
+			"statuses_count": 14002,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -733,258 +733,5 @@ Grailbird.data.tweets_2016_09 =
 		"retweeted": false,
 		"lang": "en",
 		"text": "@jimgroom same experience here when I spent a year in Sweden! I could listen to the radio but couldn’t speak much at all in a year."
-	},
-	{
-		"created_at": "Thu Sep 29 03:28:35 +0000 2016",
-		"id": 781334833138131000,
-		"id_str": "781334833138130944",
-		"full_text": "Why You Should Leave I Out of Feedback https://t.co/UsL6OiK2mP #inhale",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			70
-		],
-		"entities": {
-			"hashtags": [
-				{
-					"text": "inhale",
-					"indices": [
-						63,
-						70
-					]
-				}
-			],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": [
-				{
-					"url": "https://t.co/UsL6OiK2mP",
-					"expanded_url": "http://inhal.es/post/2016/09/29/Leave-I-Out-of-Feedback.html",
-					"display_url": "inhal.es/post/2016/09/2…",
-					"indices": [
-						39,
-						62
-					]
-				}
-			]
-		},
-		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 174124175,
-			"id_str": "174124175",
-			"name": "Tim Klapdor",
-			"screen_name": "timklapdor",
-			"location": "Adelaide, South Australia",
-			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "https://t.co/uC0c3me6KE",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/uC0c3me6KE",
-							"expanded_url": "http://timklapdor.com",
-							"display_url": "timklapdor.com",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 828,
-			"friends_count": 153,
-			"listed_count": 98,
-			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7551,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 13999,
-			"lang": null,
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "C0DEED",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
-			"profile_link_color": "5FA832",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "DDEEF6",
-			"profile_text_color": "333333",
-			"profile_use_background_image": true,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 0,
-		"favorited": false,
-		"retweeted": false,
-		"possibly_sensitive": false,
-		"lang": "en",
-		"text": "Why You Should Leave I Out of Feedback https://t.co/UsL6OiK2mP #inhale"
-	},
-	{
-		"created_at": "Thu Sep 29 02:34:01 +0000 2016",
-		"id": 781321100743413800,
-		"id_str": "781321100743413760",
-		"full_text": "@365cups awesome!!! Thanks",
-		"truncated": false,
-		"display_text_range": [
-			9,
-			26
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [
-				{
-					"screen_name": "365cups",
-					"name": "365cups.com",
-					"id": 201865242,
-					"id_str": "201865242",
-					"indices": [
-						0,
-						8
-					]
-				}
-			],
-			"urls": []
-		},
-		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
-		"in_reply_to_status_id": 781320813924483100,
-		"in_reply_to_status_id_str": "781320813924483072",
-		"in_reply_to_user_id": 201865242,
-		"in_reply_to_user_id_str": "201865242",
-		"in_reply_to_screen_name": "365cups",
-		"user": {
-			"id": 174124175,
-			"id_str": "174124175",
-			"name": "Tim Klapdor",
-			"screen_name": "timklapdor",
-			"location": "Adelaide, South Australia",
-			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "https://t.co/uC0c3me6KE",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/uC0c3me6KE",
-							"expanded_url": "http://timklapdor.com",
-							"display_url": "timklapdor.com",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 828,
-			"friends_count": 153,
-			"listed_count": 98,
-			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7551,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 13999,
-			"lang": null,
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "C0DEED",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
-			"profile_link_color": "5FA832",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "DDEEF6",
-			"profile_text_color": "333333",
-			"profile_use_background_image": true,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": {
-			"id": "00de77a74e8155fa",
-			"url": "https://api.twitter.com/1.1/geo/id/00de77a74e8155fa.json",
-			"place_type": "city",
-			"name": "Estella",
-			"full_name": "Estella, New South Wales",
-			"country_code": "AU",
-			"country": "Australia",
-			"contained_within": [],
-			"bounding_box": {
-				"type": "Polygon",
-				"coordinates": [
-					[
-						[
-							147.342861344,
-							-35.0844753575
-						],
-						[
-							147.363966496,
-							-35.0844753575
-						],
-						[
-							147.363966496,
-							-35.046804418
-						],
-						[
-							147.342861344,
-							-35.046804418
-						]
-					]
-				]
-			},
-			"attributes": {}
-		},
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 1,
-		"favorited": false,
-		"retweeted": false,
-		"lang": "en",
-		"text": "@365cups awesome!!! Thanks"
 	}
 ]
