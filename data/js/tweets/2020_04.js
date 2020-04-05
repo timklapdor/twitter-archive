@@ -1,6 +1,360 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sat Apr 04 13:05:12 +0000 2020",
+		"id": 1246352779850821600,
+		"id_str": "1246423576846069760",
+		"full_text": "Seriously @TheIPA should be registered as a terrorist organisation. #COVID19au https://t.co/kCT1HVXH8S",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "COVID19au",
+					"indices": [
+						68,
+						78
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TheIPA",
+					"name": "Institute of Public Affairs",
+					"id": 63025854,
+					"id_str": "63025854",
+					"indices": [
+						10,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/kCT1HVXH8S",
+					"expanded_url": "https://twitter.com/theipa/status/1246173124758028288",
+					"display_url": "twitter.com/theipa/status/…",
+					"indices": [
+						79,
+						102
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1662016292,
+			"id_str": "1662016292",
+			"name": "Fr Rod Bower",
+			"screen_name": "FrBower",
+			"location": "Gosford",
+			"description": "Husband, Father, Grandfather, Archdeacon for Justice, Rector of Gosford. Author of #Outspoken.",
+			"url": "https://t.co/tVdVx8r9Ae",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tVdVx8r9Ae",
+							"expanded_url": "https://anggos.com.au",
+							"display_url": "anggos.com.au",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35045,
+			"friends_count": 311,
+			"listed_count": 224,
+			"created_at": "Sun Aug 11 08:27:31 +0000 2013",
+			"favourites_count": 2064,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4505,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1175305554039754752/VmD5O80k_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1175305554039754752/VmD5O80k_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1662016292/1578220175",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1246173124758028300,
+		"quoted_status_id_str": "1246173124758028288",
+		"quoted_status_permalink": {
+			"url": "https://t.co/kCT1HVXH8S",
+			"expanded": "https://twitter.com/theipa/status/1246173124758028288",
+			"display": "twitter.com/theipa/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Apr 03 20:30:00 +0000 2020",
+			"id": 1246173124758028300,
+			"id_str": "1246173124758028288",
+			"full_text": "📺 NEW VIDEO: @GideonCRozner explains why the efforts by state and federal governments to control the health crisis created by the #covid19au outbreak risks creating as much bigger economic and humanitarian crisis. We must begin to end this lockdown now. https://t.co/5q3gXzgZuP",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				253
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "covid19au",
+						"indices": [
+							130,
+							140
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "GideonCRozner",
+						"name": "Gideon Rozner",
+						"id": 147484071,
+						"id_str": "147484071",
+						"indices": [
+							13,
+							27
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1246059745489776600,
+						"id_str": "1246059745489776644",
+						"indices": [
+							254,
+							277
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1246059745489776644/pu/img/xGOT-1sKmbEEq6Up.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1246059745489776644/pu/img/xGOT-1sKmbEEq6Up.jpg",
+						"url": "https://t.co/5q3gXzgZuP",
+						"display_url": "pic.twitter.com/5q3gXzgZuP",
+						"expanded_url": "https://twitter.com/TheIPA/status/1246173124758028288/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1246059745489776600,
+						"id_str": "1246059745489776644",
+						"indices": [
+							254,
+							277
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1246059745489776644/pu/img/xGOT-1sKmbEEq6Up.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1246059745489776644/pu/img/xGOT-1sKmbEEq6Up.jpg",
+						"url": "https://t.co/5q3gXzgZuP",
+						"display_url": "pic.twitter.com/5q3gXzgZuP",
+						"expanded_url": "https://twitter.com/TheIPA/status/1246173124758028288/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 86800,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1246059745489776644/pu/vid/1280x720/3U5wE9r_WGaDFTOC.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1246059745489776644/pu/pl/B-oMKDOpzLNLd8ri.m3u8?tag=10"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1246059745489776644/pu/vid/480x270/HrSXBeDhl7JUNwGi.mp4?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1246059745489776644/pu/vid/640x360/uz8DbPBOQves58dY.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 63025854,
+				"id_str": "63025854",
+				"name": "Institute of Public Affairs",
+				"screen_name": "TheIPA",
+				"location": "Melbourne, Australia",
+				"description": "The voice for freedom - established in 1943.",
+				"url": "http://t.co/ZcxwBFuEmj",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/ZcxwBFuEmj",
+								"expanded_url": "http://www.ipa.org.au",
+								"display_url": "ipa.org.au",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 15539,
+				"friends_count": 4475,
+				"listed_count": 320,
+				"created_at": "Wed Aug 05 03:59:48 +0000 2009",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 7734,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C9282E",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1096249734921019397/chZE66vW_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1096249734921019397/chZE66vW_normal.png",
+				"profile_link_color": "A01E1E",
+				"profile_sidebar_border_color": "C9282E",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 178,
+			"favorite_count": 481,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 385,
+		"favorite_count": 1701,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Seriously @TheIPA should be registered as a terrorist organisation. #COVID19au https://t.co/kCT1HVXH8S"
+	},
+	{
 		"created_at": "Fri Apr 03 23:36:10 +0000 2020",
 		"id": 1246219974718283800,
 		"id_str": "1246219974718283776",
@@ -59,16 +413,16 @@ Grailbird.data.tweets_2020_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 832,
-			"friends_count": 158,
+			"followers_count": 831,
+			"friends_count": 157,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7792,
+			"favourites_count": 7798,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14194,
+			"statuses_count": 14195,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -174,16 +528,16 @@ Grailbird.data.tweets_2020_04 =
 					}
 				},
 				"protected": false,
-				"followers_count": 139420,
-				"friends_count": 1188,
-				"listed_count": 879,
+				"followers_count": 139451,
+				"friends_count": 1190,
+				"listed_count": 880,
 				"created_at": "Tue Jun 29 08:55:27 +0000 2010",
-				"favourites_count": 9498,
+				"favourites_count": 9537,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": false,
-				"statuses_count": 58960,
+				"statuses_count": 59006,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -213,8 +567,8 @@ Grailbird.data.tweets_2020_04 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 57,
-			"favorite_count": 1095,
+			"retweet_count": 59,
+			"favorite_count": 1118,
 			"favorited": false,
 			"retweeted": false,
 			"lang": "en"
@@ -286,16 +640,16 @@ Grailbird.data.tweets_2020_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 40767,
-			"friends_count": 4080,
-			"listed_count": 247,
+			"followers_count": 40796,
+			"friends_count": 4088,
+			"listed_count": 246,
 			"created_at": "Fri Oct 29 04:20:29 +0000 2010",
-			"favourites_count": 2962,
+			"favourites_count": 2969,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 31941,
+			"statuses_count": 31963,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -480,16 +834,16 @@ Grailbird.data.tweets_2020_04 =
 					}
 				},
 				"protected": false,
-				"followers_count": 24348,
-				"friends_count": 4207,
-				"listed_count": 641,
+				"followers_count": 24756,
+				"friends_count": 4209,
+				"listed_count": 643,
 				"created_at": "Wed Feb 09 21:37:37 +0000 2011",
-				"favourites_count": 1681,
+				"favourites_count": 1682,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": true,
-				"statuses_count": 22262,
+				"statuses_count": 22263,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -519,15 +873,15 @@ Grailbird.data.tweets_2020_04 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 35189,
-			"favorite_count": 64662,
+			"retweet_count": 41296,
+			"favorite_count": 77806,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
 			"lang": "en"
 		},
-		"retweet_count": 440,
-		"favorite_count": 913,
+		"retweet_count": 452,
+		"favorite_count": 933,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -662,15 +1016,15 @@ Grailbird.data.tweets_2020_04 =
 			},
 			"protected": false,
 			"followers_count": 49280,
-			"friends_count": 6222,
+			"friends_count": 6224,
 			"listed_count": 563,
 			"created_at": "Mon Feb 16 07:23:40 +0000 2009",
-			"favourites_count": 44510,
+			"favourites_count": 44526,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 40742,
+			"statuses_count": 40748,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -700,8 +1054,8 @@ Grailbird.data.tweets_2020_04 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 121,
-		"favorite_count": 767,
+		"retweet_count": 123,
+		"favorite_count": 787,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -744,16 +1098,16 @@ Grailbird.data.tweets_2020_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 4490,
-			"friends_count": 4237,
-			"listed_count": 34,
+			"followers_count": 4531,
+			"friends_count": 4245,
+			"listed_count": 35,
 			"created_at": "Fri Feb 11 06:42:28 +0000 2011",
-			"favourites_count": 24988,
+			"favourites_count": 25009,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 13637,
+			"statuses_count": 13638,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -783,8 +1137,8 @@ Grailbird.data.tweets_2020_04 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 100783,
-		"favorite_count": 365925,
+		"retweet_count": 101436,
+		"favorite_count": 367550,
 		"favorited": false,
 		"retweeted": true,
 		"lang": "en",
@@ -849,16 +1203,16 @@ Grailbird.data.tweets_2020_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 832,
-			"friends_count": 158,
+			"followers_count": 831,
+			"friends_count": 157,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7792,
+			"favourites_count": 7798,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14194,
+			"statuses_count": 14195,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -955,16 +1309,16 @@ Grailbird.data.tweets_2020_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 832,
-			"friends_count": 158,
+			"followers_count": 831,
+			"friends_count": 157,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7792,
+			"favourites_count": 7798,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14194,
+			"statuses_count": 14195,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1190,16 +1544,16 @@ Grailbird.data.tweets_2020_04 =
 									}
 								},
 								"protected": false,
-								"followers_count": 1012,
-								"friends_count": 440,
+								"followers_count": 1099,
+								"friends_count": 450,
 								"listed_count": 7,
 								"created_at": "Wed Mar 30 09:58:26 +0000 2011",
-								"favourites_count": 15869,
+								"favourites_count": 15956,
 								"utc_offset": null,
 								"time_zone": null,
 								"geo_enabled": true,
 								"verified": false,
-								"statuses_count": 10763,
+								"statuses_count": 10804,
 								"lang": null,
 								"contributors_enabled": false,
 								"is_translator": false,
@@ -1261,16 +1615,16 @@ Grailbird.data.tweets_2020_04 =
 					}
 				},
 				"protected": false,
-				"followers_count": 69168,
-				"friends_count": 678,
-				"listed_count": 797,
+				"followers_count": 69236,
+				"friends_count": 679,
+				"listed_count": 798,
 				"created_at": "Mon Apr 06 22:06:52 +0000 2009",
-				"favourites_count": 293,
+				"favourites_count": 294,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": true,
-				"statuses_count": 84441,
+				"statuses_count": 84460,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -1300,8 +1654,8 @@ Grailbird.data.tweets_2020_04 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 57726,
-			"favorite_count": 158438,
+			"retweet_count": 61104,
+			"favorite_count": 166427,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
@@ -1364,16 +1718,16 @@ Grailbird.data.tweets_2020_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 41614,
-			"friends_count": 972,
-			"listed_count": 2656,
+			"followers_count": 41630,
+			"friends_count": 971,
+			"listed_count": 2657,
 			"created_at": "Thu Mar 19 21:23:22 +0000 2009",
-			"favourites_count": 35565,
+			"favourites_count": 35575,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 556,
+			"statuses_count": 525,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1404,7 +1758,7 @@ Grailbird.data.tweets_2020_04 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 18,
-		"favorite_count": 49,
+		"favorite_count": 50,
 		"favorited": false,
 		"retweeted": true,
 		"lang": "en",
@@ -1488,16 +1842,16 @@ Grailbird.data.tweets_2020_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 832,
-			"friends_count": 158,
+			"followers_count": 831,
+			"friends_count": 157,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7792,
+			"favourites_count": 7798,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14194,
+			"statuses_count": 14195,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
