@@ -64,12 +64,12 @@ Grailbird.data.tweets_2016_11 =
 			"friends_count": 157,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7805,
+			"favourites_count": 7815,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14203,
+			"statuses_count": 14205,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -202,12 +202,12 @@ Grailbird.data.tweets_2016_11 =
 			"friends_count": 157,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7805,
+			"favourites_count": 7815,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14203,
+			"statuses_count": 14205,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -352,12 +352,12 @@ Grailbird.data.tweets_2016_11 =
 			"friends_count": 157,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7805,
+			"favourites_count": 7815,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14203,
+			"statuses_count": 14205,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -559,12 +559,12 @@ Grailbird.data.tweets_2016_11 =
 			"friends_count": 157,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7805,
+			"favourites_count": 7815,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14203,
+			"statuses_count": 14205,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -713,12 +713,12 @@ Grailbird.data.tweets_2016_11 =
 			"friends_count": 157,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7805,
+			"favourites_count": 7815,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14203,
+			"statuses_count": 14205,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -863,12 +863,12 @@ Grailbird.data.tweets_2016_11 =
 			"friends_count": 157,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7805,
+			"favourites_count": 7815,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14203,
+			"statuses_count": 14205,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -937,303 +937,5 @@ Grailbird.data.tweets_2016_11 =
 		"retweeted": false,
 		"lang": "en",
 		"text": "@sthcrft @benkehrwald nerds everywhere else, but for the few days of ascilite, the cool kids we are :-)"
-	},
-	{
-		"created_at": "Tue Nov 29 10:51:09 +0000 2016",
-		"id": 803551870589337600,
-		"id_str": "803551870589337602",
-		"full_text": "@sthcrft I think you should catch up with @benkehrwald. He can show you where the proper ones are. Sad now to be missing ascilite",
-		"truncated": false,
-		"display_text_range": [
-			9,
-			129
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [
-				{
-					"screen_name": "sthcrft",
-					"name": "Sarah Thorneycroft",
-					"id": 17125931,
-					"id_str": "17125931",
-					"indices": [
-						0,
-						8
-					]
-				},
-				{
-					"screen_name": "benkehrwald",
-					"name": "Ben Kehrwald",
-					"id": 239232023,
-					"id_str": "239232023",
-					"indices": [
-						42,
-						54
-					]
-				}
-			],
-			"urls": []
-		},
-		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
-		"in_reply_to_status_id": 803542363570245600,
-		"in_reply_to_status_id_str": "803542363570245632",
-		"in_reply_to_user_id": 17125931,
-		"in_reply_to_user_id_str": "17125931",
-		"in_reply_to_screen_name": "sthcrft",
-		"user": {
-			"id": 174124175,
-			"id_str": "174124175",
-			"name": "Tim Klapdor",
-			"screen_name": "timklapdor",
-			"location": "Adelaide, South Australia",
-			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "https://t.co/uC0c3me6KE",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/uC0c3me6KE",
-							"expanded_url": "http://timklapdor.com",
-							"display_url": "timklapdor.com",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 832,
-			"friends_count": 157,
-			"listed_count": 97,
-			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7805,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 14203,
-			"lang": null,
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "C0DEED",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
-			"profile_link_color": "5FA832",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "DDEEF6",
-			"profile_text_color": "333333",
-			"profile_use_background_image": true,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": {
-			"id": "47fbe3d3691af707",
-			"url": "https://api.twitter.com/1.1/geo/id/47fbe3d3691af707.json",
-			"place_type": "neighborhood",
-			"name": "Turvey Park",
-			"full_name": "Turvey Park, Wagga Wagga",
-			"country_code": "AU",
-			"country": "Australia",
-			"contained_within": [],
-			"bounding_box": {
-				"type": "Polygon",
-				"coordinates": [
-					[
-						[
-							147.34215216,
-							-35.13507804
-						],
-						[
-							147.37781016,
-							-35.13507804
-						],
-						[
-							147.37781016,
-							-35.11972998
-						],
-						[
-							147.34215216,
-							-35.11972998
-						]
-					]
-				]
-			},
-			"attributes": {}
-		},
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 2,
-		"favorited": false,
-		"retweeted": false,
-		"lang": "en",
-		"text": "@sthcrft I think you should catch up with @benkehrwald. He can show you where the proper ones are. Sad now to be missing ascilite"
-	},
-	{
-		"created_at": "Tue Nov 29 02:47:43 +0000 2016",
-		"id": 803430209579954200,
-		"id_str": "803430209579954177",
-		"full_text": "@marksmithers @sthcrft maybe worth having them at sometime :-) Virtual unconference maybe?",
-		"truncated": false,
-		"display_text_range": [
-			23,
-			90
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [
-				{
-					"screen_name": "marksmithers",
-					"name": "Mark Smithers",
-					"id": 18524101,
-					"id_str": "18524101",
-					"indices": [
-						0,
-						13
-					]
-				},
-				{
-					"screen_name": "sthcrft",
-					"name": "Sarah Thorneycroft",
-					"id": 17125931,
-					"id_str": "17125931",
-					"indices": [
-						14,
-						22
-					]
-				}
-			],
-			"urls": []
-		},
-		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
-		"in_reply_to_status_id": 803401405218205700,
-		"in_reply_to_status_id_str": "803401405218205696",
-		"in_reply_to_user_id": 18524101,
-		"in_reply_to_user_id_str": "18524101",
-		"in_reply_to_screen_name": "marksmithers",
-		"user": {
-			"id": 174124175,
-			"id_str": "174124175",
-			"name": "Tim Klapdor",
-			"screen_name": "timklapdor",
-			"location": "Adelaide, South Australia",
-			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "https://t.co/uC0c3me6KE",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/uC0c3me6KE",
-							"expanded_url": "http://timklapdor.com",
-							"display_url": "timklapdor.com",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 832,
-			"friends_count": 157,
-			"listed_count": 97,
-			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7805,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 14203,
-			"lang": null,
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "C0DEED",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
-			"profile_link_color": "5FA832",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "DDEEF6",
-			"profile_text_color": "333333",
-			"profile_use_background_image": true,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": {
-			"id": "00de77a74e8155fa",
-			"url": "https://api.twitter.com/1.1/geo/id/00de77a74e8155fa.json",
-			"place_type": "city",
-			"name": "Estella",
-			"full_name": "Estella, New South Wales",
-			"country_code": "AU",
-			"country": "Australia",
-			"contained_within": [],
-			"bounding_box": {
-				"type": "Polygon",
-				"coordinates": [
-					[
-						[
-							147.342861344,
-							-35.0844753575
-						],
-						[
-							147.363966496,
-							-35.0844753575
-						],
-						[
-							147.363966496,
-							-35.046804418
-						],
-						[
-							147.342861344,
-							-35.046804418
-						]
-					]
-				]
-			},
-			"attributes": {}
-		},
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 2,
-		"favorited": false,
-		"retweeted": false,
-		"lang": "en",
-		"text": "@marksmithers @sthcrft maybe worth having them at sometime :-) Virtual unconference maybe?"
 	}
 ]
