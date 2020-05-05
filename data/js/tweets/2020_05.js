@@ -1,6 +1,373 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Mon May 04 05:59:02 +0000 2020",
+		"id": 1257187964586606600,
+		"id_str": "1257187964586606592",
+		"full_text": "I'm aiming for 21 days before I attempt any sense of joy about the situation, but SA is smashing it. \n\nHave noted a bit of slack in the social distancing behavior, and feeling the pangs about being isolated myself. But the results are showing! https://t.co/HC825XPgk5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			243
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HC825XPgk5",
+					"expanded_url": "https://twitter.com/abcadelaide/status/1257187435731017729",
+					"display_url": "twitter.com/abcadelaide/st…",
+					"indices": [
+						244,
+						267
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Adelaide, South Australia",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
+			"url": "https://t.co/uC0c3me6KE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uC0c3me6KE",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 832,
+			"friends_count": 158,
+			"listed_count": 97,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 7908,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14252,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1257187435731017700,
+		"quoted_status_id_str": "1257187435731017729",
+		"quoted_status_permalink": {
+			"url": "https://t.co/HC825XPgk5",
+			"expanded": "https://twitter.com/abcadelaide/status/1257187435731017729",
+			"display": "twitter.com/abcadelaide/st…"
+		},
+		"quoted_status": {
+			"created_at": "Mon May 04 05:56:56 +0000 2020",
+			"id": 1257187435731017700,
+			"id_str": "1257187435731017729",
+			"full_text": "#BREAKING: SA Health has confirmed zero new cases of #COVID19 in the last 12 days now.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				86
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "BREAKING",
+						"indices": [
+							0,
+							9
+						]
+					},
+					{
+						"text": "COVID19",
+						"indices": [
+							53,
+							61
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": 1257186675886706700,
+			"in_reply_to_status_id_str": "1257186675886706690",
+			"in_reply_to_user_id": 16213139,
+			"in_reply_to_user_id_str": "16213139",
+			"in_reply_to_screen_name": "abcadelaide",
+			"user": {
+				"id": 16213139,
+				"id_str": "16213139",
+				"name": "ABC Adelaide",
+				"screen_name": "abcadelaide",
+				"location": "Adelaide, South Australia",
+				"description": "ABC Adelaide's Twitter stream. Subscribe to ABC Adelaide e-news: https://t.co/GEt4ufmuOj Download the ABC Listen App: https://t.co/5O1kjnBols",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/GEt4ufmuOj",
+								"expanded_url": "http://bit.ly/ABCenews",
+								"display_url": "bit.ly/ABCenews",
+								"indices": [
+									65,
+									88
+								]
+							},
+							{
+								"url": "https://t.co/5O1kjnBols",
+								"expanded_url": "http://bit.ly/ABClisten",
+								"display_url": "bit.ly/ABClisten",
+								"indices": [
+									118,
+									141
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 79553,
+				"friends_count": 1995,
+				"listed_count": 604,
+				"created_at": "Tue Sep 09 23:21:07 +0000 2008",
+				"favourites_count": 2371,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 40025,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C7C7C7",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/875593757193682949/2wgkqcMp_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/875593757193682949/2wgkqcMp_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16213139/1588037920",
+				"profile_link_color": "F6452B",
+				"profile_sidebar_border_color": "BDBDBD",
+				"profile_sidebar_fill_color": "E3E3E3",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 10,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I'm aiming for 21 days before I attempt any sense of joy about the situation, but SA is smashing it. \n\nHave noted a bit of slack in the social distancing behavior, and feeling the pangs about being isolated myself. But the results are showing! https://t.co/HC825XPgk5"
+	},
+	{
+		"created_at": "Mon May 04 04:28:52 +0000 2020",
+		"id": 1257165273766879200,
+		"id_str": "1257165273766879232",
+		"full_text": "@lennimk Nightmare insurance experience taught me it was worth getting them involved early. They are there to help.",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			115
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lennimk",
+					"name": "Lenni",
+					"id": 1004252252310159400,
+					"id_str": "1004252252310159360",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1257163922404077600,
+		"in_reply_to_status_id_str": "1257163922404077568",
+		"in_reply_to_user_id": 1004252252310159400,
+		"in_reply_to_user_id_str": "1004252252310159360",
+		"in_reply_to_screen_name": "lennimk",
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Adelaide, South Australia",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
+			"url": "https://t.co/uC0c3me6KE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uC0c3me6KE",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 832,
+			"friends_count": 158,
+			"listed_count": 97,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 7908,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14252,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7b46944933d8137e",
+			"url": "https://api.twitter.com/1.1/geo/id/7b46944933d8137e.json",
+			"place_type": "neighborhood",
+			"name": "Norwood",
+			"full_name": "Norwood, Adelaide",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							138.62264616,
+							-34.92790299
+						],
+						[
+							138.64147308,
+							-34.92790299
+						],
+						[
+							138.64147308,
+							-34.91480097
+						],
+						[
+							138.62264616,
+							-34.91480097
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@lennimk Nightmare insurance experience taught me it was worth getting them involved early. They are there to help."
+	},
+	{
 		"created_at": "Mon May 04 00:13:37 +0000 2020",
 		"id": 1257073655311241200,
 		"id_str": "1257101035820077056",
@@ -59,16 +426,16 @@ Grailbird.data.tweets_2020_05 =
 				}
 			},
 			"protected": false,
-			"followers_count": 7466,
-			"friends_count": 5218,
-			"listed_count": 471,
+			"followers_count": 7469,
+			"friends_count": 5219,
+			"listed_count": 470,
 			"created_at": "Tue Feb 20 13:34:20 +0000 2007",
-			"favourites_count": 29393,
+			"favourites_count": 29395,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 51816,
+			"statuses_count": 51822,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -154,16 +521,16 @@ Grailbird.data.tweets_2020_05 =
 					}
 				},
 				"protected": false,
-				"followers_count": 226575,
-				"friends_count": 1006,
-				"listed_count": 1767,
+				"followers_count": 232972,
+				"friends_count": 1008,
+				"listed_count": 1786,
 				"created_at": "Thu Apr 30 17:01:15 +0000 2009",
-				"favourites_count": 36987,
+				"favourites_count": 37023,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": true,
-				"statuses_count": 12765,
+				"statuses_count": 12813,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -193,8 +560,8 @@ Grailbird.data.tweets_2020_05 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 9246,
-			"favorite_count": 24656,
+			"retweet_count": 59480,
+			"favorite_count": 150680,
 			"favorited": false,
 			"retweeted": false,
 			"lang": "en"
@@ -271,12 +638,12 @@ Grailbird.data.tweets_2020_05 =
 			"friends_count": 158,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7907,
+			"favourites_count": 7908,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14251,
+			"statuses_count": 14252,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -340,7 +707,7 @@ Grailbird.data.tweets_2020_05 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 0,
+		"favorite_count": 1,
 		"favorited": false,
 		"retweeted": false,
 		"lang": "en",
@@ -454,16 +821,16 @@ Grailbird.data.tweets_2020_05 =
 				}
 			},
 			"protected": false,
-			"followers_count": 9456,
+			"followers_count": 9462,
 			"friends_count": 1793,
 			"listed_count": 427,
 			"created_at": "Fri Nov 08 20:13:27 +0000 2013",
-			"favourites_count": 56843,
+			"favourites_count": 56871,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15851,
+			"statuses_count": 15868,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -568,16 +935,16 @@ Grailbird.data.tweets_2020_05 =
 					}
 				},
 				"protected": false,
-				"followers_count": 711,
-				"friends_count": 1074,
+				"followers_count": 712,
+				"friends_count": 1083,
 				"listed_count": 27,
 				"created_at": "Tue Jun 16 22:00:47 +0000 2009",
-				"favourites_count": 9680,
+				"favourites_count": 9710,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": false,
-				"statuses_count": 2929,
+				"statuses_count": 2938,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -607,15 +974,15 @@ Grailbird.data.tweets_2020_05 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 1,
-			"favorite_count": 4,
+			"retweet_count": 4,
+			"favorite_count": 7,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
 			"lang": "en"
 		},
-		"retweet_count": 30,
-		"favorite_count": 77,
+		"retweet_count": 49,
+		"favorite_count": 129,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -759,16 +1126,16 @@ Grailbird.data.tweets_2020_05 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8190,
-			"friends_count": 448,
+			"followers_count": 8219,
+			"friends_count": 449,
 			"listed_count": 72,
 			"created_at": "Thu Nov 11 06:45:40 +0000 2010",
-			"favourites_count": 6056,
+			"favourites_count": 6066,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 2646,
+			"statuses_count": 2649,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -798,8 +1165,8 @@ Grailbird.data.tweets_2020_05 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 13943,
-		"favorite_count": 23960,
+		"retweet_count": 13945,
+		"favorite_count": 23978,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
