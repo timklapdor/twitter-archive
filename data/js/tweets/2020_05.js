@@ -1,6 +1,681 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Wed May 06 11:05:01 +0000 2020",
+		"id": 1257798191769989000,
+		"id_str": "1257989742664114177",
+		"full_text": "Australian universities are projected to lose $4.6 billion in the next six months. That is an economic shock comparable to the end of the auto industry ($5 billion) or losing an entire vegetable crop ($4.1 billion)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			214
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1257797619994071000,
+		"in_reply_to_status_id_str": "1257797619994071040",
+		"in_reply_to_user_id": 192875959,
+		"in_reply_to_user_id_str": "192875959",
+		"in_reply_to_screen_name": "ayrestim",
+		"user": {
+			"id": 192875959,
+			"id_str": "192875959",
+			"name": "Senator Tim Ayres",
+			"screen_name": "ayrestim",
+			"location": "Sydney Australia",
+			"description": "Labor Senator for New South Wales\nAll content authorised by T Ayres, Australian Labor Party, Canberra.",
+			"url": "https://t.co/HvMSpGaXht",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HvMSpGaXht",
+							"expanded_url": "https://www.youtube.com/channel/UCuchouB66ObW2UJm-RBrMYQ/",
+							"display_url": "youtube.com/channel/UCucho…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3321,
+			"friends_count": 981,
+			"listed_count": 65,
+			"created_at": "Mon Sep 20 11:56:03 +0000 2010",
+			"favourites_count": 7707,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11055,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1151287703054348288/OcPvCq1f_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1151287703054348288/OcPvCq1f_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/192875959/1563322111",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 32,
+		"favorite_count": 63,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Australian universities are projected to lose $4.6 billion in the next six months. That is an economic shock comparable to the end of the auto industry ($5 billion) or losing an entire vegetable crop ($4.1 billion)"
+	},
+	{
+		"created_at": "Wed May 06 10:53:48 +0000 2020",
+		"id": 1257986920937738200,
+		"id_str": "1257986920937738245",
+		"full_text": "It’s such a fraud calling it single sign on - it’s nothing more than single password. https://t.co/vZxKutsmeF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vZxKutsmeF",
+					"expanded_url": "https://twitter.com/SamNScience/status/1257858558021910529",
+					"display_url": "twitter.com/SamNScience/st…",
+					"indices": [
+						86,
+						109
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Adelaide, South Australia",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
+			"url": "https://t.co/uC0c3me6KE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uC0c3me6KE",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 831,
+			"friends_count": 159,
+			"listed_count": 97,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 7872,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14253,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7b46944933d8137e",
+			"url": "https://api.twitter.com/1.1/geo/id/7b46944933d8137e.json",
+			"place_type": "neighborhood",
+			"name": "Norwood",
+			"full_name": "Norwood, Adelaide",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							138.62264616,
+							-34.92790299
+						],
+						[
+							138.64147308,
+							-34.92790299
+						],
+						[
+							138.64147308,
+							-34.91480097
+						],
+						[
+							138.62264616,
+							-34.91480097
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1257858558021910500,
+		"quoted_status_id_str": "1257858558021910529",
+		"quoted_status_permalink": {
+			"url": "https://t.co/vZxKutsmeF",
+			"expanded": "https://twitter.com/SamNScience/status/1257858558021910529",
+			"display": "twitter.com/SamNScience/st…"
+		},
+		"quoted_status": {
+			"created_at": "Wed May 06 02:23:44 +0000 2020",
+			"id": 1257858558021910500,
+			"id_str": "1257858558021910529",
+			"full_text": "I'm just a girl \n\nStanding in front of the university single sign in system\n\nAsking it to remember that I've already signed in 10 times in this browser already this morning\n\n#AcademicChatter",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				190
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "AcademicChatter",
+						"indices": [
+							174,
+							190
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 768341718026457100,
+				"id_str": "768341718026457088",
+				"name": "Samantha Nixon",
+				"screen_name": "SamNScience",
+				"location": "Meanjin (Brisbane)",
+				"description": "Former arachnophobe now spider advocate. @IMBatUQ & @CSIRO PhD student using spider venoms to fight vet & NTD parasites. #scicomm #education #womeninSTEM",
+				"url": "https://t.co/e6O1gFBGIT",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/e6O1gFBGIT",
+								"expanded_url": "https://www.instagram.com/samnscience",
+								"display_url": "instagram.com/samnscience",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1569,
+				"friends_count": 968,
+				"listed_count": 27,
+				"created_at": "Wed Aug 24 06:58:35 +0000 2016",
+				"favourites_count": 5819,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3973,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1195476672713150464/NNBBXEy1_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1195476672713150464/NNBBXEy1_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/768341718026457088/1486332135",
+				"profile_link_color": "FF691F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 21,
+			"favorite_count": 257,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It’s such a fraud calling it single sign on - it’s nothing more than single password. https://t.co/vZxKutsmeF"
+	},
+	{
+		"created_at": "Wed May 06 04:17:45 +0000 2020",
+		"id": 1257619991555235800,
+		"id_str": "1257887248256692224",
+		"full_text": "Have been using Facebook mobility data to map social distancing and how it changes in Australia at https://t.co/VetovMr8S2. tl;dr: social distancing has been gradually waning over the past 3 weeks or so, across all states. https://t.co/7yVfjKmRge",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			222
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VetovMr8S2",
+					"expanded_url": "http://maths.adelaide.edu.au/lewis.mitchell/socialdistancing/",
+					"display_url": "maths.adelaide.edu.au/lewis.mitchell…",
+					"indices": [
+						99,
+						122
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1257619734993887200,
+					"id_str": "1257619734993887234",
+					"indices": [
+						223,
+						246
+					],
+					"media_url": "http://pbs.twimg.com/media/EXP2fF7U4AIPJVn.png",
+					"media_url_https": "https://pbs.twimg.com/media/EXP2fF7U4AIPJVn.png",
+					"url": "https://t.co/7yVfjKmRge",
+					"display_url": "pic.twitter.com/7yVfjKmRge",
+					"expanded_url": "https://twitter.com/lewis_math/status/1257619991555235842/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 504,
+							"h": 576,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 504,
+							"h": 576,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 504,
+							"h": 576,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1257619734993887200,
+					"id_str": "1257619734993887234",
+					"indices": [
+						223,
+						246
+					],
+					"media_url": "http://pbs.twimg.com/media/EXP2fF7U4AIPJVn.png",
+					"media_url_https": "https://pbs.twimg.com/media/EXP2fF7U4AIPJVn.png",
+					"url": "https://t.co/7yVfjKmRge",
+					"display_url": "pic.twitter.com/7yVfjKmRge",
+					"expanded_url": "https://twitter.com/lewis_math/status/1257619991555235842/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 504,
+							"h": 576,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 504,
+							"h": 576,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 504,
+							"h": 576,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2228815292,
+			"id_str": "2228815292",
+			"name": "Lewis Mitchell",
+			"screen_name": "lewis_math",
+			"location": "Adelaide, Australia",
+			"description": "Applied mathematician at @UniOfAdelaide, working with data and models on #complexsystems problems. I like #datascience, #socialnetworks, #networks, #socialmedia",
+			"url": "http://t.co/CVsSYVvP4S",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/CVsSYVvP4S",
+							"expanded_url": "http://maths.adelaide.edu.au/lewis.mitchell",
+							"display_url": "maths.adelaide.edu.au/lewis.mitchell",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1222,
+			"friends_count": 674,
+			"listed_count": 36,
+			"created_at": "Tue Dec 03 20:27:17 +0000 2013",
+			"favourites_count": 10445,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3000,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/570755867226537984/HHZZezqC_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/570755867226537984/HHZZezqC_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 67,
+		"favorite_count": 107,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Have been using Facebook mobility data to map social distancing and how it changes in Australia at https://t.co/VetovMr8S2. tl;dr: social distancing has been gradually waning over the past 3 weeks or so, across all states. https://t.co/7yVfjKmRge"
+	},
+	{
+		"created_at": "Wed May 06 00:24:15 +0000 2020",
+		"id": 1257828486799978500,
+		"id_str": "1257828486799978497",
+		"full_text": "@SarinaKilham @PivotSchooled Good podcast on tech and business. Huge fan of both hosts. But they introduced the term and I thought it worked really well. While no one is looking, or while we have a convenient scale goat, let’s make some changes.",
+		"truncated": false,
+		"display_text_range": [
+			29,
+			245
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SarinaKilham",
+					"name": "Dr. Sarina Kilham",
+					"id": 706272415,
+					"id_str": "706272415",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "PivotSchooled",
+					"name": "Pivot Podcast",
+					"id": 1252599555968897000,
+					"id_str": "1252599555968897024",
+					"indices": [
+						14,
+						28
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1257827129019863000,
+		"in_reply_to_status_id_str": "1257827129019863040",
+		"in_reply_to_user_id": 706272415,
+		"in_reply_to_user_id_str": "706272415",
+		"in_reply_to_screen_name": "SarinaKilham",
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Adelaide, South Australia",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
+			"url": "https://t.co/uC0c3me6KE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uC0c3me6KE",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 831,
+			"friends_count": 159,
+			"listed_count": 97,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 7872,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14253,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7b46944933d8137e",
+			"url": "https://api.twitter.com/1.1/geo/id/7b46944933d8137e.json",
+			"place_type": "neighborhood",
+			"name": "Norwood",
+			"full_name": "Norwood, Adelaide",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							138.62264616,
+							-34.92790299
+						],
+						[
+							138.64147308,
+							-34.92790299
+						],
+						[
+							138.64147308,
+							-34.91480097
+						],
+						[
+							138.62264616,
+							-34.91480097
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@SarinaKilham @PivotSchooled Good podcast on tech and business. Huge fan of both hosts. But they introduced the term and I thought it worked really well. While no one is looking, or while we have a convenient scale goat, let’s make some changes."
+	},
+	{
 		"created_at": "Tue May 05 10:39:09 +0000 2020",
 		"id": 1257620842764275700,
 		"id_str": "1257620842764275712",
@@ -75,16 +750,16 @@ Grailbird.data.tweets_2020_05 =
 				}
 			},
 			"protected": false,
-			"followers_count": 832,
-			"friends_count": 158,
+			"followers_count": 831,
+			"friends_count": 159,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7863,
+			"favourites_count": 7872,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14249,
+			"statuses_count": 14253,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -213,16 +888,16 @@ Grailbird.data.tweets_2020_05 =
 				}
 			},
 			"protected": false,
-			"followers_count": 832,
-			"friends_count": 158,
+			"followers_count": 831,
+			"friends_count": 159,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7863,
+			"favourites_count": 7872,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14249,
+			"statuses_count": 14253,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -341,16 +1016,16 @@ Grailbird.data.tweets_2020_05 =
 					}
 				},
 				"protected": false,
-				"followers_count": 113328,
+				"followers_count": 113334,
 				"friends_count": 354,
-				"listed_count": 4911,
+				"listed_count": 4910,
 				"created_at": "Fri Jan 04 21:57:10 +0000 2008",
-				"favourites_count": 69165,
+				"favourites_count": 69251,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": false,
-				"statuses_count": 42593,
+				"statuses_count": 42595,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -381,7 +1056,7 @@ Grailbird.data.tweets_2020_05 =
 			"contributors": null,
 			"is_quote_status": false,
 			"retweet_count": 6,
-			"favorite_count": 83,
+			"favorite_count": 85,
 			"favorited": false,
 			"retweeted": false,
 			"lang": "en"
@@ -453,16 +1128,16 @@ Grailbird.data.tweets_2020_05 =
 				}
 			},
 			"protected": false,
-			"followers_count": 832,
-			"friends_count": 158,
+			"followers_count": 831,
+			"friends_count": 159,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7863,
+			"favourites_count": 7872,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14249,
+			"statuses_count": 14253,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -593,15 +1268,15 @@ Grailbird.data.tweets_2020_05 =
 				},
 				"protected": false,
 				"followers_count": 220,
-				"friends_count": 157,
+				"friends_count": 159,
 				"listed_count": 5,
 				"created_at": "Wed Mar 25 08:52:15 +0000 2009",
-				"favourites_count": 349,
+				"favourites_count": 351,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": false,
-				"statuses_count": 10410,
+				"statuses_count": 10416,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -638,7 +1313,7 @@ Grailbird.data.tweets_2020_05 =
 			"lang": "en"
 		},
 		"retweet_count": 0,
-		"favorite_count": 5,
+		"favorite_count": 4,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
@@ -704,16 +1379,16 @@ Grailbird.data.tweets_2020_05 =
 				}
 			},
 			"protected": false,
-			"followers_count": 832,
-			"friends_count": 158,
+			"followers_count": 831,
+			"friends_count": 159,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7863,
+			"favourites_count": 7872,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14249,
+			"statuses_count": 14253,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -820,16 +1495,16 @@ Grailbird.data.tweets_2020_05 =
 					}
 				},
 				"protected": false,
-				"followers_count": 79560,
-				"friends_count": 1995,
-				"listed_count": 604,
+				"followers_count": 79567,
+				"friends_count": 1999,
+				"listed_count": 603,
 				"created_at": "Tue Sep 09 23:21:07 +0000 2008",
-				"favourites_count": 2373,
+				"favourites_count": 2376,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": true,
-				"statuses_count": 40054,
+				"statuses_count": 40084,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -933,16 +1608,16 @@ Grailbird.data.tweets_2020_05 =
 				}
 			},
 			"protected": false,
-			"followers_count": 832,
-			"friends_count": 158,
+			"followers_count": 831,
+			"friends_count": 159,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7863,
+			"favourites_count": 7872,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14249,
+			"statuses_count": 14253,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1071,16 +1746,16 @@ Grailbird.data.tweets_2020_05 =
 				}
 			},
 			"protected": false,
-			"followers_count": 7467,
+			"followers_count": 7465,
 			"friends_count": 5219,
 			"listed_count": 470,
 			"created_at": "Tue Feb 20 13:34:20 +0000 2007",
-			"favourites_count": 29402,
+			"favourites_count": 29401,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 51827,
+			"statuses_count": 51825,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1166,16 +1841,16 @@ Grailbird.data.tweets_2020_05 =
 					}
 				},
 				"protected": false,
-				"followers_count": 234763,
-				"friends_count": 1008,
-				"listed_count": 1796,
+				"followers_count": 235133,
+				"friends_count": 1009,
+				"listed_count": 1792,
 				"created_at": "Thu Apr 30 17:01:15 +0000 2009",
-				"favourites_count": 37060,
+				"favourites_count": 37097,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": true,
-				"statuses_count": 12833,
+				"statuses_count": 12856,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -1205,8 +1880,8 @@ Grailbird.data.tweets_2020_05 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 68611,
-			"favorite_count": 173183,
+			"retweet_count": 69501,
+			"favorite_count": 175165,
 			"favorited": false,
 			"retweeted": false,
 			"lang": "en"
@@ -1279,16 +1954,16 @@ Grailbird.data.tweets_2020_05 =
 				}
 			},
 			"protected": false,
-			"followers_count": 832,
-			"friends_count": 158,
+			"followers_count": 831,
+			"friends_count": 159,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7863,
+			"favourites_count": 7872,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14249,
+			"statuses_count": 14253,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1466,16 +2141,16 @@ Grailbird.data.tweets_2020_05 =
 				}
 			},
 			"protected": false,
-			"followers_count": 9467,
-			"friends_count": 1794,
-			"listed_count": 427,
+			"followers_count": 9468,
+			"friends_count": 1795,
+			"listed_count": 426,
 			"created_at": "Fri Nov 08 20:13:27 +0000 2013",
-			"favourites_count": 56796,
+			"favourites_count": 56811,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15897,
+			"statuses_count": 15906,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1580,16 +2255,16 @@ Grailbird.data.tweets_2020_05 =
 					}
 				},
 				"protected": false,
-				"followers_count": 714,
-				"friends_count": 1084,
+				"followers_count": 717,
+				"friends_count": 1088,
 				"listed_count": 27,
 				"created_at": "Tue Jun 16 22:00:47 +0000 2009",
-				"favourites_count": 9766,
+				"favourites_count": 9806,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": false,
-				"statuses_count": 2953,
+				"statuses_count": 2960,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -1626,8 +2301,8 @@ Grailbird.data.tweets_2020_05 =
 			"possibly_sensitive": false,
 			"lang": "en"
 		},
-		"retweet_count": 65,
-		"favorite_count": 164,
+		"retweet_count": 69,
+		"favorite_count": 166,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -1771,11 +2446,11 @@ Grailbird.data.tweets_2020_05 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8243,
+			"followers_count": 8255,
 			"friends_count": 449,
 			"listed_count": 75,
 			"created_at": "Thu Nov 11 06:45:40 +0000 2010",
-			"favourites_count": 6083,
+			"favourites_count": 6084,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
@@ -1811,7 +2486,7 @@ Grailbird.data.tweets_2020_05 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 13943,
-		"favorite_count": 23983,
+		"favorite_count": 23992,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
