@@ -59,16 +59,16 @@ Grailbird.data.tweets_2016_12 =
 				}
 			},
 			"protected": false,
-			"followers_count": 4446,
-			"friends_count": 237,
-			"listed_count": 474,
+			"followers_count": 4445,
+			"friends_count": 240,
+			"listed_count": 471,
 			"created_at": "Tue Feb 06 18:33:33 +0000 2007",
-			"favourites_count": 39476,
+			"favourites_count": 39486,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 35396,
+			"statuses_count": 35409,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -385,12 +385,12 @@ Grailbird.data.tweets_2016_12 =
 			"friends_count": 159,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7872,
+			"favourites_count": 7876,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14253,
+			"statuses_count": 14257,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -591,12 +591,12 @@ Grailbird.data.tweets_2016_12 =
 			"friends_count": 159,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7872,
+			"favourites_count": 7876,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14253,
+			"statuses_count": 14257,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -727,16 +727,16 @@ Grailbird.data.tweets_2016_12 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1126,
-			"friends_count": 2650,
+			"followers_count": 1127,
+			"friends_count": 2652,
 			"listed_count": 61,
 			"created_at": "Sun Nov 02 15:23:29 +0000 2008",
-			"favourites_count": 24247,
+			"favourites_count": 24324,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 79681,
+			"statuses_count": 79723,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -799,7 +799,7 @@ Grailbird.data.tweets_2016_12 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 97,
-		"favorite_count": 245,
+		"favorite_count": 246,
 		"favorited": false,
 		"retweeted": false,
 		"lang": "en",
@@ -944,12 +944,12 @@ Grailbird.data.tweets_2016_12 =
 			"friends_count": 159,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7872,
+			"favourites_count": 7876,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14253,
+			"statuses_count": 14257,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1178,11 +1178,11 @@ Grailbird.data.tweets_2016_12 =
 				}
 			},
 			"protected": false,
-			"followers_count": 50819,
+			"followers_count": 50801,
 			"friends_count": 193,
-			"listed_count": 274,
+			"listed_count": 265,
 			"created_at": "Tue Jan 24 23:20:30 +0000 2012",
-			"favourites_count": 29746,
+			"favourites_count": 29745,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
@@ -1288,12 +1288,12 @@ Grailbird.data.tweets_2016_12 =
 			"friends_count": 159,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7872,
+			"favourites_count": 7876,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14253,
+			"statuses_count": 14257,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1546,16 +1546,16 @@ Grailbird.data.tweets_2016_12 =
 					}
 				},
 				"protected": false,
-				"followers_count": 57349,
+				"followers_count": 57413,
 				"friends_count": 763,
-				"listed_count": 564,
+				"listed_count": 547,
 				"created_at": "Tue Sep 30 04:48:10 +0000 2008",
-				"favourites_count": 107423,
+				"favourites_count": 107443,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": true,
-				"statuses_count": 20723,
+				"statuses_count": 20730,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -1585,8 +1585,8 @@ Grailbird.data.tweets_2016_12 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 10494,
-			"favorite_count": 20307,
+			"retweet_count": 10493,
+			"favorite_count": 20302,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
@@ -1664,12 +1664,12 @@ Grailbird.data.tweets_2016_12 =
 			"friends_count": 159,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7872,
+			"favourites_count": 7876,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14253,
+			"statuses_count": 14257,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1803,12 +1803,12 @@ Grailbird.data.tweets_2016_12 =
 			"friends_count": 159,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7872,
+			"favourites_count": 7876,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14253,
+			"statuses_count": 14257,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1942,12 +1942,12 @@ Grailbird.data.tweets_2016_12 =
 			"friends_count": 159,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7872,
+			"favourites_count": 7876,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14253,
+			"statuses_count": 14257,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2081,12 +2081,12 @@ Grailbird.data.tweets_2016_12 =
 			"friends_count": 159,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7872,
+			"favourites_count": 7876,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14253,
+			"statuses_count": 14257,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2209,12 +2209,12 @@ Grailbird.data.tweets_2016_12 =
 			"friends_count": 159,
 			"listed_count": 97,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7872,
+			"favourites_count": 7876,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14253,
+			"statuses_count": 14257,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2283,690 +2283,5 @@ Grailbird.data.tweets_2016_12 =
 		"retweeted": false,
 		"lang": "en",
 		"text": "MOOCs can’t hype themselves as the free viable HE alternative and then slap a price tag on and expect people to pay."
-	},
-	{
-		"created_at": "Tue Dec 27 01:34:51 +0000 2016",
-		"id": 813558733309513700,
-		"id_str": "813558733309513729",
-		"full_text": "The reality is no one is paying for MOOCs, even when there’s a credential on offer. Even if it’s a “real” degree. https://t.co/gBRXQBVgbx",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			113
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": [
-				{
-					"url": "https://t.co/gBRXQBVgbx",
-					"expanded_url": "https://twitter.com/rayschroeder/status/813347458252206080",
-					"display_url": "twitter.com/rayschroeder/s…",
-					"indices": [
-						114,
-						137
-					]
-				}
-			]
-		},
-		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 174124175,
-			"id_str": "174124175",
-			"name": "Tim Klapdor",
-			"screen_name": "timklapdor",
-			"location": "Adelaide, South Australia",
-			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "https://t.co/uC0c3me6KE",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/uC0c3me6KE",
-							"expanded_url": "http://timklapdor.com",
-							"display_url": "timklapdor.com",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 831,
-			"friends_count": 159,
-			"listed_count": 97,
-			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7872,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 14253,
-			"lang": null,
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "C0DEED",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
-			"profile_link_color": "5FA832",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "DDEEF6",
-			"profile_text_color": "333333",
-			"profile_use_background_image": true,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": {
-			"id": "6e04d9561808e54a",
-			"url": "https://api.twitter.com/1.1/geo/id/6e04d9561808e54a.json",
-			"place_type": "neighborhood",
-			"name": "West Pennant Hills",
-			"full_name": "West Pennant Hills, Sydney",
-			"country_code": "AU",
-			"country": "Australia",
-			"contained_within": [],
-			"bounding_box": {
-				"type": "Polygon",
-				"coordinates": [
-					[
-						[
-							151.00851816,
-							-33.76344204
-						],
-						[
-							151.05744108,
-							-33.76344204
-						],
-						[
-							151.05744108,
-							-33.73182198
-						],
-						[
-							151.00851816,
-							-33.73182198
-						]
-					]
-				]
-			},
-			"attributes": {}
-		},
-		"contributors": null,
-		"is_quote_status": true,
-		"quoted_status_id": 813347458252206100,
-		"quoted_status_id_str": "813347458252206080",
-		"quoted_status_permalink": {
-			"url": "https://t.co/gBRXQBVgbx",
-			"expanded": "https://twitter.com/rayschroeder/status/813347458252206080",
-			"display": "twitter.com/rayschroeder/s…"
-		},
-		"quoted_status": {
-			"created_at": "Mon Dec 26 11:35:19 +0000 2016",
-			"id": 813347458252206100,
-			"id_str": "813347458252206080",
-			"full_text": "Deakin University leads the world in disrupting traditional education https://t.co/FKbJiMA4Va #edtech #elearning #highered",
-			"truncated": false,
-			"display_text_range": [
-				0,
-				122
-			],
-			"entities": {
-				"hashtags": [
-					{
-						"text": "edtech",
-						"indices": [
-							94,
-							101
-						]
-					},
-					{
-						"text": "elearning",
-						"indices": [
-							102,
-							112
-						]
-					},
-					{
-						"text": "highered",
-						"indices": [
-							113,
-							122
-						]
-					}
-				],
-				"symbols": [],
-				"user_mentions": [],
-				"urls": [
-					{
-						"url": "https://t.co/FKbJiMA4Va",
-						"expanded_url": "http://www.afr.com/news/policy/education/deakin-university-leads-the-world-in-disrupting-traditional-education-20161209-gt86yy",
-						"display_url": "afr.com/news/policy/ed…",
-						"indices": [
-							70,
-							93
-						]
-					}
-				]
-			},
-			"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
-			"in_reply_to_status_id": null,
-			"in_reply_to_status_id_str": null,
-			"in_reply_to_user_id": null,
-			"in_reply_to_user_id_str": null,
-			"in_reply_to_screen_name": null,
-			"user": {
-				"id": 8227892,
-				"id_str": "8227892",
-				"name": "Ray Schroeder",
-				"screen_name": "rayschroeder",
-				"location": "Springfield, IL",
-				"description": "Univ of Illinois Springfield Assoc Vice Chancellor for Online Learning + Senior Fellow, UPCEA\n~My personal views",
-				"url": "https://t.co/Tow4NYyeCc",
-				"entities": {
-					"url": {
-						"urls": [
-							{
-								"url": "https://t.co/Tow4NYyeCc",
-								"expanded_url": "http://rayschroeder.com",
-								"display_url": "rayschroeder.com",
-								"indices": [
-									0,
-									23
-								]
-							}
-						]
-					},
-					"description": {
-						"urls": []
-					}
-				},
-				"protected": false,
-				"followers_count": 3297,
-				"friends_count": 96,
-				"listed_count": 428,
-				"created_at": "Thu Aug 16 16:44:16 +0000 2007",
-				"favourites_count": 250,
-				"utc_offset": null,
-				"time_zone": null,
-				"geo_enabled": true,
-				"verified": false,
-				"statuses_count": 5815,
-				"lang": null,
-				"contributors_enabled": false,
-				"is_translator": false,
-				"is_translation_enabled": false,
-				"profile_background_color": "0099B9",
-				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
-				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
-				"profile_background_tile": false,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/494436273407291392/rhcUQcr8_normal.jpeg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/494436273407291392/rhcUQcr8_normal.jpeg",
-				"profile_banner_url": "https://pbs.twimg.com/profile_banners/8227892/1406647317",
-				"profile_link_color": "0099B9",
-				"profile_sidebar_border_color": "5ED4DC",
-				"profile_sidebar_fill_color": "95E8EC",
-				"profile_text_color": "3C3940",
-				"profile_use_background_image": true,
-				"has_extended_profile": false,
-				"default_profile": false,
-				"default_profile_image": false,
-				"following": false,
-				"follow_request_sent": false,
-				"notifications": false,
-				"translator_type": "none"
-			},
-			"geo": null,
-			"coordinates": null,
-			"place": null,
-			"contributors": null,
-			"is_quote_status": false,
-			"retweet_count": 8,
-			"favorite_count": 5,
-			"favorited": false,
-			"retweeted": false,
-			"possibly_sensitive": false,
-			"lang": "en"
-		},
-		"retweet_count": 2,
-		"favorite_count": 4,
-		"favorited": false,
-		"retweeted": false,
-		"possibly_sensitive": false,
-		"lang": "en",
-		"text": "The reality is no one is paying for MOOCs, even when there’s a credential on offer. Even if it’s a “real” degree. https://t.co/gBRXQBVgbx"
-	},
-	{
-		"created_at": "Tue Dec 27 01:33:43 +0000 2016",
-		"id": 813558446289080300,
-		"id_str": "813558446289080320",
-		"full_text": "this should read - Australian University tries same thing a number of international unis have already failed at &amp; call it innovation. https://t.co/gBRXQBVgbx",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			137
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": [
-				{
-					"url": "https://t.co/gBRXQBVgbx",
-					"expanded_url": "https://twitter.com/rayschroeder/status/813347458252206080",
-					"display_url": "twitter.com/rayschroeder/s…",
-					"indices": [
-						138,
-						161
-					]
-				}
-			]
-		},
-		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 174124175,
-			"id_str": "174124175",
-			"name": "Tim Klapdor",
-			"screen_name": "timklapdor",
-			"location": "Adelaide, South Australia",
-			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "https://t.co/uC0c3me6KE",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/uC0c3me6KE",
-							"expanded_url": "http://timklapdor.com",
-							"display_url": "timklapdor.com",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 831,
-			"friends_count": 159,
-			"listed_count": 97,
-			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7872,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 14253,
-			"lang": null,
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "C0DEED",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
-			"profile_link_color": "5FA832",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "DDEEF6",
-			"profile_text_color": "333333",
-			"profile_use_background_image": true,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": {
-			"id": "6e04d9561808e54a",
-			"url": "https://api.twitter.com/1.1/geo/id/6e04d9561808e54a.json",
-			"place_type": "neighborhood",
-			"name": "West Pennant Hills",
-			"full_name": "West Pennant Hills, Sydney",
-			"country_code": "AU",
-			"country": "Australia",
-			"contained_within": [],
-			"bounding_box": {
-				"type": "Polygon",
-				"coordinates": [
-					[
-						[
-							151.00851816,
-							-33.76344204
-						],
-						[
-							151.05744108,
-							-33.76344204
-						],
-						[
-							151.05744108,
-							-33.73182198
-						],
-						[
-							151.00851816,
-							-33.73182198
-						]
-					]
-				]
-			},
-			"attributes": {}
-		},
-		"contributors": null,
-		"is_quote_status": true,
-		"quoted_status_id": 813347458252206100,
-		"quoted_status_id_str": "813347458252206080",
-		"quoted_status_permalink": {
-			"url": "https://t.co/gBRXQBVgbx",
-			"expanded": "https://twitter.com/rayschroeder/status/813347458252206080",
-			"display": "twitter.com/rayschroeder/s…"
-		},
-		"quoted_status": {
-			"created_at": "Mon Dec 26 11:35:19 +0000 2016",
-			"id": 813347458252206100,
-			"id_str": "813347458252206080",
-			"full_text": "Deakin University leads the world in disrupting traditional education https://t.co/FKbJiMA4Va #edtech #elearning #highered",
-			"truncated": false,
-			"display_text_range": [
-				0,
-				122
-			],
-			"entities": {
-				"hashtags": [
-					{
-						"text": "edtech",
-						"indices": [
-							94,
-							101
-						]
-					},
-					{
-						"text": "elearning",
-						"indices": [
-							102,
-							112
-						]
-					},
-					{
-						"text": "highered",
-						"indices": [
-							113,
-							122
-						]
-					}
-				],
-				"symbols": [],
-				"user_mentions": [],
-				"urls": [
-					{
-						"url": "https://t.co/FKbJiMA4Va",
-						"expanded_url": "http://www.afr.com/news/policy/education/deakin-university-leads-the-world-in-disrupting-traditional-education-20161209-gt86yy",
-						"display_url": "afr.com/news/policy/ed…",
-						"indices": [
-							70,
-							93
-						]
-					}
-				]
-			},
-			"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
-			"in_reply_to_status_id": null,
-			"in_reply_to_status_id_str": null,
-			"in_reply_to_user_id": null,
-			"in_reply_to_user_id_str": null,
-			"in_reply_to_screen_name": null,
-			"user": {
-				"id": 8227892,
-				"id_str": "8227892",
-				"name": "Ray Schroeder",
-				"screen_name": "rayschroeder",
-				"location": "Springfield, IL",
-				"description": "Univ of Illinois Springfield Assoc Vice Chancellor for Online Learning + Senior Fellow, UPCEA\n~My personal views",
-				"url": "https://t.co/Tow4NYyeCc",
-				"entities": {
-					"url": {
-						"urls": [
-							{
-								"url": "https://t.co/Tow4NYyeCc",
-								"expanded_url": "http://rayschroeder.com",
-								"display_url": "rayschroeder.com",
-								"indices": [
-									0,
-									23
-								]
-							}
-						]
-					},
-					"description": {
-						"urls": []
-					}
-				},
-				"protected": false,
-				"followers_count": 3297,
-				"friends_count": 96,
-				"listed_count": 428,
-				"created_at": "Thu Aug 16 16:44:16 +0000 2007",
-				"favourites_count": 250,
-				"utc_offset": null,
-				"time_zone": null,
-				"geo_enabled": true,
-				"verified": false,
-				"statuses_count": 5815,
-				"lang": null,
-				"contributors_enabled": false,
-				"is_translator": false,
-				"is_translation_enabled": false,
-				"profile_background_color": "0099B9",
-				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
-				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
-				"profile_background_tile": false,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/494436273407291392/rhcUQcr8_normal.jpeg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/494436273407291392/rhcUQcr8_normal.jpeg",
-				"profile_banner_url": "https://pbs.twimg.com/profile_banners/8227892/1406647317",
-				"profile_link_color": "0099B9",
-				"profile_sidebar_border_color": "5ED4DC",
-				"profile_sidebar_fill_color": "95E8EC",
-				"profile_text_color": "3C3940",
-				"profile_use_background_image": true,
-				"has_extended_profile": false,
-				"default_profile": false,
-				"default_profile_image": false,
-				"following": false,
-				"follow_request_sent": false,
-				"notifications": false,
-				"translator_type": "none"
-			},
-			"geo": null,
-			"coordinates": null,
-			"place": null,
-			"contributors": null,
-			"is_quote_status": false,
-			"retweet_count": 8,
-			"favorite_count": 5,
-			"favorited": false,
-			"retweeted": false,
-			"possibly_sensitive": false,
-			"lang": "en"
-		},
-		"retweet_count": 1,
-		"favorite_count": 7,
-		"favorited": false,
-		"retweeted": false,
-		"possibly_sensitive": false,
-		"lang": "en",
-		"text": "this should read - Australian University tries same thing a number of international unis have already failed at &amp; call it innovation. https://t.co/gBRXQBVgbx"
-	},
-	{
-		"created_at": "Sun Dec 25 02:28:21 +0000 2016",
-		"id": 812847418303594500,
-		"id_str": "812847418303594496",
-		"full_text": "@anrikard happy Christmas to you! Will have to have you out here someday to sample the actual brews!",
-		"truncated": false,
-		"display_text_range": [
-			10,
-			100
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [
-				{
-					"screen_name": "anrikard",
-					"name": "Andrew Rikard",
-					"id": 954739428567724000,
-					"id_str": "954739428567724032",
-					"indices": [
-						0,
-						9
-					]
-				}
-			],
-			"urls": []
-		},
-		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 174124175,
-			"id_str": "174124175",
-			"name": "Tim Klapdor",
-			"screen_name": "timklapdor",
-			"location": "Adelaide, South Australia",
-			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "https://t.co/uC0c3me6KE",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/uC0c3me6KE",
-							"expanded_url": "http://timklapdor.com",
-							"display_url": "timklapdor.com",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 831,
-			"friends_count": 159,
-			"listed_count": 97,
-			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7872,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 14253,
-			"lang": null,
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "C0DEED",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
-			"profile_link_color": "5FA832",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "DDEEF6",
-			"profile_text_color": "333333",
-			"profile_use_background_image": true,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": {
-			"id": "6e04d9561808e54a",
-			"url": "https://api.twitter.com/1.1/geo/id/6e04d9561808e54a.json",
-			"place_type": "neighborhood",
-			"name": "West Pennant Hills",
-			"full_name": "West Pennant Hills, Sydney",
-			"country_code": "AU",
-			"country": "Australia",
-			"contained_within": [],
-			"bounding_box": {
-				"type": "Polygon",
-				"coordinates": [
-					[
-						[
-							151.00851816,
-							-33.76344204
-						],
-						[
-							151.05744108,
-							-33.76344204
-						],
-						[
-							151.05744108,
-							-33.73182198
-						],
-						[
-							151.00851816,
-							-33.73182198
-						]
-					]
-				]
-			},
-			"attributes": {}
-		},
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 0,
-		"favorited": false,
-		"retweeted": false,
-		"lang": "en",
-		"text": "@anrikard happy Christmas to you! Will have to have you out here someday to sample the actual brews!"
 	}
 ]
