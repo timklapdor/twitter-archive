@@ -1,6 +1,362 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Thu Jun 04 10:41:53 +0000 2020",
+		"id": 1268335053999714300,
+		"id_str": "1268493169605279744",
+		"full_text": "Why doesn't the government take the $25k they're offering folks wealthy enough to build or renovate properties and instead invest that in public housing building initiatives? I mean, if it's about post-COVID employment opportunities, then I'd argue this could create work for more",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9950542,
+			"id_str": "9950542",
+			"name": "Celeste Liddle",
+			"screen_name": "Utopiana",
+			"location": "Berlin, Germany",
+			"description": "Where blackfeministranters tweet. Arrernte, Unionist, @EurekaStreet column, freelance commentator. Accidentally anarchic. Views on this acc my own. Melb dweller",
+			"url": "https://t.co/ZCpxQigU1T",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZCpxQigU1T",
+							"expanded_url": "http://blackfeministranter.blogspot.com",
+							"display_url": "blackfeministranter.blogspot.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 36339,
+			"friends_count": 2773,
+			"listed_count": 265,
+			"created_at": "Sun Nov 04 23:50:06 +0000 2007",
+			"favourites_count": 19459,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12914,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "080149",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1235758372038668289/hVProwYm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1235758372038668289/hVProwYm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9950542/1587647414",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "F60984",
+			"profile_sidebar_fill_color": "B103AB",
+			"profile_text_color": "620186",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 616,
+		"favorite_count": 3134,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Why doesn't the government take the $25k they're offering folks wealthy enough to build or renovate properties and instead invest that in public housing building initiatives? I mean, if it's about post-COVID employment opportunities, then I'd argue this could create work for more"
+	},
+	{
+		"created_at": "Thu Jun 04 04:46:10 +0000 2020",
+		"id": 1268403647525736400,
+		"id_str": "1268403647525736448",
+		"full_text": "I am intrigued! When the team @ReclaimHosting starting working on something it’s usually pretty phenomenal! See their hosting, conference, service and support for good examples :) https://t.co/tqX4zBxbMI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ReclaimHosting",
+					"name": "Reclaim Hosting",
+					"id": 1602053274,
+					"id_str": "1602053274",
+					"indices": [
+						30,
+						45
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/tqX4zBxbMI",
+					"expanded_url": "https://twitter.com/timmmmyboy/status/1268259991552696320",
+					"display_url": "twitter.com/timmmmyboy/sta…",
+					"indices": [
+						180,
+						203
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Adelaide, South Australia",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
+			"url": "https://t.co/uC0c3me6KE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uC0c3me6KE",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 833,
+			"friends_count": 158,
+			"listed_count": 94,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 7974,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14322,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7b46944933d8137e",
+			"url": "https://api.twitter.com/1.1/geo/id/7b46944933d8137e.json",
+			"place_type": "neighborhood",
+			"name": "Norwood",
+			"full_name": "Norwood, Adelaide",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							138.62264616,
+							-34.92790299
+						],
+						[
+							138.64147308,
+							-34.92790299
+						],
+						[
+							138.64147308,
+							-34.91480097
+						],
+						[
+							138.62264616,
+							-34.91480097
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1268259991552696300,
+		"quoted_status_id_str": "1268259991552696320",
+		"quoted_status_permalink": {
+			"url": "https://t.co/tqX4zBxbMI",
+			"expanded": "https://twitter.com/timmmmyboy/status/1268259991552696320",
+			"display": "twitter.com/timmmmyboy/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jun 03 19:15:19 +0000 2020",
+			"id": 1268259991552696300,
+			"id_str": "1268259991552696320",
+			"full_text": "Finally got a chance to write about some things I’m excited about currently and pull the curtain back a little bit https://t.co/iFSV7Ihcu2. There are so many pressing needs it feels small in comparison, but consider this a bump for people that don’t use feed readers (you should!)",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				280
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/iFSV7Ihcu2",
+						"expanded_url": "https://blog.timowens.io/the-evolution-of-the-cloud/",
+						"display_url": "blog.timowens.io/the-evolution-…",
+						"indices": [
+							115,
+							138
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1025923491495903200,
+				"id_str": "1025923491495903232",
+				"name": "timmmmyboy",
+				"screen_name": "timmmmyboy",
+				"location": "Fredericksburg, VA",
+				"description": "Co-founder of Reclaim Hosting and Reclaim Arcade",
+				"url": "https://t.co/WRb8RPVfpf",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/WRb8RPVfpf",
+								"expanded_url": "https://blog.timowens.io",
+								"display_url": "blog.timowens.io",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 327,
+				"friends_count": 287,
+				"listed_count": 6,
+				"created_at": "Sun Aug 05 01:56:35 +0000 2018",
+				"favourites_count": 789,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1311,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1202343501767331840/OzYWoDA__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1202343501767331840/OzYWoDA__normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 10,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I am intrigued! When the team @ReclaimHosting starting working on something it’s usually pretty phenomenal! See their hosting, conference, service and support for good examples :) https://t.co/tqX4zBxbMI"
+	},
+	{
 		"created_at": "Wed Jun 03 10:53:24 +0000 2020",
 		"id": 1267697471527911400,
 		"id_str": "1268133678615416832",
@@ -59,7 +415,7 @@ Grailbird.data.tweets_2020_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 74999,
+			"followers_count": 74987,
 			"friends_count": 334,
 			"listed_count": 694,
 			"created_at": "Wed Dec 02 02:46:11 +0000 2009",
@@ -68,7 +424,7 @@ Grailbird.data.tweets_2020_06 =
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 19551,
+			"statuses_count": 19554,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -258,16 +614,16 @@ Grailbird.data.tweets_2020_06 =
 					}
 				},
 				"protected": false,
-				"followers_count": 1217,
-				"friends_count": 1491,
+				"followers_count": 1219,
+				"friends_count": 1496,
 				"listed_count": 0,
 				"created_at": "Thu Nov 15 06:10:42 +0000 2018",
-				"favourites_count": 138672,
+				"favourites_count": 139112,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": false,
-				"statuses_count": 13241,
+				"statuses_count": 13369,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -298,13 +654,13 @@ Grailbird.data.tweets_2020_06 =
 			"contributors": null,
 			"is_quote_status": false,
 			"retweet_count": 77,
-			"favorite_count": 182,
+			"favorite_count": 183,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
 			"lang": "en"
 		},
-		"retweet_count": 90,
+		"retweet_count": 91,
 		"favorite_count": 379,
 		"favorited": false,
 		"retweeted": true,
@@ -372,16 +728,16 @@ Grailbird.data.tweets_2020_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 832,
+			"followers_count": 833,
 			"friends_count": 158,
 			"listed_count": 94,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7967,
+			"favourites_count": 7974,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14321,
+			"statuses_count": 14322,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -511,16 +867,16 @@ Grailbird.data.tweets_2020_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 832,
+			"followers_count": 833,
 			"friends_count": 158,
 			"listed_count": 94,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7967,
+			"favourites_count": 7974,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14321,
+			"statuses_count": 14322,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -649,16 +1005,16 @@ Grailbird.data.tweets_2020_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 4682,
-			"friends_count": 1083,
+			"followers_count": 4742,
+			"friends_count": 1087,
 			"listed_count": 53,
 			"created_at": "Fri Jul 26 19:52:58 +0000 2013",
-			"favourites_count": 33298,
+			"favourites_count": 33345,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 6236,
+			"statuses_count": 6253,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -689,7 +1045,7 @@ Grailbird.data.tweets_2020_06 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 88,
-		"favorite_count": 207,
+		"favorite_count": 208,
 		"favorited": false,
 		"retweeted": true,
 		"lang": "en",
@@ -754,16 +1110,16 @@ Grailbird.data.tweets_2020_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 47344,
-			"friends_count": 6801,
-			"listed_count": 698,
+			"followers_count": 47373,
+			"friends_count": 6806,
+			"listed_count": 697,
 			"created_at": "Mon Nov 16 09:40:20 +0000 2009",
-			"favourites_count": 12638,
+			"favourites_count": 12649,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 89540,
+			"statuses_count": 89578,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -867,16 +1223,16 @@ Grailbird.data.tweets_2020_06 =
 					}
 				},
 				"protected": false,
-				"followers_count": 722654,
+				"followers_count": 722775,
 				"friends_count": 544,
-				"listed_count": 5714,
+				"listed_count": 5713,
 				"created_at": "Mon Oct 22 23:57:33 +0000 2007",
 				"favourites_count": 656,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": true,
-				"statuses_count": 244407,
+				"statuses_count": 244468,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -907,14 +1263,14 @@ Grailbird.data.tweets_2020_06 =
 			"contributors": null,
 			"is_quote_status": false,
 			"retweet_count": 38,
-			"favorite_count": 103,
+			"favorite_count": 102,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
 			"lang": "en"
 		},
 		"retweet_count": 497,
-		"favorite_count": 1067,
+		"favorite_count": 1070,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -980,16 +1336,16 @@ Grailbird.data.tweets_2020_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 832,
+			"followers_count": 833,
 			"friends_count": 158,
 			"listed_count": 94,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 7967,
+			"favourites_count": 7974,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14321,
+			"statuses_count": 14322,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1126,16 +1482,16 @@ Grailbird.data.tweets_2020_06 =
 					}
 				},
 				"protected": false,
-				"followers_count": 16094,
-				"friends_count": 2779,
-				"listed_count": 268,
+				"followers_count": 16093,
+				"friends_count": 2782,
+				"listed_count": 267,
 				"created_at": "Sat Mar 12 22:27:31 +0000 2011",
-				"favourites_count": 25590,
+				"favourites_count": 25592,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": true,
-				"statuses_count": 26219,
+				"statuses_count": 26224,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -1166,7 +1522,7 @@ Grailbird.data.tweets_2020_06 =
 			"contributors": null,
 			"is_quote_status": false,
 			"retweet_count": 244,
-			"favorite_count": 306,
+			"favorite_count": 307,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
