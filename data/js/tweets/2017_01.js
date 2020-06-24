@@ -74,12 +74,12 @@ Grailbird.data.tweets_2017_01 =
 			"friends_count": 158,
 			"listed_count": 94,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8020,
+			"favourites_count": 8021,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14350,
+			"statuses_count": 14351,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -224,12 +224,12 @@ Grailbird.data.tweets_2017_01 =
 			"friends_count": 158,
 			"listed_count": 94,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8020,
+			"favourites_count": 8021,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14350,
+			"statuses_count": 14351,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -455,16 +455,16 @@ Grailbird.data.tweets_2017_01 =
 					}
 				},
 				"protected": false,
-				"followers_count": 8825,
+				"followers_count": 8831,
 				"friends_count": 2573,
 				"listed_count": 603,
 				"created_at": "Mon Feb 04 13:30:17 +0000 2008",
-				"favourites_count": 6864,
+				"favourites_count": 6869,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": false,
-				"statuses_count": 29855,
+				"statuses_count": 29863,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -573,12 +573,12 @@ Grailbird.data.tweets_2017_01 =
 			"friends_count": 158,
 			"listed_count": 94,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8020,
+			"favourites_count": 8021,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14350,
+			"statuses_count": 14351,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -712,12 +712,12 @@ Grailbird.data.tweets_2017_01 =
 			"friends_count": 158,
 			"listed_count": 94,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8020,
+			"favourites_count": 8021,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14350,
+			"statuses_count": 14351,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -851,12 +851,12 @@ Grailbird.data.tweets_2017_01 =
 			"friends_count": 158,
 			"listed_count": 94,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8020,
+			"favourites_count": 8021,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14350,
+			"statuses_count": 14351,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -990,12 +990,12 @@ Grailbird.data.tweets_2017_01 =
 			"friends_count": 158,
 			"listed_count": 94,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8020,
+			"favourites_count": 8021,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14350,
+			"statuses_count": 14351,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1139,12 +1139,12 @@ Grailbird.data.tweets_2017_01 =
 			"friends_count": 158,
 			"listed_count": 94,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8020,
+			"favourites_count": 8021,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14350,
+			"statuses_count": 14351,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1279,12 +1279,12 @@ Grailbird.data.tweets_2017_01 =
 			"friends_count": 158,
 			"listed_count": 94,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8020,
+			"favourites_count": 8021,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14350,
+			"statuses_count": 14351,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1385,12 +1385,12 @@ Grailbird.data.tweets_2017_01 =
 			"friends_count": 158,
 			"listed_count": 94,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8020,
+			"favourites_count": 8021,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14350,
+			"statuses_count": 14351,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1426,591 +1426,5 @@ Grailbird.data.tweets_2017_01 =
 		"retweeted": false,
 		"lang": "en",
 		"text": "@jamescroft Is there a way to do a bulk delete for that many tweets? Out of curiosity at the moment"
-	},
-	{
-		"created_at": "Sun Jan 29 22:55:12 +0000 2017",
-		"id": 825781391803588600,
-		"id_str": "825839742038073345",
-		"full_text": "Why is the alt-right Twitterverse populated by anonymous cowards hiding behind silly names? Are they bots, or simply insecure muppets?",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			134
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": []
-		},
-		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 755367,
-			"id_str": "755367",
-			"name": "Bryan Rieger",
-			"screen_name": "bryanrieger",
-			"location": "Tiohtiá:ke/Montréal, Canada",
-			"description": "🇨🇦🏴󠁧󠁢󠁳󠁣󠁴󠁿🇪🇺🏳️‍🌈 Bonjour, hi! Design, products, narrative, play, etcetera… he/they✨",
-			"url": "https://t.co/yCq4fjxlAf",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/yCq4fjxlAf",
-							"expanded_url": "http://bryanrieger.com",
-							"display_url": "bryanrieger.com",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 4404,
-			"friends_count": 190,
-			"listed_count": 461,
-			"created_at": "Tue Feb 06 18:33:33 +0000 2007",
-			"favourites_count": 39733,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 35576,
-			"lang": null,
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "FFFFFF",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1180852741960343553/VMEyvuUd_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1180852741960343553/VMEyvuUd_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/755367/1432208485",
-			"profile_link_color": "FF1D2E",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "000000",
-			"profile_text_color": "000000",
-			"profile_use_background_image": false,
-			"has_extended_profile": false,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": true,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": {
-			"id": "1e5cb4d0509db554",
-			"url": "https://api.twitter.com/1.1/geo/id/1e5cb4d0509db554.json",
-			"place_type": "city",
-			"name": "Vancouver",
-			"full_name": "Vancouver, British Columbia",
-			"country_code": "CA",
-			"country": "Canada",
-			"contained_within": [],
-			"bounding_box": {
-				"type": "Polygon",
-				"coordinates": [
-					[
-						[
-							-123.224215,
-							49.19854
-						],
-						[
-							-123.022947,
-							49.19854
-						],
-						[
-							-123.022947,
-							49.316738
-						],
-						[
-							-123.224215,
-							49.316738
-						]
-					]
-				]
-			},
-			"attributes": {}
-		},
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 2,
-		"favorite_count": 11,
-		"favorited": false,
-		"retweeted": false,
-		"lang": "en",
-		"text": "Why is the alt-right Twitterverse populated by anonymous cowards hiding behind silly names? Are they bots, or simply insecure muppets?"
-	},
-	{
-		"created_at": "Sun Jan 29 13:33:06 +0000 2017",
-		"id": 825698283741851600,
-		"id_str": "825698283741851649",
-		"full_text": "Pity Australia can’t say the same https://t.co/TXM2ald6EE",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			33
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": [
-				{
-					"url": "https://t.co/TXM2ald6EE",
-					"expanded_url": "https://twitter.com/chewie93/status/825526976769294336",
-					"display_url": "twitter.com/chewie93/statu…",
-					"indices": [
-						34,
-						57
-					]
-				}
-			]
-		},
-		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 174124175,
-			"id_str": "174124175",
-			"name": "Tim Klapdor",
-			"screen_name": "timklapdor",
-			"location": "Adelaide, South Australia",
-			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "https://t.co/uC0c3me6KE",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/uC0c3me6KE",
-							"expanded_url": "http://timklapdor.com",
-							"display_url": "timklapdor.com",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 830,
-			"friends_count": 158,
-			"listed_count": 94,
-			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8020,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 14350,
-			"lang": null,
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "C0DEED",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
-			"profile_link_color": "5FA832",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "DDEEF6",
-			"profile_text_color": "333333",
-			"profile_use_background_image": true,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": {
-			"id": "47fbe3d3691af707",
-			"url": "https://api.twitter.com/1.1/geo/id/47fbe3d3691af707.json",
-			"place_type": "neighborhood",
-			"name": "Turvey Park",
-			"full_name": "Turvey Park, Wagga Wagga",
-			"country_code": "AU",
-			"country": "Australia",
-			"contained_within": [],
-			"bounding_box": {
-				"type": "Polygon",
-				"coordinates": [
-					[
-						[
-							147.34215216,
-							-35.13507804
-						],
-						[
-							147.37781016,
-							-35.13507804
-						],
-						[
-							147.37781016,
-							-35.11972998
-						],
-						[
-							147.34215216,
-							-35.11972998
-						]
-					]
-				]
-			},
-			"attributes": {}
-		},
-		"contributors": null,
-		"is_quote_status": true,
-		"quoted_status_id": 825526976769294300,
-		"quoted_status_id_str": "825526976769294336",
-		"quoted_status_permalink": {
-			"url": "https://t.co/TXM2ald6EE",
-			"expanded": "https://twitter.com/chewie93/status/825526976769294336",
-			"display": "twitter.com/chewie93/statu…"
-		},
-		"quoted_status": {
-			"created_at": "Sun Jan 29 02:12:23 +0000 2017",
-			"id": 825526976769294300,
-			"id_str": "825526976769294336",
-			"full_text": "Best. Sign. Ever. https://t.co/dFxE4esicp",
-			"truncated": false,
-			"display_text_range": [
-				0,
-				17
-			],
-			"entities": {
-				"hashtags": [],
-				"symbols": [],
-				"user_mentions": [],
-				"urls": [],
-				"media": [
-					{
-						"id": 825526948726075400,
-						"id_str": "825526948726075392",
-						"indices": [
-							18,
-							41
-						],
-						"media_url": "http://pbs.twimg.com/media/C3TcYtNUcAAUOyV.jpg",
-						"media_url_https": "https://pbs.twimg.com/media/C3TcYtNUcAAUOyV.jpg",
-						"url": "https://t.co/dFxE4esicp",
-						"display_url": "pic.twitter.com/dFxE4esicp",
-						"expanded_url": "https://twitter.com/chewie93/status/825526976769294336/photo/1",
-						"type": "photo",
-						"sizes": {
-							"thumb": {
-								"w": 150,
-								"h": 150,
-								"resize": "crop"
-							},
-							"medium": {
-								"w": 742,
-								"h": 677,
-								"resize": "fit"
-							},
-							"small": {
-								"w": 680,
-								"h": 620,
-								"resize": "fit"
-							},
-							"large": {
-								"w": 742,
-								"h": 677,
-								"resize": "fit"
-							}
-						}
-					}
-				]
-			},
-			"extended_entities": {
-				"media": [
-					{
-						"id": 825526948726075400,
-						"id_str": "825526948726075392",
-						"indices": [
-							18,
-							41
-						],
-						"media_url": "http://pbs.twimg.com/media/C3TcYtNUcAAUOyV.jpg",
-						"media_url_https": "https://pbs.twimg.com/media/C3TcYtNUcAAUOyV.jpg",
-						"url": "https://t.co/dFxE4esicp",
-						"display_url": "pic.twitter.com/dFxE4esicp",
-						"expanded_url": "https://twitter.com/chewie93/status/825526976769294336/photo/1",
-						"type": "photo",
-						"sizes": {
-							"thumb": {
-								"w": 150,
-								"h": 150,
-								"resize": "crop"
-							},
-							"medium": {
-								"w": 742,
-								"h": 677,
-								"resize": "fit"
-							},
-							"small": {
-								"w": 680,
-								"h": 620,
-								"resize": "fit"
-							},
-							"large": {
-								"w": 742,
-								"h": 677,
-								"resize": "fit"
-							}
-						}
-					}
-				]
-			},
-			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-			"in_reply_to_status_id": null,
-			"in_reply_to_status_id_str": null,
-			"in_reply_to_user_id": null,
-			"in_reply_to_user_id_str": null,
-			"in_reply_to_screen_name": null,
-			"user": {
-				"id": 17391251,
-				"id_str": "17391251",
-				"name": "Don",
-				"screen_name": "chewie93",
-				"location": "Chicago (with Seattle love)",
-				"description": "Book editor. Books, higher ed, geekery, metal, bass, basketball, languages, mental health, leftist politics.",
-				"url": "http://t.co/098sXHcLdG",
-				"entities": {
-					"url": {
-						"urls": [
-							{
-								"url": "http://t.co/098sXHcLdG",
-								"expanded_url": "http://chewie93.wordpress.com",
-								"display_url": "chewie93.wordpress.com",
-								"indices": [
-									0,
-									22
-								]
-							}
-						]
-					},
-					"description": {
-						"urls": []
-					}
-				},
-				"protected": false,
-				"followers_count": 464,
-				"friends_count": 644,
-				"listed_count": 32,
-				"created_at": "Fri Nov 14 17:12:59 +0000 2008",
-				"favourites_count": 2175,
-				"utc_offset": null,
-				"time_zone": null,
-				"geo_enabled": false,
-				"verified": false,
-				"statuses_count": 25756,
-				"lang": null,
-				"contributors_enabled": false,
-				"is_translator": false,
-				"is_translation_enabled": false,
-				"profile_background_color": "1A1B1F",
-				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
-				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
-				"profile_background_tile": false,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/947930073503592449/tBalwp18_normal.jpg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/947930073503592449/tBalwp18_normal.jpg",
-				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17391251/1476017353",
-				"profile_link_color": "2FC2EF",
-				"profile_sidebar_border_color": "181A1E",
-				"profile_sidebar_fill_color": "252429",
-				"profile_text_color": "666666",
-				"profile_use_background_image": true,
-				"has_extended_profile": false,
-				"default_profile": false,
-				"default_profile_image": false,
-				"following": false,
-				"follow_request_sent": false,
-				"notifications": false,
-				"translator_type": "none"
-			},
-			"geo": null,
-			"coordinates": null,
-			"place": null,
-			"contributors": null,
-			"is_quote_status": false,
-			"retweet_count": 8700,
-			"favorite_count": 18610,
-			"favorited": false,
-			"retweeted": false,
-			"possibly_sensitive": false,
-			"lang": "en"
-		},
-		"retweet_count": 0,
-		"favorite_count": 0,
-		"favorited": false,
-		"retweeted": false,
-		"possibly_sensitive": false,
-		"lang": "en",
-		"text": "Pity Australia can’t say the same https://t.co/TXM2ald6EE"
-	},
-	{
-		"created_at": "Sun Jan 29 13:17:21 +0000 2017",
-		"id": 825694320753651700,
-		"id_str": "825694320753651712",
-		"full_text": "Liberal party enshrining the fact they have no actual fiscal policy. Ideology rules despite lack monetary effect https://t.co/G2XlXUO5r7",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			136
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": [
-				{
-					"url": "https://t.co/G2XlXUO5r7",
-					"expanded_url": "http://www.theage.com.au/federal-politics/political-news/scott-morrison-to-lift-credit-limit-as-australias-debt-hurtles-towards-500-billion-20170128-gu0iin",
-					"display_url": "theage.com.au/federal-politi…",
-					"indices": [
-						113,
-						136
-					]
-				}
-			]
-		},
-		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 174124175,
-			"id_str": "174124175",
-			"name": "Tim Klapdor",
-			"screen_name": "timklapdor",
-			"location": "Adelaide, South Australia",
-			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "https://t.co/uC0c3me6KE",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/uC0c3me6KE",
-							"expanded_url": "http://timklapdor.com",
-							"display_url": "timklapdor.com",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 830,
-			"friends_count": 158,
-			"listed_count": 94,
-			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8020,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 14350,
-			"lang": null,
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "C0DEED",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
-			"profile_link_color": "5FA832",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "DDEEF6",
-			"profile_text_color": "333333",
-			"profile_use_background_image": true,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": {
-			"id": "47fbe3d3691af707",
-			"url": "https://api.twitter.com/1.1/geo/id/47fbe3d3691af707.json",
-			"place_type": "neighborhood",
-			"name": "Turvey Park",
-			"full_name": "Turvey Park, Wagga Wagga",
-			"country_code": "AU",
-			"country": "Australia",
-			"contained_within": [],
-			"bounding_box": {
-				"type": "Polygon",
-				"coordinates": [
-					[
-						[
-							147.34215216,
-							-35.13507804
-						],
-						[
-							147.37781016,
-							-35.13507804
-						],
-						[
-							147.37781016,
-							-35.11972998
-						],
-						[
-							147.34215216,
-							-35.11972998
-						]
-					]
-				]
-			},
-			"attributes": {}
-		},
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 0,
-		"favorited": false,
-		"retweeted": false,
-		"possibly_sensitive": false,
-		"lang": "en",
-		"text": "Liberal party enshrining the fact they have no actual fiscal policy. Ideology rules despite lack monetary effect https://t.co/G2XlXUO5r7"
 	}
 ]
