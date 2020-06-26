@@ -74,12 +74,12 @@ Grailbird.data.tweets_2017_01 =
 			"friends_count": 158,
 			"listed_count": 94,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8021,
+			"favourites_count": 8025,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14355,
+			"statuses_count": 14357,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -224,12 +224,12 @@ Grailbird.data.tweets_2017_01 =
 			"friends_count": 158,
 			"listed_count": 94,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8021,
+			"favourites_count": 8025,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14355,
+			"statuses_count": 14357,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -456,15 +456,15 @@ Grailbird.data.tweets_2017_01 =
 				},
 				"protected": false,
 				"followers_count": 8834,
-				"friends_count": 2573,
-				"listed_count": 603,
+				"friends_count": 2571,
+				"listed_count": 602,
 				"created_at": "Mon Feb 04 13:30:17 +0000 2008",
-				"favourites_count": 6876,
+				"favourites_count": 6883,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": false,
-				"statuses_count": 29868,
+				"statuses_count": 29872,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -573,12 +573,12 @@ Grailbird.data.tweets_2017_01 =
 			"friends_count": 158,
 			"listed_count": 94,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8021,
+			"favourites_count": 8025,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14355,
+			"statuses_count": 14357,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -712,12 +712,12 @@ Grailbird.data.tweets_2017_01 =
 			"friends_count": 158,
 			"listed_count": 94,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8021,
+			"favourites_count": 8025,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14355,
+			"statuses_count": 14357,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -786,283 +786,5 @@ Grailbird.data.tweets_2017_01 =
 		"retweeted": false,
 		"lang": "en",
 		"text": "@cogdog Excellent. Starting to plan this year and love to include a CogDog session or two :-)"
-	},
-	{
-		"created_at": "Mon Jan 30 22:36:44 +0000 2017",
-		"id": 826197481092309000,
-		"id_str": "826197481092308992",
-		"full_text": "@acroom Am looking forward to it. Venue and everything looks amazing!",
-		"truncated": false,
-		"display_text_range": [
-			8,
-			69
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [
-				{
-					"screen_name": "acroom",
-					"name": "Adam Croom",
-					"id": 19056987,
-					"id_str": "19056987",
-					"indices": [
-						0,
-						7
-					]
-				}
-			],
-			"urls": []
-		},
-		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
-		"in_reply_to_status_id": 826195362662772700,
-		"in_reply_to_status_id_str": "826195362662772736",
-		"in_reply_to_user_id": 19056987,
-		"in_reply_to_user_id_str": "19056987",
-		"in_reply_to_screen_name": "acroom",
-		"user": {
-			"id": 174124175,
-			"id_str": "174124175",
-			"name": "Tim Klapdor",
-			"screen_name": "timklapdor",
-			"location": "Adelaide, South Australia",
-			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "https://t.co/uC0c3me6KE",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/uC0c3me6KE",
-							"expanded_url": "http://timklapdor.com",
-							"display_url": "timklapdor.com",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 830,
-			"friends_count": 158,
-			"listed_count": 94,
-			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8021,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 14355,
-			"lang": null,
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "C0DEED",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
-			"profile_link_color": "5FA832",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "DDEEF6",
-			"profile_text_color": "333333",
-			"profile_use_background_image": true,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": {
-			"id": "00de77a74e8155fa",
-			"url": "https://api.twitter.com/1.1/geo/id/00de77a74e8155fa.json",
-			"place_type": "city",
-			"name": "Estella",
-			"full_name": "Estella, New South Wales",
-			"country_code": "AU",
-			"country": "Australia",
-			"contained_within": [],
-			"bounding_box": {
-				"type": "Polygon",
-				"coordinates": [
-					[
-						[
-							147.342861344,
-							-35.0844753575
-						],
-						[
-							147.363966496,
-							-35.0844753575
-						],
-						[
-							147.363966496,
-							-35.046804418
-						],
-						[
-							147.342861344,
-							-35.046804418
-						]
-					]
-				]
-			},
-			"attributes": {}
-		},
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 0,
-		"favorited": false,
-		"retweeted": false,
-		"lang": "en",
-		"text": "@acroom Am looking forward to it. Venue and everything looks amazing!"
-	},
-	{
-		"created_at": "Mon Jan 30 22:36:25 +0000 2017",
-		"id": 826197404508528600,
-		"id_str": "826197404508528641",
-		"full_text": "@cogdog Will do! Stilling planning a trip to Oz this year?",
-		"truncated": false,
-		"display_text_range": [
-			8,
-			58
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [
-				{
-					"screen_name": "cogdog",
-					"name": "Alan Levine",
-					"id": 740343,
-					"id_str": "740343",
-					"indices": [
-						0,
-						7
-					]
-				}
-			],
-			"urls": []
-		},
-		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
-		"in_reply_to_status_id": 826192570271166500,
-		"in_reply_to_status_id_str": "826192570271166464",
-		"in_reply_to_user_id": 740343,
-		"in_reply_to_user_id_str": "740343",
-		"in_reply_to_screen_name": "cogdog",
-		"user": {
-			"id": 174124175,
-			"id_str": "174124175",
-			"name": "Tim Klapdor",
-			"screen_name": "timklapdor",
-			"location": "Adelaide, South Australia",
-			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "https://t.co/uC0c3me6KE",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/uC0c3me6KE",
-							"expanded_url": "http://timklapdor.com",
-							"display_url": "timklapdor.com",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 830,
-			"friends_count": 158,
-			"listed_count": 94,
-			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8021,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 14355,
-			"lang": null,
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "C0DEED",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
-			"profile_link_color": "5FA832",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "DDEEF6",
-			"profile_text_color": "333333",
-			"profile_use_background_image": true,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": {
-			"id": "00de77a74e8155fa",
-			"url": "https://api.twitter.com/1.1/geo/id/00de77a74e8155fa.json",
-			"place_type": "city",
-			"name": "Estella",
-			"full_name": "Estella, New South Wales",
-			"country_code": "AU",
-			"country": "Australia",
-			"contained_within": [],
-			"bounding_box": {
-				"type": "Polygon",
-				"coordinates": [
-					[
-						[
-							147.342861344,
-							-35.0844753575
-						],
-						[
-							147.363966496,
-							-35.0844753575
-						],
-						[
-							147.363966496,
-							-35.046804418
-						],
-						[
-							147.342861344,
-							-35.046804418
-						]
-					]
-				]
-			},
-			"attributes": {}
-		},
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 0,
-		"favorited": false,
-		"retweeted": false,
-		"lang": "en",
-		"text": "@cogdog Will do! Stilling planning a trip to Oz this year?"
 	}
 ]
