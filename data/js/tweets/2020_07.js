@@ -1,6 +1,466 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Sun Jul 05 23:23:04 +0000 2020",
+		"id": 1279918752125948000,
+		"id_str": "1279918752125947904",
+		"full_text": "@kinlane Thanks for sharing Kin. Beautiful and heartfelt.",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			57
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kinlane",
+					"name": "Kin Lane",
+					"id": 5954192,
+					"id_str": "5954192",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1279844380698804200,
+		"in_reply_to_status_id_str": "1279844380698804225",
+		"in_reply_to_user_id": 5954192,
+		"in_reply_to_user_id_str": "5954192",
+		"in_reply_to_screen_name": "kinlane",
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Adelaide, South Australia",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
+			"url": "https://t.co/uC0c3me6KE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uC0c3me6KE",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 830,
+			"friends_count": 158,
+			"listed_count": 94,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 8069,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14370,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7b46944933d8137e",
+			"url": "https://api.twitter.com/1.1/geo/id/7b46944933d8137e.json",
+			"place_type": "neighborhood",
+			"name": "Norwood",
+			"full_name": "Norwood, Adelaide",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							138.62264616,
+							-34.92790299
+						],
+						[
+							138.64147308,
+							-34.92790299
+						],
+						[
+							138.64147308,
+							-34.91480097
+						],
+						[
+							138.62264616,
+							-34.91480097
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@kinlane Thanks for sharing Kin. Beautiful and heartfelt."
+	},
+	{
+		"created_at": "Sun Jul 05 23:01:49 +0000 2020",
+		"id": 1279913404333842400,
+		"id_str": "1279913404333842433",
+		"full_text": "This is a great analogy and helps to clearly articulate why history, systems and traditions are affective - they aren’t just processes or a language in isolation.  They reflect real problems and real emotions, and we need to respect that and work towards change. https://t.co/kWnkW5sgB4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			262
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kWnkW5sgB4",
+					"expanded_url": "https://twitter.com/btanderson72/status/1279507428128718848",
+					"display_url": "twitter.com/btanderson72/s…",
+					"indices": [
+						263,
+						286
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Adelaide, South Australia",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
+			"url": "https://t.co/uC0c3me6KE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uC0c3me6KE",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 830,
+			"friends_count": 158,
+			"listed_count": 94,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 8069,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14370,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7b46944933d8137e",
+			"url": "https://api.twitter.com/1.1/geo/id/7b46944933d8137e.json",
+			"place_type": "neighborhood",
+			"name": "Norwood",
+			"full_name": "Norwood, Adelaide",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							138.62264616,
+							-34.92790299
+						],
+						[
+							138.64147308,
+							-34.92790299
+						],
+						[
+							138.64147308,
+							-34.91480097
+						],
+						[
+							138.62264616,
+							-34.91480097
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1279507428128718800,
+		"quoted_status_id_str": "1279507428128718848",
+		"quoted_status_permalink": {
+			"url": "https://t.co/kWnkW5sgB4",
+			"expanded": "https://twitter.com/btanderson72/status/1279507428128718848",
+			"display": "twitter.com/btanderson72/s…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jul 04 20:08:37 +0000 2020",
+			"id": 1279507428128718800,
+			"id_str": "1279507428128718848",
+			"full_text": "We need to have a serious talk about the difference between being ‘offended’ and being ‘harmed’. a conversation about forests and trees: 1/x",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				140
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2795532057,
+				"id_str": "2795532057",
+				"name": "Brian Anderson",
+				"screen_name": "btanderson72",
+				"location": "United States",
+				"description": "InfoSec Pro speaking to just plain folks. Opinions are mine, or someone else's, but definitely not my employer's...  He/him",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1412,
+				"friends_count": 1086,
+				"listed_count": 23,
+				"created_at": "Tue Sep 30 16:57:12 +0000 2014",
+				"favourites_count": 8769,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2898,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1058009006168518657/wTGf_aHw_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1058009006168518657/wTGf_aHw_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 352,
+			"favorite_count": 908,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is a great analogy and helps to clearly articulate why history, systems and traditions are affective - they aren’t just processes or a language in isolation.  They reflect real problems and real emotions, and we need to respect that and work towards change. https://t.co/kWnkW5sgB4"
+	},
+	{
+		"created_at": "Sun Jul 05 11:42:21 +0000 2020",
+		"id": 1279729256302612500,
+		"id_str": "1279742407664209920",
+		"full_text": "It's weird how extreme an idea like defunding the police is painted in Britain when defunding the arts, libraries, education, mental health, and the NHS have been public policy for decades",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17336372,
+			"id_str": "17336372",
+			"name": "Frankie Boyle",
+			"screen_name": "frankieboyle",
+			"location": "www.frankieboyle.com",
+			"description": "",
+			"url": "https://t.co/ANwcwPmQpN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ANwcwPmQpN",
+							"expanded_url": "http://www.instagram.com/frankie_boyle",
+							"display_url": "instagram.com/frankie_boyle",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2813452,
+			"friends_count": 1119,
+			"listed_count": 5411,
+			"created_at": "Wed Nov 12 09:48:13 +0000 2008",
+			"favourites_count": 6572,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 21107,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1266416934217748481/kZqKLlVp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1266416934217748481/kZqKLlVp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17336372/1590772302",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16500,
+		"favorite_count": 68623,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "It's weird how extreme an idea like defunding the police is painted in Britain when defunding the arts, libraries, education, mental health, and the NHS have been public policy for decades"
+	},
+	{
 		"created_at": "Thu Jul 02 11:36:46 +0000 2020",
 		"id": 1278653841236324400,
 		"id_str": "1278653841236324357",
@@ -64,12 +524,12 @@ Grailbird.data.tweets_2020_07 =
 			"friends_count": 158,
 			"listed_count": 94,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8068,
+			"favourites_count": 8069,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14367,
+			"statuses_count": 14370,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -188,16 +648,16 @@ Grailbird.data.tweets_2020_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 192675,
-			"friends_count": 19222,
-			"listed_count": 1468,
+			"followers_count": 192805,
+			"friends_count": 19219,
+			"listed_count": 1469,
 			"created_at": "Mon Mar 23 05:39:19 +0000 2009",
 			"favourites_count": 1105,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 13701,
+			"statuses_count": 13706,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -227,8 +687,8 @@ Grailbird.data.tweets_2020_07 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 2511,
-		"favorite_count": 7947,
+		"retweet_count": 2516,
+		"favorite_count": 7969,
 		"favorited": false,
 		"retweeted": true,
 		"lang": "en",
@@ -361,16 +821,16 @@ Grailbird.data.tweets_2020_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 29797,
+			"followers_count": 29820,
 			"friends_count": 2227,
-			"listed_count": 309,
+			"listed_count": 310,
 			"created_at": "Tue Jan 11 06:02:39 +0000 2011",
-			"favourites_count": 3107,
+			"favourites_count": 3108,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 11604,
+			"statuses_count": 11606,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -457,16 +917,16 @@ Grailbird.data.tweets_2020_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 18348,
-			"friends_count": 2991,
+			"followers_count": 18365,
+			"friends_count": 2992,
 			"listed_count": 357,
 			"created_at": "Mon May 24 01:26:34 +0000 2010",
-			"favourites_count": 34560,
+			"favourites_count": 34576,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 71847,
+			"statuses_count": 71876,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -496,8 +956,8 @@ Grailbird.data.tweets_2020_07 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 956,
-		"favorite_count": 2547,
+		"retweet_count": 957,
+		"favorite_count": 2550,
 		"favorited": false,
 		"retweeted": true,
 		"lang": "en",
@@ -567,12 +1027,12 @@ Grailbird.data.tweets_2020_07 =
 			"friends_count": 158,
 			"listed_count": 94,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8068,
+			"favourites_count": 8069,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14367,
+			"statuses_count": 14370,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -701,16 +1161,16 @@ Grailbird.data.tweets_2020_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 38402,
+			"followers_count": 38430,
 			"friends_count": 486,
-			"listed_count": 281,
+			"listed_count": 282,
 			"created_at": "Mon Apr 30 12:38:04 +0000 2012",
 			"favourites_count": 606,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 4443,
+			"statuses_count": 4444,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -741,7 +1201,7 @@ Grailbird.data.tweets_2020_07 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 48,
-		"favorite_count": 310,
+		"favorite_count": 311,
 		"favorited": true,
 		"retweeted": true,
 		"possibly_sensitive": false,
