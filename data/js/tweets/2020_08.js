@@ -1,6 +1,557 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Thu Aug 06 12:01:53 +0000 2020",
+		"id": 1291237741334655000,
+		"id_str": "1291343738606727168",
+		"full_text": "The Morrison Govt gives Foxtel an extra $10m as part of the Government’s ”Covid Response Package”. \n\nThe ABC gets nothing as part of their response, despite the large role the public broadcaster is playing to keep the community informed, safe and connected.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			257
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4553061,
+			"id_str": "4553061",
+			"name": "Sarah Hanson-Young💚",
+			"screen_name": "sarahinthesen8",
+			"location": "Adelaide, South Australia",
+			"description": "Senator for South Australia.  Proud mum, sister & aunt. World Economic Forum Young Global Leader. Greens Party spokesperson for Enviro/Water/Arts/Comms/Tourism",
+			"url": "https://t.co/VNEiMSzR32",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VNEiMSzR32",
+							"expanded_url": "http://sarahhansonyoung.com",
+							"display_url": "sarahhansonyoung.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 166273,
+			"friends_count": 1951,
+			"listed_count": 1333,
+			"created_at": "Sat Apr 14 00:07:18 +0000 2007",
+			"favourites_count": 1054,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 12082,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/896722828321406976/vPxQmgTq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/896722828321406976/vPxQmgTq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4553061/1543751640",
+			"profile_link_color": "990000",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 763,
+		"favorite_count": 2280,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "The Morrison Govt gives Foxtel an extra $10m as part of the Government’s ”Covid Response Package”. \n\nThe ABC gets nothing as part of their response, despite the large role the public broadcaster is playing to keep the community informed, safe and connected."
+	},
+	{
+		"created_at": "Thu Aug 06 11:49:04 +0000 2020",
+		"id": 1291340512025174000,
+		"id_str": "1291340512025174022",
+		"full_text": "I mean it’s not as a result of the lock down - it’s the result of a deadly virus spreading in the community and the societal need to respect and save lives. \n\nWe live in a society, not an economy. https://t.co/sgHddhfgax",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			196
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sgHddhfgax",
+					"expanded_url": "https://twitter.com/Fi_Willan/status/1291191969478107136",
+					"display_url": "twitter.com/Fi_Willan/stat…",
+					"indices": [
+						197,
+						220
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Adelaide, South Australia",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
+			"url": "https://t.co/uC0c3me6KE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uC0c3me6KE",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 828,
+			"friends_count": 157,
+			"listed_count": 92,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 8157,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14418,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7b46944933d8137e",
+			"url": "https://api.twitter.com/1.1/geo/id/7b46944933d8137e.json",
+			"place_type": "neighborhood",
+			"name": "Norwood",
+			"full_name": "Norwood, Adelaide",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							138.62264616,
+							-34.92790299
+						],
+						[
+							138.64147308,
+							-34.92790299
+						],
+						[
+							138.64147308,
+							-34.91480097
+						],
+						[
+							138.62264616,
+							-34.91480097
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1291191969478107100,
+		"quoted_status_id_str": "1291191969478107136",
+		"quoted_status_permalink": {
+			"url": "https://t.co/sgHddhfgax",
+			"expanded": "https://twitter.com/Fi_Willan/status/1291191969478107136",
+			"display": "twitter.com/Fi_Willan/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Aug 06 01:58:49 +0000 2020",
+			"id": 1291191969478107100,
+			"id_str": "1291191969478107136",
+			"full_text": "PM says the effective rate of unemployment is estimated to climb from around 11% to more than 13% as a result of Victoria's restrictions \n(the official rate is expected to sit around 10 percent - but it's masked by a number of factors incl JobKeeper) #auspol #COVID19au @9NewsAUS",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				279
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "auspol",
+						"indices": [
+							251,
+							258
+						]
+					},
+					{
+						"text": "COVID19au",
+						"indices": [
+							259,
+							269
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "9NewsAUS",
+						"name": "Nine News Australia",
+						"id": 22993014,
+						"id_str": "22993014",
+						"indices": [
+							270,
+							279
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 43868224,
+				"id_str": "43868224",
+				"name": "Fiona Willan",
+				"screen_name": "Fi_Willan",
+				"location": "Canberra",
+				"description": "Federal Politics Reporter with @9NewsAUS and @thetodayshow - All views and lame jokes are entirely my own. Got a story? email fwillan@nine.com.au",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5003,
+				"friends_count": 2894,
+				"listed_count": 95,
+				"created_at": "Mon Jun 01 11:19:56 +0000 2009",
+				"favourites_count": 1369,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 2685,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/985781078911737858/7Qsn4EVE_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/985781078911737858/7Qsn4EVE_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/43868224/1548715115",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I mean it’s not as a result of the lock down - it’s the result of a deadly virus spreading in the community and the societal need to respect and save lives. \n\nWe live in a society, not an economy. https://t.co/sgHddhfgax"
+	},
+	{
+		"created_at": "Thu Aug 06 11:47:11 +0000 2020",
+		"id": 1291190782754304000,
+		"id_str": "1291340037468991489",
+		"full_text": "“Australia’s three dozen universities are among the most important assets Australia possesses, and investing in them is one of the best long-term decisions the nation can make,” Professor Schmidt said in his speech. https://t.co/WoMu7v88yX #COVID19 #education",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			259
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "COVID19",
+					"indices": [
+						240,
+						248
+					]
+				},
+				{
+					"text": "education",
+					"indices": [
+						249,
+						259
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WoMu7v88yX",
+					"expanded_url": "https://www.theaustralian.com.au/higher-education/in-a-world-of-colossal-troubles-plucky-anu-steps-up/news-story/ef4853743469efcf0f2a78ba476915a9",
+					"display_url": "theaustralian.com.au/higher-educati…",
+					"indices": [
+						216,
+						239
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 51002583,
+			"id_str": "51002583",
+			"name": "Matthew Rimmer",
+			"screen_name": "DrRimmer",
+			"location": "Brisbane, Queensland",
+			"description": "Professor of IP & Innovation Law #Copyright #Patent #Trademark #Access2meds #Plainpacks #SDGs #Climate #IndigenousIP #TPP #trade #robotics #3dprinting @QUT",
+			"url": "https://t.co/u1eQok30Es",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/u1eQok30Es",
+							"expanded_url": "http://works.bepress.com/matthew_rimmer/",
+							"display_url": "works.bepress.com/matthew_rimmer/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16251,
+			"friends_count": 17164,
+			"listed_count": 1650,
+			"created_at": "Fri Jun 26 10:17:54 +0000 2009",
+			"favourites_count": 57912,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 383098,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/810799939605315584/byTvnTTr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/810799939605315584/byTvnTTr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/51002583/1531110426",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 29,
+		"favorite_count": 47,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“Australia’s three dozen universities are among the most important assets Australia possesses, and investing in them is one of the best long-term decisions the nation can make,” Professor Schmidt said in his speech. https://t.co/WoMu7v88yX #COVID19 #education"
+	},
+	{
+		"created_at": "Thu Aug 06 10:18:05 +0000 2020",
+		"id": 1290880537322643500,
+		"id_str": "1291317614363283456",
+		"full_text": "So a Covidiot in NSW just had a go at me for wearing a mask in public.\nI told him I was a Sovereign Citizen and that he had no jurisdiction over me.\nConfusion reigned.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 189308278,
+			"id_str": "189308278",
+			"name": "aspientiae 🔥",
+			"screen_name": "aspientiae",
+			"location": "",
+			"description": "Bucolic, hat collecting, sometimes horticultural writer and spectrum outlier. Widjabul Wia-bul country. Go Cyril.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 239,
+			"friends_count": 557,
+			"listed_count": 7,
+			"created_at": "Fri Sep 10 22:54:22 +0000 2010",
+			"favourites_count": 1133,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6683,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1121353793/pump_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1121353793/pump_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/189308278/1527025008",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1176,
+		"favorite_count": 10694,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "So a Covidiot in NSW just had a go at me for wearing a mask in public.\nI told him I was a Sovereign Citizen and that he had no jurisdiction over me.\nConfusion reigned."
+	},
+	{
 		"created_at": "Sun Aug 02 14:23:34 +0000 2020",
 		"id": 1289733998101504000,
 		"id_str": "1289929840074711043",
@@ -114,16 +665,16 @@ Grailbird.data.tweets_2020_08 =
 				}
 			},
 			"protected": false,
-			"followers_count": 12281,
-			"friends_count": 1490,
+			"followers_count": 12293,
+			"friends_count": 1493,
 			"listed_count": 79,
 			"created_at": "Thu May 23 14:05:13 +0000 2013",
-			"favourites_count": 67677,
+			"favourites_count": 67712,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 39526,
+			"statuses_count": 39562,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -153,8 +704,8 @@ Grailbird.data.tweets_2020_08 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 26981,
-		"favorite_count": 80883,
+		"retweet_count": 27072,
+		"favorite_count": 81141,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -224,12 +775,12 @@ Grailbird.data.tweets_2020_08 =
 			"friends_count": 157,
 			"listed_count": 92,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8150,
+			"favourites_count": 8157,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14414,
+			"statuses_count": 14418,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -348,16 +899,16 @@ Grailbird.data.tweets_2020_08 =
 					}
 				},
 				"protected": false,
-				"followers_count": 13120,
+				"followers_count": 13148,
 				"friends_count": 280,
-				"listed_count": 236,
+				"listed_count": 241,
 				"created_at": "Sun Jan 29 07:22:24 +0000 2012",
 				"favourites_count": 4095,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": true,
-				"statuses_count": 4465,
+				"statuses_count": 4470,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -387,8 +938,8 @@ Grailbird.data.tweets_2020_08 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 859,
-			"favorite_count": 3361,
+			"retweet_count": 862,
+			"favorite_count": 3371,
 			"favorited": false,
 			"retweeted": false,
 			"lang": "en"
@@ -454,12 +1005,12 @@ Grailbird.data.tweets_2020_08 =
 			"friends_count": 157,
 			"listed_count": 92,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8150,
+			"favourites_count": 8157,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14414,
+			"statuses_count": 14418,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -549,12 +1100,12 @@ Grailbird.data.tweets_2020_08 =
 			"friends_count": 157,
 			"listed_count": 92,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8150,
+			"favourites_count": 8157,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14414,
+			"statuses_count": 14418,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -654,12 +1205,12 @@ Grailbird.data.tweets_2020_08 =
 			"friends_count": 157,
 			"listed_count": 92,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8150,
+			"favourites_count": 8157,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14414,
+			"statuses_count": 14418,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -824,15 +1375,15 @@ Grailbird.data.tweets_2020_08 =
 				},
 				"protected": false,
 				"followers_count": 15788,
-				"friends_count": 6988,
+				"friends_count": 6990,
 				"listed_count": 312,
 				"created_at": "Mon Jun 15 11:46:46 +0000 2009",
-				"favourites_count": 37707,
+				"favourites_count": 37713,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": true,
-				"statuses_count": 30882,
+				"statuses_count": 30890,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -1035,16 +1586,16 @@ Grailbird.data.tweets_2020_08 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1352,
+			"followers_count": 1350,
 			"friends_count": 776,
 			"listed_count": 15,
 			"created_at": "Mon Apr 27 18:40:40 +0000 2009",
-			"favourites_count": 36317,
+			"favourites_count": 36374,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14554,
+			"statuses_count": 14564,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1074,8 +1625,8 @@ Grailbird.data.tweets_2020_08 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 4953,
-		"favorite_count": 10364,
+		"retweet_count": 4991,
+		"favorite_count": 10463,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -1196,16 +1747,16 @@ Grailbird.data.tweets_2020_08 =
 				}
 			},
 			"protected": false,
-			"followers_count": 2903,
-			"friends_count": 4824,
-			"listed_count": 88,
+			"followers_count": 2906,
+			"friends_count": 4831,
+			"listed_count": 90,
 			"created_at": "Fri Apr 24 20:12:22 +0000 2009",
-			"favourites_count": 28150,
+			"favourites_count": 28171,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 33580,
+			"statuses_count": 33590,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1306,12 +1857,12 @@ Grailbird.data.tweets_2020_08 =
 			"friends_count": 157,
 			"listed_count": 92,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8150,
+			"favourites_count": 8157,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14414,
+			"statuses_count": 14418,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1455,12 +2006,12 @@ Grailbird.data.tweets_2020_08 =
 			"friends_count": 157,
 			"listed_count": 92,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8150,
+			"favourites_count": 8157,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14414,
+			"statuses_count": 14418,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1551,12 +2102,12 @@ Grailbird.data.tweets_2020_08 =
 			"friends_count": 157,
 			"listed_count": 92,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8150,
+			"favourites_count": 8157,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14414,
+			"statuses_count": 14418,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
