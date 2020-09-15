@@ -1,6 +1,211 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Mon Sep 14 14:08:46 +0000 2020",
+		"id": 1305438562595164200,
+		"id_str": "1305508793179017219",
+		"full_text": "Is it possible that Sydney 2000 was Cathy Freeman's second biggest triumph behind the '96 Stawell Gift when she started 54m behind the field and got elbowed in the final straight? If you haven't seen this, you need to. https://t.co/q1bpcFVxi5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			218
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1305438400111980500,
+					"id_str": "1305438400111980544",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1305438400111980544/pu/img/tPGrjewe2l_v19-v.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1305438400111980544/pu/img/tPGrjewe2l_v19-v.jpg",
+					"url": "https://t.co/q1bpcFVxi5",
+					"display_url": "pic.twitter.com/q1bpcFVxi5",
+					"expanded_url": "https://twitter.com/adamzwar/status/1305438562595164160/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 656,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 656,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 656,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1305438400111980500,
+					"id_str": "1305438400111980544",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1305438400111980544/pu/img/tPGrjewe2l_v19-v.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1305438400111980544/pu/img/tPGrjewe2l_v19-v.jpg",
+					"url": "https://t.co/q1bpcFVxi5",
+					"display_url": "pic.twitter.com/q1bpcFVxi5",
+					"expanded_url": "https://twitter.com/adamzwar/status/1305438562595164160/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 656,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 656,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 656,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							41,
+							30
+						],
+						"duration_millis": 69160,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1305438400111980544/pu/vid/656x480/KaK9y6PDMOOVTL49.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1305438400111980544/pu/vid/368x270/hT61DeeAwiTnVy12.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1305438400111980544/pu/vid/492x360/VOcmuFUKz8hwonDr.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1305438400111980544/pu/pl/nIpkOPjFn1lxEr-w.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18352880,
+			"id_str": "18352880",
+			"name": "Adam Zwar",
+			"screen_name": "adamzwar",
+			"location": "Melbourne, Victoria",
+			"description": "Wilfred, Lowdown, The Agony of Life, Mr Black, Squinters.",
+			"url": "https://t.co/7lOT2olX0T",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7lOT2olX0T",
+							"expanded_url": "https://www.instagram.com/zwarwood/",
+							"display_url": "instagram.com/zwarwood/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18612,
+			"friends_count": 899,
+			"listed_count": 154,
+			"created_at": "Wed Dec 24 06:38:38 +0000 2008",
+			"favourites_count": 28082,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16051,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "352726",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1086831580293656576/g-vq37yt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1086831580293656576/g-vq37yt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18352880/1433758932",
+			"profile_link_color": "D02B55",
+			"profile_sidebar_border_color": "829D5E",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2369,
+		"favorite_count": 13946,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Is it possible that Sydney 2000 was Cathy Freeman's second biggest triumph behind the '96 Stawell Gift when she started 54m behind the field and got elbowed in the final straight? If you haven't seen this, you need to. https://t.co/q1bpcFVxi5"
+	},
+	{
 		"created_at": "Tue Sep 08 07:31:03 +0000 2020",
 		"id": 1303234379196412000,
 		"id_str": "1303234379196411904",
@@ -61,7 +266,7 @@ Grailbird.data.tweets_2020_09 =
 			"friends_count": 158,
 			"listed_count": 92,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8289,
+			"favourites_count": 8291,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
@@ -162,16 +367,16 @@ Grailbird.data.tweets_2020_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 3876,
+			"followers_count": 3874,
 			"friends_count": 301,
-			"listed_count": 276,
+			"listed_count": 275,
 			"created_at": "Sun Jan 28 08:28:45 +0000 2007",
-			"favourites_count": 15230,
+			"favourites_count": 15258,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 1167,
+			"statuses_count": 1096,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -258,16 +463,16 @@ Grailbird.data.tweets_2020_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 61033,
-			"friends_count": 5467,
-			"listed_count": 565,
+			"followers_count": 61039,
+			"friends_count": 5468,
+			"listed_count": 569,
 			"created_at": "Tue Nov 11 01:50:29 +0000 2014",
-			"favourites_count": 57400,
+			"favourites_count": 57410,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 43357,
+			"statuses_count": 43378,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -297,8 +502,8 @@ Grailbird.data.tweets_2020_09 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 631,
-		"favorite_count": 2915,
+		"retweet_count": 634,
+		"favorite_count": 2914,
 		"favorited": false,
 		"retweeted": true,
 		"lang": "en",
@@ -359,7 +564,7 @@ Grailbird.data.tweets_2020_09 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 4012,
+			"statuses_count": 4013,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -459,7 +664,7 @@ Grailbird.data.tweets_2020_09 =
 			"friends_count": 158,
 			"listed_count": 92,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8289,
+			"favourites_count": 8291,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
@@ -593,16 +798,16 @@ Grailbird.data.tweets_2020_09 =
 					}
 				},
 				"protected": false,
-				"followers_count": 93198,
+				"followers_count": 93181,
 				"friends_count": 600,
 				"listed_count": 4587,
 				"created_at": "Wed Nov 15 15:59:51 +0000 2006",
-				"favourites_count": 301100,
+				"favourites_count": 301180,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": false,
-				"statuses_count": 67102,
+				"statuses_count": 67116,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -710,7 +915,7 @@ Grailbird.data.tweets_2020_09 =
 			"friends_count": 158,
 			"listed_count": 92,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8289,
+			"favourites_count": 8291,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
@@ -924,7 +1129,7 @@ Grailbird.data.tweets_2020_09 =
 			"friends_count": 158,
 			"listed_count": 92,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8289,
+			"favourites_count": 8291,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
@@ -1063,7 +1268,7 @@ Grailbird.data.tweets_2020_09 =
 			"friends_count": 158,
 			"listed_count": 92,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8289,
+			"favourites_count": 8291,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
@@ -1197,16 +1402,16 @@ Grailbird.data.tweets_2020_09 =
 					}
 				},
 				"protected": false,
-				"followers_count": 919,
-				"friends_count": 2004,
+				"followers_count": 918,
+				"friends_count": 2002,
 				"listed_count": 11,
 				"created_at": "Mon Jul 26 13:11:10 +0000 2010",
-				"favourites_count": 46345,
+				"favourites_count": 46354,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": false,
-				"statuses_count": 18387,
+				"statuses_count": 18389,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -1332,7 +1537,7 @@ Grailbird.data.tweets_2020_09 =
 			"friends_count": 158,
 			"listed_count": 92,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8289,
+			"favourites_count": 8291,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
@@ -1481,7 +1686,7 @@ Grailbird.data.tweets_2020_09 =
 			"friends_count": 158,
 			"listed_count": 92,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8289,
+			"favourites_count": 8291,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
@@ -1615,16 +1820,16 @@ Grailbird.data.tweets_2020_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 7407,
-			"friends_count": 5533,
-			"listed_count": 564,
+			"followers_count": 7408,
+			"friends_count": 5536,
+			"listed_count": 565,
 			"created_at": "Fri Jan 11 19:38:54 +0000 2008",
-			"favourites_count": 3704,
+			"favourites_count": 3707,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 1359,
+			"statuses_count": 1387,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1720,16 +1925,16 @@ Grailbird.data.tweets_2020_09 =
 					}
 				},
 				"protected": false,
-				"followers_count": 3076,
-				"friends_count": 3728,
+				"followers_count": 3078,
+				"friends_count": 3727,
 				"listed_count": 140,
 				"created_at": "Tue Mar 03 20:30:51 +0000 2009",
-				"favourites_count": 25781,
+				"favourites_count": 25783,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": false,
-				"statuses_count": 21975,
+				"statuses_count": 21976,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -1915,16 +2120,16 @@ Grailbird.data.tweets_2020_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 80236,
-			"friends_count": 2048,
-			"listed_count": 588,
+			"followers_count": 80232,
+			"friends_count": 2047,
+			"listed_count": 587,
 			"created_at": "Tue Sep 09 23:21:07 +0000 2008",
 			"favourites_count": 2485,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 42490,
+			"statuses_count": 42508,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2036,7 +2241,7 @@ Grailbird.data.tweets_2020_09 =
 			"friends_count": 158,
 			"listed_count": 92,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8289,
+			"favourites_count": 8291,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
@@ -2322,9 +2527,9 @@ Grailbird.data.tweets_2020_09 =
 					}
 				},
 				"protected": false,
-				"followers_count": 1702,
-				"friends_count": 816,
-				"listed_count": 0,
+				"followers_count": 1704,
+				"friends_count": 815,
+				"listed_count": 17,
 				"created_at": "Tue Jun 09 16:43:05 +0000 2009",
 				"favourites_count": 3336,
 				"utc_offset": null,
@@ -2505,12 +2710,12 @@ Grailbird.data.tweets_2020_09 =
 			"friends_count": 199,
 			"listed_count": 6,
 			"created_at": "Wed Jul 29 23:31:43 +0000 2009",
-			"favourites_count": 7943,
+			"favourites_count": 7950,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 7756,
+			"statuses_count": 7761,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2540,8 +2745,8 @@ Grailbird.data.tweets_2020_09 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 405,
-		"favorite_count": 1754,
+		"retweet_count": 404,
+		"favorite_count": 1753,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
