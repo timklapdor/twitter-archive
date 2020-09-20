@@ -80,16 +80,16 @@ Grailbird.data.tweets_2017_02 =
 				}
 			},
 			"protected": false,
-			"followers_count": 829,
+			"followers_count": 828,
 			"friends_count": 160,
 			"listed_count": 92,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8302,
+			"favourites_count": 8304,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14470,
+			"statuses_count": 14476,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -239,16 +239,16 @@ Grailbird.data.tweets_2017_02 =
 				}
 			},
 			"protected": false,
-			"followers_count": 829,
+			"followers_count": 828,
 			"friends_count": 160,
 			"listed_count": 92,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8302,
+			"favourites_count": 8304,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14470,
+			"statuses_count": 14476,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -398,16 +398,16 @@ Grailbird.data.tweets_2017_02 =
 				}
 			},
 			"protected": false,
-			"followers_count": 829,
+			"followers_count": 828,
 			"friends_count": 160,
 			"listed_count": 92,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8302,
+			"favourites_count": 8304,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14470,
+			"statuses_count": 14476,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -547,16 +547,16 @@ Grailbird.data.tweets_2017_02 =
 				}
 			},
 			"protected": false,
-			"followers_count": 829,
+			"followers_count": 828,
 			"friends_count": 160,
 			"listed_count": 92,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8302,
+			"favourites_count": 8304,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14470,
+			"statuses_count": 14476,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -685,16 +685,16 @@ Grailbird.data.tweets_2017_02 =
 				}
 			},
 			"protected": false,
-			"followers_count": 829,
+			"followers_count": 828,
 			"friends_count": 160,
 			"listed_count": 92,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8302,
+			"favourites_count": 8304,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14470,
+			"statuses_count": 14476,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -825,16 +825,16 @@ Grailbird.data.tweets_2017_02 =
 				}
 			},
 			"protected": false,
-			"followers_count": 829,
+			"followers_count": 828,
 			"friends_count": 160,
 			"listed_count": 92,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8302,
+			"favourites_count": 8304,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14470,
+			"statuses_count": 14476,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -974,16 +974,16 @@ Grailbird.data.tweets_2017_02 =
 				}
 			},
 			"protected": false,
-			"followers_count": 829,
+			"followers_count": 828,
 			"friends_count": 160,
 			"listed_count": 92,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8302,
+			"favourites_count": 8304,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14470,
+			"statuses_count": 14476,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1114,10 +1114,10 @@ Grailbird.data.tweets_2017_02 =
 			},
 			"protected": false,
 			"followers_count": 1333,
-			"friends_count": 1545,
-			"listed_count": 80,
+			"friends_count": 1547,
+			"listed_count": 0,
 			"created_at": "Mon Nov 03 04:46:59 +0000 2008",
-			"favourites_count": 4918,
+			"favourites_count": 4917,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
@@ -1208,11 +1208,11 @@ Grailbird.data.tweets_2017_02 =
 					}
 				},
 				"protected": false,
-				"followers_count": 4167,
+				"followers_count": 4169,
 				"friends_count": 764,
 				"listed_count": 208,
 				"created_at": "Wed May 07 11:29:13 +0000 2008",
-				"favourites_count": 12360,
+				"favourites_count": 12357,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
@@ -1330,16 +1330,16 @@ Grailbird.data.tweets_2017_02 =
 				}
 			},
 			"protected": false,
-			"followers_count": 260601,
+			"followers_count": 260668,
 			"friends_count": 517,
 			"listed_count": 1248,
 			"created_at": "Mon Mar 19 06:11:05 +0000 2012",
-			"favourites_count": 986,
+			"favourites_count": 987,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 10245,
+			"statuses_count": 10247,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1412,16 +1412,16 @@ Grailbird.data.tweets_2017_02 =
 					}
 				},
 				"protected": false,
-				"followers_count": 42814,
-				"friends_count": 2279,
+				"followers_count": 42820,
+				"friends_count": 2280,
 				"listed_count": 765,
 				"created_at": "Sun Feb 03 11:03:53 +0000 2008",
-				"favourites_count": 16680,
+				"favourites_count": 16681,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": true,
-				"statuses_count": 38989,
+				"statuses_count": 39006,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -1525,16 +1525,16 @@ Grailbird.data.tweets_2017_02 =
 				}
 			},
 			"protected": false,
-			"followers_count": 829,
+			"followers_count": 828,
 			"friends_count": 160,
 			"listed_count": 92,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8302,
+			"favourites_count": 8304,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14470,
+			"statuses_count": 14476,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1663,16 +1663,16 @@ Grailbird.data.tweets_2017_02 =
 				}
 			},
 			"protected": false,
-			"followers_count": 829,
+			"followers_count": 828,
 			"friends_count": 160,
 			"listed_count": 92,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8302,
+			"favourites_count": 8304,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14470,
+			"statuses_count": 14476,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1811,9 +1811,9 @@ Grailbird.data.tweets_2017_02 =
 					}
 				},
 				"protected": false,
-				"followers_count": 110917,
+				"followers_count": 110971,
 				"friends_count": 3,
-				"listed_count": 2681,
+				"listed_count": 2685,
 				"created_at": "Sat Mar 02 08:46:44 +0000 2013",
 				"favourites_count": 153,
 				"utc_offset": null,
@@ -1864,839 +1864,5 @@ Grailbird.data.tweets_2017_02 =
 		"possibly_sensitive": false,
 		"lang": "en",
 		"text": "Twitter, someone else is developing your product strategy. Maybe you should listen to them, because it’s better than yours. https://t.co/PlWhppc9oz"
-	},
-	{
-		"created_at": "Mon Feb 27 01:58:38 +0000 2017",
-		"id": 836032764340133900,
-		"id_str": "836032764340133888",
-		"full_text": "@sthcrft the spontaneity of the creative at work their!",
-		"truncated": false,
-		"display_text_range": [
-			9,
-			55
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [
-				{
-					"screen_name": "sthcrft",
-					"name": "Sarah Thorneycroft",
-					"id": 17125931,
-					"id_str": "17125931",
-					"indices": [
-						0,
-						8
-					]
-				}
-			],
-			"urls": []
-		},
-		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
-		"in_reply_to_status_id": 836032028600483800,
-		"in_reply_to_status_id_str": "836032028600483840",
-		"in_reply_to_user_id": 17125931,
-		"in_reply_to_user_id_str": "17125931",
-		"in_reply_to_screen_name": "sthcrft",
-		"user": {
-			"id": 174124175,
-			"id_str": "174124175",
-			"name": "Tim Klapdor",
-			"screen_name": "timklapdor",
-			"location": "Adelaide, South Australia",
-			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "https://t.co/uC0c3me6KE",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/uC0c3me6KE",
-							"expanded_url": "http://timklapdor.com",
-							"display_url": "timklapdor.com",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 829,
-			"friends_count": 160,
-			"listed_count": 92,
-			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8302,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 14470,
-			"lang": null,
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "C0DEED",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
-			"profile_link_color": "5FA832",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "DDEEF6",
-			"profile_text_color": "333333",
-			"profile_use_background_image": true,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 1,
-		"favorited": false,
-		"retweeted": false,
-		"lang": "en",
-		"text": "@sthcrft the spontaneity of the creative at work their!"
-	},
-	{
-		"created_at": "Mon Feb 27 01:48:38 +0000 2017",
-		"id": 836030249997480000,
-		"id_str": "836030249997479936",
-		"full_text": "@sthcrft the Orange Overlord thing makes it seem a bit more like “adventure travel”, so there’s that.",
-		"truncated": false,
-		"display_text_range": [
-			9,
-			101
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [
-				{
-					"screen_name": "sthcrft",
-					"name": "Sarah Thorneycroft",
-					"id": 17125931,
-					"id_str": "17125931",
-					"indices": [
-						0,
-						8
-					]
-				}
-			],
-			"urls": []
-		},
-		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
-		"in_reply_to_status_id": 836028518551048200,
-		"in_reply_to_status_id_str": "836028518551048194",
-		"in_reply_to_user_id": 17125931,
-		"in_reply_to_user_id_str": "17125931",
-		"in_reply_to_screen_name": "sthcrft",
-		"user": {
-			"id": 174124175,
-			"id_str": "174124175",
-			"name": "Tim Klapdor",
-			"screen_name": "timklapdor",
-			"location": "Adelaide, South Australia",
-			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "https://t.co/uC0c3me6KE",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/uC0c3me6KE",
-							"expanded_url": "http://timklapdor.com",
-							"display_url": "timklapdor.com",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 829,
-			"friends_count": 160,
-			"listed_count": 92,
-			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8302,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 14470,
-			"lang": null,
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "C0DEED",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
-			"profile_link_color": "5FA832",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "DDEEF6",
-			"profile_text_color": "333333",
-			"profile_use_background_image": true,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 0,
-		"favorited": false,
-		"retweeted": false,
-		"lang": "en",
-		"text": "@sthcrft the Orange Overlord thing makes it seem a bit more like “adventure travel”, so there’s that."
-	},
-	{
-		"created_at": "Mon Feb 27 01:47:09 +0000 2017",
-		"id": 836029875186081800,
-		"id_str": "836029875186081792",
-		"full_text": "@sthcrft Not allowed? Because everything good is home delivered? And price wise - that $2000 one day conference is OK because it’s local",
-		"truncated": false,
-		"display_text_range": [
-			9,
-			136
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [
-				{
-					"screen_name": "sthcrft",
-					"name": "Sarah Thorneycroft",
-					"id": 17125931,
-					"id_str": "17125931",
-					"indices": [
-						0,
-						8
-					]
-				}
-			],
-			"urls": []
-		},
-		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
-		"in_reply_to_status_id": 836028518551048200,
-		"in_reply_to_status_id_str": "836028518551048194",
-		"in_reply_to_user_id": 17125931,
-		"in_reply_to_user_id_str": "17125931",
-		"in_reply_to_screen_name": "sthcrft",
-		"user": {
-			"id": 174124175,
-			"id_str": "174124175",
-			"name": "Tim Klapdor",
-			"screen_name": "timklapdor",
-			"location": "Adelaide, South Australia",
-			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "https://t.co/uC0c3me6KE",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/uC0c3me6KE",
-							"expanded_url": "http://timklapdor.com",
-							"display_url": "timklapdor.com",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 829,
-			"friends_count": 160,
-			"listed_count": 92,
-			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8302,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 14470,
-			"lang": null,
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "C0DEED",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
-			"profile_link_color": "5FA832",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "DDEEF6",
-			"profile_text_color": "333333",
-			"profile_use_background_image": true,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 0,
-		"favorited": false,
-		"retweeted": false,
-		"lang": "en",
-		"text": "@sthcrft Not allowed? Because everything good is home delivered? And price wise - that $2000 one day conference is OK because it’s local"
-	},
-	{
-		"created_at": "Mon Feb 27 01:35:40 +0000 2017",
-		"id": 836026984111067100,
-		"id_str": "836026984111067136",
-		"full_text": "@sthcrft Come to @DomainsConf :-) Costed out cheaper than a conference in Auckland",
-		"truncated": false,
-		"display_text_range": [
-			9,
-			82
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [
-				{
-					"screen_name": "sthcrft",
-					"name": "Sarah Thorneycroft",
-					"id": 17125931,
-					"id_str": "17125931",
-					"indices": [
-						0,
-						8
-					]
-				},
-				{
-					"screen_name": "DomainsConf",
-					"name": "DOMAINS 19",
-					"id": 808349016157257700,
-					"id_str": "808349016157257728",
-					"indices": [
-						17,
-						29
-					]
-				}
-			],
-			"urls": []
-		},
-		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
-		"in_reply_to_status_id": 836014260329160700,
-		"in_reply_to_status_id_str": "836014260329160706",
-		"in_reply_to_user_id": 17125931,
-		"in_reply_to_user_id_str": "17125931",
-		"in_reply_to_screen_name": "sthcrft",
-		"user": {
-			"id": 174124175,
-			"id_str": "174124175",
-			"name": "Tim Klapdor",
-			"screen_name": "timklapdor",
-			"location": "Adelaide, South Australia",
-			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "https://t.co/uC0c3me6KE",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/uC0c3me6KE",
-							"expanded_url": "http://timklapdor.com",
-							"display_url": "timklapdor.com",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 829,
-			"friends_count": 160,
-			"listed_count": 92,
-			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8302,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 14470,
-			"lang": null,
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "C0DEED",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
-			"profile_link_color": "5FA832",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "DDEEF6",
-			"profile_text_color": "333333",
-			"profile_use_background_image": true,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 0,
-		"favorited": false,
-		"retweeted": false,
-		"lang": "en",
-		"text": "@sthcrft Come to @DomainsConf :-) Costed out cheaper than a conference in Auckland"
-	},
-	{
-		"created_at": "Sun Feb 26 22:41:38 +0000 2017",
-		"id": 798823837114564600,
-		"id_str": "835983188140830721",
-		"full_text": "From an @FT comments page. Seems a fair summary. https://t.co/MmZVSXUeYu",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			48
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [
-				{
-					"screen_name": "FT",
-					"name": "Financial Times",
-					"id": 18949452,
-					"id_str": "18949452",
-					"indices": [
-						8,
-						11
-					]
-				}
-			],
-			"urls": [],
-			"media": [
-				{
-					"id": 798823818932256800,
-					"id_str": "798823818932256768",
-					"indices": [
-						49,
-						72
-					],
-					"media_url": "http://pbs.twimg.com/media/CxX-B-2UAAADtmy.jpg",
-					"media_url_https": "https://pbs.twimg.com/media/CxX-B-2UAAADtmy.jpg",
-					"url": "https://t.co/MmZVSXUeYu",
-					"display_url": "pic.twitter.com/MmZVSXUeYu",
-					"expanded_url": "https://twitter.com/DuncanCastles/status/798823837114564613/photo/1",
-					"type": "photo",
-					"sizes": {
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"medium": {
-							"w": 625,
-							"h": 894,
-							"resize": "fit"
-						},
-						"large": {
-							"w": 625,
-							"h": 894,
-							"resize": "fit"
-						},
-						"small": {
-							"w": 475,
-							"h": 680,
-							"resize": "fit"
-						}
-					}
-				}
-			]
-		},
-		"extended_entities": {
-			"media": [
-				{
-					"id": 798823818932256800,
-					"id_str": "798823818932256768",
-					"indices": [
-						49,
-						72
-					],
-					"media_url": "http://pbs.twimg.com/media/CxX-B-2UAAADtmy.jpg",
-					"media_url_https": "https://pbs.twimg.com/media/CxX-B-2UAAADtmy.jpg",
-					"url": "https://t.co/MmZVSXUeYu",
-					"display_url": "pic.twitter.com/MmZVSXUeYu",
-					"expanded_url": "https://twitter.com/DuncanCastles/status/798823837114564613/photo/1",
-					"type": "photo",
-					"sizes": {
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"medium": {
-							"w": 625,
-							"h": 894,
-							"resize": "fit"
-						},
-						"large": {
-							"w": 625,
-							"h": 894,
-							"resize": "fit"
-						},
-						"small": {
-							"w": 475,
-							"h": 680,
-							"resize": "fit"
-						}
-					}
-				}
-			]
-		},
-		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 61717225,
-			"id_str": "61717225",
-			"name": "Duncan Castles",
-			"screen_name": "DuncanCastles",
-			"location": "",
-			"description": "Sport journalist/’graduated doctor’•The Transfer Window podcast•Sunday Times•Daily Record•ig: duncan.castles https://t.co/J6C6OoOjpV",
-			"url": "https://t.co/BtjU1nGm5F",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/BtjU1nGm5F",
-							"expanded_url": "https://www.youtube.com/channel/UC-4xeE8I2zXxA3F5-9WlBBw?sub_confirmation=1",
-							"display_url": "youtube.com/channel/UC-4xe…",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": [
-						{
-							"url": "https://t.co/J6C6OoOjpV",
-							"expanded_url": "https://www.spreaker.com/show/the-transfer-window_2",
-							"display_url": "spreaker.com/show/the-trans…",
-							"indices": [
-								109,
-								132
-							]
-						}
-					]
-				}
-			},
-			"protected": false,
-			"followers_count": 164475,
-			"friends_count": 1839,
-			"listed_count": 1941,
-			"created_at": "Fri Jul 31 07:23:56 +0000 2009",
-			"favourites_count": 24248,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": true,
-			"statuses_count": 34688,
-			"lang": null,
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "EB6E0E",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/846328234102980610/kY6YzY_9_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/846328234102980610/kY6YzY_9_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/61717225/1599850591",
-			"profile_link_color": "EB6B09",
-			"profile_sidebar_border_color": "FFFFFF",
-			"profile_sidebar_fill_color": "E84B14",
-			"profile_text_color": "534830",
-			"profile_use_background_image": true,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 4823,
-		"favorite_count": 4165,
-		"favorited": false,
-		"retweeted": false,
-		"possibly_sensitive": false,
-		"lang": "en",
-		"text": "From an @FT comments page. Seems a fair summary. https://t.co/MmZVSXUeYu"
-	},
-	{
-		"created_at": "Sun Feb 26 22:19:01 +0000 2017",
-		"id": 835953776208957400,
-		"id_str": "835977495908241409",
-		"full_text": "This is an important issue across Australian higher education. https://t.co/rxMViuDBBE",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			62
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": [
-				{
-					"url": "https://t.co/rxMViuDBBE",
-					"expanded_url": "https://twitter.com/canberratimes/status/835952580459134978",
-					"display_url": "twitter.com/canberratimes/…",
-					"indices": [
-						63,
-						86
-					]
-				}
-			]
-		},
-		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 16989141,
-			"id_str": "16989141",
-			"name": "Jonathan Powles",
-			"screen_name": "JonPowles",
-			"location": "Armidale, New South Wales",
-			"description": "Vice-Principal and PVC Teaching, Learning and Students at @UniWestScotland. Passionate T&L advocate. Musician. Astronomer. Dad. Rugby tragic. Views my own.",
-			"url": null,
-			"entities": {
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 2131,
-			"friends_count": 2005,
-			"listed_count": 177,
-			"created_at": "Mon Oct 27 00:36:06 +0000 2008",
-			"favourites_count": 4125,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 35100,
-			"lang": null,
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "022330",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": true,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1266306329460629504/aiUh_Jcq_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1266306329460629504/aiUh_Jcq_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16989141/1596446042",
-			"profile_link_color": "0084B4",
-			"profile_sidebar_border_color": "FFFFFF",
-			"profile_sidebar_fill_color": "C0DFEC",
-			"profile_text_color": "333333",
-			"profile_use_background_image": true,
-			"has_extended_profile": false,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": true,
-		"quoted_status_id": 835952580459135000,
-		"quoted_status_id_str": "835952580459134978",
-		"quoted_status_permalink": {
-			"url": "https://t.co/rxMViuDBBE",
-			"expanded": "https://twitter.com/canberratimes/status/835952580459134978",
-			"display": "twitter.com/canberratimes/…"
-		},
-		"quoted_status": {
-			"created_at": "Sun Feb 26 20:40:01 +0000 2017",
-			"id": 835952580459135000,
-			"id_str": "835952580459134978",
-			"full_text": "'Devastating' report shows unis 'failing' students\nhttps://t.co/IdKeauBuGE",
-			"truncated": false,
-			"display_text_range": [
-				0,
-				74
-			],
-			"entities": {
-				"hashtags": [],
-				"symbols": [],
-				"user_mentions": [],
-				"urls": [
-					{
-						"url": "https://t.co/IdKeauBuGE",
-						"expanded_url": "http://www.canberratimes.com.au/national/education/devastating-report-shows-universities-are-failing-students-20170222-guj84k.html",
-						"display_url": "canberratimes.com.au/national/educa…",
-						"indices": [
-							51,
-							74
-						]
-					}
-				]
-			},
-			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-			"in_reply_to_status_id": null,
-			"in_reply_to_status_id_str": null,
-			"in_reply_to_user_id": null,
-			"in_reply_to_user_id_str": null,
-			"in_reply_to_screen_name": null,
-			"user": {
-				"id": 17125730,
-				"id_str": "17125730",
-				"name": "Canberra Times",
-				"screen_name": "canberratimes",
-				"location": "Canberra",
-				"description": "Multimedia and breaking news out of Canberra from the website of Australia's national daily newspaper, The Canberra Times.",
-				"url": "http://t.co/gTw9UM8a0n",
-				"entities": {
-					"url": {
-						"urls": [
-							{
-								"url": "http://t.co/gTw9UM8a0n",
-								"expanded_url": "http://www.canberratimes.com.au",
-								"display_url": "canberratimes.com.au",
-								"indices": [
-									0,
-									22
-								]
-							}
-						]
-					},
-					"description": {
-						"urls": []
-					}
-				},
-				"protected": false,
-				"followers_count": 65914,
-				"friends_count": 321,
-				"listed_count": 899,
-				"created_at": "Mon Nov 03 04:31:20 +0000 2008",
-				"favourites_count": 145,
-				"utc_offset": null,
-				"time_zone": null,
-				"geo_enabled": true,
-				"verified": true,
-				"statuses_count": 102706,
-				"lang": null,
-				"contributors_enabled": false,
-				"is_translator": false,
-				"is_translation_enabled": false,
-				"profile_background_color": "FFFFFF",
-				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
-				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
-				"profile_background_tile": false,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/1209953677189902336/tn8odZEu_normal.jpg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1209953677189902336/tn8odZEu_normal.jpg",
-				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17125730/1507247067",
-				"profile_link_color": "009999",
-				"profile_sidebar_border_color": "FFFFFF",
-				"profile_sidebar_fill_color": "EFEFEF",
-				"profile_text_color": "333333",
-				"profile_use_background_image": true,
-				"has_extended_profile": false,
-				"default_profile": false,
-				"default_profile_image": false,
-				"following": false,
-				"follow_request_sent": false,
-				"notifications": false,
-				"translator_type": "none"
-			},
-			"geo": null,
-			"coordinates": null,
-			"place": null,
-			"contributors": null,
-			"is_quote_status": false,
-			"retweet_count": 4,
-			"favorite_count": 1,
-			"favorited": false,
-			"retweeted": false,
-			"possibly_sensitive": false,
-			"lang": "en"
-		},
-		"retweet_count": 1,
-		"favorite_count": 0,
-		"favorited": false,
-		"retweeted": false,
-		"possibly_sensitive": false,
-		"lang": "en",
-		"text": "This is an important issue across Australian higher education. https://t.co/rxMViuDBBE"
 	}
 ]
