@@ -1,6 +1,285 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Fri Oct 02 11:42:40 +0000 2020",
+		"id": 1311911429314875400,
+		"id_str": "1311995010879897600",
+		"full_text": "He is in several high-risk groups — elderly, obese, low-income.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 863115334085161000,
+			"id_str": "863115334085160960",
+			"name": "Frank McGovern",
+			"screen_name": "FrankMcG",
+			"location": "Chicago, IL",
+			"description": "CISSP ● Cybersecurity and GRC ● Founder @BlueTeamCon and @TheIKE_Forums ● Owner @ChicagosDAD ● Former USMC Intel ● Corrected @BrianKrebs Article Once",
+			"url": "https://t.co/PtXkevW04T",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PtXkevW04T",
+							"expanded_url": "https://www.frankmcg.com",
+							"display_url": "frankmcg.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5106,
+			"friends_count": 500,
+			"listed_count": 76,
+			"created_at": "Fri May 12 19:35:06 +0000 2017",
+			"favourites_count": 10471,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10916,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1157277713981423616/sHURYdg3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1157277713981423616/sHURYdg3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/863115334085160960/1564751483",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19226,
+		"favorite_count": 163662,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "He is in several high-risk groups — elderly, obese, low-income."
+	},
+	{
+		"created_at": "Fri Oct 02 11:24:07 +0000 2020",
+		"id": 1311899553721847800,
+		"id_str": "1311990339880640517",
+		"full_text": "Fucking Lol: https://t.co/HqBAxIpwHs https://t.co/EzuvBSKmCE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			36
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HqBAxIpwHs",
+					"expanded_url": "http://www.betootaadvocate.com/world-news/fucking-lol/",
+					"display_url": "betootaadvocate.com/world-news/fuc…",
+					"indices": [
+						13,
+						36
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1311899537905074200,
+					"id_str": "1311899537905074176",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/media/EjTNrdHUwAA65T-.png",
+					"media_url_https": "https://pbs.twimg.com/media/EjTNrdHUwAA65T-.png",
+					"url": "https://t.co/EzuvBSKmCE",
+					"display_url": "pic.twitter.com/EzuvBSKmCE",
+					"expanded_url": "https://twitter.com/BetootaAdvocate/status/1311899553721847809/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 768,
+							"h": 480,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 768,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 425,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1311899537905074200,
+					"id_str": "1311899537905074176",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/media/EjTNrdHUwAA65T-.png",
+					"media_url_https": "https://pbs.twimg.com/media/EjTNrdHUwAA65T-.png",
+					"url": "https://t.co/EzuvBSKmCE",
+					"display_url": "pic.twitter.com/EzuvBSKmCE",
+					"expanded_url": "https://twitter.com/BetootaAdvocate/status/1311899553721847809/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 768,
+							"h": 480,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 768,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 425,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2878895652,
+			"id_str": "2878895652",
+			"name": "The Betoota Advocate",
+			"screen_name": "BetootaAdvocate",
+			"location": "Betoota, QLD",
+			"description": "Australia's oldest newspaper.",
+			"url": "https://t.co/7SEIeoTNuY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7SEIeoTNuY",
+							"expanded_url": "http://betootaadvocate.com",
+							"display_url": "betootaadvocate.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 72004,
+			"friends_count": 1583,
+			"listed_count": 211,
+			"created_at": "Mon Oct 27 02:08:57 +0000 2014",
+			"favourites_count": 780,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3000,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1157072808167399425/R93JPg1U_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1157072808167399425/R93JPg1U_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2878895652/1499368530",
+			"profile_link_color": "FF0202",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 132,
+		"favorite_count": 642,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Fucking Lol: https://t.co/HqBAxIpwHs https://t.co/EzuvBSKmCE"
+	},
+	{
 		"created_at": "Thu Oct 01 23:50:25 +0000 2020",
 		"id": 1311815764156936200,
 		"id_str": "1311815764156936192",
@@ -64,12 +343,12 @@ Grailbird.data.tweets_2020_10 =
 			"friends_count": 160,
 			"listed_count": 92,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8368,
+			"favourites_count": 8374,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14508,
+			"statuses_count": 14510,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -170,12 +449,12 @@ Grailbird.data.tweets_2020_10 =
 			"friends_count": 160,
 			"listed_count": 92,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8368,
+			"favourites_count": 8374,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14508,
+			"statuses_count": 14510,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -258,16 +537,16 @@ Grailbird.data.tweets_2020_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 899,
-			"friends_count": 890,
+			"followers_count": 903,
+			"friends_count": 893,
 			"listed_count": 34,
 			"created_at": "Mon May 30 11:12:19 +0000 2011",
-			"favourites_count": 340,
+			"favourites_count": 342,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 589,
+			"statuses_count": 591,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -369,12 +648,12 @@ Grailbird.data.tweets_2020_10 =
 			"friends_count": 160,
 			"listed_count": 92,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8368,
+			"favourites_count": 8374,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14508,
+			"statuses_count": 14510,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -493,16 +772,16 @@ Grailbird.data.tweets_2020_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 43139,
-			"friends_count": 6871,
+			"followers_count": 43166,
+			"friends_count": 6874,
 			"listed_count": 479,
 			"created_at": "Tue Apr 27 05:44:26 +0000 2010",
-			"favourites_count": 15085,
+			"favourites_count": 15090,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 115397,
+			"statuses_count": 115411,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -532,8 +811,8 @@ Grailbird.data.tweets_2020_10 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 459,
-		"favorite_count": 2920,
+		"retweet_count": 472,
+		"favorite_count": 2980,
 		"favorited": true,
 		"retweeted": true,
 		"lang": "en",
