@@ -1,6 +1,554 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Mon Oct 05 23:19:44 +0000 2020",
+		"id": 1313257593842757600,
+		"id_str": "1313257593842757632",
+		"full_text": "@helgztech Only the location has changed. Same hate filled bile.",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			64
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "helgztech",
+					"name": "Helen South",
+					"id": 1199121356505239600,
+					"id_str": "1199121356505239559",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1313246675280908300,
+		"in_reply_to_status_id_str": "1313246675280908289",
+		"in_reply_to_user_id": 1199121356505239600,
+		"in_reply_to_user_id_str": "1199121356505239559",
+		"in_reply_to_screen_name": "helgztech",
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Adelaide, South Australia",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
+			"url": "https://t.co/uC0c3me6KE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uC0c3me6KE",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 833,
+			"friends_count": 160,
+			"listed_count": 92,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 8381,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14513,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7b46944933d8137e",
+			"url": "https://api.twitter.com/1.1/geo/id/7b46944933d8137e.json",
+			"place_type": "neighborhood",
+			"name": "Norwood",
+			"full_name": "Norwood, Adelaide",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							138.62264616,
+							-34.92790299
+						],
+						[
+							138.64147308,
+							-34.92790299
+						],
+						[
+							138.64147308,
+							-34.91480097
+						],
+						[
+							138.62264616,
+							-34.91480097
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@helgztech Only the location has changed. Same hate filled bile."
+	},
+	{
+		"created_at": "Mon Oct 05 22:15:53 +0000 2020",
+		"id": 1313237974142730200,
+		"id_str": "1313241527842340864",
+		"full_text": "Screaming https://t.co/O521TSpFpe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			9
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/O521TSpFpe",
+					"expanded_url": "https://twitter.com/realdonaldtrump/status/1313236041315373057",
+					"display_url": "twitter.com/realdonaldtrum…",
+					"indices": [
+						10,
+						33
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 36074231,
+			"id_str": "36074231",
+			"name": "Matt Bevan 🎙",
+			"screen_name": "MatthewBevan",
+			"location": "Newcastle, New South Wales",
+			"description": "Host and writer of ‘America, If You’re Listening’ from @abcnews, @RNBreakfast reporter.",
+			"url": "https://t.co/zByOvZWXcS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zByOvZWXcS",
+							"expanded_url": "http://www.abc.net.au/radio/programs/russia-if-youre-listening/",
+							"display_url": "abc.net.au/radio/programs…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18456,
+			"friends_count": 2736,
+			"listed_count": 227,
+			"created_at": "Tue Apr 28 14:13:07 +0000 2009",
+			"favourites_count": 28800,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 58331,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1305478511486889985/R2BYy2Aj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1305478511486889985/R2BYy2Aj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/36074231/1599027309",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1313236041315373000,
+		"quoted_status_id_str": "1313236041315373057",
+		"quoted_status_permalink": {
+			"url": "https://t.co/O521TSpFpe",
+			"expanded": "https://twitter.com/realdonaldtrump/status/1313236041315373057",
+			"display": "twitter.com/realdonaldtrum…"
+		},
+		"retweet_count": 21,
+		"favorite_count": 230,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Screaming https://t.co/O521TSpFpe"
+	},
+	{
+		"created_at": "Mon Oct 05 22:11:48 +0000 2020",
+		"id": 1313080234191839200,
+		"id_str": "1313240500455890945",
+		"full_text": "Never mind “The database is managed in Excel”, that’s not the end of the world. But they were putting the CASES in the COLUMNS??? https://t.co/ZPjnGfx85G",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZPjnGfx85G",
+					"expanded_url": "https://twitter.com/maxcroser/status/1313046638915706880",
+					"display_url": "twitter.com/maxcroser/stat…",
+					"indices": [
+						130,
+						153
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 782325,
+			"id_str": "782325",
+			"name": "Kieran Healy",
+			"screen_name": "kjhealy",
+			"location": "Durham/Chapel Hill NC",
+			"description": "Professor of Sociology at Duke University. \nhttps://t.co/K1YVzEzG32",
+			"url": "https://t.co/9AodRQczL6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9AodRQczL6",
+							"expanded_url": "http://kieranhealy.org",
+							"display_url": "kieranhealy.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/K1YVzEzG32",
+							"expanded_url": "http://amzn.to/2vfAixM",
+							"display_url": "amzn.to/2vfAixM",
+							"indices": [
+								44,
+								67
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 29970,
+			"friends_count": 100,
+			"listed_count": 754,
+			"created_at": "Tue Feb 20 05:00:17 +0000 2007",
+			"favourites_count": 23358,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 210,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDF5FC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084951946841051137/rQ2lAMsc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084951946841051137/rQ2lAMsc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/782325/1543420776",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "E1DFD2",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1313046638915707000,
+		"quoted_status_id_str": "1313046638915706880",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ZPjnGfx85G",
+			"expanded": "https://twitter.com/maxcroser/status/1313046638915706880",
+			"display": "twitter.com/maxcroser/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Oct 05 09:21:28 +0000 2020",
+			"id": 1313046638915707000,
+			"id_str": "1313046638915706880",
+			"full_text": "In the UK the number of cases rose rapidly.\nBut the public – and authorities – are only learning this now because these cases were only published now as a backlog.\n\nThe reason was apparently that the database is managed in Excel and the number of columns had reached the maximum. https://t.co/X4a8keSEHK",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				279
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1313045969135644700,
+						"id_str": "1313045969135644672",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/media/EjjgWiQWsAAK444.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EjjgWiQWsAAK444.jpg",
+						"url": "https://t.co/X4a8keSEHK",
+						"display_url": "pic.twitter.com/X4a8keSEHK",
+						"expanded_url": "https://twitter.com/MaxCRoser/status/1313046638915706880/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 443,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1966,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 781,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1313045969135644700,
+						"id_str": "1313045969135644672",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/media/EjjgWiQWsAAK444.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EjjgWiQWsAAK444.jpg",
+						"url": "https://t.co/X4a8keSEHK",
+						"display_url": "pic.twitter.com/X4a8keSEHK",
+						"expanded_url": "https://twitter.com/MaxCRoser/status/1313046638915706880/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 443,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1966,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 781,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 610659001,
+				"id_str": "610659001",
+				"name": "Max Roser",
+				"screen_name": "MaxCRoser",
+				"location": "Oxford",
+				"description": "Data to understand the big global problems and research that helps to make progress against them.\n\n@UniOfOxford researcher / @OurWorldInData founder",
+				"url": "https://t.co/6f83FQHSDg",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/6f83FQHSDg",
+								"expanded_url": "http://OurWorldInData.org",
+								"display_url": "OurWorldInData.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 225126,
+				"friends_count": 1154,
+				"listed_count": 5308,
+				"created_at": "Sun Jun 17 09:15:11 +0000 2012",
+				"favourites_count": 26509,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 12723,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "444F70",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1253298247222939649/SoK3GsLv_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1253298247222939649/SoK3GsLv_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/610659001/1586215018",
+				"profile_link_color": "495A87",
+				"profile_sidebar_border_color": "FAEF89",
+				"profile_sidebar_fill_color": "D9D6BF",
+				"profile_text_color": "97B1FF",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8797,
+			"favorite_count": 18190,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 360,
+		"favorite_count": 1851,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Never mind “The database is managed in Excel”, that’s not the end of the world. But they were putting the CASES in the COLUMNS??? https://t.co/ZPjnGfx85G"
+	},
+	{
 		"created_at": "Sun Oct 04 05:04:17 +0000 2020",
 		"id": 1312619529168543700,
 		"id_str": "1312619529168543744",
@@ -63,12 +611,12 @@ Grailbird.data.tweets_2020_10 =
 			"friends_count": 160,
 			"listed_count": 92,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8375,
+			"favourites_count": 8381,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14511,
+			"statuses_count": 14513,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -275,16 +823,16 @@ Grailbird.data.tweets_2020_10 =
 					}
 				},
 				"protected": false,
-				"followers_count": 9360,
+				"followers_count": 9359,
 				"friends_count": 1570,
 				"listed_count": 127,
 				"created_at": "Mon May 17 03:02:45 +0000 2010",
-				"favourites_count": 39113,
+				"favourites_count": 39137,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": false,
-				"statuses_count": 49789,
+				"statuses_count": 49825,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -314,8 +862,8 @@ Grailbird.data.tweets_2020_10 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 28,
-			"favorite_count": 152,
+			"retweet_count": 30,
+			"favorite_count": 156,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
@@ -378,16 +926,16 @@ Grailbird.data.tweets_2020_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 5614,
+			"followers_count": 5637,
 			"friends_count": 498,
-			"listed_count": 80,
+			"listed_count": 81,
 			"created_at": "Fri May 12 19:35:06 +0000 2017",
-			"favourites_count": 10525,
+			"favourites_count": 10533,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 10960,
+			"statuses_count": 10966,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -417,8 +965,8 @@ Grailbird.data.tweets_2020_10 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 24984,
-		"favorite_count": 232823,
+		"retweet_count": 25000,
+		"favorite_count": 232973,
 		"favorited": false,
 		"retweeted": true,
 		"lang": "en",
@@ -561,8 +1109,8 @@ Grailbird.data.tweets_2020_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 72122,
-			"friends_count": 1583,
+			"followers_count": 72164,
+			"friends_count": 1582,
 			"listed_count": 211,
 			"created_at": "Mon Oct 27 02:08:57 +0000 2014",
 			"favourites_count": 780,
@@ -601,7 +1149,7 @@ Grailbird.data.tweets_2020_10 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 131,
-		"favorite_count": 649,
+		"favorite_count": 651,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -672,12 +1220,12 @@ Grailbird.data.tweets_2020_10 =
 			"friends_count": 160,
 			"listed_count": 92,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8375,
+			"favourites_count": 8381,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14511,
+			"statuses_count": 14513,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -778,12 +1326,12 @@ Grailbird.data.tweets_2020_10 =
 			"friends_count": 160,
 			"listed_count": 92,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8375,
+			"favourites_count": 8381,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14511,
+			"statuses_count": 14513,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -866,16 +1414,16 @@ Grailbird.data.tweets_2020_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 903,
-			"friends_count": 894,
+			"followers_count": 906,
+			"friends_count": 896,
 			"listed_count": 34,
 			"created_at": "Mon May 30 11:12:19 +0000 2011",
-			"favourites_count": 344,
+			"favourites_count": 349,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 591,
+			"statuses_count": 594,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -977,12 +1525,12 @@ Grailbird.data.tweets_2020_10 =
 			"friends_count": 160,
 			"listed_count": 92,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8375,
+			"favourites_count": 8381,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14511,
+			"statuses_count": 14513,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1101,16 +1649,16 @@ Grailbird.data.tweets_2020_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 43203,
-			"friends_count": 6875,
+			"followers_count": 43230,
+			"friends_count": 6874,
 			"listed_count": 480,
 			"created_at": "Tue Apr 27 05:44:26 +0000 2010",
-			"favourites_count": 15100,
+			"favourites_count": 15104,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 115424,
+			"statuses_count": 115436,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1141,7 +1689,7 @@ Grailbird.data.tweets_2020_10 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 474,
-		"favorite_count": 2989,
+		"favorite_count": 2988,
 		"favorited": true,
 		"retweeted": true,
 		"lang": "en",
