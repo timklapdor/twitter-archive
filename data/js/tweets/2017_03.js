@@ -207,8 +207,8 @@ Grailbird.data.tweets_2017_03 =
 				}
 			},
 			"protected": false,
-			"followers_count": 2659,
-			"friends_count": 999,
+			"followers_count": 2658,
+			"friends_count": 1000,
 			"listed_count": 53,
 			"created_at": "Fri May 29 11:20:53 +0000 2009",
 			"favourites_count": 2437,
@@ -303,16 +303,16 @@ Grailbird.data.tweets_2017_03 =
 				}
 			},
 			"protected": false,
-			"followers_count": 695797,
-			"friends_count": 3754,
-			"listed_count": 6762,
+			"followers_count": 696110,
+			"friends_count": 3760,
+			"listed_count": 6766,
 			"created_at": "Mon Dec 15 14:38:28 +0000 2014",
-			"favourites_count": 16142,
+			"favourites_count": 16148,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 31651,
+			"statuses_count": 31688,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -342,8 +342,8 @@ Grailbird.data.tweets_2017_03 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 19346,
-		"favorite_count": 43903,
+		"retweet_count": 19343,
+		"favorite_count": 43901,
 		"favorited": false,
 		"retweeted": false,
 		"lang": "en",
@@ -423,12 +423,12 @@ Grailbird.data.tweets_2017_03 =
 			"friends_count": 147,
 			"listed_count": 92,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8445,
+			"favourites_count": 8448,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14545,
+			"statuses_count": 14547,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -562,12 +562,12 @@ Grailbird.data.tweets_2017_03 =
 			"friends_count": 147,
 			"listed_count": 92,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8445,
+			"favourites_count": 8448,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14545,
+			"statuses_count": 14547,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -696,16 +696,16 @@ Grailbird.data.tweets_2017_03 =
 				}
 			},
 			"protected": false,
-			"followers_count": 7532,
+			"followers_count": 7537,
 			"friends_count": 5006,
 			"listed_count": 470,
 			"created_at": "Tue Feb 20 13:34:20 +0000 2007",
-			"favourites_count": 31774,
+			"favourites_count": 31799,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 53659,
+			"statuses_count": 53676,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -791,16 +791,16 @@ Grailbird.data.tweets_2017_03 =
 					}
 				},
 				"protected": false,
-				"followers_count": 34290,
-				"friends_count": 7482,
-				"listed_count": 826,
+				"followers_count": 34294,
+				"friends_count": 7484,
+				"listed_count": 829,
 				"created_at": "Sat Feb 28 18:49:41 +0000 2009",
-				"favourites_count": 19430,
+				"favourites_count": 19432,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": true,
-				"statuses_count": 30137,
+				"statuses_count": 30139,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -907,12 +907,12 @@ Grailbird.data.tweets_2017_03 =
 			"friends_count": 147,
 			"listed_count": 92,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8445,
+			"favourites_count": 8448,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14545,
+			"statuses_count": 14547,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1089,7 +1089,7 @@ Grailbird.data.tweets_2017_03 =
 			"name": "dan hett",
 			"screen_name": "danhett",
 			"location": "New Mills / Manchester",
-			"description": "writer, artist, active transmitter. director at @passengergames. i like big books and i can not lie. agent: @milburnbrowning",
+			"description": "artist, writer, active transmitter. director at @passengergames. i like big books and i can not lie. agent: @milburnbrowning",
 			"url": "https://t.co/w1gQlnkiml",
 			"entities": {
 				"url": {
@@ -1110,16 +1110,16 @@ Grailbird.data.tweets_2017_03 =
 				}
 			},
 			"protected": false,
-			"followers_count": 26218,
-			"friends_count": 4121,
-			"listed_count": 261,
+			"followers_count": 26217,
+			"friends_count": 4123,
+			"listed_count": 260,
 			"created_at": "Thu Jun 11 08:36:26 +0000 2009",
-			"favourites_count": 13369,
+			"favourites_count": 13374,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 45508,
+			"statuses_count": 45528,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1150,7 +1150,7 @@ Grailbird.data.tweets_2017_03 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 323,
-		"favorite_count": 547,
+		"favorite_count": 546,
 		"favorited": true,
 		"retweeted": false,
 		"possibly_sensitive": false,
@@ -1221,12 +1221,12 @@ Grailbird.data.tweets_2017_03 =
 			"friends_count": 147,
 			"listed_count": 92,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8445,
+			"favourites_count": 8448,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14545,
+			"statuses_count": 14547,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1370,12 +1370,12 @@ Grailbird.data.tweets_2017_03 =
 			"friends_count": 147,
 			"listed_count": 92,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8445,
+			"favourites_count": 8448,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14545,
+			"statuses_count": 14547,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1444,283 +1444,5 @@ Grailbird.data.tweets_2017_03 =
 		"retweeted": false,
 		"lang": "en",
 		"text": "@FrancisKneebone @catspyjamasnz that said I’m working on some ideas to present at @DomainsConf - a distributed learning system."
-	},
-	{
-		"created_at": "Wed Mar 22 08:56:12 +0000 2017",
-		"id": 844472769584648200,
-		"id_str": "844472769584648192",
-		"full_text": "@FrancisKneebone @catspyjamasnz Even new players more or less replicate same functions and features. Not much new thinking.",
-		"truncated": false,
-		"display_text_range": [
-			32,
-			123
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [
-				{
-					"screen_name": "catspyjamasnz",
-					"name": "👩🏻‍💻Joyce 'Stay Safe' Seitzinger",
-					"id": 10451462,
-					"id_str": "10451462",
-					"indices": [
-						17,
-						31
-					]
-				}
-			],
-			"urls": []
-		},
-		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
-		"in_reply_to_status_id": 844472568308383700,
-		"in_reply_to_status_id_str": "844472568308383744",
-		"in_reply_to_user_id": 174124175,
-		"in_reply_to_user_id_str": "174124175",
-		"in_reply_to_screen_name": "timklapdor",
-		"user": {
-			"id": 174124175,
-			"id_str": "174124175",
-			"name": "Tim Klapdor",
-			"screen_name": "timklapdor",
-			"location": "Adelaide, South Australia",
-			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "https://t.co/uC0c3me6KE",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/uC0c3me6KE",
-							"expanded_url": "http://timklapdor.com",
-							"display_url": "timklapdor.com",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 832,
-			"friends_count": 147,
-			"listed_count": 92,
-			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8445,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 14545,
-			"lang": null,
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "C0DEED",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
-			"profile_link_color": "5FA832",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "DDEEF6",
-			"profile_text_color": "333333",
-			"profile_use_background_image": true,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": {
-			"id": "47fbe3d3691af707",
-			"url": "https://api.twitter.com/1.1/geo/id/47fbe3d3691af707.json",
-			"place_type": "neighborhood",
-			"name": "Turvey Park",
-			"full_name": "Turvey Park, Wagga Wagga",
-			"country_code": "AU",
-			"country": "Australia",
-			"contained_within": [],
-			"bounding_box": {
-				"type": "Polygon",
-				"coordinates": [
-					[
-						[
-							147.34215216,
-							-35.13507804
-						],
-						[
-							147.37781016,
-							-35.13507804
-						],
-						[
-							147.37781016,
-							-35.11972998
-						],
-						[
-							147.34215216,
-							-35.11972998
-						]
-					]
-				]
-			},
-			"attributes": {}
-		},
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 1,
-		"favorited": false,
-		"retweeted": false,
-		"lang": "en",
-		"text": "@FrancisKneebone @catspyjamasnz Even new players more or less replicate same functions and features. Not much new thinking."
-	},
-	{
-		"created_at": "Wed Mar 22 08:55:24 +0000 2017",
-		"id": 844472568308383700,
-		"id_str": "844472568308383744",
-		"full_text": "@FrancisKneebone @catspyjamasnz or if you could give out functions to more agile systems. But at the moment no one seems to have motivation",
-		"truncated": false,
-		"display_text_range": [
-			32,
-			139
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [
-				{
-					"screen_name": "catspyjamasnz",
-					"name": "👩🏻‍💻Joyce 'Stay Safe' Seitzinger",
-					"id": 10451462,
-					"id_str": "10451462",
-					"indices": [
-						17,
-						31
-					]
-				}
-			],
-			"urls": []
-		},
-		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
-		"in_reply_to_status_id": 844472325084893200,
-		"in_reply_to_status_id_str": "844472325084893184",
-		"in_reply_to_user_id": 174124175,
-		"in_reply_to_user_id_str": "174124175",
-		"in_reply_to_screen_name": "timklapdor",
-		"user": {
-			"id": 174124175,
-			"id_str": "174124175",
-			"name": "Tim Klapdor",
-			"screen_name": "timklapdor",
-			"location": "Adelaide, South Australia",
-			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "https://t.co/uC0c3me6KE",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/uC0c3me6KE",
-							"expanded_url": "http://timklapdor.com",
-							"display_url": "timklapdor.com",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 832,
-			"friends_count": 147,
-			"listed_count": 92,
-			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8445,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 14545,
-			"lang": null,
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "C0DEED",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
-			"profile_link_color": "5FA832",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "DDEEF6",
-			"profile_text_color": "333333",
-			"profile_use_background_image": true,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": {
-			"id": "47fbe3d3691af707",
-			"url": "https://api.twitter.com/1.1/geo/id/47fbe3d3691af707.json",
-			"place_type": "neighborhood",
-			"name": "Turvey Park",
-			"full_name": "Turvey Park, Wagga Wagga",
-			"country_code": "AU",
-			"country": "Australia",
-			"contained_within": [],
-			"bounding_box": {
-				"type": "Polygon",
-				"coordinates": [
-					[
-						[
-							147.34215216,
-							-35.13507804
-						],
-						[
-							147.37781016,
-							-35.13507804
-						],
-						[
-							147.37781016,
-							-35.11972998
-						],
-						[
-							147.34215216,
-							-35.11972998
-						]
-					]
-				]
-			},
-			"attributes": {}
-		},
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 1,
-		"favorited": false,
-		"retweeted": false,
-		"lang": "en",
-		"text": "@FrancisKneebone @catspyjamasnz or if you could give out functions to more agile systems. But at the moment no one seems to have motivation"
 	}
 ]
