@@ -303,16 +303,16 @@ Grailbird.data.tweets_2017_03 =
 				}
 			},
 			"protected": false,
-			"followers_count": 696110,
-			"friends_count": 3760,
-			"listed_count": 6766,
+			"followers_count": 696464,
+			"friends_count": 3759,
+			"listed_count": 6769,
 			"created_at": "Mon Dec 15 14:38:28 +0000 2014",
-			"favourites_count": 16148,
+			"favourites_count": 16150,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 31688,
+			"statuses_count": 31731,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -342,7 +342,7 @@ Grailbird.data.tweets_2017_03 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 19343,
+		"retweet_count": 19342,
 		"favorite_count": 43901,
 		"favorited": false,
 		"retweeted": false,
@@ -423,12 +423,12 @@ Grailbird.data.tweets_2017_03 =
 			"friends_count": 147,
 			"listed_count": 92,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8448,
+			"favourites_count": 8457,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14547,
+			"statuses_count": 14550,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -562,12 +562,12 @@ Grailbird.data.tweets_2017_03 =
 			"friends_count": 147,
 			"listed_count": 92,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8448,
+			"favourites_count": 8457,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14547,
+			"statuses_count": 14550,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -697,15 +697,15 @@ Grailbird.data.tweets_2017_03 =
 			},
 			"protected": false,
 			"followers_count": 7537,
-			"friends_count": 5006,
+			"friends_count": 5008,
 			"listed_count": 470,
 			"created_at": "Tue Feb 20 13:34:20 +0000 2007",
-			"favourites_count": 31799,
+			"favourites_count": 31843,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 53676,
+			"statuses_count": 53695,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -791,16 +791,16 @@ Grailbird.data.tweets_2017_03 =
 					}
 				},
 				"protected": false,
-				"followers_count": 34294,
+				"followers_count": 34300,
 				"friends_count": 7484,
-				"listed_count": 829,
+				"listed_count": 827,
 				"created_at": "Sat Feb 28 18:49:41 +0000 2009",
-				"favourites_count": 19432,
+				"favourites_count": 19438,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": true,
-				"statuses_count": 30139,
+				"statuses_count": 30150,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -843,606 +843,5 @@ Grailbird.data.tweets_2017_03 =
 		"possibly_sensitive": false,
 		"lang": "en",
 		"text": "Technology approaches being used to supplant face to face teaching rather than augment it, and create unequal access to great education. https://t.co/4VKypOVPUn"
-	},
-	{
-		"created_at": "Sun Mar 26 22:20:03 +0000 2017",
-		"id": 846124618603626500,
-		"id_str": "846124618603626496",
-		"full_text": "Wow. American diplomacy hits new lows. You wouldn’t want an international incident to happen - *side eyes Russia* https://t.co/XkNLmV2sT4",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			113
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": [
-				{
-					"url": "https://t.co/XkNLmV2sT4",
-					"expanded_url": "https://twitter.com/jbarro/status/846021828070035457",
-					"display_url": "twitter.com/jbarro/status/…",
-					"indices": [
-						114,
-						137
-					]
-				}
-			]
-		},
-		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 174124175,
-			"id_str": "174124175",
-			"name": "Tim Klapdor",
-			"screen_name": "timklapdor",
-			"location": "Adelaide, South Australia",
-			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "https://t.co/uC0c3me6KE",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/uC0c3me6KE",
-							"expanded_url": "http://timklapdor.com",
-							"display_url": "timklapdor.com",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 832,
-			"friends_count": 147,
-			"listed_count": 92,
-			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8448,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 14547,
-			"lang": null,
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "C0DEED",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
-			"profile_link_color": "5FA832",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "DDEEF6",
-			"profile_text_color": "333333",
-			"profile_use_background_image": true,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": {
-			"id": "47fbe3d3691af707",
-			"url": "https://api.twitter.com/1.1/geo/id/47fbe3d3691af707.json",
-			"place_type": "neighborhood",
-			"name": "Turvey Park",
-			"full_name": "Turvey Park, Wagga Wagga",
-			"country_code": "AU",
-			"country": "Australia",
-			"contained_within": [],
-			"bounding_box": {
-				"type": "Polygon",
-				"coordinates": [
-					[
-						[
-							147.34215216,
-							-35.13507804
-						],
-						[
-							147.37781016,
-							-35.13507804
-						],
-						[
-							147.37781016,
-							-35.11972998
-						],
-						[
-							147.34215216,
-							-35.11972998
-						]
-					]
-				]
-			},
-			"attributes": {}
-		},
-		"contributors": null,
-		"is_quote_status": true,
-		"retweet_count": 0,
-		"favorite_count": 0,
-		"favorited": false,
-		"retweeted": false,
-		"possibly_sensitive": false,
-		"lang": "en",
-		"text": "Wow. American diplomacy hits new lows. You wouldn’t want an international incident to happen - *side eyes Russia* https://t.co/XkNLmV2sT4"
-	},
-	{
-		"created_at": "Sun Mar 26 03:16:57 +0000 2017",
-		"id": 845530509270798300,
-		"id_str": "845836948023361537",
-		"full_text": "I'm not really a metal festival guy nowadays, but this lineup looks great https://t.co/fXhN3hcfOB",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			73
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": [],
-			"media": [
-				{
-					"id": 845530503012864000,
-					"id_str": "845530503012864000",
-					"indices": [
-						74,
-						97
-					],
-					"media_url": "http://pbs.twimg.com/media/C7vtgz7W0AAmFXz.jpg",
-					"media_url_https": "https://pbs.twimg.com/media/C7vtgz7W0AAmFXz.jpg",
-					"url": "https://t.co/fXhN3hcfOB",
-					"display_url": "pic.twitter.com/fXhN3hcfOB",
-					"expanded_url": "https://twitter.com/danhett/status/845530509270798336/photo/1",
-					"type": "photo",
-					"sizes": {
-						"large": {
-							"w": 465,
-							"h": 679,
-							"resize": "fit"
-						},
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"small": {
-							"w": 465,
-							"h": 679,
-							"resize": "fit"
-						},
-						"medium": {
-							"w": 465,
-							"h": 679,
-							"resize": "fit"
-						}
-					}
-				}
-			]
-		},
-		"extended_entities": {
-			"media": [
-				{
-					"id": 845530503012864000,
-					"id_str": "845530503012864000",
-					"indices": [
-						74,
-						97
-					],
-					"media_url": "http://pbs.twimg.com/media/C7vtgz7W0AAmFXz.jpg",
-					"media_url_https": "https://pbs.twimg.com/media/C7vtgz7W0AAmFXz.jpg",
-					"url": "https://t.co/fXhN3hcfOB",
-					"display_url": "pic.twitter.com/fXhN3hcfOB",
-					"expanded_url": "https://twitter.com/danhett/status/845530509270798336/photo/1",
-					"type": "photo",
-					"sizes": {
-						"large": {
-							"w": 465,
-							"h": 679,
-							"resize": "fit"
-						},
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"small": {
-							"w": 465,
-							"h": 679,
-							"resize": "fit"
-						},
-						"medium": {
-							"w": 465,
-							"h": 679,
-							"resize": "fit"
-						}
-					}
-				}
-			]
-		},
-		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 46346652,
-			"id_str": "46346652",
-			"name": "dan hett",
-			"screen_name": "danhett",
-			"location": "New Mills / Manchester",
-			"description": "artist, writer, active transmitter. director at @passengergames. i like big books and i can not lie. agent: @milburnbrowning",
-			"url": "https://t.co/w1gQlnkiml",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/w1gQlnkiml",
-							"expanded_url": "http://danhett.com",
-							"display_url": "danhett.com",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 26217,
-			"friends_count": 4123,
-			"listed_count": 260,
-			"created_at": "Thu Jun 11 08:36:26 +0000 2009",
-			"favourites_count": 13374,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": false,
-			"verified": true,
-			"statuses_count": 45528,
-			"lang": null,
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "131516",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
-			"profile_background_tile": true,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1230967123943591936/fCQ3cQj6_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1230967123943591936/fCQ3cQj6_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/46346652/1603105716",
-			"profile_link_color": "000000",
-			"profile_sidebar_border_color": "EEEEEE",
-			"profile_sidebar_fill_color": "EFEFEF",
-			"profile_text_color": "333333",
-			"profile_use_background_image": true,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 323,
-		"favorite_count": 546,
-		"favorited": true,
-		"retweeted": false,
-		"possibly_sensitive": false,
-		"lang": "en",
-		"text": "I'm not really a metal festival guy nowadays, but this lineup looks great https://t.co/fXhN3hcfOB"
-	},
-	{
-		"created_at": "Wed Mar 22 08:58:50 +0000 2017",
-		"id": 844473430367912000,
-		"id_str": "844473430367911936",
-		"full_text": "@FrancisKneebone @catspyjamasnz working on idea of shifting locus to learners not institutions. LMS can survive, but as aggregator not focus",
-		"truncated": false,
-		"display_text_range": [
-			32,
-			140
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [
-				{
-					"screen_name": "catspyjamasnz",
-					"name": "👩🏻‍💻Joyce 'Stay Safe' Seitzinger",
-					"id": 10451462,
-					"id_str": "10451462",
-					"indices": [
-						17,
-						31
-					]
-				}
-			],
-			"urls": []
-		},
-		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
-		"in_reply_to_status_id": 844473069762633700,
-		"in_reply_to_status_id_str": "844473069762633728",
-		"in_reply_to_user_id": 174124175,
-		"in_reply_to_user_id_str": "174124175",
-		"in_reply_to_screen_name": "timklapdor",
-		"user": {
-			"id": 174124175,
-			"id_str": "174124175",
-			"name": "Tim Klapdor",
-			"screen_name": "timklapdor",
-			"location": "Adelaide, South Australia",
-			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "https://t.co/uC0c3me6KE",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/uC0c3me6KE",
-							"expanded_url": "http://timklapdor.com",
-							"display_url": "timklapdor.com",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 832,
-			"friends_count": 147,
-			"listed_count": 92,
-			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8448,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 14547,
-			"lang": null,
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "C0DEED",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
-			"profile_link_color": "5FA832",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "DDEEF6",
-			"profile_text_color": "333333",
-			"profile_use_background_image": true,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": {
-			"id": "47fbe3d3691af707",
-			"url": "https://api.twitter.com/1.1/geo/id/47fbe3d3691af707.json",
-			"place_type": "neighborhood",
-			"name": "Turvey Park",
-			"full_name": "Turvey Park, Wagga Wagga",
-			"country_code": "AU",
-			"country": "Australia",
-			"contained_within": [],
-			"bounding_box": {
-				"type": "Polygon",
-				"coordinates": [
-					[
-						[
-							147.34215216,
-							-35.13507804
-						],
-						[
-							147.37781016,
-							-35.13507804
-						],
-						[
-							147.37781016,
-							-35.11972998
-						],
-						[
-							147.34215216,
-							-35.11972998
-						]
-					]
-				]
-			},
-			"attributes": {}
-		},
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 1,
-		"favorited": false,
-		"retweeted": false,
-		"lang": "en",
-		"text": "@FrancisKneebone @catspyjamasnz working on idea of shifting locus to learners not institutions. LMS can survive, but as aggregator not focus"
-	},
-	{
-		"created_at": "Wed Mar 22 08:57:24 +0000 2017",
-		"id": 844473069762633700,
-		"id_str": "844473069762633728",
-		"full_text": "@FrancisKneebone @catspyjamasnz that said I’m working on some ideas to present at @DomainsConf - a distributed learning system.",
-		"truncated": false,
-		"display_text_range": [
-			32,
-			127
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [
-				{
-					"screen_name": "catspyjamasnz",
-					"name": "👩🏻‍💻Joyce 'Stay Safe' Seitzinger",
-					"id": 10451462,
-					"id_str": "10451462",
-					"indices": [
-						17,
-						31
-					]
-				},
-				{
-					"screen_name": "DomainsConf",
-					"name": "DOMAINS 19",
-					"id": 808349016157257700,
-					"id_str": "808349016157257728",
-					"indices": [
-						82,
-						94
-					]
-				}
-			],
-			"urls": []
-		},
-		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
-		"in_reply_to_status_id": 844472769584648200,
-		"in_reply_to_status_id_str": "844472769584648192",
-		"in_reply_to_user_id": 174124175,
-		"in_reply_to_user_id_str": "174124175",
-		"in_reply_to_screen_name": "timklapdor",
-		"user": {
-			"id": 174124175,
-			"id_str": "174124175",
-			"name": "Tim Klapdor",
-			"screen_name": "timklapdor",
-			"location": "Adelaide, South Australia",
-			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "https://t.co/uC0c3me6KE",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/uC0c3me6KE",
-							"expanded_url": "http://timklapdor.com",
-							"display_url": "timklapdor.com",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 832,
-			"friends_count": 147,
-			"listed_count": 92,
-			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8448,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 14547,
-			"lang": null,
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "C0DEED",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
-			"profile_link_color": "5FA832",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "DDEEF6",
-			"profile_text_color": "333333",
-			"profile_use_background_image": true,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": {
-			"id": "47fbe3d3691af707",
-			"url": "https://api.twitter.com/1.1/geo/id/47fbe3d3691af707.json",
-			"place_type": "neighborhood",
-			"name": "Turvey Park",
-			"full_name": "Turvey Park, Wagga Wagga",
-			"country_code": "AU",
-			"country": "Australia",
-			"contained_within": [],
-			"bounding_box": {
-				"type": "Polygon",
-				"coordinates": [
-					[
-						[
-							147.34215216,
-							-35.13507804
-						],
-						[
-							147.37781016,
-							-35.13507804
-						],
-						[
-							147.37781016,
-							-35.11972998
-						],
-						[
-							147.34215216,
-							-35.11972998
-						]
-					]
-				]
-			},
-			"attributes": {}
-		},
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 1,
-		"favorited": false,
-		"retweeted": false,
-		"lang": "en",
-		"text": "@FrancisKneebone @catspyjamasnz that said I’m working on some ideas to present at @DomainsConf - a distributed learning system."
 	}
 ]
