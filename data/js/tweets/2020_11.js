@@ -1,0 +1,539 @@
+Grailbird.data.tweets_2020_11 = 
+[
+	{
+		"created_at": "Sun Nov 01 21:01:43 +0000 2020",
+		"id": 1322944280323747800,
+		"id_str": "1323007336617709568",
+		"full_text": "Thread #auspol where national infrastructure water facility money is being spent...\n\nSo gross. \n\nDon't like seeing regional spending diminished to a slush fund of undelivered outcomes... https://t.co/MrTuzDxcCs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "auspol",
+					"indices": [
+						7,
+						14
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MrTuzDxcCs",
+					"expanded_url": "https://twitter.com/DigitalMedia_LM/status/1322869046891536384",
+					"display_url": "twitter.com/DigitalMedia_L…",
+					"indices": [
+						187,
+						210
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 274817844,
+			"id_str": "274817844",
+			"name": "Lyndsey Jackson",
+			"screen_name": "ok_lyndsey",
+			"location": "Australia",
+			"description": "Co-founder & CTO @platfarm_agtech Community. Effective. Rural. Chair @efa_oz. Made @not_my_debt with lots of ppl",
+			"url": "https://t.co/WNTMHGUb0q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WNTMHGUb0q",
+							"expanded_url": "http://www.platfarm.com",
+							"display_url": "platfarm.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2849,
+			"friends_count": 4409,
+			"listed_count": 100,
+			"created_at": "Thu Mar 31 02:38:47 +0000 2011",
+			"favourites_count": 16691,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 18065,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/839469983528726528/hpvnBoly_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/839469983528726528/hpvnBoly_normal.jpg",
+			"profile_link_color": "4B0082",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1322869046891536400,
+		"quoted_status_id_str": "1322869046891536384",
+		"quoted_status_permalink": {
+			"url": "https://t.co/MrTuzDxcCs",
+			"expanded": "https://twitter.com/DigitalMedia_LM/status/1322869046891536384",
+			"display": "twitter.com/DigitalMedia_L…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Nov 01 11:52:13 +0000 2020",
+			"id": 1322869046891536400,
+			"id_str": "1322869046891536384",
+			"full_text": "“There are no loans paid out of the National Infrastructure Water Facility” - Bruce King from the Department of Infrastructure, Transport, Regional Development and Communications 1/ https://t.co/Ep285tGkM9",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				181
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Ep285tGkM9",
+						"expanded_url": "https://twitter.com/9newsadel/status/1322755032102612997",
+						"display_url": "twitter.com/9newsadel/stat…",
+						"indices": [
+							182,
+							205
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 712293243954839600,
+				"id_str": "712293243954839556",
+				"name": "Laura McDonald 🌊🧼",
+				"screen_name": "DigitalMedia_LM",
+				"location": "Sydney, New South Wales",
+				"description": "Freelance Digital Producer Tech IT | Work on H20💧& service design | ExTransformer@ DTA | Own views | CSU Alum | Contact: I'm deaf, so best to dm ⌨️.",
+				"url": "https://t.co/JysU4kdQSL",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/JysU4kdQSL",
+								"expanded_url": "http://linkedin.com/in/lauramcdonald1",
+								"display_url": "linkedin.com/in/lauramcdona…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 255,
+				"friends_count": 742,
+				"listed_count": 2,
+				"created_at": "Tue Mar 22 15:01:57 +0000 2016",
+				"favourites_count": 3459,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 13087,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1280686442138570752/Nf7ykhej_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1280686442138570752/Nf7ykhej_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/712293243954839556/1589113400",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1322755032102613000,
+			"quoted_status_id_str": "1322755032102612997",
+			"quoted_status_permalink": {
+				"url": "https://t.co/Ep285tGkM9",
+				"expanded": "https://twitter.com/9newsadel/status/1322755032102612997",
+				"display": "twitter.com/9newsadel/stat…"
+			},
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 4,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thread #auspol where national infrastructure water facility money is being spent...\n\nSo gross. \n\nDon't like seeing regional spending diminished to a slush fund of undelivered outcomes... https://t.co/MrTuzDxcCs"
+	},
+	{
+		"created_at": "Sun Nov 01 20:59:55 +0000 2020",
+		"id": 1322919888906866700,
+		"id_str": "1323006881539874816",
+		"full_text": "Juuuuust gonna leave this right here. 😆 https://t.co/0cHIJIl5FH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			39
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1322919884574068700,
+					"id_str": "1322919884574068736",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/Elv0oDpWkAAq6hQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Elv0oDpWkAAq6hQ.jpg",
+					"url": "https://t.co/0cHIJIl5FH",
+					"display_url": "pic.twitter.com/0cHIJIl5FH",
+					"expanded_url": "https://twitter.com/hypervisible/status/1322919888906866688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1242,
+							"h": 1294,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 653,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1152,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1322919884574068700,
+					"id_str": "1322919884574068736",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/Elv0oDpWkAAq6hQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Elv0oDpWkAAq6hQ.jpg",
+					"url": "https://t.co/0cHIJIl5FH",
+					"display_url": "pic.twitter.com/0cHIJIl5FH",
+					"expanded_url": "https://twitter.com/hypervisible/status/1322919888906866688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1242,
+							"h": 1294,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 653,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1152,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1322919884569907200,
+					"id_str": "1322919884569907200",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/Elv0oDoXEAA39Ly.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Elv0oDoXEAA39Ly.jpg",
+					"url": "https://t.co/0cHIJIl5FH",
+					"display_url": "pic.twitter.com/0cHIJIl5FH",
+					"expanded_url": "https://twitter.com/hypervisible/status/1322919888906866688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 944,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 535,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1242,
+							"h": 1579,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1322918802347184000,
+		"in_reply_to_status_id_str": "1322918802347184129",
+		"in_reply_to_user_id": 175292337,
+		"in_reply_to_user_id_str": "175292337",
+		"in_reply_to_screen_name": "hypervisible",
+		"user": {
+			"id": 175292337,
+			"id_str": "175292337",
+			"name": "Anti-surveillance as a service",
+			"screen_name": "hypervisible",
+			"location": "",
+			"description": "Professor & snowboarder. I spend a lot of time thinking (& not enough time writing) about surveillance, privacy, tech & data in education. #digitalredlining",
+			"url": "https://t.co/AZ81IRjWwC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AZ81IRjWwC",
+							"expanded_url": "http://hypervisible.com",
+							"display_url": "hypervisible.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15240,
+			"friends_count": 1365,
+			"listed_count": 510,
+			"created_at": "Fri Aug 06 05:44:19 +0000 2010",
+			"favourites_count": 142980,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 61518,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1275064805/wrist3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1275064805/wrist3_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 25,
+		"favorite_count": 97,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Juuuuust gonna leave this right here. 😆 https://t.co/0cHIJIl5FH"
+	},
+	{
+		"created_at": "Sun Nov 01 10:28:16 +0000 2020",
+		"id": 1322719591080947700,
+		"id_str": "1322847919909728257",
+		"full_text": "Confirmed locally acquired Covid cases over the past 24hr reporting period\n\nRussia: 18,140\nUK: 21,915\nSpain: 25,595\nItaly: 31,758\nFrance: 35,641\nIndia:48,268\nUSA: 99,321\n\nAustralia: 0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 927305017916141600,
+			"id_str": "927305017916141570",
+			"name": "Carrick Ryan",
+			"screen_name": "realCarrickRyan",
+			"location": "Manly, Sydney",
+			"description": "Former Federal Agent working in Counter Terrorism.\n\nMasters in Politics and International Relations;\nBachelors in Media and Communications.",
+			"url": "https://t.co/jZcVf5McgV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jZcVf5McgV",
+							"expanded_url": "http://Carrickryan.com",
+							"display_url": "Carrickryan.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11527,
+			"friends_count": 2613,
+			"listed_count": 42,
+			"created_at": "Sun Nov 05 22:41:59 +0000 2017",
+			"favourites_count": 9765,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7555,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1155002719427424256/ursMhuM7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1155002719427424256/ursMhuM7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/927305017916141570/1565684900",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 545,
+		"favorite_count": 1811,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Confirmed locally acquired Covid cases over the past 24hr reporting period\n\nRussia: 18,140\nUK: 21,915\nSpain: 25,595\nItaly: 31,758\nFrance: 35,641\nIndia:48,268\nUSA: 99,321\n\nAustralia: 0"
+	}
+]
