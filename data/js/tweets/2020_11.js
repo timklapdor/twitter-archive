@@ -1,6 +1,436 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Mon Nov 02 12:01:17 +0000 2020",
+		"id": 1323159972490834000,
+		"id_str": "1323233719486828544",
+		"full_text": "The Victorien Government has made an ad for the Melbourne Cup and it’s surprisingly honest and informative 🐴 #MelbourneFuCup #NupToTheCup https://t.co/ljRu1hUSjq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MelbourneFuCup",
+					"indices": [
+						109,
+						124
+					]
+				},
+				{
+					"text": "NupToTheCup",
+					"indices": [
+						125,
+						137
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1190429604852334600,
+					"id_str": "1190429604852334593",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1190429604852334593/img/tLFVVxasX2JOe4vA.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1190429604852334593/img/tLFVVxasX2JOe4vA.jpg",
+					"url": "https://t.co/ljRu1hUSjq",
+					"display_url": "pic.twitter.com/ljRu1hUSjq",
+					"expanded_url": "https://twitter.com/thejuicemedia/status/1323159972490833921/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1190429604852334600,
+					"id_str": "1190429604852334593",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1190429604852334593/img/tLFVVxasX2JOe4vA.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1190429604852334593/img/tLFVVxasX2JOe4vA.jpg",
+					"url": "https://t.co/ljRu1hUSjq",
+					"display_url": "pic.twitter.com/ljRu1hUSjq",
+					"expanded_url": "https://twitter.com/thejuicemedia/status/1323159972490833921/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 139973,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1190429604852334593/vid/640x360/0XCiHofbxYCdGK2z.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1190429604852334593/vid/480x270/KSf3VNI2pBJqPXvE.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1190429604852334593/vid/1280x720/bLBaGyQnR3T1-vWo.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1190429604852334593/pl/QNFaDKVt_WS83Oty.m3u8?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "Honest Government Ad | The Melbourne Cup",
+						"description": "The Victorien Government has made an ad for the Melbourne Cup and it’s surprisingly honest and informative",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://www.patreon.com/TheJuiceMedia"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 164929952,
+			"id_str": "164929952",
+			"name": "theJuiceMedia",
+			"screen_name": "thejuicemedia",
+			"location": "Wurundjeri land / Melbourne",
+			"description": "We make Honest Government Ads. We're on Patreon https://t.co/nJmOCR6FK0 Youtube https://t.co/sZy6rUhR1e Store https://t.co/Drh37XbElb",
+			"url": "https://t.co/7sOF8Blbk0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7sOF8Blbk0",
+							"expanded_url": "http://www.thejuicemedia.com",
+							"display_url": "thejuicemedia.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/nJmOCR6FK0",
+							"expanded_url": "http://patreon.com/thejuicemedia",
+							"display_url": "patreon.com/thejuicemedia",
+							"indices": [
+								48,
+								71
+							]
+						},
+						{
+							"url": "https://t.co/sZy6rUhR1e",
+							"expanded_url": "http://youtube.com/thejuicemedia",
+							"display_url": "youtube.com/thejuicemedia",
+							"indices": [
+								80,
+								103
+							]
+						},
+						{
+							"url": "https://t.co/Drh37XbElb",
+							"expanded_url": "https://shop.thejuicemedia.com",
+							"display_url": "shop.thejuicemedia.com",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 79394,
+			"friends_count": 1824,
+			"listed_count": 946,
+			"created_at": "Sat Jul 10 03:38:50 +0000 2010",
+			"favourites_count": 18034,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 9796,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182247391216324609/GWub83nk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182247391216324609/GWub83nk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/164929952/1512113224",
+			"profile_link_color": "005599",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 793,
+		"favorite_count": 1821,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The Victorien Government has made an ad for the Melbourne Cup and it’s surprisingly honest and informative 🐴 #MelbourneFuCup #NupToTheCup https://t.co/ljRu1hUSjq"
+	},
+	{
+		"created_at": "Mon Nov 02 04:34:22 +0000 2020",
+		"id": 1321255382514163700,
+		"id_str": "1323121248944095234",
+		"full_text": "Be outraged by both, or neither. https://t.co/RsF4YhMu0v",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			32
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1321255379414573000,
+					"id_str": "1321255379414573056",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/ElYKxGuUYAANGGR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElYKxGuUYAANGGR.jpg",
+					"url": "https://t.co/RsF4YhMu0v",
+					"display_url": "pic.twitter.com/RsF4YhMu0v",
+					"expanded_url": "https://twitter.com/realCarrickRyan/status/1321255382514163712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1321255379414573000,
+					"id_str": "1321255379414573056",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/ElYKxGuUYAANGGR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElYKxGuUYAANGGR.jpg",
+					"url": "https://t.co/RsF4YhMu0v",
+					"display_url": "pic.twitter.com/RsF4YhMu0v",
+					"expanded_url": "https://twitter.com/realCarrickRyan/status/1321255382514163712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 927305017916141600,
+			"id_str": "927305017916141570",
+			"name": "Carrick Ryan",
+			"screen_name": "realCarrickRyan",
+			"location": "Manly, Sydney",
+			"description": "Former Federal Agent working in Counter Terrorism.\n\nMasters in Politics and International Relations;\nBachelors in Media and Communications.",
+			"url": "https://t.co/jZcVf5McgV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jZcVf5McgV",
+							"expanded_url": "http://Carrickryan.com",
+							"display_url": "Carrickryan.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11560,
+			"friends_count": 2600,
+			"listed_count": 42,
+			"created_at": "Sun Nov 05 22:41:59 +0000 2017",
+			"favourites_count": 9836,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7595,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1155002719427424256/ursMhuM7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1155002719427424256/ursMhuM7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/927305017916141570/1565684900",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 713,
+		"favorite_count": 2637,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Be outraged by both, or neither. https://t.co/RsF4YhMu0v"
+	},
+	{
 		"created_at": "Sun Nov 01 21:01:43 +0000 2020",
 		"id": 1322944280323747800,
 		"id_str": "1323007336617709568",
@@ -68,15 +498,15 @@ Grailbird.data.tweets_2020_11 =
 			},
 			"protected": false,
 			"followers_count": 2849,
-			"friends_count": 4409,
+			"friends_count": 4412,
 			"listed_count": 100,
 			"created_at": "Thu Mar 31 02:38:47 +0000 2011",
-			"favourites_count": 16691,
+			"favourites_count": 16697,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 18065,
+			"statuses_count": 18071,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -171,16 +601,16 @@ Grailbird.data.tweets_2020_11 =
 					}
 				},
 				"protected": false,
-				"followers_count": 255,
-				"friends_count": 742,
+				"followers_count": 256,
+				"friends_count": 743,
 				"listed_count": 2,
 				"created_at": "Tue Mar 22 15:01:57 +0000 2016",
-				"favourites_count": 3459,
+				"favourites_count": 3462,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": false,
-				"statuses_count": 13087,
+				"statuses_count": 13098,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -395,16 +825,16 @@ Grailbird.data.tweets_2020_11 =
 				}
 			},
 			"protected": false,
-			"followers_count": 15240,
-			"friends_count": 1365,
+			"followers_count": 15324,
+			"friends_count": 1366,
 			"listed_count": 510,
 			"created_at": "Fri Aug 06 05:44:19 +0000 2010",
-			"favourites_count": 142980,
+			"favourites_count": 143155,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 61518,
+			"statuses_count": 61563,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -433,8 +863,8 @@ Grailbird.data.tweets_2020_11 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 25,
-		"favorite_count": 97,
+		"retweet_count": 34,
+		"favorite_count": 149,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -490,16 +920,16 @@ Grailbird.data.tweets_2020_11 =
 				}
 			},
 			"protected": false,
-			"followers_count": 11527,
-			"friends_count": 2613,
+			"followers_count": 11560,
+			"friends_count": 2600,
 			"listed_count": 42,
 			"created_at": "Sun Nov 05 22:41:59 +0000 2017",
-			"favourites_count": 9765,
+			"favourites_count": 9836,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 7555,
+			"statuses_count": 7595,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -529,8 +959,8 @@ Grailbird.data.tweets_2020_11 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 545,
-		"favorite_count": 1811,
+		"retweet_count": 563,
+		"favorite_count": 1901,
 		"favorited": false,
 		"retweeted": true,
 		"lang": "en",
