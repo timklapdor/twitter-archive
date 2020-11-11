@@ -3,14 +3,14 @@ var tweet_index = [
 		"file_name": "data/js/tweets/2020_11.js",
 		"year": 2020,
 		"var_name": "tweets_2020_11",
-		"tweet_count": 20,
+		"tweet_count": 21,
 		"month": 11
 	},
 	{
 		"file_name": "data/js/tweets/2020_10.js",
 		"year": 2020,
 		"var_name": "tweets_2020_10",
-		"tweet_count": 55,
+		"tweet_count": 56,
 		"month": 10
 	},
 	{
@@ -157,7 +157,7 @@ var tweet_index = [
 		"file_name": "data/js/tweets/2019_01.js",
 		"year": 2019,
 		"var_name": "tweets_2019_01",
-		"tweet_count": 87,
+		"tweet_count": 86,
 		"month": 1
 	},
 	{
@@ -290,7 +290,7 @@ var tweet_index = [
 		"file_name": "data/js/tweets/2017_06.js",
 		"year": 2017,
 		"var_name": "tweets_2017_06",
-		"tweet_count": 73,
+		"tweet_count": 74,
 		"month": 6
 	},
 	{
@@ -304,7 +304,7 @@ var tweet_index = [
 		"file_name": "data/js/tweets/2017_04.js",
 		"year": 2017,
 		"var_name": "tweets_2017_04",
-		"tweet_count": 38,
+		"tweet_count": 36,
 		"month": 4
 	},
 	{
