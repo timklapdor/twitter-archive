@@ -49,16 +49,16 @@ Grailbird.data.tweets_2017_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 16346,
+			"followers_count": 16427,
 			"friends_count": 1371,
 			"listed_count": 523,
 			"created_at": "Fri Aug 06 05:44:19 +0000 2010",
-			"favourites_count": 145214,
+			"favourites_count": 145433,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 61873,
+			"statuses_count": 61922,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -143,16 +143,16 @@ Grailbird.data.tweets_2017_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 16346,
+			"followers_count": 16427,
 			"friends_count": 1371,
 			"listed_count": 523,
 			"created_at": "Fri Aug 06 05:44:19 +0000 2010",
-			"favourites_count": 145214,
+			"favourites_count": 145433,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 61873,
+			"statuses_count": 61922,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -251,12 +251,12 @@ Grailbird.data.tweets_2017_04 =
 			"friends_count": 147,
 			"listed_count": 91,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8564,
+			"favourites_count": 8569,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14591,
+			"statuses_count": 14596,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -473,7 +473,7 @@ Grailbird.data.tweets_2017_04 =
 					}
 				},
 				"protected": false,
-				"followers_count": 24565,
+				"followers_count": 24560,
 				"friends_count": 408,
 				"listed_count": 409,
 				"created_at": "Mon Jan 05 21:46:19 +0000 2009",
@@ -586,16 +586,16 @@ Grailbird.data.tweets_2017_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 39574,
+			"followers_count": 39582,
 			"friends_count": 846,
 			"listed_count": 361,
 			"created_at": "Wed Jan 16 10:23:31 +0000 2013",
-			"favourites_count": 151071,
+			"favourites_count": 151063,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 157634,
+			"statuses_count": 157633,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -788,16 +788,16 @@ Grailbird.data.tweets_2017_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8767,
-			"friends_count": 1980,
-			"listed_count": 480,
+			"followers_count": 8766,
+			"friends_count": 1979,
+			"listed_count": 481,
 			"created_at": "Thu Oct 01 04:43:03 +0000 2009",
-			"favourites_count": 2796,
+			"favourites_count": 2798,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 80742,
+			"statuses_count": 80767,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -962,16 +962,16 @@ Grailbird.data.tweets_2017_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 10152,
+			"followers_count": 10154,
 			"friends_count": 466,
 			"listed_count": 79,
 			"created_at": "Thu Feb 12 12:58:07 +0000 2015",
-			"favourites_count": 713,
+			"favourites_count": 711,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 840,
+			"statuses_count": 839,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1001,7 +1001,7 @@ Grailbird.data.tweets_2017_04 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 8775,
-		"favorite_count": 15533,
+		"favorite_count": 15529,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
@@ -1071,12 +1071,12 @@ Grailbird.data.tweets_2017_04 =
 			"friends_count": 147,
 			"listed_count": 91,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8564,
+			"favourites_count": 8569,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14591,
+			"statuses_count": 14596,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1173,15 +1173,15 @@ Grailbird.data.tweets_2017_04 =
 				},
 				"protected": false,
 				"followers_count": 2655,
-				"friends_count": 1129,
+				"friends_count": 1128,
 				"listed_count": 96,
 				"created_at": "Mon Apr 06 23:24:11 +0000 2009",
-				"favourites_count": 14075,
+				"favourites_count": 14080,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": false,
-				"statuses_count": 76904,
+				"statuses_count": 76907,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -1285,15 +1285,15 @@ Grailbird.data.tweets_2017_04 =
 			},
 			"protected": false,
 			"followers_count": 2032,
-			"friends_count": 2931,
+			"friends_count": 2928,
 			"listed_count": 81,
 			"created_at": "Thu Mar 05 06:03:28 +0000 2009",
-			"favourites_count": 1903,
+			"favourites_count": 1904,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 22416,
+			"statuses_count": 22419,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1395,12 +1395,12 @@ Grailbird.data.tweets_2017_04 =
 			"friends_count": 147,
 			"listed_count": 91,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8564,
+			"favourites_count": 8569,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14591,
+			"statuses_count": 14596,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1501,12 +1501,12 @@ Grailbird.data.tweets_2017_04 =
 			"friends_count": 147,
 			"listed_count": 91,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8564,
+			"favourites_count": 8569,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14591,
+			"statuses_count": 14596,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1607,12 +1607,12 @@ Grailbird.data.tweets_2017_04 =
 			"friends_count": 147,
 			"listed_count": 91,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8564,
+			"favourites_count": 8569,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14591,
+			"statuses_count": 14596,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1712,12 +1712,12 @@ Grailbird.data.tweets_2017_04 =
 			"friends_count": 147,
 			"listed_count": 91,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8564,
+			"favourites_count": 8569,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14591,
+			"statuses_count": 14596,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1754,959 +1754,5 @@ Grailbird.data.tweets_2017_04 =
 		"possibly_sensitive": false,
 		"lang": "en",
 		"text": "Fascinating read on Melania Trump’s photography https://t.co/5qLNZmslu8"
-	},
-	{
-		"created_at": "Mon Apr 17 06:54:29 +0000 2017",
-		"id": 853864222907801600,
-		"id_str": "853864222907801600",
-		"full_text": "No comment https://t.co/F4fkGOXH6o",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			10
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": [
-				{
-					"url": "https://t.co/F4fkGOXH6o",
-					"expanded_url": "https://twitter.com/business/status/853623575328301056",
-					"display_url": "twitter.com/business/statu…",
-					"indices": [
-						11,
-						34
-					]
-				}
-			]
-		},
-		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 174124175,
-			"id_str": "174124175",
-			"name": "Tim Klapdor",
-			"screen_name": "timklapdor",
-			"location": "Adelaide, South Australia",
-			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "https://t.co/uC0c3me6KE",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/uC0c3me6KE",
-							"expanded_url": "http://timklapdor.com",
-							"display_url": "timklapdor.com",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 832,
-			"friends_count": 147,
-			"listed_count": 91,
-			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8564,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 14591,
-			"lang": null,
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "C0DEED",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
-			"profile_link_color": "5FA832",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "DDEEF6",
-			"profile_text_color": "333333",
-			"profile_use_background_image": true,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": true,
-		"quoted_status_id": 853623575328301000,
-		"quoted_status_id_str": "853623575328301056",
-		"quoted_status_permalink": {
-			"url": "https://t.co/F4fkGOXH6o",
-			"expanded": "https://twitter.com/business/status/853623575328301056",
-			"display": "twitter.com/business/statu…"
-		},
-		"quoted_status": {
-			"created_at": "Sun Apr 16 14:58:14 +0000 2017",
-			"id": 853623575328301000,
-			"id_str": "853623575328301056",
-			"full_text": "Were Jesus and his disciples the most successful startup ever? https://t.co/8zOtSMjbfl https://t.co/otz2H4axZr",
-			"truncated": false,
-			"display_text_range": [
-				0,
-				86
-			],
-			"entities": {
-				"hashtags": [],
-				"symbols": [],
-				"user_mentions": [],
-				"urls": [
-					{
-						"url": "https://t.co/8zOtSMjbfl",
-						"expanded_url": "https://bloom.bg/2pm9Xwp",
-						"display_url": "bloom.bg/2pm9Xwp",
-						"indices": [
-							63,
-							86
-						]
-					}
-				],
-				"media": [
-					{
-						"id": 853623572883013600,
-						"id_str": "853623572883013633",
-						"indices": [
-							87,
-							110
-						],
-						"media_url": "http://pbs.twimg.com/media/C9iuHemXgAEJ35Q.jpg",
-						"media_url_https": "https://pbs.twimg.com/media/C9iuHemXgAEJ35Q.jpg",
-						"url": "https://t.co/otz2H4axZr",
-						"display_url": "pic.twitter.com/otz2H4axZr",
-						"expanded_url": "https://twitter.com/business/status/853623575328301056/photo/1",
-						"type": "photo",
-						"sizes": {
-							"thumb": {
-								"w": 150,
-								"h": 150,
-								"resize": "crop"
-							},
-							"medium": {
-								"w": 600,
-								"h": 825,
-								"resize": "fit"
-							},
-							"small": {
-								"w": 495,
-								"h": 680,
-								"resize": "fit"
-							},
-							"large": {
-								"w": 600,
-								"h": 825,
-								"resize": "fit"
-							}
-						}
-					}
-				]
-			},
-			"extended_entities": {
-				"media": [
-					{
-						"id": 853623572883013600,
-						"id_str": "853623572883013633",
-						"indices": [
-							87,
-							110
-						],
-						"media_url": "http://pbs.twimg.com/media/C9iuHemXgAEJ35Q.jpg",
-						"media_url_https": "https://pbs.twimg.com/media/C9iuHemXgAEJ35Q.jpg",
-						"url": "https://t.co/otz2H4axZr",
-						"display_url": "pic.twitter.com/otz2H4axZr",
-						"expanded_url": "https://twitter.com/business/status/853623575328301056/photo/1",
-						"type": "photo",
-						"sizes": {
-							"thumb": {
-								"w": 150,
-								"h": 150,
-								"resize": "crop"
-							},
-							"medium": {
-								"w": 600,
-								"h": 825,
-								"resize": "fit"
-							},
-							"small": {
-								"w": 495,
-								"h": 680,
-								"resize": "fit"
-							},
-							"large": {
-								"w": 600,
-								"h": 825,
-								"resize": "fit"
-							}
-						}
-					}
-				]
-			},
-			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
-			"in_reply_to_status_id": null,
-			"in_reply_to_status_id_str": null,
-			"in_reply_to_user_id": null,
-			"in_reply_to_user_id_str": null,
-			"in_reply_to_screen_name": null,
-			"user": {
-				"id": 34713362,
-				"id_str": "34713362",
-				"name": "Bloomberg",
-				"screen_name": "business",
-				"location": "New York and the World",
-				"description": "The first word in business news.",
-				"url": "http://t.co/YFISwy1upH",
-				"entities": {
-					"url": {
-						"urls": [
-							{
-								"url": "http://t.co/YFISwy1upH",
-								"expanded_url": "http://www.bloomberg.com",
-								"display_url": "bloomberg.com",
-								"indices": [
-									0,
-									22
-								]
-							}
-						]
-					},
-					"description": {
-						"urls": []
-					}
-				},
-				"protected": false,
-				"followers_count": 6780114,
-				"friends_count": 1293,
-				"listed_count": 58255,
-				"created_at": "Thu Apr 23 20:05:17 +0000 2009",
-				"favourites_count": 960,
-				"utc_offset": null,
-				"time_zone": null,
-				"geo_enabled": false,
-				"verified": true,
-				"statuses_count": 629659,
-				"lang": null,
-				"contributors_enabled": false,
-				"is_translator": false,
-				"is_translation_enabled": true,
-				"profile_background_color": "101112",
-				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
-				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
-				"profile_background_tile": true,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/991818020233404416/alrBF_dr_normal.jpg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/991818020233404416/alrBF_dr_normal.jpg",
-				"profile_banner_url": "https://pbs.twimg.com/profile_banners/34713362/1503349279",
-				"profile_link_color": "3B94D9",
-				"profile_sidebar_border_color": "DADADA",
-				"profile_sidebar_fill_color": "EEEEEE",
-				"profile_text_color": "666666",
-				"profile_use_background_image": true,
-				"has_extended_profile": false,
-				"default_profile": false,
-				"default_profile_image": false,
-				"following": false,
-				"follow_request_sent": false,
-				"notifications": false,
-				"translator_type": "none"
-			},
-			"geo": null,
-			"coordinates": null,
-			"place": null,
-			"contributors": null,
-			"is_quote_status": false,
-			"retweet_count": 105,
-			"favorite_count": 168,
-			"favorited": false,
-			"retweeted": false,
-			"possibly_sensitive": false,
-			"lang": "en"
-		},
-		"retweet_count": 0,
-		"favorite_count": 0,
-		"favorited": false,
-		"retweeted": false,
-		"possibly_sensitive": false,
-		"lang": "fr",
-		"text": "No comment https://t.co/F4fkGOXH6o"
-	},
-	{
-		"created_at": "Sun Apr 16 11:23:28 +0000 2017",
-		"id": 853569528940249100,
-		"id_str": "853569528940249088",
-		"full_text": "Australian press and politician will say anything to demonise refugees and asylum seekers. Total disregard for reality, logic &amp; truth.",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			138
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": []
-		},
-		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 174124175,
-			"id_str": "174124175",
-			"name": "Tim Klapdor",
-			"screen_name": "timklapdor",
-			"location": "Adelaide, South Australia",
-			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "https://t.co/uC0c3me6KE",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/uC0c3me6KE",
-							"expanded_url": "http://timklapdor.com",
-							"display_url": "timklapdor.com",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 832,
-			"friends_count": 147,
-			"listed_count": 91,
-			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8564,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 14591,
-			"lang": null,
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "C0DEED",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
-			"profile_link_color": "5FA832",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "DDEEF6",
-			"profile_text_color": "333333",
-			"profile_use_background_image": true,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 4,
-		"favorited": false,
-		"retweeted": false,
-		"lang": "en",
-		"text": "Australian press and politician will say anything to demonise refugees and asylum seekers. Total disregard for reality, logic &amp; truth."
-	},
-	{
-		"created_at": "Sun Apr 16 11:21:23 +0000 2017",
-		"id": 853569002349645800,
-		"id_str": "853569002349645826",
-		"full_text": "“Between”?? One side are refugees held in a prison camp. The other is an Army - guess which one is doing the firing. https://t.co/inXG0bSg1T",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			116
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": [
-				{
-					"url": "https://t.co/inXG0bSg1T",
-					"expanded_url": "https://twitter.com/TheTodayShow/status/852998753552277504",
-					"display_url": "twitter.com/TheTodayShow/s…",
-					"indices": [
-						117,
-						140
-					]
-				}
-			]
-		},
-		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 174124175,
-			"id_str": "174124175",
-			"name": "Tim Klapdor",
-			"screen_name": "timklapdor",
-			"location": "Adelaide, South Australia",
-			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "https://t.co/uC0c3me6KE",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/uC0c3me6KE",
-							"expanded_url": "http://timklapdor.com",
-							"display_url": "timklapdor.com",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 832,
-			"friends_count": 147,
-			"listed_count": 91,
-			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8564,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 14591,
-			"lang": null,
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "C0DEED",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
-			"profile_link_color": "5FA832",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "DDEEF6",
-			"profile_text_color": "333333",
-			"profile_use_background_image": true,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": true,
-		"retweet_count": 0,
-		"favorite_count": 1,
-		"favorited": false,
-		"retweeted": false,
-		"possibly_sensitive": false,
-		"lang": "en",
-		"text": "“Between”?? One side are refugees held in a prison camp. The other is an Army - guess which one is doing the firing. https://t.co/inXG0bSg1T"
-	},
-	{
-		"created_at": "Wed Apr 12 15:13:23 +0000 2017",
-		"id": 852154762904653800,
-		"id_str": "852177835502387200",
-		"full_text": "Trump remembers details of cake he was eating while launching missiles, but not which country he was attacking. https://t.co/TYfqXXDeCZ",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			135
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": [],
-			"media": [
-				{
-					"id": 852135470666403800,
-					"id_str": "852135470666403841",
-					"indices": [
-						112,
-						135
-					],
-					"media_url": "http://pbs.twimg.com/amplify_video_thumb/852135470666403841/img/D0QCYFT2CWJGwpQi.jpg",
-					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/852135470666403841/img/D0QCYFT2CWJGwpQi.jpg",
-					"url": "https://t.co/TYfqXXDeCZ",
-					"display_url": "pic.twitter.com/TYfqXXDeCZ",
-					"expanded_url": "https://twitter.com/FoxBusiness/status/852135930831843329/video/1",
-					"type": "photo",
-					"sizes": {
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"medium": {
-							"w": 1200,
-							"h": 675,
-							"resize": "fit"
-						},
-						"small": {
-							"w": 680,
-							"h": 383,
-							"resize": "fit"
-						},
-						"large": {
-							"w": 1280,
-							"h": 720,
-							"resize": "fit"
-						}
-					},
-					"source_status_id": 852135930831843300,
-					"source_status_id_str": "852135930831843329",
-					"source_user_id": 56413858,
-					"source_user_id_str": "56413858"
-				}
-			]
-		},
-		"extended_entities": {
-			"media": [
-				{
-					"id": 852135470666403800,
-					"id_str": "852135470666403841",
-					"indices": [
-						112,
-						135
-					],
-					"media_url": "http://pbs.twimg.com/amplify_video_thumb/852135470666403841/img/D0QCYFT2CWJGwpQi.jpg",
-					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/852135470666403841/img/D0QCYFT2CWJGwpQi.jpg",
-					"url": "https://t.co/TYfqXXDeCZ",
-					"display_url": "pic.twitter.com/TYfqXXDeCZ",
-					"expanded_url": "https://twitter.com/FoxBusiness/status/852135930831843329/video/1",
-					"type": "video",
-					"sizes": {
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"medium": {
-							"w": 1200,
-							"h": 675,
-							"resize": "fit"
-						},
-						"small": {
-							"w": 680,
-							"h": 383,
-							"resize": "fit"
-						},
-						"large": {
-							"w": 1280,
-							"h": 720,
-							"resize": "fit"
-						}
-					},
-					"source_status_id": 852135930831843300,
-					"source_status_id_str": "852135930831843329",
-					"source_user_id": 56413858,
-					"source_user_id_str": "56413858",
-					"video_info": {
-						"aspect_ratio": [
-							16,
-							9
-						],
-						"duration_millis": 150317,
-						"variants": [
-							{
-								"bitrate": 2176000,
-								"content_type": "video/mp4",
-								"url": "https://video.twimg.com/amplify_video/852135470666403841/vid/1280x720/De5MwFPzC9fc3ppi.mp4"
-							},
-							{
-								"bitrate": 832000,
-								"content_type": "video/mp4",
-								"url": "https://video.twimg.com/amplify_video/852135470666403841/vid/640x360/UTcolY-S2ipo0EIp.mp4"
-							},
-							{
-								"bitrate": 320000,
-								"content_type": "video/mp4",
-								"url": "https://video.twimg.com/amplify_video/852135470666403841/vid/320x180/SRe0oKLDZfFPj0Tf.mp4"
-							},
-							{
-								"content_type": "application/x-mpegURL",
-								"url": "https://video.twimg.com/amplify_video/852135470666403841/pl/LWG5euVdBv3aHbGD.m3u8"
-							}
-						]
-					},
-					"additional_media_info": {
-						"title": "",
-						"description": "",
-						"embeddable": true,
-						"monetizable": false,
-						"source_user": {
-							"id": 56413858,
-							"id_str": "56413858",
-							"name": "FOX Business",
-							"screen_name": "FoxBusiness",
-							"location": "New York, NY",
-							"description": "The official Twitter page of FOX Business. Invested in You.",
-							"url": "http://t.co/bfM3iji7VB",
-							"entities": {
-								"url": {
-									"urls": [
-										{
-											"url": "http://t.co/bfM3iji7VB",
-											"expanded_url": "http://www.foxbusiness.com",
-											"display_url": "foxbusiness.com",
-											"indices": [
-												0,
-												22
-											]
-										}
-									]
-								},
-								"description": {
-									"urls": []
-								}
-							},
-							"protected": false,
-							"followers_count": 813787,
-							"friends_count": 396,
-							"listed_count": 7452,
-							"created_at": "Mon Jul 13 16:18:27 +0000 2009",
-							"favourites_count": 1,
-							"utc_offset": null,
-							"time_zone": null,
-							"geo_enabled": false,
-							"verified": true,
-							"statuses_count": 201943,
-							"lang": null,
-							"contributors_enabled": false,
-							"is_translator": false,
-							"is_translation_enabled": false,
-							"profile_background_color": "A87528",
-							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-							"profile_background_tile": false,
-							"profile_image_url": "http://pbs.twimg.com/profile_images/1313512351547744257/1aX8RyIa_normal.png",
-							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1313512351547744257/1aX8RyIa_normal.png",
-							"profile_banner_url": "https://pbs.twimg.com/profile_banners/56413858/1602000837",
-							"profile_link_color": "004E76",
-							"profile_sidebar_border_color": "FFFFFF",
-							"profile_sidebar_fill_color": "D9A050",
-							"profile_text_color": "000000",
-							"profile_use_background_image": true,
-							"has_extended_profile": false,
-							"default_profile": false,
-							"default_profile_image": false,
-							"following": false,
-							"follow_request_sent": false,
-							"notifications": false,
-							"translator_type": "none"
-						}
-					}
-				}
-			]
-		},
-		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 112526560,
-			"id_str": "112526560",
-			"name": "Kenneth P. Vogel",
-			"screen_name": "kenvogel",
-			"location": "",
-			"description": "@nytimes",
-			"url": null,
-			"entities": {
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 115505,
-			"friends_count": 1845,
-			"listed_count": 2459,
-			"created_at": "Mon Feb 08 20:39:32 +0000 2010",
-			"favourites_count": 2469,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": false,
-			"verified": true,
-			"statuses_count": 35840,
-			"lang": null,
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "C0DEED",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1272230664524517376/VU45TVoT_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1272230664524517376/VU45TVoT_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/112526560/1592161609",
-			"profile_link_color": "000000",
-			"profile_sidebar_border_color": "C0DEED",
-			"profile_sidebar_fill_color": "DDEEF6",
-			"profile_text_color": "333333",
-			"profile_use_background_image": true,
-			"has_extended_profile": false,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 24604,
-		"favorite_count": 32201,
-		"favorited": false,
-		"retweeted": false,
-		"possibly_sensitive": false,
-		"lang": "en",
-		"text": "Trump remembers details of cake he was eating while launching missiles, but not which country he was attacking. https://t.co/TYfqXXDeCZ"
-	},
-	{
-		"created_at": "Wed Apr 12 02:30:37 +0000 2017",
-		"id": 851985881032347600,
-		"id_str": "851985881032347648",
-		"full_text": "Learning about @pitchregional and #postyourpitch. Doing photos too :-) https://t.co/xU1mUj2JgA",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			70
-		],
-		"entities": {
-			"hashtags": [
-				{
-					"text": "postyourpitch",
-					"indices": [
-						34,
-						48
-					]
-				}
-			],
-			"symbols": [],
-			"user_mentions": [
-				{
-					"screen_name": "pitchregional",
-					"name": "Regional Pitchfest",
-					"id": 733502768283942900,
-					"id_str": "733502768283942913",
-					"indices": [
-						15,
-						29
-					]
-				}
-			],
-			"urls": [],
-			"media": [
-				{
-					"id": 851985869590286300,
-					"id_str": "851985869590286337",
-					"indices": [
-						71,
-						94
-					],
-					"media_url": "http://pbs.twimg.com/media/C9LcomaU0AERkcH.jpg",
-					"media_url_https": "https://pbs.twimg.com/media/C9LcomaU0AERkcH.jpg",
-					"url": "https://t.co/xU1mUj2JgA",
-					"display_url": "pic.twitter.com/xU1mUj2JgA",
-					"expanded_url": "https://twitter.com/timklapdor/status/851985881032347648/photo/1",
-					"type": "photo",
-					"sizes": {
-						"medium": {
-							"w": 1024,
-							"h": 768,
-							"resize": "fit"
-						},
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"small": {
-							"w": 680,
-							"h": 510,
-							"resize": "fit"
-						},
-						"large": {
-							"w": 1024,
-							"h": 768,
-							"resize": "fit"
-						}
-					}
-				}
-			]
-		},
-		"extended_entities": {
-			"media": [
-				{
-					"id": 851985869590286300,
-					"id_str": "851985869590286337",
-					"indices": [
-						71,
-						94
-					],
-					"media_url": "http://pbs.twimg.com/media/C9LcomaU0AERkcH.jpg",
-					"media_url_https": "https://pbs.twimg.com/media/C9LcomaU0AERkcH.jpg",
-					"url": "https://t.co/xU1mUj2JgA",
-					"display_url": "pic.twitter.com/xU1mUj2JgA",
-					"expanded_url": "https://twitter.com/timklapdor/status/851985881032347648/photo/1",
-					"type": "photo",
-					"sizes": {
-						"medium": {
-							"w": 1024,
-							"h": 768,
-							"resize": "fit"
-						},
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"small": {
-							"w": 680,
-							"h": 510,
-							"resize": "fit"
-						},
-						"large": {
-							"w": 1024,
-							"h": 768,
-							"resize": "fit"
-						}
-					}
-				}
-			]
-		},
-		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 174124175,
-			"id_str": "174124175",
-			"name": "Tim Klapdor",
-			"screen_name": "timklapdor",
-			"location": "Adelaide, South Australia",
-			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "https://t.co/uC0c3me6KE",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/uC0c3me6KE",
-							"expanded_url": "http://timklapdor.com",
-							"display_url": "timklapdor.com",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 832,
-			"friends_count": 147,
-			"listed_count": 91,
-			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8564,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 14591,
-			"lang": null,
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "C0DEED",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
-			"profile_link_color": "5FA832",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "DDEEF6",
-			"profile_text_color": "333333",
-			"profile_use_background_image": true,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 1,
-		"favorite_count": 3,
-		"favorited": false,
-		"retweeted": false,
-		"possibly_sensitive": false,
-		"lang": "en",
-		"text": "Learning about @pitchregional and #postyourpitch. Doing photos too :-) https://t.co/xU1mUj2JgA"
 	}
 ]
