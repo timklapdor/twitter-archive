@@ -1,6 +1,840 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Wed Dec 02 14:21:41 +0000 2020",
+		"id": 1334140687273521200,
+		"id_str": "1334140687273521152",
+		"full_text": "@acroom @brlamb My daughter is super keen to come. Whenever I mention the US she’s like “I want to go visit Oklahoma”. I do where the cap I bought a lot - might be subconscious marketing! https://t.co/tSe7IjZzjF",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			187
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "acroom",
+					"name": "Adam Croom",
+					"id": 19056987,
+					"id_str": "19056987",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "brlamb",
+					"name": "Brian Lamb",
+					"id": 745903,
+					"id_str": "745903",
+					"indices": [
+						8,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1334140671779766300,
+					"id_str": "1334140671779766273",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/EoPR31XVgAEE-6R.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoPR31XVgAEE-6R.jpg",
+					"url": "https://t.co/tSe7IjZzjF",
+					"display_url": "pic.twitter.com/tSe7IjZzjF",
+					"expanded_url": "https://twitter.com/timklapdor/status/1334140687273521152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1334140671779766300,
+					"id_str": "1334140671779766273",
+					"indices": [
+						188,
+						211
+					],
+					"media_url": "http://pbs.twimg.com/media/EoPR31XVgAEE-6R.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoPR31XVgAEE-6R.jpg",
+					"url": "https://t.co/tSe7IjZzjF",
+					"display_url": "pic.twitter.com/tSe7IjZzjF",
+					"expanded_url": "https://twitter.com/timklapdor/status/1334140687273521152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1334138337976856600,
+		"in_reply_to_status_id_str": "1334138337976856576",
+		"in_reply_to_user_id": 19056987,
+		"in_reply_to_user_id_str": "19056987",
+		"in_reply_to_screen_name": "acroom",
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Adelaide, South Australia",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
+			"url": "https://t.co/uC0c3me6KE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uC0c3me6KE",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 833,
+			"friends_count": 148,
+			"listed_count": 91,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 8629,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14620,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7b46944933d8137e",
+			"url": "https://api.twitter.com/1.1/geo/id/7b46944933d8137e.json",
+			"place_type": "neighborhood",
+			"name": "Norwood",
+			"full_name": "Norwood, Adelaide",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							138.62264616,
+							-34.92790299
+						],
+						[
+							138.64147308,
+							-34.92790299
+						],
+						[
+							138.64147308,
+							-34.91480097
+						],
+						[
+							138.62264616,
+							-34.91480097
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@acroom @brlamb My daughter is super keen to come. Whenever I mention the US she’s like “I want to go visit Oklahoma”. I do where the cap I bought a lot - might be subconscious marketing! https://t.co/tSe7IjZzjF"
+	},
+	{
+		"created_at": "Wed Dec 02 08:35:59 +0000 2020",
+		"id": 1334053686939533300,
+		"id_str": "1334053686939533314",
+		"full_text": "@brlamb Thanks for giving so much to the community Brian. You embody the attitude and ethic that many aspire to. Glad you’re seeing the rewards, not just for the work but the trouble along the way",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			196
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "brlamb",
+					"name": "Brian Lamb",
+					"id": 745903,
+					"id_str": "745903",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1333959872170246100,
+		"in_reply_to_status_id_str": "1333959872170246144",
+		"in_reply_to_user_id": 745903,
+		"in_reply_to_user_id_str": "745903",
+		"in_reply_to_screen_name": "brlamb",
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Adelaide, South Australia",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
+			"url": "https://t.co/uC0c3me6KE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uC0c3me6KE",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 833,
+			"friends_count": 148,
+			"listed_count": 91,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 8629,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14620,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7b46944933d8137e",
+			"url": "https://api.twitter.com/1.1/geo/id/7b46944933d8137e.json",
+			"place_type": "neighborhood",
+			"name": "Norwood",
+			"full_name": "Norwood, Adelaide",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							138.62264616,
+							-34.92790299
+						],
+						[
+							138.64147308,
+							-34.92790299
+						],
+						[
+							138.64147308,
+							-34.91480097
+						],
+						[
+							138.62264616,
+							-34.91480097
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@brlamb Thanks for giving so much to the community Brian. You embody the attitude and ethic that many aspire to. Glad you’re seeing the rewards, not just for the work but the trouble along the way"
+	},
+	{
+		"created_at": "Wed Dec 02 08:05:16 +0000 2020",
+		"id": 1334045958204637200,
+		"id_str": "1334045958204637187",
+		"full_text": "@brlamb @acroom That was a great day!",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			37
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "brlamb",
+					"name": "Brian Lamb",
+					"id": 745903,
+					"id_str": "745903",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "acroom",
+					"name": "Adam Croom",
+					"id": 19056987,
+					"id_str": "19056987",
+					"indices": [
+						8,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1334013125276799000,
+		"in_reply_to_status_id_str": "1334013125276798977",
+		"in_reply_to_user_id": 745903,
+		"in_reply_to_user_id_str": "745903",
+		"in_reply_to_screen_name": "brlamb",
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Adelaide, South Australia",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
+			"url": "https://t.co/uC0c3me6KE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uC0c3me6KE",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 833,
+			"friends_count": 148,
+			"listed_count": 91,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 8629,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14620,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7b46944933d8137e",
+			"url": "https://api.twitter.com/1.1/geo/id/7b46944933d8137e.json",
+			"place_type": "neighborhood",
+			"name": "Norwood",
+			"full_name": "Norwood, Adelaide",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							138.62264616,
+							-34.92790299
+						],
+						[
+							138.64147308,
+							-34.92790299
+						],
+						[
+							138.64147308,
+							-34.91480097
+						],
+						[
+							138.62264616,
+							-34.91480097
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@brlamb @acroom That was a great day!"
+	},
+	{
+		"created_at": "Wed Dec 02 08:00:07 +0000 2020",
+		"id": 1334001044511023000,
+		"id_str": "1334044663427153921",
+		"full_text": "At the end of the day, we are all Americans. Sure, we have differences on policy. One side wants to give everyone healthcare and good wages. The other wants to create a white Christian ethnostate with concentration camps and a never-ending plague. But we are not enemies. #Unity",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Unity",
+					"indices": [
+						272,
+						278
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 51654515,
+			"id_str": "51654515",
+			"name": "Zack Bornstein",
+			"screen_name": "ZackBornstein",
+			"location": "Los Angeles, CA",
+			"description": "Emmy-losing Writer/Director (@nbcSNL, @JimmyKimmelLive, @Netflix, @CBS, @ComedyCentral, @NewYorker). Follow me on IG: ZackBornstein",
+			"url": "https://t.co/wANVgrtAq8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wANVgrtAq8",
+							"expanded_url": "http://bornsteinzack.com",
+							"display_url": "bornsteinzack.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 122242,
+			"friends_count": 3986,
+			"listed_count": 766,
+			"created_at": "Sun Jun 28 04:55:36 +0000 2009",
+			"favourites_count": 169196,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 9972,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1323726149399138305/8rYrumSg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1323726149399138305/8rYrumSg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/51654515/1531623602",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 955,
+		"favorite_count": 4958,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "At the end of the day, we are all Americans. Sure, we have differences on policy. One side wants to give everyone healthcare and good wages. The other wants to create a white Christian ethnostate with concentration camps and a never-ending plague. But we are not enemies. #Unity"
+	},
+	{
+		"created_at": "Wed Dec 02 03:24:40 +0000 2020",
+		"id": 1333929486748774400,
+		"id_str": "1333975343334531077",
+		"full_text": "Run this through a gender neutral lens and it’s not crank, it’s fair and incisive observation. \n\n✅ Digitization is not transformation. \n✅ APIs are non-negotiable. \n✅ Tech monopolies are bad. \n✅ Buzzwords don’t make tech better. \n✅ Inclusion is neither optional nor passive. https://t.co/1GJZcxBTEA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1GJZcxBTEA",
+					"expanded_url": "https://twitter.com/rclemmons/status/1333909118642507778",
+					"display_url": "twitter.com/rclemmons/stat…",
+					"indices": [
+						274,
+						297
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 62005464,
+			"id_str": "62005464",
+			"name": "Danielle Yardy",
+			"screen_name": "danielleyardy",
+			"location": "Chicago, IL",
+			"description": "Brit in the US. Data Strategy Leader. PhDone (Literature / Cultural History), now researching how we can make #HigherEd smarter @EAB!",
+			"url": "https://t.co/SpXqBkhICg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SpXqBkhICg",
+							"expanded_url": "https://www.danielleyardy.com",
+							"display_url": "danielleyardy.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 542,
+			"friends_count": 732,
+			"listed_count": 13,
+			"created_at": "Sat Aug 01 10:01:07 +0000 2009",
+			"favourites_count": 6240,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3873,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1306054020965036033/OcKAiBja_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1306054020965036033/OcKAiBja_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/62005464/1481394920",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1333909118642507800,
+		"quoted_status_id_str": "1333909118642507778",
+		"quoted_status_permalink": {
+			"url": "https://t.co/1GJZcxBTEA",
+			"expanded": "https://twitter.com/rclemmons/status/1333909118642507778",
+			"display": "twitter.com/rclemmons/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Dec 01 23:01:31 +0000 2020",
+			"id": 1333909118642507800,
+			"id_str": "1333909118642507778",
+			"full_text": "I'm feeling super cranky today. Here are just a few of the things I'm cranky about....  1/ (a #thread)",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				102
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "thread",
+						"indices": [
+							94,
+							101
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 31460878,
+				"id_str": "31460878",
+				"name": "Raechelle Clemmons",
+				"screen_name": "rclemmons",
+				"location": "Denton, TX",
+				"description": "VP @TambelliniGroup, #DEI advocate, recovering #CIO, troublemaker. Passionate about diversity & inclusion + the transformative power of technology. she/her/hers",
+				"url": "https://t.co/Epu6RMXqLx",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Epu6RMXqLx",
+								"expanded_url": "http://rclemmons.wordpress.com",
+								"display_url": "rclemmons.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5564,
+				"friends_count": 947,
+				"listed_count": 398,
+				"created_at": "Wed Apr 15 17:24:09 +0000 2009",
+				"favourites_count": 8567,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 11424,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "DBE9ED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1049718431858094080/AddJ7Zf-_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1049718431858094080/AddJ7Zf-_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/31460878/1402931070",
+				"profile_link_color": "CC3366",
+				"profile_sidebar_border_color": "DBE9ED",
+				"profile_sidebar_fill_color": "E6F6F9",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 15,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Run this through a gender neutral lens and it’s not crank, it’s fair and incisive observation. \n\n✅ Digitization is not transformation. \n✅ APIs are non-negotiable. \n✅ Tech monopolies are bad. \n✅ Buzzwords don’t make tech better. \n✅ Inclusion is neither optional nor passive. https://t.co/1GJZcxBTEA"
+	},
+	{
 		"created_at": "Tue Dec 01 22:38:07 +0000 2020",
 		"id": 1333903229025800200,
 		"id_str": "1333903229025800193",
@@ -63,12 +897,12 @@ Grailbird.data.tweets_2020_12 =
 			"friends_count": 148,
 			"listed_count": 91,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8622,
+			"favourites_count": 8629,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14615,
+			"statuses_count": 14620,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -250,16 +1084,16 @@ Grailbird.data.tweets_2020_12 =
 					}
 				},
 				"protected": false,
-				"followers_count": 2979,
-				"friends_count": 1989,
-				"listed_count": 5,
+				"followers_count": 3414,
+				"friends_count": 1990,
+				"listed_count": 9,
 				"created_at": "Mon Apr 27 10:47:27 +0000 2020",
-				"favourites_count": 48955,
+				"favourites_count": 49252,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": false,
-				"statuses_count": 19143,
+				"statuses_count": 19372,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -268,8 +1102,8 @@ Grailbird.data.tweets_2020_12 =
 				"profile_background_image_url": null,
 				"profile_background_image_url_https": null,
 				"profile_background_tile": false,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/1333589260860071936/P5cwLN-f_normal.jpg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1333589260860071936/P5cwLN-f_normal.jpg",
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1334227215236608000/OxIlN9St_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1334227215236608000/OxIlN9St_normal.jpg",
 				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1254723623794819073/1606831729",
 				"profile_link_color": "1DA1F2",
 				"profile_sidebar_border_color": "C0DEED",
@@ -289,15 +1123,15 @@ Grailbird.data.tweets_2020_12 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 6466,
-			"favorite_count": 22788,
+			"retweet_count": 8996,
+			"favorite_count": 32515,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
 			"lang": "en"
 		},
 		"retweet_count": 0,
-		"favorite_count": 0,
+		"favorite_count": 2,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
@@ -373,7 +1207,7 @@ Grailbird.data.tweets_2020_12 =
 				}
 			},
 			"protected": false,
-			"followers_count": 2198,
+			"followers_count": 2197,
 			"friends_count": 200,
 			"listed_count": 102,
 			"created_at": "Tue Feb 24 05:20:49 +0000 2009",
@@ -382,7 +1216,7 @@ Grailbird.data.tweets_2020_12 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 2328,
+			"statuses_count": 2334,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -412,8 +1246,8 @@ Grailbird.data.tweets_2020_12 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 10,
-		"favorite_count": 12,
+		"retweet_count": 12,
+		"favorite_count": 19,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -483,12 +1317,12 @@ Grailbird.data.tweets_2020_12 =
 			"friends_count": 148,
 			"listed_count": 91,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8622,
+			"favourites_count": 8629,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14615,
+			"statuses_count": 14620,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -683,16 +1517,16 @@ Grailbird.data.tweets_2020_12 =
 					}
 				},
 				"protected": false,
-				"followers_count": 32608,
-				"friends_count": 4197,
-				"listed_count": 882,
+				"followers_count": 32615,
+				"friends_count": 4200,
+				"listed_count": 883,
 				"created_at": "Tue Jan 27 18:21:34 +0000 2009",
-				"favourites_count": 63934,
+				"favourites_count": 64003,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": true,
-				"statuses_count": 13275,
+				"statuses_count": 13279,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -722,8 +1556,8 @@ Grailbird.data.tweets_2020_12 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 391,
-			"favorite_count": 2141,
+			"retweet_count": 393,
+			"favorite_count": 2150,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
@@ -874,7 +1708,7 @@ Grailbird.data.tweets_2020_12 =
 				}
 			},
 			"protected": false,
-			"followers_count": 75276,
+			"followers_count": 75295,
 			"friends_count": 1585,
 			"listed_count": 216,
 			"created_at": "Mon Oct 27 02:08:57 +0000 2014",
@@ -913,8 +1747,8 @@ Grailbird.data.tweets_2020_12 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 214,
-		"favorite_count": 1208,
+		"retweet_count": 218,
+		"favorite_count": 1235,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
