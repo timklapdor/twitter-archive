@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Thu Dec 03 06:59:48 +0000 2020",
+		"id": 1334334703529156600,
+		"id_str": "1334391870382776321",
+		"full_text": "“There’s Something I Love About Byron” Says Local Yuppie Who Is Unaware That ‘Something’ Is White People: https://t.co/KmqxjdfMVr https://t.co/qDODaMSYrF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KmqxjdfMVr",
+					"expanded_url": "http://www.betootaadvocate.com/headlines/theres-something-i-love-about-byron-says-yuppie-unaware-that-something-is-white-people",
+					"display_url": "betootaadvocate.com/headlines/ther…",
+					"indices": [
+						106,
+						129
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1334334625305378800,
+					"id_str": "1334334625305378824",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/EoSCRajUwAg5Eng.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoSCRajUwAg5Eng.jpg",
+					"url": "https://t.co/qDODaMSYrF",
+					"display_url": "pic.twitter.com/qDODaMSYrF",
+					"expanded_url": "https://twitter.com/BetootaAdvocate/status/1334334703529156608/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 768,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 425,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 768,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1334334625305378800,
+					"id_str": "1334334625305378824",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/EoSCRajUwAg5Eng.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoSCRajUwAg5Eng.jpg",
+					"url": "https://t.co/qDODaMSYrF",
+					"display_url": "pic.twitter.com/qDODaMSYrF",
+					"expanded_url": "https://twitter.com/BetootaAdvocate/status/1334334703529156608/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 768,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 425,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 768,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2878895652,
+			"id_str": "2878895652",
+			"name": "The Betoota Advocate",
+			"screen_name": "BetootaAdvocate",
+			"location": "Betoota, QLD",
+			"description": "Australia's oldest newspaper.",
+			"url": "https://t.co/7SEIeoTNuY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7SEIeoTNuY",
+							"expanded_url": "http://betootaadvocate.com",
+							"display_url": "betootaadvocate.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 75312,
+			"friends_count": 1585,
+			"listed_count": 216,
+			"created_at": "Mon Oct 27 02:08:57 +0000 2014",
+			"favourites_count": 780,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3052,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1157072808167399425/R93JPg1U_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1157072808167399425/R93JPg1U_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2878895652/1499368530",
+			"profile_link_color": "FF0202",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 204,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“There’s Something I Love About Byron” Says Local Yuppie Who Is Unaware That ‘Something’ Is White People: https://t.co/KmqxjdfMVr https://t.co/qDODaMSYrF"
+	},
+	{
 		"created_at": "Wed Dec 02 14:21:41 +0000 2020",
 		"id": 1334140687273521200,
 		"id_str": "1334140687273521152",
@@ -152,7 +336,7 @@ Grailbird.data.tweets_2020_12 =
 			"friends_count": 148,
 			"listed_count": 91,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8629,
+			"favourites_count": 8636,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
@@ -292,7 +476,7 @@ Grailbird.data.tweets_2020_12 =
 			"friends_count": 148,
 			"listed_count": 91,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8629,
+			"favourites_count": 8636,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
@@ -441,7 +625,7 @@ Grailbird.data.tweets_2020_12 =
 			"friends_count": 148,
 			"listed_count": 91,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8629,
+			"favourites_count": 8636,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
@@ -573,16 +757,16 @@ Grailbird.data.tweets_2020_12 =
 				}
 			},
 			"protected": false,
-			"followers_count": 122242,
-			"friends_count": 3986,
+			"followers_count": 122310,
+			"friends_count": 3988,
 			"listed_count": 766,
 			"created_at": "Sun Jun 28 04:55:36 +0000 2009",
-			"favourites_count": 169196,
+			"favourites_count": 169241,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 9972,
+			"statuses_count": 9973,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -612,8 +796,8 @@ Grailbird.data.tweets_2020_12 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 955,
-		"favorite_count": 4958,
+		"retweet_count": 1079,
+		"favorite_count": 5501,
 		"favorited": false,
 		"retweeted": true,
 		"lang": "en",
@@ -682,7 +866,7 @@ Grailbird.data.tweets_2020_12 =
 			"friends_count": 732,
 			"listed_count": 13,
 			"created_at": "Sat Aug 01 10:01:07 +0000 2009",
-			"favourites_count": 6240,
+			"favourites_count": 6244,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
@@ -781,16 +965,16 @@ Grailbird.data.tweets_2020_12 =
 					}
 				},
 				"protected": false,
-				"followers_count": 5564,
+				"followers_count": 5563,
 				"friends_count": 947,
 				"listed_count": 398,
 				"created_at": "Wed Apr 15 17:24:09 +0000 2009",
-				"favourites_count": 8567,
+				"favourites_count": 8634,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": false,
-				"statuses_count": 11424,
+				"statuses_count": 11458,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -897,7 +1081,7 @@ Grailbird.data.tweets_2020_12 =
 			"friends_count": 148,
 			"listed_count": 91,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8629,
+			"favourites_count": 8636,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
@@ -1084,16 +1268,16 @@ Grailbird.data.tweets_2020_12 =
 					}
 				},
 				"protected": false,
-				"followers_count": 3414,
-				"friends_count": 1990,
-				"listed_count": 9,
+				"followers_count": 3499,
+				"friends_count": 1996,
+				"listed_count": 6,
 				"created_at": "Mon Apr 27 10:47:27 +0000 2020",
-				"favourites_count": 49252,
+				"favourites_count": 49664,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": false,
-				"statuses_count": 19372,
+				"statuses_count": 19656,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -1123,8 +1307,8 @@ Grailbird.data.tweets_2020_12 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 8996,
-			"favorite_count": 32515,
+			"retweet_count": 9329,
+			"favorite_count": 33826,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
@@ -1207,7 +1391,7 @@ Grailbird.data.tweets_2020_12 =
 				}
 			},
 			"protected": false,
-			"followers_count": 2197,
+			"followers_count": 2198,
 			"friends_count": 200,
 			"listed_count": 102,
 			"created_at": "Tue Feb 24 05:20:49 +0000 2009",
@@ -1216,7 +1400,7 @@ Grailbird.data.tweets_2020_12 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 2334,
+			"statuses_count": 2340,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1317,7 +1501,7 @@ Grailbird.data.tweets_2020_12 =
 			"friends_count": 148,
 			"listed_count": 91,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8629,
+			"favourites_count": 8636,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
@@ -1517,16 +1701,16 @@ Grailbird.data.tweets_2020_12 =
 					}
 				},
 				"protected": false,
-				"followers_count": 32615,
-				"friends_count": 4200,
+				"followers_count": 32616,
+				"friends_count": 4201,
 				"listed_count": 883,
 				"created_at": "Tue Jan 27 18:21:34 +0000 2009",
-				"favourites_count": 64003,
+				"favourites_count": 64017,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": true,
-				"statuses_count": 13279,
+				"statuses_count": 13280,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -1556,7 +1740,7 @@ Grailbird.data.tweets_2020_12 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 393,
+			"retweet_count": 392,
 			"favorite_count": 2150,
 			"favorited": false,
 			"retweeted": false,
@@ -1708,7 +1892,7 @@ Grailbird.data.tweets_2020_12 =
 				}
 			},
 			"protected": false,
-			"followers_count": 75295,
+			"followers_count": 75312,
 			"friends_count": 1585,
 			"listed_count": 216,
 			"created_at": "Mon Oct 27 02:08:57 +0000 2014",
@@ -1717,7 +1901,7 @@ Grailbird.data.tweets_2020_12 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 3051,
+			"statuses_count": 3052,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1748,7 +1932,7 @@ Grailbird.data.tweets_2020_12 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 218,
-		"favorite_count": 1235,
+		"favorite_count": 1239,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
