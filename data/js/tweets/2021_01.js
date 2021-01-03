@@ -1,6 +1,433 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Sun Jan 03 00:00:56 +0000 2021",
+		"id": 1345520483115024400,
+		"id_str": "1345520483115024384",
+		"full_text": "@surely_you_jest @lewis_math There’s usually two in operation at one time. I think seediness maybe just ubiquitous for a regional town night club, not enough clientele for a fancy one :)",
+		"truncated": false,
+		"display_text_range": [
+			29,
+			186
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "surely_you_jest",
+					"name": "Travis Cox",
+					"id": 58503196,
+					"id_str": "58503196",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "lewis_math",
+					"name": "Lewis Mitchell",
+					"id": 2228815292,
+					"id_str": "2228815292",
+					"indices": [
+						17,
+						28
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1345519973670637600,
+		"in_reply_to_status_id_str": "1345519973670637571",
+		"in_reply_to_user_id": 58503196,
+		"in_reply_to_user_id_str": "58503196",
+		"in_reply_to_screen_name": "surely_you_jest",
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Adelaide, South Australia",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
+			"url": "https://t.co/uC0c3me6KE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uC0c3me6KE",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 827,
+			"friends_count": 149,
+			"listed_count": 91,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 8692,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14677,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "66f4f7cb873b118d",
+			"url": "https://api.twitter.com/1.1/geo/id/66f4f7cb873b118d.json",
+			"place_type": "neighborhood",
+			"name": "Victor Harbor",
+			"full_name": "Victor Harbor, Victor Harbor - Goolwa",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							138.59050212,
+							-35.56880703
+						],
+						[
+							138.638304,
+							-35.56880703
+						],
+						[
+							138.638304,
+							-35.52534504
+						],
+						[
+							138.59050212,
+							-35.52534504
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@surely_you_jest @lewis_math There’s usually two in operation at one time. I think seediness maybe just ubiquitous for a regional town night club, not enough clientele for a fancy one :)"
+	},
+	{
+		"created_at": "Sat Jan 02 23:07:39 +0000 2021",
+		"id": 1345507075653136400,
+		"id_str": "1345507075653136385",
+		"full_text": "@lewis_math He played in Wagga Wagga at the seediest nightclub in town.",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			71
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lewis_math",
+					"name": "Lewis Mitchell",
+					"id": 2228815292,
+					"id_str": "2228815292",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1345486445570531300,
+		"in_reply_to_status_id_str": "1345486445570531328",
+		"in_reply_to_user_id": 2228815292,
+		"in_reply_to_user_id_str": "2228815292",
+		"in_reply_to_screen_name": "lewis_math",
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Adelaide, South Australia",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
+			"url": "https://t.co/uC0c3me6KE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uC0c3me6KE",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 827,
+			"friends_count": 149,
+			"listed_count": 91,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 8692,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14677,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "66f4f7cb873b118d",
+			"url": "https://api.twitter.com/1.1/geo/id/66f4f7cb873b118d.json",
+			"place_type": "neighborhood",
+			"name": "Victor Harbor",
+			"full_name": "Victor Harbor, Victor Harbor - Goolwa",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							138.59050212,
+							-35.56880703
+						],
+						[
+							138.638304,
+							-35.56880703
+						],
+						[
+							138.638304,
+							-35.52534504
+						],
+						[
+							138.59050212,
+							-35.52534504
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@lewis_math He played in Wagga Wagga at the seediest nightclub in town."
+	},
+	{
+		"created_at": "Sat Jan 02 04:28:18 +0000 2021",
+		"id": 1345225382513971200,
+		"id_str": "1345225382513971200",
+		"full_text": "@jtango18 Apparently he can do a mean curry :)",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jtango18",
+					"name": "JT",
+					"id": 358536192,
+					"id_str": "358536192",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1345209420532256800,
+		"in_reply_to_status_id_str": "1345209420532256771",
+		"in_reply_to_user_id": 358536192,
+		"in_reply_to_user_id_str": "358536192",
+		"in_reply_to_screen_name": "jtango18",
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Adelaide, South Australia",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
+			"url": "https://t.co/uC0c3me6KE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uC0c3me6KE",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 827,
+			"friends_count": 149,
+			"listed_count": 91,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 8692,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14677,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "66f4f7cb873b118d",
+			"url": "https://api.twitter.com/1.1/geo/id/66f4f7cb873b118d.json",
+			"place_type": "neighborhood",
+			"name": "Victor Harbor",
+			"full_name": "Victor Harbor, Victor Harbor - Goolwa",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							138.59050212,
+							-35.56880703
+						],
+						[
+							138.638304,
+							-35.56880703
+						],
+						[
+							138.638304,
+							-35.52534504
+						],
+						[
+							138.59050212,
+							-35.52534504
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@jtango18 Apparently he can do a mean curry :)"
+	},
+	{
 		"created_at": "Fri Jan 01 22:44:15 +0000 2021",
 		"id": 1345003864567685000,
 		"id_str": "1345138798884098048",
@@ -46,16 +473,16 @@ Grailbird.data.tweets_2021_01 =
 				}
 			},
 			"protected": false,
-			"followers_count": 4827,
+			"followers_count": 4825,
 			"friends_count": 1288,
 			"listed_count": 137,
 			"created_at": "Mon Jun 06 15:25:56 +0000 2011",
-			"favourites_count": 12179,
+			"favourites_count": 12182,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 280244,
+			"statuses_count": 280361,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -240,16 +667,16 @@ Grailbird.data.tweets_2021_01 =
 					}
 				},
 				"protected": false,
-				"followers_count": 30993,
-				"friends_count": 1336,
-				"listed_count": 549,
+				"followers_count": 32977,
+				"friends_count": 1333,
+				"listed_count": 556,
 				"created_at": "Tue Jan 16 11:18:46 +0000 2007",
-				"favourites_count": 45236,
+				"favourites_count": 45279,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": true,
-				"statuses_count": 82442,
+				"statuses_count": 82464,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -279,14 +706,14 @@ Grailbird.data.tweets_2021_01 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 20078,
-			"favorite_count": 82373,
+			"retweet_count": 27298,
+			"favorite_count": 116876,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
 			"lang": "en"
 		},
-		"retweet_count": 13,
+		"retweet_count": 14,
 		"favorite_count": 16,
 		"favorited": false,
 		"retweeted": true,
@@ -357,12 +784,12 @@ Grailbird.data.tweets_2021_01 =
 			"friends_count": 149,
 			"listed_count": 91,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8687,
+			"favourites_count": 8692,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14674,
+			"statuses_count": 14677,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -489,16 +916,16 @@ Grailbird.data.tweets_2021_01 =
 					}
 				},
 				"protected": false,
-				"followers_count": 21997,
-				"friends_count": 11049,
-				"listed_count": 338,
+				"followers_count": 22021,
+				"friends_count": 11055,
+				"listed_count": 340,
 				"created_at": "Sat Jun 29 04:29:18 +0000 2013",
-				"favourites_count": 135431,
+				"favourites_count": 135497,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": true,
-				"statuses_count": 2158,
+				"statuses_count": 2216,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -528,8 +955,8 @@ Grailbird.data.tweets_2021_01 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 132,
-			"favorite_count": 346,
+			"retweet_count": 212,
+			"favorite_count": 612,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
@@ -607,12 +1034,12 @@ Grailbird.data.tweets_2021_01 =
 			"friends_count": 149,
 			"listed_count": 91,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8687,
+			"favourites_count": 8692,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14674,
+			"statuses_count": 14677,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -746,12 +1173,12 @@ Grailbird.data.tweets_2021_01 =
 			"friends_count": 149,
 			"listed_count": 91,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8687,
+			"favourites_count": 8692,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14674,
+			"statuses_count": 14677,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -952,12 +1379,12 @@ Grailbird.data.tweets_2021_01 =
 			"friends_count": 149,
 			"listed_count": 91,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8687,
+			"favourites_count": 8692,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14674,
+			"statuses_count": 14677,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1021,7 +1448,7 @@ Grailbird.data.tweets_2021_01 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 4,
+		"favorite_count": 5,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,

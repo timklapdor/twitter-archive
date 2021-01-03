@@ -72,12 +72,12 @@ Grailbird.data.tweets_2017_05 =
 			"friends_count": 149,
 			"listed_count": 91,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8687,
+			"favourites_count": 8692,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14674,
+			"statuses_count": 14677,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -178,12 +178,12 @@ Grailbird.data.tweets_2017_05 =
 			"friends_count": 149,
 			"listed_count": 91,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8687,
+			"favourites_count": 8692,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14674,
+			"statuses_count": 14677,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -284,12 +284,12 @@ Grailbird.data.tweets_2017_05 =
 			"friends_count": 149,
 			"listed_count": 91,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8687,
+			"favourites_count": 8692,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14674,
+			"statuses_count": 14677,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -390,12 +390,12 @@ Grailbird.data.tweets_2017_05 =
 			"friends_count": 149,
 			"listed_count": 91,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8687,
+			"favourites_count": 8692,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14674,
+			"statuses_count": 14677,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -496,12 +496,12 @@ Grailbird.data.tweets_2017_05 =
 			"friends_count": 149,
 			"listed_count": 91,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8687,
+			"favourites_count": 8692,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14674,
+			"statuses_count": 14677,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -602,12 +602,12 @@ Grailbird.data.tweets_2017_05 =
 			"friends_count": 149,
 			"listed_count": 91,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8687,
+			"favourites_count": 8692,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14674,
+			"statuses_count": 14677,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -708,12 +708,12 @@ Grailbird.data.tweets_2017_05 =
 			"friends_count": 149,
 			"listed_count": 91,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8687,
+			"favourites_count": 8692,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14674,
+			"statuses_count": 14677,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -749,323 +749,5 @@ Grailbird.data.tweets_2017_05 =
 		"retweeted": false,
 		"lang": "en",
 		"text": "@NBN_Australia If you needed to reschulde you should have contacted me on the day and discussed it with me."
-	},
-	{
-		"created_at": "Tue May 30 02:50:48 +0000 2017",
-		"id": 869385578340470800,
-		"id_str": "869385578340470786",
-		"full_text": "@NBN_Australia That’s nice, but I received no communications from either confirming or cancelling the original or for rescheduling the appointment",
-		"truncated": false,
-		"display_text_range": [
-			15,
-			146
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [
-				{
-					"screen_name": "NBN_Australia",
-					"name": "nbn™ Australia",
-					"id": 245249854,
-					"id_str": "245249854",
-					"indices": [
-						0,
-						14
-					]
-				}
-			],
-			"urls": []
-		},
-		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
-		"in_reply_to_status_id": 869384924482195500,
-		"in_reply_to_status_id_str": "869384924482195456",
-		"in_reply_to_user_id": 245249854,
-		"in_reply_to_user_id_str": "245249854",
-		"in_reply_to_screen_name": "NBN_Australia",
-		"user": {
-			"id": 174124175,
-			"id_str": "174124175",
-			"name": "Tim Klapdor",
-			"screen_name": "timklapdor",
-			"location": "Adelaide, South Australia",
-			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "https://t.co/uC0c3me6KE",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/uC0c3me6KE",
-							"expanded_url": "http://timklapdor.com",
-							"display_url": "timklapdor.com",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 827,
-			"friends_count": 149,
-			"listed_count": 91,
-			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8687,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 14674,
-			"lang": null,
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "C0DEED",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
-			"profile_link_color": "5FA832",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "DDEEF6",
-			"profile_text_color": "333333",
-			"profile_use_background_image": true,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 0,
-		"favorited": false,
-		"retweeted": false,
-		"lang": "en",
-		"text": "@NBN_Australia That’s nice, but I received no communications from either confirming or cancelling the original or for rescheduling the appointment"
-	},
-	{
-		"created_at": "Tue May 30 00:08:31 +0000 2017",
-		"id": 869344737592983600,
-		"id_str": "869344737592983552",
-		"full_text": "And @NBN_Australia if you’re not going to turn up for an appointment, call. If you reschedule an appointment, check MY availability.",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			132
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [
-				{
-					"screen_name": "NBN_Australia",
-					"name": "nbn™ Australia",
-					"id": 245249854,
-					"id_str": "245249854",
-					"indices": [
-						4,
-						18
-					]
-				}
-			],
-			"urls": []
-		},
-		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 174124175,
-			"id_str": "174124175",
-			"name": "Tim Klapdor",
-			"screen_name": "timklapdor",
-			"location": "Adelaide, South Australia",
-			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "https://t.co/uC0c3me6KE",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/uC0c3me6KE",
-							"expanded_url": "http://timklapdor.com",
-							"display_url": "timklapdor.com",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 827,
-			"friends_count": 149,
-			"listed_count": 91,
-			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8687,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 14674,
-			"lang": null,
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "C0DEED",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
-			"profile_link_color": "5FA832",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "DDEEF6",
-			"profile_text_color": "333333",
-			"profile_use_background_image": true,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 1,
-		"favorite_count": 0,
-		"favorited": false,
-		"retweeted": false,
-		"lang": "en",
-		"text": "And @NBN_Australia if you’re not going to turn up for an appointment, call. If you reschedule an appointment, check MY availability."
-	},
-	{
-		"created_at": "Tue May 30 00:06:30 +0000 2017",
-		"id": 869344227905257500,
-		"id_str": "869344227905257472",
-		"full_text": "If this is any indication of the service @Telstra provides I’ll be switching. Sick of absolutely abominable service.",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			116
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [
-				{
-					"screen_name": "Telstra",
-					"name": "Telstra",
-					"id": 61636429,
-					"id_str": "61636429",
-					"indices": [
-						41,
-						49
-					]
-				}
-			],
-			"urls": []
-		},
-		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 174124175,
-			"id_str": "174124175",
-			"name": "Tim Klapdor",
-			"screen_name": "timklapdor",
-			"location": "Adelaide, South Australia",
-			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "https://t.co/uC0c3me6KE",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/uC0c3me6KE",
-							"expanded_url": "http://timklapdor.com",
-							"display_url": "timklapdor.com",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 827,
-			"friends_count": 149,
-			"listed_count": 91,
-			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8687,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 14674,
-			"lang": null,
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "C0DEED",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
-			"profile_link_color": "5FA832",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "DDEEF6",
-			"profile_text_color": "333333",
-			"profile_use_background_image": true,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 0,
-		"favorited": false,
-		"retweeted": false,
-		"lang": "en",
-		"text": "If this is any indication of the service @Telstra provides I’ll be switching. Sick of absolutely abominable service."
 	}
 ]
