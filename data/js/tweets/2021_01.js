@@ -1,6 +1,516 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Tue Jan 05 03:42:48 +0000 2021",
+		"id": 1345045554540249000,
+		"id_str": "1346301094838689792",
+		"full_text": "What we learned in 2020? That oil is worthless in a society without consumption. That healthcare has to be public because heath is public. That 50% of jobs can be done from home while the other 50% deserve more than they’re being paid. That we live in a society, not an economy.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 834078524277456900,
+			"id_str": "834078524277456897",
+			"name": "mohamad safa",
+			"screen_name": "mhdksafa",
+			"location": "",
+			"description": "CEO @PVAenglish. Diplomat. Permanent Representative to the United Nations. https://t.co/a6x2i3AR5e",
+			"url": "https://t.co/p7u7N6NaEb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/p7u7N6NaEb",
+							"expanded_url": "http://www.facebook.com/mhdksafa",
+							"display_url": "facebook.com/mhdksafa",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/a6x2i3AR5e",
+							"expanded_url": "http://www.Instagram.com/mhdksafa",
+							"display_url": "Instagram.com/mhdksafa",
+							"indices": [
+								75,
+								98
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 125023,
+			"friends_count": 14,
+			"listed_count": 376,
+			"created_at": "Tue Feb 21 16:33:11 +0000 2017",
+			"favourites_count": 17616,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3806,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1334938776414654468/b099aKex_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1334938776414654468/b099aKex_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/834078524277456897/1609409096",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 50091,
+		"favorite_count": 172043,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "What we learned in 2020? That oil is worthless in a society without consumption. That healthcare has to be public because heath is public. That 50% of jobs can be done from home while the other 50% deserve more than they’re being paid. That we live in a society, not an economy."
+	},
+	{
+		"created_at": "Tue Jan 05 02:19:01 +0000 2021",
+		"id": 1346033633803571200,
+		"id_str": "1346280010550636545",
+		"full_text": "The annual Bad Sex in Fiction award was cancelled for 2020, as the organisers believe that the public has been \"subjected to too many bad things this year to justify exposing it to bad sex as well\".",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			198
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 22151193,
+			"id_str": "22151193",
+			"name": "Quite Interesting",
+			"screen_name": "qikipedia",
+			"location": "QI HQ",
+			"description": "A Quite Interesting Twitter feed from the team behind the BBC TV show QI. https://t.co/KajPX02jPd https://t.co/e7kKHcHU2N https://t.co/q3qVciWTD7",
+			"url": "http://t.co/DGnFYmJSSv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/DGnFYmJSSv",
+							"expanded_url": "http://www.qi.com",
+							"display_url": "qi.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/KajPX02jPd",
+							"expanded_url": "http://instagram.com/theqielves",
+							"display_url": "instagram.com/theqielves",
+							"indices": [
+								74,
+								97
+							]
+						},
+						{
+							"url": "https://t.co/e7kKHcHU2N",
+							"expanded_url": "http://facebook.com/OfficialQI/",
+							"display_url": "facebook.com/OfficialQI/",
+							"indices": [
+								98,
+								121
+							]
+						},
+						{
+							"url": "https://t.co/q3qVciWTD7",
+							"expanded_url": "http://youtube.com/user/TheQIElves",
+							"display_url": "youtube.com/user/TheQIElves",
+							"indices": [
+								122,
+								145
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1278638,
+			"friends_count": 1001,
+			"listed_count": 7868,
+			"created_at": "Fri Feb 27 15:36:24 +0000 2009",
+			"favourites_count": 2681,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 37436,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1314339927145021440/QyGw59gL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1314339927145021440/QyGw59gL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/22151193/1604576286",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 395,
+		"favorite_count": 3994,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "The annual Bad Sex in Fiction award was cancelled for 2020, as the organisers believe that the public has been \"subjected to too many bad things this year to justify exposing it to bad sex as well\"."
+	},
+	{
+		"created_at": "Tue Jan 05 02:08:49 +0000 2021",
+		"id": 1346193707264041000,
+		"id_str": "1346277440948031488",
+		"full_text": "Just came on Twitter to reshare this #nationallockdown https://t.co/YLRTkqVFmo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "nationallockdown",
+					"indices": [
+						37,
+						54
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1243206812477919200,
+					"id_str": "1243206812477919232",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1243206812477919232/pu/img/oxTbneIF7-rGTZBq.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1243206812477919232/pu/img/oxTbneIF7-rGTZBq.jpg",
+					"url": "https://t.co/YLRTkqVFmo",
+					"display_url": "pic.twitter.com/YLRTkqVFmo",
+					"expanded_url": "https://twitter.com/jimwaterson/status/1243207058293473282/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1243207058293473300,
+					"source_status_id_str": "1243207058293473282",
+					"source_user_id": 25275453,
+					"source_user_id_str": "25275453"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1243206812477919200,
+					"id_str": "1243206812477919232",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1243206812477919232/pu/img/oxTbneIF7-rGTZBq.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1243206812477919232/pu/img/oxTbneIF7-rGTZBq.jpg",
+					"url": "https://t.co/YLRTkqVFmo",
+					"display_url": "pic.twitter.com/YLRTkqVFmo",
+					"expanded_url": "https://twitter.com/jimwaterson/status/1243207058293473282/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1243207058293473300,
+					"source_status_id_str": "1243207058293473282",
+					"source_user_id": 25275453,
+					"source_user_id_str": "25275453",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 40000,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1243206812477919232/pu/vid/1280x720/6_obojuiE9dn2Ihw.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1243206812477919232/pu/vid/480x270/AfVdg9T8QL1Bks_h.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1243206812477919232/pu/vid/640x360/uTv6e0kIMw8iODyS.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1243206812477919232/pu/pl/9WkSDUEhjNm-tFJC.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 25275453,
+							"id_str": "25275453",
+							"name": "Jim Waterson",
+							"screen_name": "jimwaterson",
+							"location": "",
+							"description": "Media editor at the Guardian. Currently on leave.",
+							"url": "https://t.co/FggP2slyje",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/FggP2slyje",
+											"expanded_url": "http://www.jimwaterson.com",
+											"display_url": "jimwaterson.com",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 250098,
+							"friends_count": 2814,
+							"listed_count": 1986,
+							"created_at": "Thu Mar 19 12:03:34 +0000 2009",
+							"favourites_count": 17745,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": true,
+							"statuses_count": 59404,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "DBE9ED",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1110478628897333248/KECDyM16_normal.png",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1110478628897333248/KECDyM16_normal.png",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/25275453/1409002252",
+							"profile_link_color": "CC3366",
+							"profile_sidebar_border_color": "FFFFFF",
+							"profile_sidebar_fill_color": "E6F6F9",
+							"profile_text_color": "333333",
+							"profile_use_background_image": false,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 38485467,
+			"id_str": "38485467",
+			"name": "Hannah Witton",
+			"screen_name": "hannahwitton",
+			"location": "London, UK ~ she/her~ ",
+			"description": "Content creator, host of @doingitpodcast, sex ed - @BrookCharity ambassador 🍑 The Hormone Diaries book out now! 💛 contact: james@freefocus.co.uk",
+			"url": "https://t.co/zoqWnkQCbv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zoqWnkQCbv",
+							"expanded_url": "http://www.youtube.com/hannahwitton",
+							"display_url": "youtube.com/hannahwitton",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 130269,
+			"friends_count": 205,
+			"listed_count": 443,
+			"created_at": "Thu May 07 18:25:54 +0000 2009",
+			"favourites_count": 47192,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 35704,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1118937022817808385/NB4SnEKo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1118937022817808385/NB4SnEKo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/38485467/1560779281",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 417,
+		"favorite_count": 1403,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Just came on Twitter to reshare this #nationallockdown https://t.co/YLRTkqVFmo"
+	},
+	{
 		"created_at": "Sun Jan 03 10:19:04 +0000 2021",
 		"id": 1345676043923804200,
 		"id_str": "1345676043923804160",
@@ -70,16 +580,16 @@ Grailbird.data.tweets_2021_01 =
 				}
 			},
 			"protected": false,
-			"followers_count": 828,
-			"friends_count": 148,
+			"followers_count": 827,
+			"friends_count": 147,
 			"listed_count": 91,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8694,
+			"favourites_count": 8692,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14682,
+			"statuses_count": 14685,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -199,16 +709,16 @@ Grailbird.data.tweets_2021_01 =
 				}
 			},
 			"protected": false,
-			"followers_count": 828,
-			"friends_count": 148,
+			"followers_count": 827,
+			"friends_count": 147,
 			"listed_count": 91,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8694,
+			"favourites_count": 8692,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14682,
+			"statuses_count": 14685,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -415,16 +925,16 @@ Grailbird.data.tweets_2021_01 =
 				}
 			},
 			"protected": false,
-			"followers_count": 828,
-			"friends_count": 148,
+			"followers_count": 827,
+			"friends_count": 147,
 			"listed_count": 91,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8694,
+			"favourites_count": 8692,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14682,
+			"statuses_count": 14685,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -622,16 +1132,16 @@ Grailbird.data.tweets_2021_01 =
 				}
 			},
 			"protected": false,
-			"followers_count": 828,
-			"friends_count": 148,
+			"followers_count": 827,
+			"friends_count": 147,
 			"listed_count": 91,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8694,
+			"favourites_count": 8692,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14682,
+			"statuses_count": 14685,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -761,16 +1271,16 @@ Grailbird.data.tweets_2021_01 =
 				}
 			},
 			"protected": false,
-			"followers_count": 828,
-			"friends_count": 148,
+			"followers_count": 827,
+			"friends_count": 147,
 			"listed_count": 91,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8694,
+			"favourites_count": 8692,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14682,
+			"statuses_count": 14685,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -911,16 +1421,16 @@ Grailbird.data.tweets_2021_01 =
 				}
 			},
 			"protected": false,
-			"followers_count": 828,
-			"friends_count": 148,
+			"followers_count": 827,
+			"friends_count": 147,
 			"listed_count": 91,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8694,
+			"favourites_count": 8692,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14682,
+			"statuses_count": 14685,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1050,16 +1560,16 @@ Grailbird.data.tweets_2021_01 =
 				}
 			},
 			"protected": false,
-			"followers_count": 828,
-			"friends_count": 148,
+			"followers_count": 827,
+			"friends_count": 147,
 			"listed_count": 91,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8694,
+			"favourites_count": 8692,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14682,
+			"statuses_count": 14685,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1189,16 +1699,16 @@ Grailbird.data.tweets_2021_01 =
 				}
 			},
 			"protected": false,
-			"followers_count": 828,
-			"friends_count": 148,
+			"followers_count": 827,
+			"friends_count": 147,
 			"listed_count": 91,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8694,
+			"favourites_count": 8692,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14682,
+			"statuses_count": 14685,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1314,16 +1824,16 @@ Grailbird.data.tweets_2021_01 =
 				}
 			},
 			"protected": false,
-			"followers_count": 4818,
-			"friends_count": 1289,
+			"followers_count": 4817,
+			"friends_count": 1286,
 			"listed_count": 136,
 			"created_at": "Mon Jun 06 15:25:56 +0000 2011",
-			"favourites_count": 12185,
+			"favourites_count": 12182,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 280645,
+			"statuses_count": 280707,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1508,16 +2018,16 @@ Grailbird.data.tweets_2021_01 =
 					}
 				},
 				"protected": false,
-				"followers_count": 34232,
-				"friends_count": 1338,
+				"followers_count": 34336,
+				"friends_count": 1339,
 				"listed_count": 557,
 				"created_at": "Tue Jan 16 11:18:46 +0000 2007",
-				"favourites_count": 45379,
+				"favourites_count": 45471,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": true,
-				"statuses_count": 82523,
+				"statuses_count": 82608,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -1547,8 +2057,8 @@ Grailbird.data.tweets_2021_01 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 29164,
-			"favorite_count": 125327,
+			"retweet_count": 29299,
+			"favorite_count": 125776,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
@@ -1621,16 +2131,16 @@ Grailbird.data.tweets_2021_01 =
 				}
 			},
 			"protected": false,
-			"followers_count": 828,
-			"friends_count": 148,
+			"followers_count": 827,
+			"friends_count": 147,
 			"listed_count": 91,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8694,
+			"favourites_count": 8692,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14682,
+			"statuses_count": 14685,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1757,16 +2267,16 @@ Grailbird.data.tweets_2021_01 =
 					}
 				},
 				"protected": false,
-				"followers_count": 22009,
-				"friends_count": 11061,
-				"listed_count": 340,
+				"followers_count": 22008,
+				"friends_count": 11062,
+				"listed_count": 338,
 				"created_at": "Sat Jun 29 04:29:18 +0000 2013",
-				"favourites_count": 135266,
+				"favourites_count": 135236,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": true,
-				"statuses_count": 2306,
+				"statuses_count": 2350,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -1796,8 +2306,8 @@ Grailbird.data.tweets_2021_01 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 215,
-			"favorite_count": 626,
+			"retweet_count": 216,
+			"favorite_count": 628,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
@@ -1871,16 +2381,16 @@ Grailbird.data.tweets_2021_01 =
 				}
 			},
 			"protected": false,
-			"followers_count": 828,
-			"friends_count": 148,
+			"followers_count": 827,
+			"friends_count": 147,
 			"listed_count": 91,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8694,
+			"favourites_count": 8692,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14682,
+			"statuses_count": 14685,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2010,16 +2520,16 @@ Grailbird.data.tweets_2021_01 =
 				}
 			},
 			"protected": false,
-			"followers_count": 828,
-			"friends_count": 148,
+			"followers_count": 827,
+			"friends_count": 147,
 			"listed_count": 91,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8694,
+			"favourites_count": 8692,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14682,
+			"statuses_count": 14685,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2216,16 +2726,16 @@ Grailbird.data.tweets_2021_01 =
 				}
 			},
 			"protected": false,
-			"followers_count": 828,
-			"friends_count": 148,
+			"followers_count": 827,
+			"friends_count": 147,
 			"listed_count": 91,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8694,
+			"favourites_count": 8692,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14682,
+			"statuses_count": 14685,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
