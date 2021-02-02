@@ -72,14 +72,14 @@ Grailbird.data.tweets_2017_06 =
 			"protected": false,
 			"followers_count": 825,
 			"friends_count": 146,
-			"listed_count": 91,
+			"listed_count": 0,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8760,
+			"favourites_count": 8765,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14739,
+			"statuses_count": 14742,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -198,14 +198,14 @@ Grailbird.data.tweets_2017_06 =
 			"protected": false,
 			"followers_count": 825,
 			"friends_count": 146,
-			"listed_count": 91,
+			"listed_count": 0,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8760,
+			"favourites_count": 8765,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14739,
+			"statuses_count": 14742,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -293,14 +293,14 @@ Grailbird.data.tweets_2017_06 =
 			"protected": false,
 			"followers_count": 825,
 			"friends_count": 146,
-			"listed_count": 91,
+			"listed_count": 0,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8760,
+			"favourites_count": 8765,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14739,
+			"statuses_count": 14742,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -419,14 +419,14 @@ Grailbird.data.tweets_2017_06 =
 			"protected": false,
 			"followers_count": 825,
 			"friends_count": 146,
-			"listed_count": 91,
+			"listed_count": 0,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8760,
+			"favourites_count": 8765,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14739,
+			"statuses_count": 14742,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -550,14 +550,14 @@ Grailbird.data.tweets_2017_06 =
 			"protected": false,
 			"followers_count": 825,
 			"friends_count": 146,
-			"listed_count": 91,
+			"listed_count": 0,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8760,
+			"favourites_count": 8765,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14739,
+			"statuses_count": 14742,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -667,14 +667,14 @@ Grailbird.data.tweets_2017_06 =
 			"protected": false,
 			"followers_count": 825,
 			"friends_count": 146,
-			"listed_count": 91,
+			"listed_count": 0,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8760,
+			"favourites_count": 8765,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14739,
+			"statuses_count": 14742,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -816,14 +816,14 @@ Grailbird.data.tweets_2017_06 =
 			"protected": false,
 			"followers_count": 825,
 			"friends_count": 146,
-			"listed_count": 91,
+			"listed_count": 0,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8760,
+			"favourites_count": 8765,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14739,
+			"statuses_count": 14742,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -922,14 +922,14 @@ Grailbird.data.tweets_2017_06 =
 			"protected": false,
 			"followers_count": 825,
 			"friends_count": 146,
-			"listed_count": 91,
+			"listed_count": 0,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8760,
+			"favourites_count": 8765,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14739,
+			"statuses_count": 14742,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1027,14 +1027,14 @@ Grailbird.data.tweets_2017_06 =
 			"protected": false,
 			"followers_count": 825,
 			"friends_count": 146,
-			"listed_count": 91,
+			"listed_count": 0,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8760,
+			"favourites_count": 8765,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14739,
+			"statuses_count": 14742,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1166,14 +1166,14 @@ Grailbird.data.tweets_2017_06 =
 			"protected": false,
 			"followers_count": 825,
 			"friends_count": 146,
-			"listed_count": 91,
+			"listed_count": 0,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8760,
+			"favourites_count": 8765,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14739,
+			"statuses_count": 14742,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1283,14 +1283,14 @@ Grailbird.data.tweets_2017_06 =
 			"protected": false,
 			"followers_count": 825,
 			"friends_count": 146,
-			"listed_count": 91,
+			"listed_count": 0,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8760,
+			"favourites_count": 8765,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14739,
+			"statuses_count": 14742,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1464,7 +1464,7 @@ Grailbird.data.tweets_2017_06 =
 					}
 				},
 				"protected": false,
-				"followers_count": 17251,
+				"followers_count": 17249,
 				"friends_count": 1,
 				"listed_count": 718,
 				"created_at": "Fri May 28 06:45:47 +0000 2010",
@@ -1753,16 +1753,16 @@ Grailbird.data.tweets_2017_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 137304,
+			"followers_count": 137338,
 			"friends_count": 6412,
 			"listed_count": 3633,
 			"created_at": "Thu Mar 05 06:48:00 +0000 2009",
-			"favourites_count": 128009,
+			"favourites_count": 128051,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 268472,
+			"statuses_count": 268516,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1792,8 +1792,8 @@ Grailbird.data.tweets_2017_06 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 21090,
-		"favorite_count": 55326,
+		"retweet_count": 21085,
+		"favorite_count": 55317,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
@@ -1929,14 +1929,14 @@ Grailbird.data.tweets_2017_06 =
 			"protected": false,
 			"followers_count": 825,
 			"friends_count": 146,
-			"listed_count": 91,
+			"listed_count": 0,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8760,
+			"favourites_count": 8765,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14739,
+			"statuses_count": 14742,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2046,14 +2046,14 @@ Grailbird.data.tweets_2017_06 =
 			"protected": false,
 			"followers_count": 825,
 			"friends_count": 146,
-			"listed_count": 91,
+			"listed_count": 0,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8760,
+			"favourites_count": 8765,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14739,
+			"statuses_count": 14742,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2090,668 +2090,5 @@ Grailbird.data.tweets_2017_06 =
 		"possibly_sensitive": false,
 		"lang": "en",
 		"text": "Notes From An Emergency https://t.co/lCY2J7tr6F via @instapaper"
-	},
-	{
-		"created_at": "Mon Jun 26 07:50:22 +0000 2017",
-		"id": 879245436464250900,
-		"id_str": "879245436464250880",
-		"full_text": "Hey @rockickarse nice thread here describing our future trajectory https://t.co/MITUIywUpp",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			66
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [
-				{
-					"screen_name": "rockickarse",
-					"name": "Ben Atkinson",
-					"id": 52065370,
-					"id_str": "52065370",
-					"indices": [
-						4,
-						16
-					]
-				}
-			],
-			"urls": [
-				{
-					"url": "https://t.co/MITUIywUpp",
-					"expanded_url": "https://twitter.com/benwerd/status/879214199221760000",
-					"display_url": "twitter.com/benwerd/status…",
-					"indices": [
-						67,
-						90
-					]
-				}
-			]
-		},
-		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 174124175,
-			"id_str": "174124175",
-			"name": "Tim Klapdor",
-			"screen_name": "timklapdor",
-			"location": "Adelaide, South Australia",
-			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "https://t.co/uC0c3me6KE",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/uC0c3me6KE",
-							"expanded_url": "http://timklapdor.com",
-							"display_url": "timklapdor.com",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 825,
-			"friends_count": 146,
-			"listed_count": 91,
-			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8760,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 14739,
-			"lang": null,
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "C0DEED",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
-			"profile_link_color": "5FA832",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "DDEEF6",
-			"profile_text_color": "333333",
-			"profile_use_background_image": true,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": true,
-		"quoted_status_id": 879214199221760000,
-		"quoted_status_id_str": "879214199221760000",
-		"quoted_status_permalink": {
-			"url": "https://t.co/MITUIywUpp",
-			"expanded": "https://twitter.com/benwerd/status/879214199221760000",
-			"display": "twitter.com/benwerd/status…"
-		},
-		"quoted_status": {
-			"created_at": "Mon Jun 26 05:46:14 +0000 2017",
-			"id": 879214199221760000,
-			"id_str": "879214199221760000",
-			"full_text": "An intelligent home assistant, but instead of using speech recognition, you whistle to it like a sheepdog.",
-			"truncated": false,
-			"display_text_range": [
-				0,
-				106
-			],
-			"entities": {
-				"hashtags": [],
-				"symbols": [],
-				"user_mentions": [],
-				"urls": []
-			},
-			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-			"in_reply_to_status_id": null,
-			"in_reply_to_status_id_str": null,
-			"in_reply_to_user_id": null,
-			"in_reply_to_user_id_str": null,
-			"in_reply_to_screen_name": null,
-			"user": {
-				"id": 783092,
-				"id_str": "783092",
-				"name": "Ben Werdmuller",
-				"screen_name": "benwerd",
-				"location": "San Francisco Bay Area",
-				"description": "Writer, engineer, product lead trying to help make the world more equal and empathetic using technology and design. He / him.",
-				"url": "https://t.co/sR4aj0bw72",
-				"entities": {
-					"url": {
-						"urls": [
-							{
-								"url": "https://t.co/sR4aj0bw72",
-								"expanded_url": "https://werd.io/",
-								"display_url": "werd.io",
-								"indices": [
-									0,
-									23
-								]
-							}
-						]
-					},
-					"description": {
-						"urls": []
-					}
-				},
-				"protected": false,
-				"followers_count": 7604,
-				"friends_count": 5366,
-				"listed_count": 457,
-				"created_at": "Tue Feb 20 13:34:20 +0000 2007",
-				"favourites_count": 34729,
-				"utc_offset": null,
-				"time_zone": null,
-				"geo_enabled": true,
-				"verified": true,
-				"statuses_count": 55358,
-				"lang": null,
-				"contributors_enabled": false,
-				"is_translator": false,
-				"is_translation_enabled": false,
-				"profile_background_color": "131516",
-				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
-				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
-				"profile_background_tile": false,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/1348852041183989761/n4pKwpl3_normal.jpg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1348852041183989761/n4pKwpl3_normal.jpg",
-				"profile_banner_url": "https://pbs.twimg.com/profile_banners/783092/1440331990",
-				"profile_link_color": "009999",
-				"profile_sidebar_border_color": "000000",
-				"profile_sidebar_fill_color": "D4E6F1",
-				"profile_text_color": "000000",
-				"profile_use_background_image": true,
-				"has_extended_profile": true,
-				"default_profile": false,
-				"default_profile_image": false,
-				"following": true,
-				"follow_request_sent": false,
-				"notifications": false,
-				"translator_type": "none"
-			},
-			"geo": null,
-			"coordinates": null,
-			"place": null,
-			"contributors": null,
-			"is_quote_status": false,
-			"retweet_count": 12,
-			"favorite_count": 23,
-			"favorited": false,
-			"retweeted": false,
-			"lang": "en"
-		},
-		"retweet_count": 0,
-		"favorite_count": 0,
-		"favorited": false,
-		"retweeted": false,
-		"possibly_sensitive": false,
-		"lang": "en",
-		"text": "Hey @rockickarse nice thread here describing our future trajectory https://t.co/MITUIywUpp"
-	},
-	{
-		"created_at": "Mon Jun 26 07:04:47 +0000 2017",
-		"id": 879233966204526600,
-		"id_str": "879233966204526593",
-		"full_text": "@benwerd Lol - you just described a feature of an app we pitched that won $10,000!!! Kelpie - the digital working dog! https://t.co/Oi4BsGmhXp",
-		"truncated": false,
-		"display_text_range": [
-			9,
-			118
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [
-				{
-					"screen_name": "benwerd",
-					"name": "Ben Werdmuller",
-					"id": 783092,
-					"id_str": "783092",
-					"indices": [
-						0,
-						8
-					]
-				}
-			],
-			"urls": [],
-			"media": [
-				{
-					"id": 879233955588853800,
-					"id_str": "879233955588853760",
-					"indices": [
-						119,
-						142
-					],
-					"media_url": "http://pbs.twimg.com/media/DDOqn81V0AAKElP.png",
-					"media_url_https": "https://pbs.twimg.com/media/DDOqn81V0AAKElP.png",
-					"url": "https://t.co/Oi4BsGmhXp",
-					"display_url": "pic.twitter.com/Oi4BsGmhXp",
-					"expanded_url": "https://twitter.com/timklapdor/status/879233966204526593/photo/1",
-					"type": "photo",
-					"sizes": {
-						"small": {
-							"w": 338,
-							"h": 680,
-							"resize": "fit"
-						},
-						"medium": {
-							"w": 597,
-							"h": 1200,
-							"resize": "fit"
-						},
-						"large": {
-							"w": 861,
-							"h": 1732,
-							"resize": "fit"
-						},
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						}
-					}
-				}
-			]
-		},
-		"extended_entities": {
-			"media": [
-				{
-					"id": 879233955588853800,
-					"id_str": "879233955588853760",
-					"indices": [
-						119,
-						142
-					],
-					"media_url": "http://pbs.twimg.com/media/DDOqn81V0AAKElP.png",
-					"media_url_https": "https://pbs.twimg.com/media/DDOqn81V0AAKElP.png",
-					"url": "https://t.co/Oi4BsGmhXp",
-					"display_url": "pic.twitter.com/Oi4BsGmhXp",
-					"expanded_url": "https://twitter.com/timklapdor/status/879233966204526593/photo/1",
-					"type": "photo",
-					"sizes": {
-						"small": {
-							"w": 338,
-							"h": 680,
-							"resize": "fit"
-						},
-						"medium": {
-							"w": 597,
-							"h": 1200,
-							"resize": "fit"
-						},
-						"large": {
-							"w": 861,
-							"h": 1732,
-							"resize": "fit"
-						},
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						}
-					}
-				}
-			]
-		},
-		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
-		"in_reply_to_status_id": 879214199221760000,
-		"in_reply_to_status_id_str": "879214199221760000",
-		"in_reply_to_user_id": 783092,
-		"in_reply_to_user_id_str": "783092",
-		"in_reply_to_screen_name": "benwerd",
-		"user": {
-			"id": 174124175,
-			"id_str": "174124175",
-			"name": "Tim Klapdor",
-			"screen_name": "timklapdor",
-			"location": "Adelaide, South Australia",
-			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "https://t.co/uC0c3me6KE",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/uC0c3me6KE",
-							"expanded_url": "http://timklapdor.com",
-							"display_url": "timklapdor.com",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 825,
-			"friends_count": 146,
-			"listed_count": 91,
-			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8760,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 14739,
-			"lang": null,
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "C0DEED",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
-			"profile_link_color": "5FA832",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "DDEEF6",
-			"profile_text_color": "333333",
-			"profile_use_background_image": true,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": {
-			"id": "00de77a74e8155fa",
-			"url": "https://api.twitter.com/1.1/geo/id/00de77a74e8155fa.json",
-			"place_type": "city",
-			"name": "Estella",
-			"full_name": "Estella, New South Wales",
-			"country_code": "AU",
-			"country": "Australia",
-			"contained_within": [],
-			"bounding_box": {
-				"type": "Polygon",
-				"coordinates": [
-					[
-						[
-							147.342861344,
-							-35.0844753575
-						],
-						[
-							147.363966496,
-							-35.0844753575
-						],
-						[
-							147.363966496,
-							-35.046804418
-						],
-						[
-							147.342861344,
-							-35.046804418
-						]
-					]
-				]
-			},
-			"attributes": {}
-		},
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 3,
-		"favorited": false,
-		"retweeted": false,
-		"possibly_sensitive": false,
-		"lang": "en",
-		"text": "@benwerd Lol - you just described a feature of an app we pitched that won $10,000!!! Kelpie - the digital working dog! https://t.co/Oi4BsGmhXp"
-	},
-	{
-		"created_at": "Sat Jun 24 23:49:20 +0000 2017",
-		"id": 878667833311363100,
-		"id_str": "878761993531871232",
-		"full_text": "#indieweb principles:\nMake your site for you, on your terms\nHuman experience before tech\nEasy-to-use building blocks\nA plurality of projects",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			140
-		],
-		"entities": {
-			"hashtags": [
-				{
-					"text": "indieweb",
-					"indices": [
-						0,
-						9
-					]
-				}
-			],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": []
-		},
-		"source": "<a href=\"http://werd.io/\" rel=\"nofollow\">werd.io</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 783092,
-			"id_str": "783092",
-			"name": "Ben Werdmuller",
-			"screen_name": "benwerd",
-			"location": "San Francisco Bay Area",
-			"description": "Writer, engineer, product lead trying to help make the world more equal and empathetic using technology and design. He / him.",
-			"url": "https://t.co/sR4aj0bw72",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/sR4aj0bw72",
-							"expanded_url": "https://werd.io/",
-							"display_url": "werd.io",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 7604,
-			"friends_count": 5366,
-			"listed_count": 457,
-			"created_at": "Tue Feb 20 13:34:20 +0000 2007",
-			"favourites_count": 34729,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": true,
-			"statuses_count": 55358,
-			"lang": null,
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "131516",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1348852041183989761/n4pKwpl3_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1348852041183989761/n4pKwpl3_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/783092/1440331990",
-			"profile_link_color": "009999",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "D4E6F1",
-			"profile_text_color": "000000",
-			"profile_use_background_image": true,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": true,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 5,
-		"favorite_count": 5,
-		"favorited": false,
-		"retweeted": false,
-		"lang": "en",
-		"text": "#indieweb principles:\nMake your site for you, on your terms\nHuman experience before tech\nEasy-to-use building blocks\nA plurality of projects"
-	},
-	{
-		"created_at": "Sat Jun 24 10:09:11 +0000 2017",
-		"id": 878555594512154600,
-		"id_str": "878555594512154624",
-		"full_text": "@kreshleman @benwerd I’d like to be in on that one :-) Think it’s key area missing in #edtech",
-		"truncated": false,
-		"display_text_range": [
-			21,
-			93
-		],
-		"entities": {
-			"hashtags": [
-				{
-					"text": "edtech",
-					"indices": [
-						86,
-						93
-					]
-				}
-			],
-			"symbols": [],
-			"user_mentions": [
-				{
-					"screen_name": "kreshleman",
-					"name": "Kristen Eshleman",
-					"id": 22611599,
-					"id_str": "22611599",
-					"indices": [
-						0,
-						11
-					]
-				},
-				{
-					"screen_name": "benwerd",
-					"name": "Ben Werdmuller",
-					"id": 783092,
-					"id_str": "783092",
-					"indices": [
-						12,
-						20
-					]
-				}
-			],
-			"urls": []
-		},
-		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
-		"in_reply_to_status_id": 878395568275509200,
-		"in_reply_to_status_id_str": "878395568275509248",
-		"in_reply_to_user_id": 22611599,
-		"in_reply_to_user_id_str": "22611599",
-		"in_reply_to_screen_name": "kreshleman",
-		"user": {
-			"id": 174124175,
-			"id_str": "174124175",
-			"name": "Tim Klapdor",
-			"screen_name": "timklapdor",
-			"location": "Adelaide, South Australia",
-			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "https://t.co/uC0c3me6KE",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/uC0c3me6KE",
-							"expanded_url": "http://timklapdor.com",
-							"display_url": "timklapdor.com",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 825,
-			"friends_count": 146,
-			"listed_count": 91,
-			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8760,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 14739,
-			"lang": null,
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "C0DEED",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
-			"profile_link_color": "5FA832",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "DDEEF6",
-			"profile_text_color": "333333",
-			"profile_use_background_image": true,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 2,
-		"favorited": false,
-		"retweeted": false,
-		"lang": "en",
-		"text": "@kreshleman @benwerd I’d like to be in on that one :-) Think it’s key area missing in #edtech"
 	}
 ]
