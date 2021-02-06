@@ -1,6 +1,502 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Fri Feb 05 23:53:42 +0000 2021",
+		"id": 1357794734295707600,
+		"id_str": "1357839849995210752",
+		"full_text": "Adobe could’ve open sourced it. 🤷‍♀️ If only for the sake of all those museums and digital archives with apps that no one will ever be able to run… https://t.co/0MZ75RbISz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0MZ75RbISz",
+					"expanded_url": "https://twitter.com/futuretensenow/status/1357792700481830916",
+					"display_url": "twitter.com/futuretensenow…",
+					"indices": [
+						148,
+						171
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 6868612,
+			"id_str": "6868612",
+			"name": "Stephanie Rieger 🏴󠁧󠁢󠁳󠁣󠁴󠁿🇨🇦🇪🇺🍵",
+			"screen_name": "stephanierieger",
+			"location": "Montreal…for now",
+			"description": "Design leader @shopify. Thinks about futures, algorithms, tech policy, internet governance & platforms @yiibu. Writes speculative fiction. Views, my own.",
+			"url": "https://t.co/BSq3NS4Qnt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BSq3NS4Qnt",
+							"expanded_url": "https://stephanierieger.com",
+							"display_url": "stephanierieger.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6807,
+			"friends_count": 877,
+			"listed_count": 716,
+			"created_at": "Sun Jun 17 11:18:48 +0000 2007",
+			"favourites_count": 9155,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23951,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1581672007/stephanie-rieger_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1581672007/stephanie-rieger_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/6868612/1428417337",
+			"profile_link_color": "293F3A",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1357792700481831000,
+		"quoted_status_id_str": "1357792700481830916",
+		"quoted_status_permalink": {
+			"url": "https://t.co/0MZ75RbISz",
+			"expanded": "https://twitter.com/futuretensenow/status/1357792700481830916",
+			"display": "twitter.com/futuretensenow…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Feb 05 20:46:21 +0000 2021",
+			"id": 1357792700481831000,
+			"id_str": "1357792700481830916",
+			"full_text": "The Flash blackout reverberated across the world. https://t.co/nvOiG4b3Gl",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				73
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/nvOiG4b3Gl",
+						"expanded_url": "https://slate.com/technology/2021/02/flash-adobe-end-missed-memo.html",
+						"display_url": "slate.com/technology/202…",
+						"indices": [
+							50,
+							73
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 326184086,
+				"id_str": "326184086",
+				"name": "Future Tense",
+				"screen_name": "FutureTenseNow",
+				"location": "Washington, DC",
+				"description": "Future Tense—a project of Slate, New America, and Arizona State University—covers emerging technologies and their implications for society and policy.",
+				"url": "https://t.co/UOt5ix3lo9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/UOt5ix3lo9",
+								"expanded_url": "https://slate.com/futuretense",
+								"display_url": "slate.com/futuretense",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 28304,
+				"friends_count": 2879,
+				"listed_count": 1311,
+				"created_at": "Wed Jun 29 14:26:19 +0000 2011",
+				"favourites_count": 1122,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 14206,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/953260789485506560/6J1DB2O__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/953260789485506560/6J1DB2O__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/326184086/1516110075",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Adobe could’ve open sourced it. 🤷‍♀️ If only for the sake of all those museums and digital archives with apps that no one will ever be able to run… https://t.co/0MZ75RbISz"
+	},
+	{
+		"created_at": "Fri Feb 05 04:55:04 +0000 2021",
+		"id": 1357553305090547700,
+		"id_str": "1357553305090547713",
+		"full_text": "@helgztech Defunding is the death of unis. And it’s all just ideology and bullshit behind it.",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			93
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "helgztech",
+					"name": "Helen South",
+					"id": 1199121356505239600,
+					"id_str": "1199121356505239559",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1357551859615944700,
+		"in_reply_to_status_id_str": "1357551859615944704",
+		"in_reply_to_user_id": 1199121356505239600,
+		"in_reply_to_user_id_str": "1199121356505239559",
+		"in_reply_to_screen_name": "helgztech",
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Adelaide, South Australia",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
+			"url": "https://t.co/uC0c3me6KE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uC0c3me6KE",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 826,
+			"friends_count": 147,
+			"listed_count": 91,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 8770,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14749,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "38a6e758f2ba889c",
+			"url": "https://api.twitter.com/1.1/geo/id/38a6e758f2ba889c.json",
+			"place_type": "neighborhood",
+			"name": "Adelaide",
+			"full_name": "Adelaide, South Australia",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							138.57706008,
+							-34.94215998
+						],
+						[
+							138.62447712,
+							-34.94215998
+						],
+						[
+							138.62447712,
+							-34.90911801
+						],
+						[
+							138.57706008,
+							-34.90911801
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@helgztech Defunding is the death of unis. And it’s all just ideology and bullshit behind it."
+	},
+	{
+		"created_at": "Fri Feb 05 03:30:57 +0000 2021",
+		"id": 1357532133611294700,
+		"id_str": "1357532133611294720",
+		"full_text": "@helgztech Part of it had to cover the gap created by insufficient funding for local students that failed to keep up with inflation and other costs. To prop up research, facilities and other capital costs. Let’s not forget decades of falling real funding for every form of higher Ed",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			282
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "helgztech",
+					"name": "Helen South",
+					"id": 1199121356505239600,
+					"id_str": "1199121356505239559",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1357455403349549000,
+		"in_reply_to_status_id_str": "1357455403349549056",
+		"in_reply_to_user_id": 1199121356505239600,
+		"in_reply_to_user_id_str": "1199121356505239559",
+		"in_reply_to_screen_name": "helgztech",
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Adelaide, South Australia",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
+			"url": "https://t.co/uC0c3me6KE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uC0c3me6KE",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 826,
+			"friends_count": 147,
+			"listed_count": 91,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 8770,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14749,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "38a6e758f2ba889c",
+			"url": "https://api.twitter.com/1.1/geo/id/38a6e758f2ba889c.json",
+			"place_type": "neighborhood",
+			"name": "Adelaide",
+			"full_name": "Adelaide, South Australia",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							138.57706008,
+							-34.94215998
+						],
+						[
+							138.62447712,
+							-34.94215998
+						],
+						[
+							138.62447712,
+							-34.90911801
+						],
+						[
+							138.57706008,
+							-34.90911801
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@helgztech Part of it had to cover the gap created by insufficient funding for local students that failed to keep up with inflation and other costs. To prop up research, facilities and other capital costs. Let’s not forget decades of falling real funding for every form of higher Ed"
+	},
+	{
 		"created_at": "Wed Feb 03 22:51:24 +0000 2021",
 		"id": 1357099396924514300,
 		"id_str": "1357099396924514306",
@@ -131,12 +627,12 @@ Grailbird.data.tweets_2021_02 =
 			"friends_count": 147,
 			"listed_count": 91,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8768,
+			"favourites_count": 8770,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14746,
+			"statuses_count": 14749,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -200,7 +696,7 @@ Grailbird.data.tweets_2021_02 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 4,
+		"favorite_count": 5,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
@@ -266,16 +762,16 @@ Grailbird.data.tweets_2021_02 =
 				}
 			},
 			"protected": false,
-			"followers_count": 33034,
+			"followers_count": 33043,
 			"friends_count": 2213,
-			"listed_count": 324,
+			"listed_count": 323,
 			"created_at": "Tue Jan 11 06:02:39 +0000 2011",
 			"favourites_count": 3232,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 12476,
+			"statuses_count": 12479,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -372,16 +868,16 @@ Grailbird.data.tweets_2021_02 =
 				}
 			},
 			"protected": false,
-			"followers_count": 3941,
+			"followers_count": 3937,
 			"friends_count": 303,
-			"listed_count": 272,
+			"listed_count": 274,
 			"created_at": "Sun Jan 28 08:28:45 +0000 2007",
-			"favourites_count": 16668,
+			"favourites_count": 16703,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 2930,
+			"statuses_count": 2966,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -532,16 +1028,16 @@ Grailbird.data.tweets_2021_02 =
 					}
 				},
 				"protected": false,
-				"followers_count": 1907,
-				"friends_count": 295,
+				"followers_count": 1914,
+				"friends_count": 296,
 				"listed_count": 35,
 				"created_at": "Mon Nov 26 05:11:37 +0000 2018",
-				"favourites_count": 240,
+				"favourites_count": 241,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": true,
-				"statuses_count": 893,
+				"statuses_count": 897,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -646,15 +1142,15 @@ Grailbird.data.tweets_2021_02 =
 			},
 			"protected": false,
 			"followers_count": 86722,
-			"friends_count": 6364,
+			"friends_count": 6362,
 			"listed_count": 974,
 			"created_at": "Mon Jul 07 17:25:53 +0000 2008",
-			"favourites_count": 123732,
+			"favourites_count": 123816,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 180538,
+			"statuses_count": 180602,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -684,8 +1180,8 @@ Grailbird.data.tweets_2021_02 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 1675,
-		"favorite_count": 6609,
+		"retweet_count": 1680,
+		"favorite_count": 6619,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -858,16 +1354,16 @@ Grailbird.data.tweets_2021_02 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1567774,
-			"friends_count": 399667,
-			"listed_count": 6955,
+			"followers_count": 1567868,
+			"friends_count": 399669,
+			"listed_count": 6956,
 			"created_at": "Fri Oct 17 23:08:00 +0000 2008",
 			"favourites_count": 789,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 13939,
+			"statuses_count": 13943,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -897,8 +1393,8 @@ Grailbird.data.tweets_2021_02 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 2877,
-		"favorite_count": 13938,
+		"retweet_count": 2885,
+		"favorite_count": 13984,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -964,16 +1460,16 @@ Grailbird.data.tweets_2021_02 =
 				}
 			},
 			"protected": false,
-			"followers_count": 139835,
+			"followers_count": 139892,
 			"friends_count": 167,
-			"listed_count": 976,
+			"listed_count": 977,
 			"created_at": "Fri May 08 05:12:41 +0000 2009",
-			"favourites_count": 4373,
+			"favourites_count": 4381,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 4791,
+			"statuses_count": 4795,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1003,8 +1499,8 @@ Grailbird.data.tweets_2021_02 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 1670,
-		"favorite_count": 5553,
+		"retweet_count": 1686,
+		"favorite_count": 5595,
 		"favorited": false,
 		"retweeted": true,
 		"lang": "en",
@@ -1069,16 +1565,16 @@ Grailbird.data.tweets_2021_02 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1567774,
-			"friends_count": 399667,
-			"listed_count": 6955,
+			"followers_count": 1567868,
+			"friends_count": 399669,
+			"listed_count": 6956,
 			"created_at": "Fri Oct 17 23:08:00 +0000 2008",
 			"favourites_count": 789,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 13939,
+			"statuses_count": 13943,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1108,8 +1604,8 @@ Grailbird.data.tweets_2021_02 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 1170,
-		"favorite_count": 3637,
+		"retweet_count": 1172,
+		"favorite_count": 3640,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,

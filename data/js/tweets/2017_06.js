@@ -74,12 +74,12 @@ Grailbird.data.tweets_2017_06 =
 			"friends_count": 147,
 			"listed_count": 91,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8768,
+			"favourites_count": 8770,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14746,
+			"statuses_count": 14749,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -200,12 +200,12 @@ Grailbird.data.tweets_2017_06 =
 			"friends_count": 147,
 			"listed_count": 91,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8768,
+			"favourites_count": 8770,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14746,
+			"statuses_count": 14749,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -295,12 +295,12 @@ Grailbird.data.tweets_2017_06 =
 			"friends_count": 147,
 			"listed_count": 91,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8768,
+			"favourites_count": 8770,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14746,
+			"statuses_count": 14749,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -421,12 +421,12 @@ Grailbird.data.tweets_2017_06 =
 			"friends_count": 147,
 			"listed_count": 91,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8768,
+			"favourites_count": 8770,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14746,
+			"statuses_count": 14749,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -552,12 +552,12 @@ Grailbird.data.tweets_2017_06 =
 			"friends_count": 147,
 			"listed_count": 91,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8768,
+			"favourites_count": 8770,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14746,
+			"statuses_count": 14749,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -669,12 +669,12 @@ Grailbird.data.tweets_2017_06 =
 			"friends_count": 147,
 			"listed_count": 91,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8768,
+			"favourites_count": 8770,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14746,
+			"statuses_count": 14749,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -818,12 +818,12 @@ Grailbird.data.tweets_2017_06 =
 			"friends_count": 147,
 			"listed_count": 91,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8768,
+			"favourites_count": 8770,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14746,
+			"statuses_count": 14749,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -924,12 +924,12 @@ Grailbird.data.tweets_2017_06 =
 			"friends_count": 147,
 			"listed_count": 91,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8768,
+			"favourites_count": 8770,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14746,
+			"statuses_count": 14749,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -965,557 +965,5 @@ Grailbird.data.tweets_2017_06 =
 		"retweeted": false,
 		"lang": "en",
 		"text": "@brumface I saw a recent tweet about CRM installation - did you have success?? Looking for recommendations we can host on a Reclaim install"
-	},
-	{
-		"created_at": "Tue Jun 27 06:31:13 +0000 2017",
-		"id": 879587905357860900,
-		"id_str": "879587905357860864",
-		"full_text": "For anyone on any side of the US health care debate - just read this: https://t.co/p3YnK92GzL",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			93
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": [
-				{
-					"url": "https://t.co/p3YnK92GzL",
-					"expanded_url": "http://meyerweb.com/eric/thoughts/2017/06/26/help-insurance/",
-					"display_url": "meyerweb.com/eric/thoughts/…",
-					"indices": [
-						70,
-						93
-					]
-				}
-			]
-		},
-		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 174124175,
-			"id_str": "174124175",
-			"name": "Tim Klapdor",
-			"screen_name": "timklapdor",
-			"location": "Adelaide, South Australia",
-			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "https://t.co/uC0c3me6KE",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/uC0c3me6KE",
-							"expanded_url": "http://timklapdor.com",
-							"display_url": "timklapdor.com",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 826,
-			"friends_count": 147,
-			"listed_count": 91,
-			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8768,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 14746,
-			"lang": null,
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "C0DEED",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
-			"profile_link_color": "5FA832",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "DDEEF6",
-			"profile_text_color": "333333",
-			"profile_use_background_image": true,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": {
-			"id": "00de77a74e8155fa",
-			"url": "https://api.twitter.com/1.1/geo/id/00de77a74e8155fa.json",
-			"place_type": "city",
-			"name": "Estella",
-			"full_name": "Estella, New South Wales",
-			"country_code": "AU",
-			"country": "Australia",
-			"contained_within": [],
-			"bounding_box": {
-				"type": "Polygon",
-				"coordinates": [
-					[
-						[
-							147.342861344,
-							-35.0844753575
-						],
-						[
-							147.363966496,
-							-35.0844753575
-						],
-						[
-							147.363966496,
-							-35.046804418
-						],
-						[
-							147.342861344,
-							-35.046804418
-						]
-					]
-				]
-			},
-			"attributes": {}
-		},
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 0,
-		"favorited": false,
-		"retweeted": false,
-		"possibly_sensitive": false,
-		"lang": "en",
-		"text": "For anyone on any side of the US health care debate - just read this: https://t.co/p3YnK92GzL"
-	},
-	{
-		"created_at": "Tue Jun 27 01:45:20 +0000 2017",
-		"id": 879515961648336900,
-		"id_str": "879515961648336896",
-		"full_text": "Beautiful charts that tell a life’s story. https://t.co/zjC8pg97uH Data as story telling, visual presentation &amp; just enough info to hook you",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			144
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": [
-				{
-					"url": "https://t.co/zjC8pg97uH",
-					"expanded_url": "http://kottke.org/17/06/life-in-america-in-six-charts",
-					"display_url": "kottke.org/17/06/life-in-…",
-					"indices": [
-						43,
-						66
-					]
-				}
-			]
-		},
-		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 174124175,
-			"id_str": "174124175",
-			"name": "Tim Klapdor",
-			"screen_name": "timklapdor",
-			"location": "Adelaide, South Australia",
-			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "https://t.co/uC0c3me6KE",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/uC0c3me6KE",
-							"expanded_url": "http://timklapdor.com",
-							"display_url": "timklapdor.com",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 826,
-			"friends_count": 147,
-			"listed_count": 91,
-			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8768,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 14746,
-			"lang": null,
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "C0DEED",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
-			"profile_link_color": "5FA832",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "DDEEF6",
-			"profile_text_color": "333333",
-			"profile_use_background_image": true,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 0,
-		"favorited": false,
-		"retweeted": false,
-		"possibly_sensitive": false,
-		"lang": "en",
-		"text": "Beautiful charts that tell a life’s story. https://t.co/zjC8pg97uH Data as story telling, visual presentation &amp; just enough info to hook you"
-	},
-	{
-		"created_at": "Tue Jun 27 01:37:24 +0000 2017",
-		"id": 879513964337545200,
-		"id_str": "879513964337545216",
-		"full_text": "Great use of timeline.js - I can appreciate both the content and the technical execution! @audreywatters guide to Teaching Machines https://t.co/yRTStoaDm4",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			131
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [
-				{
-					"screen_name": "audreywatters",
-					"name": "Audrey Watters",
-					"id": 25388528,
-					"id_str": "25388528",
-					"indices": [
-						90,
-						104
-					]
-				}
-			],
-			"urls": [
-				{
-					"url": "https://t.co/yRTStoaDm4",
-					"expanded_url": "https://twitter.com/hackeducation/status/879474411878961153",
-					"display_url": "twitter.com/hackeducation/…",
-					"indices": [
-						132,
-						155
-					]
-				}
-			]
-		},
-		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 174124175,
-			"id_str": "174124175",
-			"name": "Tim Klapdor",
-			"screen_name": "timklapdor",
-			"location": "Adelaide, South Australia",
-			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "https://t.co/uC0c3me6KE",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/uC0c3me6KE",
-							"expanded_url": "http://timklapdor.com",
-							"display_url": "timklapdor.com",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 826,
-			"friends_count": 147,
-			"listed_count": 91,
-			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8768,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 14746,
-			"lang": null,
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "C0DEED",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
-			"profile_link_color": "5FA832",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "DDEEF6",
-			"profile_text_color": "333333",
-			"profile_use_background_image": true,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": true,
-		"quoted_status_id": 879474411878961200,
-		"quoted_status_id_str": "879474411878961153",
-		"quoted_status_permalink": {
-			"url": "https://t.co/yRTStoaDm4",
-			"expanded": "https://twitter.com/hackeducation/status/879474411878961153",
-			"display": "twitter.com/hackeducation/…"
-		},
-		"quoted_status": {
-			"created_at": "Mon Jun 26 23:00:14 +0000 2017",
-			"id": 879474411878961200,
-			"id_str": "879474411878961153",
-			"full_text": "The History of Teaching Machines https://t.co/2UviFEZSNV https://t.co/VSpJYsxlHF",
-			"truncated": false,
-			"display_text_range": [
-				0,
-				56
-			],
-			"entities": {
-				"hashtags": [],
-				"symbols": [],
-				"user_mentions": [],
-				"urls": [
-					{
-						"url": "https://t.co/2UviFEZSNV",
-						"expanded_url": "http://teachingmachin.es/timeline.html",
-						"display_url": "teachingmachin.es/timeline.html",
-						"indices": [
-							33,
-							56
-						]
-					}
-				],
-				"media": [
-					{
-						"id": 879474408984911900,
-						"id_str": "879474408984911872",
-						"indices": [
-							57,
-							80
-						],
-						"media_url": "http://pbs.twimg.com/media/DDSFULiXoAA-bGO.jpg",
-						"media_url_https": "https://pbs.twimg.com/media/DDSFULiXoAA-bGO.jpg",
-						"url": "https://t.co/VSpJYsxlHF",
-						"display_url": "pic.twitter.com/VSpJYsxlHF",
-						"expanded_url": "https://twitter.com/hackeducation/status/879474411878961153/photo/1",
-						"type": "photo",
-						"sizes": {
-							"small": {
-								"w": 640,
-								"h": 296,
-								"resize": "fit"
-							},
-							"thumb": {
-								"w": 150,
-								"h": 150,
-								"resize": "crop"
-							},
-							"medium": {
-								"w": 640,
-								"h": 296,
-								"resize": "fit"
-							},
-							"large": {
-								"w": 640,
-								"h": 296,
-								"resize": "fit"
-							}
-						}
-					}
-				]
-			},
-			"extended_entities": {
-				"media": [
-					{
-						"id": 879474408984911900,
-						"id_str": "879474408984911872",
-						"indices": [
-							57,
-							80
-						],
-						"media_url": "http://pbs.twimg.com/media/DDSFULiXoAA-bGO.jpg",
-						"media_url_https": "https://pbs.twimg.com/media/DDSFULiXoAA-bGO.jpg",
-						"url": "https://t.co/VSpJYsxlHF",
-						"display_url": "pic.twitter.com/VSpJYsxlHF",
-						"expanded_url": "https://twitter.com/hackeducation/status/879474411878961153/photo/1",
-						"type": "photo",
-						"sizes": {
-							"small": {
-								"w": 640,
-								"h": 296,
-								"resize": "fit"
-							},
-							"thumb": {
-								"w": 150,
-								"h": 150,
-								"resize": "crop"
-							},
-							"medium": {
-								"w": 640,
-								"h": 296,
-								"resize": "fit"
-							},
-							"large": {
-								"w": 640,
-								"h": 296,
-								"resize": "fit"
-							}
-						}
-					}
-				]
-			},
-			"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
-			"in_reply_to_status_id": null,
-			"in_reply_to_status_id_str": null,
-			"in_reply_to_user_id": null,
-			"in_reply_to_user_id_str": null,
-			"in_reply_to_screen_name": null,
-			"user": {
-				"id": 149029700,
-				"id_str": "149029700",
-				"name": "Hack Education",
-				"screen_name": "hackeducation",
-				"location": "",
-				"description": "I just want to say one word to you about the future of education: Pigeons. (This account is the feed from @audreywatters education technology website)",
-				"url": "http://t.co/eRjkzhoNYa",
-				"entities": {
-					"url": {
-						"urls": [
-							{
-								"url": "http://t.co/eRjkzhoNYa",
-								"expanded_url": "http://hackeducation.com",
-								"display_url": "hackeducation.com",
-								"indices": [
-									0,
-									22
-								]
-							}
-						]
-					},
-					"description": {
-						"urls": []
-					}
-				},
-				"protected": false,
-				"followers_count": 17252,
-				"friends_count": 1,
-				"listed_count": 717,
-				"created_at": "Fri May 28 06:45:47 +0000 2010",
-				"favourites_count": 10,
-				"utc_offset": null,
-				"time_zone": null,
-				"geo_enabled": false,
-				"verified": true,
-				"statuses_count": 2135,
-				"lang": null,
-				"contributors_enabled": false,
-				"is_translator": false,
-				"is_translation_enabled": false,
-				"profile_background_color": "1C1616",
-				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
-				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
-				"profile_background_tile": false,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/951916546825314304/c8mNF0kl_normal.jpg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/951916546825314304/c8mNF0kl_normal.jpg",
-				"profile_banner_url": "https://pbs.twimg.com/profile_banners/149029700/1514846777",
-				"profile_link_color": "038543",
-				"profile_sidebar_border_color": "FFFFFF",
-				"profile_sidebar_fill_color": "F6F6F6",
-				"profile_text_color": "333333",
-				"profile_use_background_image": false,
-				"has_extended_profile": false,
-				"default_profile": false,
-				"default_profile_image": false,
-				"following": false,
-				"follow_request_sent": false,
-				"notifications": false,
-				"translator_type": "none"
-			},
-			"geo": null,
-			"coordinates": null,
-			"place": null,
-			"contributors": null,
-			"is_quote_status": false,
-			"retweet_count": 9,
-			"favorite_count": 11,
-			"favorited": false,
-			"retweeted": false,
-			"possibly_sensitive": false,
-			"lang": "en"
-		},
-		"retweet_count": 0,
-		"favorite_count": 3,
-		"favorited": false,
-		"retweeted": false,
-		"possibly_sensitive": false,
-		"lang": "en",
-		"text": "Great use of timeline.js - I can appreciate both the content and the technical execution! @audreywatters guide to Teaching Machines https://t.co/yRTStoaDm4"
 	}
 ]
