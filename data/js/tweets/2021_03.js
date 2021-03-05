@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2021_03 = 
 [
 	{
+		"created_at": "Thu Mar 04 21:44:55 +0000 2021",
+		"id": 1367253353571483600,
+		"id_str": "1367591911591014405",
+		"full_text": "i cannot believe i had to write this. but.\n\nhttps://t.co/ZO3wQyQh1K https://t.co/cau0kixLYB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZO3wQyQh1K",
+					"expanded_url": "https://everestpipkin.medium.com/but-the-environmental-issues-with-cryptoart-1128ef72e6a3",
+					"display_url": "everestpipkin.medium.com/but-the-enviro…",
+					"indices": [
+						44,
+						67
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1367252978051203000,
+					"id_str": "1367252978051203074",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/Evl1VurWQAIv7iy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Evl1VurWQAIv7iy.jpg",
+					"url": "https://t.co/cau0kixLYB",
+					"display_url": "pic.twitter.com/cau0kixLYB",
+					"expanded_url": "https://twitter.com/everestpipkin/status/1367253353571483652/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 399,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 705,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1532,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1367252978051203000,
+					"id_str": "1367252978051203074",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/Evl1VurWQAIv7iy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Evl1VurWQAIv7iy.jpg",
+					"url": "https://t.co/cau0kixLYB",
+					"display_url": "pic.twitter.com/cau0kixLYB",
+					"expanded_url": "https://twitter.com/everestpipkin/status/1367253353571483652/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 399,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 705,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1532,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 28825574,
+			"id_str": "28825574",
+			"name": "everest",
+			"screen_name": "everestpipkin",
+			"location": "gulf coast",
+			"description": "a computer simulation of a field of violets -- i make games and occasional software -- icon by laura lewis -- they/them",
+			"url": "https://t.co/UgqjmhNMtk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UgqjmhNMtk",
+							"expanded_url": "http://everest-pipkin.com",
+							"display_url": "everest-pipkin.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18136,
+			"friends_count": 806,
+			"listed_count": 436,
+			"created_at": "Sat Apr 04 16:47:29 +0000 2009",
+			"favourites_count": 19618,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10041,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1136338476826222592/KjpOXa7E_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1136338476826222592/KjpOXa7E_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/28825574/1558906544",
+			"profile_link_color": "1A1A1C",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F0E2B2",
+			"profile_text_color": "4F4F4F",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5129,
+		"favorite_count": 11566,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "i cannot believe i had to write this. but.\n\nhttps://t.co/ZO3wQyQh1K https://t.co/cau0kixLYB"
+	},
+	{
 		"created_at": "Wed Mar 03 10:21:15 +0000 2021",
 		"id": 1367057475732598800,
 		"id_str": "1367057475732598787",
@@ -63,12 +247,12 @@ Grailbird.data.tweets_2021_03 =
 			"friends_count": 147,
 			"listed_count": 91,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8822,
+			"favourites_count": 8825,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14792,
+			"statuses_count": 14793,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -206,16 +390,16 @@ Grailbird.data.tweets_2021_03 =
 					}
 				},
 				"protected": false,
-				"followers_count": 22538,
-				"friends_count": 3936,
-				"listed_count": 333,
+				"followers_count": 22552,
+				"friends_count": 3935,
+				"listed_count": 332,
 				"created_at": "Sat Jun 13 04:45:19 +0000 2009",
-				"favourites_count": 7036,
+				"favourites_count": 7037,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": true,
-				"statuses_count": 65504,
+				"statuses_count": 65505,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -246,7 +430,7 @@ Grailbird.data.tweets_2021_03 =
 			"contributors": null,
 			"is_quote_status": false,
 			"retweet_count": 60,
-			"favorite_count": 300,
+			"favorite_count": 301,
 			"favorited": false,
 			"retweeted": false,
 			"lang": "en"
@@ -323,12 +507,12 @@ Grailbird.data.tweets_2021_03 =
 			"friends_count": 147,
 			"listed_count": 91,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8822,
+			"favourites_count": 8825,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14792,
+			"statuses_count": 14793,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -537,12 +721,12 @@ Grailbird.data.tweets_2021_03 =
 			"friends_count": 147,
 			"listed_count": 91,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8822,
+			"favourites_count": 8825,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14792,
+			"statuses_count": 14793,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -677,12 +861,12 @@ Grailbird.data.tweets_2021_03 =
 			"friends_count": 147,
 			"listed_count": 91,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8822,
+			"favourites_count": 8825,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14792,
+			"statuses_count": 14793,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
