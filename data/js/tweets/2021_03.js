@@ -1,6 +1,211 @@
 Grailbird.data.tweets_2021_03 = 
 [
 	{
+		"created_at": "Fri Mar 05 07:14:26 +0000 2021",
+		"id": 1367481789376327700,
+		"id_str": "1367735236163870726",
+		"full_text": "Just made a mind-blowing discovery https://t.co/aS4k2OlnUW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			34
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1367479840895557600,
+					"id_str": "1367479840895557634",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1367479840895557634/pu/img/utnoYt2THsDr6iB-.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1367479840895557634/pu/img/utnoYt2THsDr6iB-.jpg",
+					"url": "https://t.co/aS4k2OlnUW",
+					"display_url": "pic.twitter.com/aS4k2OlnUW",
+					"expanded_url": "https://twitter.com/thejazzemu/status/1367481789376327682/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1367479840895557600,
+					"id_str": "1367479840895557634",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1367479840895557634/pu/img/utnoYt2THsDr6iB-.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1367479840895557634/pu/img/utnoYt2THsDr6iB-.jpg",
+					"url": "https://t.co/aS4k2OlnUW",
+					"display_url": "pic.twitter.com/aS4k2OlnUW",
+					"expanded_url": "https://twitter.com/thejazzemu/status/1367481789376327682/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 131214,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1367479840895557634/pu/vid/480x270/TFak5NHb4U1tewl1.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1367479840895557634/pu/vid/640x360/zm_cGW6B_F1vNepJ.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1367479840895557634/pu/pl/pPJTudXqbg4bP0F5.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1367479840895557634/pu/vid/1280x720/p71KSX_lRXNrKeQW.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1312022450763427800,
+			"id_str": "1312022450763427843",
+			"name": "Jazz Emu",
+			"screen_name": "thejazzemu",
+			"location": "",
+			"description": "stone cold hotshot. Listen to my FunkNuggs:",
+			"url": "https://t.co/DSWt7NGBrN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DSWt7NGBrN",
+							"expanded_url": "http://linktr.ee/jazzemu_",
+							"display_url": "linktr.ee/jazzemu_",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8500,
+			"friends_count": 1,
+			"listed_count": 13,
+			"created_at": "Fri Oct 02 13:31:53 +0000 2020",
+			"favourites_count": 321,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 138,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1312023053912727552/eoWBrdiB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1312023053912727552/eoWBrdiB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1312022450763427843/1607946026",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4092,
+		"favorite_count": 15225,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Just made a mind-blowing discovery https://t.co/aS4k2OlnUW"
+	},
+	{
 		"created_at": "Thu Mar 04 21:44:55 +0000 2021",
 		"id": 1367253353571483600,
 		"id_str": "1367591911591014405",
@@ -137,16 +342,16 @@ Grailbird.data.tweets_2021_03 =
 				}
 			},
 			"protected": false,
-			"followers_count": 18136,
+			"followers_count": 18275,
 			"friends_count": 806,
-			"listed_count": 436,
+			"listed_count": 434,
 			"created_at": "Sat Apr 04 16:47:29 +0000 2009",
-			"favourites_count": 19618,
+			"favourites_count": 19638,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 10041,
+			"statuses_count": 10046,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -176,8 +381,8 @@ Grailbird.data.tweets_2021_03 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 5129,
-		"favorite_count": 11566,
+		"retweet_count": 5604,
+		"favorite_count": 12741,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -243,16 +448,16 @@ Grailbird.data.tweets_2021_03 =
 				}
 			},
 			"protected": false,
-			"followers_count": 824,
+			"followers_count": 825,
 			"friends_count": 147,
 			"listed_count": 91,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8825,
+			"favourites_count": 8835,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14793,
+			"statuses_count": 14794,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -390,16 +595,16 @@ Grailbird.data.tweets_2021_03 =
 					}
 				},
 				"protected": false,
-				"followers_count": 22552,
+				"followers_count": 22584,
 				"friends_count": 3935,
-				"listed_count": 332,
+				"listed_count": 331,
 				"created_at": "Sat Jun 13 04:45:19 +0000 2009",
 				"favourites_count": 7037,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": true,
-				"statuses_count": 65505,
+				"statuses_count": 65514,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -429,7 +634,7 @@ Grailbird.data.tweets_2021_03 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 60,
+			"retweet_count": 59,
 			"favorite_count": 301,
 			"favorited": false,
 			"retweeted": false,
@@ -503,16 +708,16 @@ Grailbird.data.tweets_2021_03 =
 				}
 			},
 			"protected": false,
-			"followers_count": 824,
+			"followers_count": 825,
 			"friends_count": 147,
 			"listed_count": 91,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8825,
+			"favourites_count": 8835,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14793,
+			"statuses_count": 14794,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -717,16 +922,16 @@ Grailbird.data.tweets_2021_03 =
 				}
 			},
 			"protected": false,
-			"followers_count": 824,
+			"followers_count": 825,
 			"friends_count": 147,
 			"listed_count": 91,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8825,
+			"favourites_count": 8835,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14793,
+			"statuses_count": 14794,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -857,16 +1062,16 @@ Grailbird.data.tweets_2021_03 =
 				}
 			},
 			"protected": false,
-			"followers_count": 824,
+			"followers_count": 825,
 			"friends_count": 147,
 			"listed_count": 91,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8825,
+			"favourites_count": 8835,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14793,
+			"statuses_count": 14794,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
