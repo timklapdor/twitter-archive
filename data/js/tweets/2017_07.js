@@ -84,15 +84,15 @@ Grailbird.data.tweets_2017_07 =
 			},
 			"protected": false,
 			"followers_count": 824,
-			"friends_count": 146,
+			"friends_count": 147,
 			"listed_count": 89,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8880,
+			"favourites_count": 8885,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14836,
+			"statuses_count": 14840,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -189,15 +189,15 @@ Grailbird.data.tweets_2017_07 =
 				},
 				"protected": false,
 				"followers_count": 3312,
-				"friends_count": 3811,
+				"friends_count": 3812,
 				"listed_count": 148,
 				"created_at": "Tue Mar 03 20:30:51 +0000 2009",
-				"favourites_count": 27866,
+				"favourites_count": 27891,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": false,
-				"statuses_count": 23625,
+				"statuses_count": 23632,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -302,15 +302,15 @@ Grailbird.data.tweets_2017_07 =
 			},
 			"protected": false,
 			"followers_count": 3312,
-			"friends_count": 3811,
+			"friends_count": 3812,
 			"listed_count": 148,
 			"created_at": "Tue Mar 03 20:30:51 +0000 2009",
-			"favourites_count": 27866,
+			"favourites_count": 27891,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 23625,
+			"statuses_count": 23632,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -419,15 +419,15 @@ Grailbird.data.tweets_2017_07 =
 			},
 			"protected": false,
 			"followers_count": 824,
-			"friends_count": 146,
+			"friends_count": 147,
 			"listed_count": 89,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8880,
+			"favourites_count": 8885,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14836,
+			"statuses_count": 14840,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -524,15 +524,15 @@ Grailbird.data.tweets_2017_07 =
 			},
 			"protected": false,
 			"followers_count": 824,
-			"friends_count": 146,
+			"friends_count": 147,
 			"listed_count": 89,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8880,
+			"favourites_count": 8885,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14836,
+			"statuses_count": 14840,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -727,8 +727,8 @@ Grailbird.data.tweets_2017_07 =
 					}
 				},
 				"protected": false,
-				"followers_count": 5563,
-				"friends_count": 2339,
+				"followers_count": 5562,
+				"friends_count": 2340,
 				"listed_count": 510,
 				"created_at": "Tue Apr 03 21:20:45 +0000 2007",
 				"favourites_count": 149,
@@ -736,7 +736,7 @@ Grailbird.data.tweets_2017_07 =
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": false,
-				"statuses_count": 64066,
+				"statuses_count": 64091,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -830,16 +830,16 @@ Grailbird.data.tweets_2017_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 31425,
+			"followers_count": 31422,
 			"friends_count": 2076,
-			"listed_count": 491,
+			"listed_count": 490,
 			"created_at": "Tue Sep 01 20:24:37 +0000 2009",
-			"favourites_count": 131583,
+			"favourites_count": 131600,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 61281,
+			"statuses_count": 61290,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -870,7 +870,7 @@ Grailbird.data.tweets_2017_07 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 2889,
-		"favorite_count": 8786,
+		"favorite_count": 8765,
 		"favorited": false,
 		"retweeted": false,
 		"lang": "en",
@@ -1012,15 +1012,15 @@ Grailbird.data.tweets_2017_07 =
 			},
 			"protected": false,
 			"followers_count": 824,
-			"friends_count": 146,
+			"friends_count": 147,
 			"listed_count": 89,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8880,
+			"favourites_count": 8885,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14836,
+			"statuses_count": 14840,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1118,15 +1118,15 @@ Grailbird.data.tweets_2017_07 =
 			},
 			"protected": false,
 			"followers_count": 824,
-			"friends_count": 146,
+			"friends_count": 147,
 			"listed_count": 89,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8880,
+			"favourites_count": 8885,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14836,
+			"statuses_count": 14840,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1232,7 +1232,7 @@ Grailbird.data.tweets_2017_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 79195,
+			"followers_count": 79311,
 			"friends_count": 332,
 			"listed_count": 694,
 			"created_at": "Wed Dec 02 02:46:11 +0000 2009",
@@ -1241,7 +1241,7 @@ Grailbird.data.tweets_2017_07 =
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 22300,
+			"statuses_count": 22324,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1272,7 +1272,7 @@ Grailbird.data.tweets_2017_07 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 1238,
-		"favorite_count": 3753,
+		"favorite_count": 3754,
 		"favorited": false,
 		"retweeted": false,
 		"lang": "en",
@@ -1337,16 +1337,16 @@ Grailbird.data.tweets_2017_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 2042,
-			"friends_count": 1266,
+			"followers_count": 2044,
+			"friends_count": 1267,
 			"listed_count": 42,
 			"created_at": "Tue Sep 01 04:46:23 +0000 2009",
-			"favourites_count": 17294,
+			"favourites_count": 17266,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 10272,
+			"statuses_count": 10262,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1531,16 +1531,16 @@ Grailbird.data.tweets_2017_07 =
 					}
 				},
 				"protected": false,
-				"followers_count": 2577722,
-				"friends_count": 246267,
-				"listed_count": 17681,
+				"followers_count": 2577803,
+				"friends_count": 246263,
+				"listed_count": 17683,
 				"created_at": "Thu Nov 20 23:02:29 +0000 2008",
 				"favourites_count": 1231,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": true,
-				"statuses_count": 323866,
+				"statuses_count": 323943,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -1577,8 +1577,8 @@ Grailbird.data.tweets_2017_07 =
 			"possibly_sensitive": false,
 			"lang": "en"
 		},
-		"retweet_count": 14691,
-		"favorite_count": 50110,
+		"retweet_count": 14689,
+		"favorite_count": 50058,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
@@ -1666,15 +1666,15 @@ Grailbird.data.tweets_2017_07 =
 			},
 			"protected": false,
 			"followers_count": 824,
-			"friends_count": 146,
+			"friends_count": 147,
 			"listed_count": 89,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8880,
+			"favourites_count": 8885,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14836,
+			"statuses_count": 14840,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1893,16 +1893,16 @@ Grailbird.data.tweets_2017_07 =
 					}
 				},
 				"protected": false,
-				"followers_count": 16352,
-				"friends_count": 1301,
-				"listed_count": 93,
+				"followers_count": 16350,
+				"friends_count": 1303,
+				"listed_count": 94,
 				"created_at": "Sat Feb 21 03:14:33 +0000 2009",
-				"favourites_count": 144911,
+				"favourites_count": 145051,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": false,
-				"statuses_count": 82744,
+				"statuses_count": 82799,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -1932,8 +1932,8 @@ Grailbird.data.tweets_2017_07 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 1010,
-			"favorite_count": 2911,
+			"retweet_count": 1009,
+			"favorite_count": 2905,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
@@ -2018,15 +2018,15 @@ Grailbird.data.tweets_2017_07 =
 			},
 			"protected": false,
 			"followers_count": 824,
-			"friends_count": 146,
+			"friends_count": 147,
 			"listed_count": 89,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8880,
+			"favourites_count": 8885,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14836,
+			"statuses_count": 14840,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2062,688 +2062,5 @@ Grailbird.data.tweets_2017_07 =
 		"retweeted": false,
 		"lang": "en",
 		"text": "@rowan_peter @jimgroom I dropped the ball on this. Should have organised the fog to come in tomorrow :-)"
-	},
-	{
-		"created_at": "Wed Jul 26 07:48:47 +0000 2017",
-		"id": 890116673335906300,
-		"id_str": "890116673335906306",
-		"full_text": "@KeeganSLW having a middy of Road2Ruin for you brother! Will have to get you back here to sample it! https://t.co/Gnq9rB421x",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			100
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [
-				{
-					"screen_name": "KeeganSLW",
-					"name": "Keegan🦔Long-Wheeler",
-					"id": 117573509,
-					"id_str": "117573509",
-					"indices": [
-						0,
-						10
-					]
-				}
-			],
-			"urls": [],
-			"media": [
-				{
-					"id": 890116642260299800,
-					"id_str": "890116642260299777",
-					"indices": [
-						101,
-						124
-					],
-					"media_url": "http://pbs.twimg.com/media/DFpUXr6WsAEtPpL.jpg",
-					"media_url_https": "https://pbs.twimg.com/media/DFpUXr6WsAEtPpL.jpg",
-					"url": "https://t.co/Gnq9rB421x",
-					"display_url": "pic.twitter.com/Gnq9rB421x",
-					"expanded_url": "https://twitter.com/timklapdor/status/890116673335906306/photo/1",
-					"type": "photo",
-					"sizes": {
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"small": {
-							"w": 510,
-							"h": 680,
-							"resize": "fit"
-						},
-						"large": {
-							"w": 768,
-							"h": 1024,
-							"resize": "fit"
-						},
-						"medium": {
-							"w": 768,
-							"h": 1024,
-							"resize": "fit"
-						}
-					}
-				}
-			]
-		},
-		"extended_entities": {
-			"media": [
-				{
-					"id": 890116642260299800,
-					"id_str": "890116642260299777",
-					"indices": [
-						101,
-						124
-					],
-					"media_url": "http://pbs.twimg.com/media/DFpUXr6WsAEtPpL.jpg",
-					"media_url_https": "https://pbs.twimg.com/media/DFpUXr6WsAEtPpL.jpg",
-					"url": "https://t.co/Gnq9rB421x",
-					"display_url": "pic.twitter.com/Gnq9rB421x",
-					"expanded_url": "https://twitter.com/timklapdor/status/890116673335906306/photo/1",
-					"type": "photo",
-					"sizes": {
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"small": {
-							"w": 510,
-							"h": 680,
-							"resize": "fit"
-						},
-						"large": {
-							"w": 768,
-							"h": 1024,
-							"resize": "fit"
-						},
-						"medium": {
-							"w": 768,
-							"h": 1024,
-							"resize": "fit"
-						}
-					}
-				},
-				{
-					"id": 890116643690557400,
-					"id_str": "890116643690557440",
-					"indices": [
-						101,
-						124
-					],
-					"media_url": "http://pbs.twimg.com/media/DFpUXxPWsAAsKrf.jpg",
-					"media_url_https": "https://pbs.twimg.com/media/DFpUXxPWsAAsKrf.jpg",
-					"url": "https://t.co/Gnq9rB421x",
-					"display_url": "pic.twitter.com/Gnq9rB421x",
-					"expanded_url": "https://twitter.com/timklapdor/status/890116673335906306/photo/1",
-					"type": "photo",
-					"sizes": {
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"large": {
-							"w": 768,
-							"h": 1024,
-							"resize": "fit"
-						},
-						"medium": {
-							"w": 768,
-							"h": 1024,
-							"resize": "fit"
-						},
-						"small": {
-							"w": 510,
-							"h": 680,
-							"resize": "fit"
-						}
-					}
-				}
-			]
-		},
-		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": 117573509,
-		"in_reply_to_user_id_str": "117573509",
-		"in_reply_to_screen_name": "KeeganSLW",
-		"user": {
-			"id": 174124175,
-			"id_str": "174124175",
-			"name": "Tim Klapdor",
-			"screen_name": "timklapdor",
-			"location": "Adelaide, South Australia",
-			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "https://t.co/uC0c3me6KE",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/uC0c3me6KE",
-							"expanded_url": "http://timklapdor.com",
-							"display_url": "timklapdor.com",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 824,
-			"friends_count": 146,
-			"listed_count": 89,
-			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8880,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 14836,
-			"lang": null,
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "C0DEED",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
-			"profile_link_color": "5FA832",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "DDEEF6",
-			"profile_text_color": "333333",
-			"profile_use_background_image": true,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 0,
-		"favorited": false,
-		"retweeted": false,
-		"possibly_sensitive": false,
-		"lang": "en",
-		"text": "@KeeganSLW having a middy of Road2Ruin for you brother! Will have to get you back here to sample it! https://t.co/Gnq9rB421x"
-	},
-	{
-		"created_at": "Wed Jul 26 05:05:21 +0000 2017",
-		"id": 890075547157631000,
-		"id_str": "890075547157630976",
-		"full_text": "Tech company conferences… all sizzle, no steak.",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			47
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": []
-		},
-		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 174124175,
-			"id_str": "174124175",
-			"name": "Tim Klapdor",
-			"screen_name": "timklapdor",
-			"location": "Adelaide, South Australia",
-			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "https://t.co/uC0c3me6KE",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/uC0c3me6KE",
-							"expanded_url": "http://timklapdor.com",
-							"display_url": "timklapdor.com",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 824,
-			"friends_count": 146,
-			"listed_count": 89,
-			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8880,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 14836,
-			"lang": null,
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "C0DEED",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
-			"profile_link_color": "5FA832",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "DDEEF6",
-			"profile_text_color": "333333",
-			"profile_use_background_image": true,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": {
-			"id": "00de77a74e8155fa",
-			"url": "https://api.twitter.com/1.1/geo/id/00de77a74e8155fa.json",
-			"place_type": "city",
-			"name": "Estella",
-			"full_name": "Estella, New South Wales",
-			"country_code": "AU",
-			"country": "Australia",
-			"contained_within": [],
-			"bounding_box": {
-				"type": "Polygon",
-				"coordinates": [
-					[
-						[
-							147.342861344,
-							-35.0844753575
-						],
-						[
-							147.363966496,
-							-35.0844753575
-						],
-						[
-							147.363966496,
-							-35.046804418
-						],
-						[
-							147.342861344,
-							-35.046804418
-						]
-					]
-				]
-			},
-			"attributes": {}
-		},
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 3,
-		"favorited": false,
-		"retweeted": false,
-		"lang": "en",
-		"text": "Tech company conferences… all sizzle, no steak."
-	},
-	{
-		"created_at": "Wed Jul 26 04:52:28 +0000 2017",
-		"id": 890072302964150300,
-		"id_str": "890072302964150272",
-		"full_text": "Prepping for @jimgroom’s Wagga Wagga debut. Finalising touches to our Incubation strategy he’ll be part of launching https://t.co/PefCJdEk83",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			116
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [
-				{
-					"screen_name": "jimgroom",
-					"name": "Jim Groom",
-					"id": 3362981,
-					"id_str": "3362981",
-					"indices": [
-						13,
-						22
-					]
-				}
-			],
-			"urls": [],
-			"media": [
-				{
-					"id": 890072297385717800,
-					"id_str": "890072297385717761",
-					"indices": [
-						117,
-						140
-					],
-					"media_url": "http://pbs.twimg.com/media/DFosCeYXcAEqeL3.jpg",
-					"media_url_https": "https://pbs.twimg.com/media/DFosCeYXcAEqeL3.jpg",
-					"url": "https://t.co/PefCJdEk83",
-					"display_url": "pic.twitter.com/PefCJdEk83",
-					"expanded_url": "https://twitter.com/timklapdor/status/890072302964150272/photo/1",
-					"type": "photo",
-					"sizes": {
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"large": {
-							"w": 800,
-							"h": 800,
-							"resize": "fit"
-						},
-						"small": {
-							"w": 680,
-							"h": 680,
-							"resize": "fit"
-						},
-						"medium": {
-							"w": 800,
-							"h": 800,
-							"resize": "fit"
-						}
-					}
-				}
-			]
-		},
-		"extended_entities": {
-			"media": [
-				{
-					"id": 890072297385717800,
-					"id_str": "890072297385717761",
-					"indices": [
-						117,
-						140
-					],
-					"media_url": "http://pbs.twimg.com/media/DFosCeYXcAEqeL3.jpg",
-					"media_url_https": "https://pbs.twimg.com/media/DFosCeYXcAEqeL3.jpg",
-					"url": "https://t.co/PefCJdEk83",
-					"display_url": "pic.twitter.com/PefCJdEk83",
-					"expanded_url": "https://twitter.com/timklapdor/status/890072302964150272/photo/1",
-					"type": "photo",
-					"sizes": {
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"large": {
-							"w": 800,
-							"h": 800,
-							"resize": "fit"
-						},
-						"small": {
-							"w": 680,
-							"h": 680,
-							"resize": "fit"
-						},
-						"medium": {
-							"w": 800,
-							"h": 800,
-							"resize": "fit"
-						}
-					}
-				}
-			]
-		},
-		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 174124175,
-			"id_str": "174124175",
-			"name": "Tim Klapdor",
-			"screen_name": "timklapdor",
-			"location": "Adelaide, South Australia",
-			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "https://t.co/uC0c3me6KE",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/uC0c3me6KE",
-							"expanded_url": "http://timklapdor.com",
-							"display_url": "timklapdor.com",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 824,
-			"friends_count": 146,
-			"listed_count": 89,
-			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8880,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 14836,
-			"lang": null,
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "C0DEED",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
-			"profile_link_color": "5FA832",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "DDEEF6",
-			"profile_text_color": "333333",
-			"profile_use_background_image": true,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": {
-			"id": "00de77a74e8155fa",
-			"url": "https://api.twitter.com/1.1/geo/id/00de77a74e8155fa.json",
-			"place_type": "city",
-			"name": "Estella",
-			"full_name": "Estella, New South Wales",
-			"country_code": "AU",
-			"country": "Australia",
-			"contained_within": [],
-			"bounding_box": {
-				"type": "Polygon",
-				"coordinates": [
-					[
-						[
-							147.342861344,
-							-35.0844753575
-						],
-						[
-							147.363966496,
-							-35.0844753575
-						],
-						[
-							147.363966496,
-							-35.046804418
-						],
-						[
-							147.342861344,
-							-35.046804418
-						]
-					]
-				]
-			},
-			"attributes": {}
-		},
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 2,
-		"favorited": false,
-		"retweeted": false,
-		"possibly_sensitive": false,
-		"lang": "en",
-		"text": "Prepping for @jimgroom’s Wagga Wagga debut. Finalising touches to our Incubation strategy he’ll be part of launching https://t.co/PefCJdEk83"
-	},
-	{
-		"created_at": "Wed Jul 26 02:13:18 +0000 2017",
-		"id": 890032247595614200,
-		"id_str": "890032247595614208",
-		"full_text": "Great morning spent with @lyn_hay and the @uimagine_csu team planning Scholarship in Online Learning approaches.",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			112
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [
-				{
-					"screen_name": "lyn_hay",
-					"name": "Lyn Hay",
-					"id": 15843075,
-					"id_str": "15843075",
-					"indices": [
-						25,
-						33
-					]
-				},
-				{
-					"screen_name": "uimagine_csu",
-					"name": "uImagine",
-					"id": 2785201626,
-					"id_str": "2785201626",
-					"indices": [
-						42,
-						55
-					]
-				}
-			],
-			"urls": []
-		},
-		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 174124175,
-			"id_str": "174124175",
-			"name": "Tim Klapdor",
-			"screen_name": "timklapdor",
-			"location": "Adelaide, South Australia",
-			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "https://t.co/uC0c3me6KE",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/uC0c3me6KE",
-							"expanded_url": "http://timklapdor.com",
-							"display_url": "timklapdor.com",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 824,
-			"friends_count": 146,
-			"listed_count": 89,
-			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8880,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 14836,
-			"lang": null,
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "C0DEED",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
-			"profile_link_color": "5FA832",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "DDEEF6",
-			"profile_text_color": "333333",
-			"profile_use_background_image": true,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 1,
-		"favorite_count": 1,
-		"favorited": false,
-		"retweeted": false,
-		"lang": "en",
-		"text": "Great morning spent with @lyn_hay and the @uimagine_csu team planning Scholarship in Online Learning approaches."
 	}
 ]
