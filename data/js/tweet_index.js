@@ -3,7 +3,7 @@ var tweet_index = [
 		"file_name": "data/js/tweets/2021_03.js",
 		"year": 2021,
 		"var_name": "tweets_2021_03",
-		"tweet_count": 62,
+		"tweet_count": 65,
 		"month": 3
 	},
 	{
@@ -108,7 +108,7 @@ var tweet_index = [
 		"file_name": "data/js/tweets/2019_12.js",
 		"year": 2019,
 		"var_name": "tweets_2019_12",
-		"tweet_count": 61,
+		"tweet_count": 62,
 		"month": 12
 	},
 	{
@@ -143,14 +143,14 @@ var tweet_index = [
 		"file_name": "data/js/tweets/2019_07.js",
 		"year": 2019,
 		"var_name": "tweets_2019_07",
-		"tweet_count": 43,
+		"tweet_count": 42,
 		"month": 7
 	},
 	{
 		"file_name": "data/js/tweets/2019_06.js",
 		"year": 2019,
 		"var_name": "tweets_2019_06",
-		"tweet_count": 49,
+		"tweet_count": 50,
 		"month": 6
 	},
 	{
@@ -185,14 +185,14 @@ var tweet_index = [
 		"file_name": "data/js/tweets/2019_01.js",
 		"year": 2019,
 		"var_name": "tweets_2019_01",
-		"tweet_count": 85,
+		"tweet_count": 84,
 		"month": 1
 	},
 	{
 		"file_name": "data/js/tweets/2018_12.js",
 		"year": 2018,
 		"var_name": "tweets_2018_12",
-		"tweet_count": 60,
+		"tweet_count": 61,
 		"month": 12
 	},
 	{
@@ -227,14 +227,14 @@ var tweet_index = [
 		"file_name": "data/js/tweets/2018_07.js",
 		"year": 2018,
 		"var_name": "tweets_2018_07",
-		"tweet_count": 93,
+		"tweet_count": 92,
 		"month": 7
 	},
 	{
 		"file_name": "data/js/tweets/2018_06.js",
 		"year": 2018,
 		"var_name": "tweets_2018_06",
-		"tweet_count": 55,
+		"tweet_count": 56,
 		"month": 6
 	},
 	{
@@ -290,14 +290,14 @@ var tweet_index = [
 		"file_name": "data/js/tweets/2017_10.js",
 		"year": 2017,
 		"var_name": "tweets_2017_10",
-		"tweet_count": 102,
+		"tweet_count": 101,
 		"month": 10
 	},
 	{
 		"file_name": "data/js/tweets/2017_09.js",
 		"year": 2017,
 		"var_name": "tweets_2017_09",
-		"tweet_count": 77,
+		"tweet_count": 78,
 		"month": 9
 	},
 	{
@@ -311,7 +311,7 @@ var tweet_index = [
 		"file_name": "data/js/tweets/2017_07.js",
 		"year": 2017,
 		"var_name": "tweets_2017_07",
-		"tweet_count": 9,
+		"tweet_count": 6,
 		"month": 7
 	},
 	{

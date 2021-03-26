@@ -83,16 +83,16 @@ Grailbird.data.tweets_2017_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 824,
-			"friends_count": 147,
-			"listed_count": 89,
+			"followers_count": 826,
+			"friends_count": 148,
+			"listed_count": 91,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8889,
+			"favourites_count": 8897,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14842,
+			"statuses_count": 14845,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -188,16 +188,16 @@ Grailbird.data.tweets_2017_07 =
 					}
 				},
 				"protected": false,
-				"followers_count": 3312,
-				"friends_count": 3812,
+				"followers_count": 3317,
+				"friends_count": 3816,
 				"listed_count": 148,
 				"created_at": "Tue Mar 03 20:30:51 +0000 2009",
-				"favourites_count": 27898,
+				"favourites_count": 27925,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": false,
-				"statuses_count": 23641,
+				"statuses_count": 23655,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -301,16 +301,16 @@ Grailbird.data.tweets_2017_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 3312,
-			"friends_count": 3812,
+			"followers_count": 3317,
+			"friends_count": 3816,
 			"listed_count": 148,
 			"created_at": "Tue Mar 03 20:30:51 +0000 2009",
-			"favourites_count": 27898,
+			"favourites_count": 27925,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 23641,
+			"statuses_count": 23655,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -418,16 +418,16 @@ Grailbird.data.tweets_2017_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 824,
-			"friends_count": 147,
-			"listed_count": 89,
+			"followers_count": 826,
+			"friends_count": 148,
+			"listed_count": 91,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8889,
+			"favourites_count": 8897,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14842,
+			"statuses_count": 14845,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -523,16 +523,16 @@ Grailbird.data.tweets_2017_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 824,
-			"friends_count": 147,
-			"listed_count": 89,
+			"followers_count": 826,
+			"friends_count": 148,
+			"listed_count": 91,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8889,
+			"favourites_count": 8897,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14842,
+			"statuses_count": 14845,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -729,14 +729,14 @@ Grailbird.data.tweets_2017_07 =
 				"protected": false,
 				"followers_count": 5563,
 				"friends_count": 2340,
-				"listed_count": 509,
+				"listed_count": 508,
 				"created_at": "Tue Apr 03 21:20:45 +0000 2007",
 				"favourites_count": 149,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": false,
-				"statuses_count": 64103,
+				"statuses_count": 64136,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -830,16 +830,16 @@ Grailbird.data.tweets_2017_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 31418,
-			"friends_count": 2074,
+			"followers_count": 31413,
+			"friends_count": 2073,
 			"listed_count": 490,
 			"created_at": "Tue Sep 01 20:24:37 +0000 2009",
-			"favourites_count": 131605,
+			"favourites_count": 131559,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 61285,
+			"statuses_count": 61287,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -870,7 +870,7 @@ Grailbird.data.tweets_2017_07 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 2889,
-		"favorite_count": 8784,
+		"favorite_count": 8782,
 		"favorited": false,
 		"retweeted": false,
 		"lang": "en",
@@ -1011,16 +1011,16 @@ Grailbird.data.tweets_2017_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 824,
-			"friends_count": 147,
-			"listed_count": 89,
+			"followers_count": 826,
+			"friends_count": 148,
+			"listed_count": 91,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8889,
+			"favourites_count": 8897,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14842,
+			"statuses_count": 14845,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1057,532 +1057,5 @@ Grailbird.data.tweets_2017_07 =
 		"possibly_sensitive": false,
 		"lang": "en",
 		"text": "So what’s in these 615mb updates? #softwarebloat https://t.co/eyagB5FUF5"
-	},
-	{
-		"created_at": "Fri Jul 28 23:29:07 +0000 2017",
-		"id": 891078093418274800,
-		"id_str": "891078093418274816",
-		"full_text": "This is on my todo list - be more deliberate in my digital and online work.  https://t.co/8Q5iEtWUKR",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			100
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": [
-				{
-					"url": "https://t.co/8Q5iEtWUKR",
-					"expanded_url": "https://medium.com/@krisshaffer/digital-minimalism-being-deliberate-about-digital-identity-418baf0fd537",
-					"display_url": "medium.com/@krisshaffer/d…",
-					"indices": [
-						77,
-						100
-					]
-				}
-			]
-		},
-		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 174124175,
-			"id_str": "174124175",
-			"name": "Tim Klapdor",
-			"screen_name": "timklapdor",
-			"location": "Adelaide, South Australia",
-			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "https://t.co/uC0c3me6KE",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/uC0c3me6KE",
-							"expanded_url": "http://timklapdor.com",
-							"display_url": "timklapdor.com",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 824,
-			"friends_count": 147,
-			"listed_count": 89,
-			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8889,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 14842,
-			"lang": null,
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "C0DEED",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
-			"profile_link_color": "5FA832",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "DDEEF6",
-			"profile_text_color": "333333",
-			"profile_use_background_image": true,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 3,
-		"favorited": false,
-		"retweeted": false,
-		"possibly_sensitive": false,
-		"lang": "en",
-		"text": "This is on my todo list - be more deliberate in my digital and online work.  https://t.co/8Q5iEtWUKR"
-	},
-	{
-		"created_at": "Fri Jul 28 12:10:31 +0000 2017",
-		"id": 890785771694694400,
-		"id_str": "890907319206150145",
-		"full_text": "Frankly, I'm sick of our MPs and Senators, coming over here, taking the jobs of real Australians.",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			97
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": []
-		},
-		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 94004565,
-			"id_str": "94004565",
-			"name": "Tony Martin",
-			"screen_name": "mrtonymartin",
-			"location": "Melbourne, Australia",
-			"description": "Mayor of SIZZLETOWN https://t.co/C4b2Jktikt LOLLY SCRAMBLE audiobook and new THAT SAID mini-audiobook https://t.co/GNiSzMWy4O",
-			"url": "https://t.co/FXuqoBgC8d",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/FXuqoBgC8d",
-							"expanded_url": "https://www.youtube.com/c/TonyMartinsSIZZLETOWN",
-							"display_url": "youtube.com/c/TonyMartinsS…",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": [
-						{
-							"url": "https://t.co/C4b2Jktikt",
-							"expanded_url": "http://sizzletown.podbean.com",
-							"display_url": "sizzletown.podbean.com",
-							"indices": [
-								20,
-								43
-							]
-						},
-						{
-							"url": "https://t.co/GNiSzMWy4O",
-							"expanded_url": "https://mrtonymartin.bandcamp.com",
-							"display_url": "mrtonymartin.bandcamp.com",
-							"indices": [
-								102,
-								125
-							]
-						}
-					]
-				}
-			},
-			"protected": false,
-			"followers_count": 79345,
-			"friends_count": 332,
-			"listed_count": 695,
-			"created_at": "Wed Dec 02 02:46:11 +0000 2009",
-			"favourites_count": 100,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": false,
-			"verified": true,
-			"statuses_count": 22334,
-			"lang": null,
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "FFFFFF",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000580537921/7b0cc472d4a36416dd392f3f21ee5d0a_normal.jpeg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000580537921/7b0cc472d4a36416dd392f3f21ee5d0a_normal.jpeg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94004565/1612354865",
-			"profile_link_color": "F15B24",
-			"profile_sidebar_border_color": "FFFFFF",
-			"profile_sidebar_fill_color": "E3E1CA",
-			"profile_text_color": "000000",
-			"profile_use_background_image": true,
-			"has_extended_profile": false,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 1238,
-		"favorite_count": 3749,
-		"favorited": false,
-		"retweeted": false,
-		"lang": "en",
-		"text": "Frankly, I'm sick of our MPs and Senators, coming over here, taking the jobs of real Australians."
-	},
-	{
-		"created_at": "Thu Jul 27 10:49:15 +0000 2017",
-		"id": 890262546518769700,
-		"id_str": "890524478236536832",
-		"full_text": "TRUMP: (drinking from human skull)\nMCCAIN: Damn it man, use a coaster! https://t.co/8FzkWGEb27",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			70
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": [
-				{
-					"url": "https://t.co/8FzkWGEb27",
-					"expanded_url": "https://twitter.com/Variety/status/890257113309528064",
-					"display_url": "twitter.com/Variety/status…",
-					"indices": [
-						71,
-						94
-					]
-				}
-			]
-		},
-		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 70600365,
-			"id_str": "70600365",
-			"name": "Pete Haas",
-			"screen_name": "dimeford",
-			"location": "New York, NY",
-			"description": "Social media manager for @PCMag. Formerly @geekdotcom and @CinemaBlend. Proud member of @zdcreatorsguild. Opinions are my own.",
-			"url": "https://t.co/oWPa3d6yUX",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/oWPa3d6yUX",
-							"expanded_url": "https://www.bestpetehaas.com",
-							"display_url": "bestpetehaas.com",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 2043,
-			"friends_count": 1267,
-			"listed_count": 42,
-			"created_at": "Tue Sep 01 04:46:23 +0000 2009",
-			"favourites_count": 17291,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": true,
-			"statuses_count": 10272,
-			"lang": null,
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "C0DEED",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": true,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1276536237281730562/Moh-ED-6_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1276536237281730562/Moh-ED-6_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/70600365/1582689153",
-			"profile_link_color": "1B95E0",
-			"profile_sidebar_border_color": "FFFFFF",
-			"profile_sidebar_fill_color": "465A75",
-			"profile_text_color": "E59F25",
-			"profile_use_background_image": true,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": true,
-		"quoted_status_id": 890257113309528000,
-		"quoted_status_id_str": "890257113309528064",
-		"quoted_status_permalink": {
-			"url": "https://t.co/8FzkWGEb27",
-			"expanded": "https://twitter.com/Variety/status/890257113309528064",
-			"display": "twitter.com/Variety/status…"
-		},
-		"quoted_status": {
-			"created_at": "Wed Jul 26 17:06:50 +0000 2017",
-			"id": 890257113309528000,
-			"id_str": "890257113309528064",
-			"full_text": ".@SenJohnMcCain on Trump's transgender military ban: \"Major policy announcements should not be made via Twitter\" https://t.co/Atrzs9OKuX https://t.co/369y0S46Rb",
-			"truncated": false,
-			"display_text_range": [
-				0,
-				136
-			],
-			"entities": {
-				"hashtags": [],
-				"symbols": [],
-				"user_mentions": [
-					{
-						"screen_name": "SenJohnMcCain",
-						"name": "John McCain",
-						"id": 19394188,
-						"id_str": "19394188",
-						"indices": [
-							1,
-							15
-						]
-					}
-				],
-				"urls": [
-					{
-						"url": "https://t.co/Atrzs9OKuX",
-						"expanded_url": "http://bit.ly/2tYU4dB",
-						"display_url": "bit.ly/2tYU4dB",
-						"indices": [
-							113,
-							136
-						]
-					}
-				],
-				"media": [
-					{
-						"id": 890256993423937500,
-						"id_str": "890256993423937536",
-						"indices": [
-							137,
-							160
-						],
-						"media_url": "http://pbs.twimg.com/media/DFrUBMvXUAAzAZ5.jpg",
-						"media_url_https": "https://pbs.twimg.com/media/DFrUBMvXUAAzAZ5.jpg",
-						"url": "https://t.co/369y0S46Rb",
-						"display_url": "pic.twitter.com/369y0S46Rb",
-						"expanded_url": "https://twitter.com/Variety/status/890257113309528064/photo/1",
-						"type": "photo",
-						"sizes": {
-							"thumb": {
-								"w": 150,
-								"h": 150,
-								"resize": "crop"
-							},
-							"small": {
-								"w": 680,
-								"h": 383,
-								"resize": "fit"
-							},
-							"medium": {
-								"w": 1000,
-								"h": 563,
-								"resize": "fit"
-							},
-							"large": {
-								"w": 1000,
-								"h": 563,
-								"resize": "fit"
-							}
-						}
-					}
-				]
-			},
-			"extended_entities": {
-				"media": [
-					{
-						"id": 890256993423937500,
-						"id_str": "890256993423937536",
-						"indices": [
-							137,
-							160
-						],
-						"media_url": "http://pbs.twimg.com/media/DFrUBMvXUAAzAZ5.jpg",
-						"media_url_https": "https://pbs.twimg.com/media/DFrUBMvXUAAzAZ5.jpg",
-						"url": "https://t.co/369y0S46Rb",
-						"display_url": "pic.twitter.com/369y0S46Rb",
-						"expanded_url": "https://twitter.com/Variety/status/890257113309528064/photo/1",
-						"type": "photo",
-						"sizes": {
-							"thumb": {
-								"w": 150,
-								"h": 150,
-								"resize": "crop"
-							},
-							"small": {
-								"w": 680,
-								"h": 383,
-								"resize": "fit"
-							},
-							"medium": {
-								"w": 1000,
-								"h": 563,
-								"resize": "fit"
-							},
-							"large": {
-								"w": 1000,
-								"h": 563,
-								"resize": "fit"
-							}
-						}
-					}
-				]
-			},
-			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-			"in_reply_to_status_id": null,
-			"in_reply_to_status_id_str": null,
-			"in_reply_to_user_id": null,
-			"in_reply_to_user_id_str": null,
-			"in_reply_to_screen_name": null,
-			"user": {
-				"id": 17525171,
-				"id_str": "17525171",
-				"name": "Variety",
-				"screen_name": "Variety",
-				"location": "Los Angeles, CA",
-				"description": "The business of entertainment.",
-				"url": "https://t.co/8QkvN6A5Nf",
-				"entities": {
-					"url": {
-						"urls": [
-							{
-								"url": "https://t.co/8QkvN6A5Nf",
-								"expanded_url": "http://www.variety.com",
-								"display_url": "variety.com",
-								"indices": [
-									0,
-									23
-								]
-							}
-						]
-					},
-					"description": {
-						"urls": []
-					}
-				},
-				"protected": false,
-				"followers_count": 2578383,
-				"friends_count": 246245,
-				"listed_count": 17677,
-				"created_at": "Thu Nov 20 23:02:29 +0000 2008",
-				"favourites_count": 1232,
-				"utc_offset": null,
-				"time_zone": null,
-				"geo_enabled": true,
-				"verified": true,
-				"statuses_count": 324084,
-				"lang": null,
-				"contributors_enabled": false,
-				"is_translator": false,
-				"is_translation_enabled": false,
-				"profile_background_color": "FFFFFF",
-				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-				"profile_background_tile": false,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/1060236422500704257/jltNN1hQ_normal.jpg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1060236422500704257/jltNN1hQ_normal.jpg",
-				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17525171/1616616088",
-				"profile_link_color": "60728A",
-				"profile_sidebar_border_color": "FFFFFF",
-				"profile_sidebar_fill_color": "FFFFFF",
-				"profile_text_color": "333333",
-				"profile_use_background_image": true,
-				"has_extended_profile": false,
-				"default_profile": false,
-				"default_profile_image": false,
-				"following": false,
-				"follow_request_sent": false,
-				"notifications": false,
-				"translator_type": "none"
-			},
-			"geo": null,
-			"coordinates": null,
-			"place": null,
-			"contributors": null,
-			"is_quote_status": false,
-			"retweet_count": 169,
-			"favorite_count": 683,
-			"favorited": false,
-			"retweeted": false,
-			"possibly_sensitive": false,
-			"lang": "en"
-		},
-		"retweet_count": 14687,
-		"favorite_count": 50105,
-		"favorited": false,
-		"retweeted": false,
-		"possibly_sensitive": false,
-		"lang": "en",
-		"text": "TRUMP: (drinking from human skull)\nMCCAIN: Damn it man, use a coaster! https://t.co/8FzkWGEb27"
 	}
 ]
