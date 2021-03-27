@@ -87,12 +87,12 @@ Grailbird.data.tweets_2017_07 =
 			"friends_count": 148,
 			"listed_count": 91,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8897,
+			"favourites_count": 8899,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14845,
+			"statuses_count": 14846,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -189,15 +189,15 @@ Grailbird.data.tweets_2017_07 =
 				},
 				"protected": false,
 				"followers_count": 3317,
-				"friends_count": 3816,
+				"friends_count": 3817,
 				"listed_count": 148,
 				"created_at": "Tue Mar 03 20:30:51 +0000 2009",
-				"favourites_count": 27925,
+				"favourites_count": 27931,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": false,
-				"statuses_count": 23655,
+				"statuses_count": 23657,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -302,15 +302,15 @@ Grailbird.data.tweets_2017_07 =
 			},
 			"protected": false,
 			"followers_count": 3317,
-			"friends_count": 3816,
+			"friends_count": 3817,
 			"listed_count": 148,
 			"created_at": "Tue Mar 03 20:30:51 +0000 2009",
-			"favourites_count": 27925,
+			"favourites_count": 27931,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 23655,
+			"statuses_count": 23657,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -422,12 +422,12 @@ Grailbird.data.tweets_2017_07 =
 			"friends_count": 148,
 			"listed_count": 91,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8897,
+			"favourites_count": 8899,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14845,
+			"statuses_count": 14846,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -527,12 +527,12 @@ Grailbird.data.tweets_2017_07 =
 			"friends_count": 148,
 			"listed_count": 91,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8897,
+			"favourites_count": 8899,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14845,
+			"statuses_count": 14846,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -736,7 +736,7 @@ Grailbird.data.tweets_2017_07 =
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": false,
-				"statuses_count": 64136,
+				"statuses_count": 64159,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -830,16 +830,16 @@ Grailbird.data.tweets_2017_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 31413,
-			"friends_count": 2073,
-			"listed_count": 490,
+			"followers_count": 31410,
+			"friends_count": 2071,
+			"listed_count": 491,
 			"created_at": "Tue Sep 01 20:24:37 +0000 2009",
-			"favourites_count": 131559,
+			"favourites_count": 130662,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 61287,
+			"statuses_count": 61262,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -870,192 +870,10 @@ Grailbird.data.tweets_2017_07 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 2889,
-		"favorite_count": 8782,
+		"favorite_count": 8780,
 		"favorited": false,
 		"retweeted": false,
 		"lang": "en",
 		"text": "Reince Priebus sounds like Scooby Doo saying nice penis"
-	},
-	{
-		"created_at": "Sat Jul 29 03:18:00 +0000 2017",
-		"id": 891135694868848600,
-		"id_str": "891135694868848640",
-		"full_text": "So what’s in these 615mb updates? #softwarebloat https://t.co/eyagB5FUF5",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			48
-		],
-		"entities": {
-			"hashtags": [
-				{
-					"text": "softwarebloat",
-					"indices": [
-						34,
-						48
-					]
-				}
-			],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": [],
-			"media": [
-				{
-					"id": 891135681782718500,
-					"id_str": "891135681782718464",
-					"indices": [
-						49,
-						72
-					],
-					"media_url": "http://pbs.twimg.com/media/DF3zLl9VoAAlT-M.jpg",
-					"media_url_https": "https://pbs.twimg.com/media/DF3zLl9VoAAlT-M.jpg",
-					"url": "https://t.co/eyagB5FUF5",
-					"display_url": "pic.twitter.com/eyagB5FUF5",
-					"expanded_url": "https://twitter.com/timklapdor/status/891135694868848640/photo/1",
-					"type": "photo",
-					"sizes": {
-						"small": {
-							"w": 382,
-							"h": 680,
-							"resize": "fit"
-						},
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"medium": {
-							"w": 675,
-							"h": 1200,
-							"resize": "fit"
-						},
-						"large": {
-							"w": 750,
-							"h": 1334,
-							"resize": "fit"
-						}
-					}
-				}
-			]
-		},
-		"extended_entities": {
-			"media": [
-				{
-					"id": 891135681782718500,
-					"id_str": "891135681782718464",
-					"indices": [
-						49,
-						72
-					],
-					"media_url": "http://pbs.twimg.com/media/DF3zLl9VoAAlT-M.jpg",
-					"media_url_https": "https://pbs.twimg.com/media/DF3zLl9VoAAlT-M.jpg",
-					"url": "https://t.co/eyagB5FUF5",
-					"display_url": "pic.twitter.com/eyagB5FUF5",
-					"expanded_url": "https://twitter.com/timklapdor/status/891135694868848640/photo/1",
-					"type": "photo",
-					"sizes": {
-						"small": {
-							"w": 382,
-							"h": 680,
-							"resize": "fit"
-						},
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"medium": {
-							"w": 675,
-							"h": 1200,
-							"resize": "fit"
-						},
-						"large": {
-							"w": 750,
-							"h": 1334,
-							"resize": "fit"
-						}
-					}
-				}
-			]
-		},
-		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 174124175,
-			"id_str": "174124175",
-			"name": "Tim Klapdor",
-			"screen_name": "timklapdor",
-			"location": "Adelaide, South Australia",
-			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "https://t.co/uC0c3me6KE",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/uC0c3me6KE",
-							"expanded_url": "http://timklapdor.com",
-							"display_url": "timklapdor.com",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 826,
-			"friends_count": 148,
-			"listed_count": 91,
-			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8897,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 14845,
-			"lang": null,
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "C0DEED",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
-			"profile_link_color": "5FA832",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "DDEEF6",
-			"profile_text_color": "333333",
-			"profile_use_background_image": true,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 0,
-		"favorited": false,
-		"retweeted": false,
-		"possibly_sensitive": false,
-		"lang": "en",
-		"text": "So what’s in these 615mb updates? #softwarebloat https://t.co/eyagB5FUF5"
 	}
 ]
