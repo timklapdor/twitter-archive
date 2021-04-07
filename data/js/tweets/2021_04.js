@@ -1,6 +1,517 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Tue Apr 06 23:34:46 +0000 2021",
+		"id": 1379540465792393200,
+		"id_str": "1379578355876388864",
+		"full_text": "This is such a tragic and frustrating story from @SteveCannane. These clubs constantly sell themselves as pillars of the communities but are responsible for so much misery. This is especially true in Sydney's west, where problem gamblers can't afford it.\n\nhttps://t.co/cfmRTkXaNd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SteveCannane",
+					"name": "Steve Cannane",
+					"id": 245153061,
+					"id_str": "245153061",
+					"indices": [
+						49,
+						62
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/cfmRTkXaNd",
+					"expanded_url": "https://www.abc.net.au/news/2021-04-07/vicki-stole-millions-and-put-it-in-st-marys-leagues-club-pokies/100042284",
+					"display_url": "abc.net.au/news/2021-04-0…",
+					"indices": [
+						256,
+						279
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2411726342,
+			"id_str": "2411726342",
+			"name": "Kevin Nguyen",
+			"screen_name": "cog_ink",
+			"location": "Sydney, New South Wales",
+			"description": "News, Analysis and Investigations @abcnews | Digital Director @MediaDiverseAU | ex- Storyful, Fairfax | Views are own | nguyen.kevin@protonmail.com",
+			"url": "https://t.co/du0eK7KCgF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/du0eK7KCgF",
+							"expanded_url": "http://abc.net.au/news",
+							"display_url": "abc.net.au/news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4674,
+			"friends_count": 1597,
+			"listed_count": 85,
+			"created_at": "Wed Mar 26 00:04:13 +0000 2014",
+			"favourites_count": 3957,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1257,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1243854596432265216/2qFDd_z6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1243854596432265216/2qFDd_z6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2411726342/1501456827",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is such a tragic and frustrating story from @SteveCannane. These clubs constantly sell themselves as pillars of the communities but are responsible for so much misery. This is especially true in Sydney's west, where problem gamblers can't afford it.\n\nhttps://t.co/cfmRTkXaNd"
+	},
+	{
+		"created_at": "Tue Apr 06 12:55:01 +0000 2021",
+		"id": 1379272478011191300,
+		"id_str": "1379417361036374017",
+		"full_text": "The Apple Juice analogy from a guy who gets it. https://t.co/H8lqo4QNjN https://t.co/kE9zjEQ4K6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			71
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/H8lqo4QNjN",
+					"expanded_url": "https://twitter.com/slpng_giants_oz/status/1379241445454794758",
+					"display_url": "twitter.com/slpng_giants_o…",
+					"indices": [
+						48,
+						71
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1379272275053047800,
+					"id_str": "1379272275053047819",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1379272275053047819/pu/img/33ZN7wr2yqxrD8Kk.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1379272275053047819/pu/img/33ZN7wr2yqxrD8Kk.jpg",
+					"url": "https://t.co/kE9zjEQ4K6",
+					"display_url": "pic.twitter.com/kE9zjEQ4K6",
+					"expanded_url": "https://twitter.com/PopCultured4/status/1379272478011191296/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 540,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 540,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1379272275053047800,
+					"id_str": "1379272275053047819",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1379272275053047819/pu/img/33ZN7wr2yqxrD8Kk.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1379272275053047819/pu/img/33ZN7wr2yqxrD8Kk.jpg",
+					"url": "https://t.co/kE9zjEQ4K6",
+					"display_url": "pic.twitter.com/kE9zjEQ4K6",
+					"expanded_url": "https://twitter.com/PopCultured4/status/1379272478011191296/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 540,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 540,
+							"h": 960,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 55767,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1379272275053047819/pu/pl/gUEcgq7BP9Y60fHe.m3u8?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1379272275053047819/pu/vid/480x852/FvlD0jl6CFH6-5af.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1379272275053047819/pu/vid/540x960/mgAFhBvcPU6zJPwZ.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1379272275053047819/pu/vid/320x568/-ueK6QuITJu2iVwP.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2173118832,
+			"id_str": "2173118832",
+			"name": "🍿🍿🍿🍿 Popcultured4 💚💚💚💚",
+			"screen_name": "PopCultured4",
+			"location": "Interwebs",
+			"description": "News for Geeks, Games, Pop-Culture, SM Trends; Responses may be Facetious, Sarcastic, Witty or Sharp.\n\nLOC: AUS\n\nhttps://t.co/vL2Sj59IMe",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/vL2Sj59IMe",
+							"expanded_url": "http://letterboxd.com/popcultured4/",
+							"display_url": "letterboxd.com/popcultured4/",
+							"indices": [
+								113,
+								136
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 679,
+			"friends_count": 2290,
+			"listed_count": 0,
+			"created_at": "Mon Nov 04 01:45:20 +0000 2013",
+			"favourites_count": 178055,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 74995,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1274685518513467393/EI2uL0tK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1274685518513467393/EI2uL0tK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2173118832/1594723515",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1379241445454794800,
+		"quoted_status_id_str": "1379241445454794758",
+		"quoted_status_permalink": {
+			"url": "https://t.co/H8lqo4QNjN",
+			"expanded": "https://twitter.com/slpng_giants_oz/status/1379241445454794758",
+			"display": "twitter.com/slpng_giants_o…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Apr 06 01:16:00 +0000 2021",
+			"id": 1379241445454794800,
+			"id_str": "1379241445454794758",
+			"full_text": "The \"Not All Men\" movement getting out there with the help of Murdoch rags.\n\nBut any woman who supports women's rights is an angry woman.\n\n#Auspol #ThisisNotJournalism https://t.co/jfJtGLqhq4",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				167
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Auspol",
+						"indices": [
+							139,
+							146
+						]
+					},
+					{
+						"text": "ThisisNotJournalism",
+						"indices": [
+							147,
+							167
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1379241071285137400,
+						"id_str": "1379241071285137411",
+						"indices": [
+							168,
+							191
+						],
+						"media_url": "http://pbs.twimg.com/media/EyQMcmGUcAM0H50.png",
+						"media_url_https": "https://pbs.twimg.com/media/EyQMcmGUcAM0H50.png",
+						"url": "https://t.co/jfJtGLqhq4",
+						"display_url": "pic.twitter.com/jfJtGLqhq4",
+						"expanded_url": "https://twitter.com/slpng_giants_oz/status/1379241445454794758/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 781,
+								"h": 649,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 565,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 781,
+								"h": 649,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1379241071285137400,
+						"id_str": "1379241071285137411",
+						"indices": [
+							168,
+							191
+						],
+						"media_url": "http://pbs.twimg.com/media/EyQMcmGUcAM0H50.png",
+						"media_url_https": "https://pbs.twimg.com/media/EyQMcmGUcAM0H50.png",
+						"url": "https://t.co/jfJtGLqhq4",
+						"display_url": "pic.twitter.com/jfJtGLqhq4",
+						"expanded_url": "https://twitter.com/slpng_giants_oz/status/1379241445454794758/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 781,
+								"h": 649,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 565,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 781,
+								"h": 649,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 896166389332848600,
+				"id_str": "896166389332848640",
+				"name": "💧 Sleeping Giants Oz 📣",
+				"screen_name": "slpng_giants_oz",
+				"location": "Australia",
+				"description": "A community initiative to make racism, bigotry, misogyny and climate change denial less profitable 📣🌈",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 41060,
+				"friends_count": 891,
+				"listed_count": 193,
+				"created_at": "Sat Aug 12 00:28:11 +0000 2017",
+				"favourites_count": 210525,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 53044,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/896638260662870016/ZFzMXeo3_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/896638260662870016/ZFzMXeo3_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/896166389332848640/1502610230",
+				"profile_link_color": "F58EA8",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 104,
+			"favorite_count": 430,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 429,
+		"favorite_count": 1230,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The Apple Juice analogy from a guy who gets it. https://t.co/H8lqo4QNjN https://t.co/kE9zjEQ4K6"
+	},
+	{
 		"created_at": "Sat Apr 03 21:44:17 +0000 2021",
 		"id": 1378367009209995300,
 		"id_str": "1378463388687200256",
@@ -59,16 +570,16 @@ Grailbird.data.tweets_2021_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 6280,
+			"followers_count": 6278,
 			"friends_count": 1843,
 			"listed_count": 307,
 			"created_at": "Tue May 27 06:30:44 +0000 2008",
-			"favourites_count": 33402,
+			"favourites_count": 33385,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 33555,
+			"statuses_count": 33557,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -154,16 +665,16 @@ Grailbird.data.tweets_2021_04 =
 					}
 				},
 				"protected": false,
-				"followers_count": 7782,
+				"followers_count": 7783,
 				"friends_count": 2759,
 				"listed_count": 231,
 				"created_at": "Thu May 17 13:12:12 +0000 2007",
-				"favourites_count": 23141,
+				"favourites_count": 23157,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": false,
-				"statuses_count": 17847,
+				"statuses_count": 17857,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -334,16 +845,16 @@ Grailbird.data.tweets_2021_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 4293,
-			"friends_count": 2102,
+			"followers_count": 4294,
+			"friends_count": 2098,
 			"listed_count": 26,
 			"created_at": "Mon May 28 22:59:10 +0000 2012",
-			"favourites_count": 18663,
+			"favourites_count": 18686,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 3686,
+			"statuses_count": 3709,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -374,7 +885,7 @@ Grailbird.data.tweets_2021_04 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 12,
-		"favorite_count": 105,
+		"favorite_count": 104,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
