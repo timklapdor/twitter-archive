@@ -1,6 +1,564 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Sun Apr 11 09:48:33 +0000 2021",
+		"id": 1381152654043181000,
+		"id_str": "1381182375053336576",
+		"full_text": "@thetopjob Morrison told ppl not to get the COVID info from Facebook then releases critical information the Australian ppl should know on... Facebook.\n\nFMD this is shocking... it's has to be parody surely??\n\nNever seen anyone more incompetent &amp; confusing in public life b4 ever! \n🐝\n#auspol",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			293
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "auspol",
+					"indices": [
+						286,
+						293
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "thetopjob",
+					"name": "Hon. Dumb Blonde",
+					"id": 3145697041,
+					"id_str": "3145697041",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1381148935536795600,
+		"in_reply_to_status_id_str": "1381148935536795648",
+		"in_reply_to_user_id": 3145697041,
+		"in_reply_to_user_id_str": "3145697041",
+		"in_reply_to_screen_name": "thetopjob",
+		"user": {
+			"id": 60779696,
+			"id_str": "60779696",
+			"name": "💧🔥🐨Bee🐝🐀PM for Sewer Rats",
+			"screen_name": "BelindaJones68",
+			"location": "Australia",
+			"description": "Aussie, Mum, Grandma, equalist, educator, writer, politically aware, photographer, loves cricket. Retweet usually an endorsement but not always🐝",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 26287,
+			"friends_count": 4396,
+			"listed_count": 101,
+			"created_at": "Tue Jul 28 02:02:45 +0000 2009",
+			"favourites_count": 238531,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 104960,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/882409535855394818/vNPipDk3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/882409535855394818/vNPipDk3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/60779696/1512717805",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 74,
+		"favorite_count": 218,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@thetopjob Morrison told ppl not to get the COVID info from Facebook then releases critical information the Australian ppl should know on... Facebook.\n\nFMD this is shocking... it's has to be parody surely??\n\nNever seen anyone more incompetent &amp; confusing in public life b4 ever! \n🐝\n#auspol"
+	},
+	{
+		"created_at": "Sun Apr 11 09:41:22 +0000 2021",
+		"id": 1381180566196772900,
+		"id_str": "1381180566196772867",
+		"full_text": "It’s been a long weekend but we have moved in! Lots of unpacking to do but it was a pleasure waking up in our new home this morning. A nice welcome to #TheDome https://t.co/X6nkayKCfR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TheDome",
+					"indices": [
+						151,
+						159
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1381180548794654700,
+					"id_str": "1381180548794654720",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/EyrwZC2VoAA3Giy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EyrwZC2VoAA3Giy.jpg",
+					"url": "https://t.co/X6nkayKCfR",
+					"display_url": "pic.twitter.com/X6nkayKCfR",
+					"expanded_url": "https://twitter.com/timklapdor/status/1381180566196772867/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 185,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 557,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 326,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1381180548794654700,
+					"id_str": "1381180548794654720",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/EyrwZC2VoAA3Giy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EyrwZC2VoAA3Giy.jpg",
+					"url": "https://t.co/X6nkayKCfR",
+					"display_url": "pic.twitter.com/X6nkayKCfR",
+					"expanded_url": "https://twitter.com/timklapdor/status/1381180566196772867/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 185,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 557,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 326,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Adelaide, South Australia",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
+			"url": "https://t.co/uC0c3me6KE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uC0c3me6KE",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 825,
+			"friends_count": 149,
+			"listed_count": 90,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 8935,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14847,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It’s been a long weekend but we have moved in! Lots of unpacking to do but it was a pleasure waking up in our new home this morning. A nice welcome to #TheDome https://t.co/X6nkayKCfR"
+	},
+	{
+		"created_at": "Sun Apr 11 06:29:55 +0000 2021",
+		"id": 1381056785985851400,
+		"id_str": "1381132386155384839",
+		"full_text": "Since Prince Philip passed 2 days ago #ScottyFromPhotoOps has:\n\nGiven a press briefing  \n\nOrganized a 21 gun salute \n\nWritten a letter of condolence \n\nOrganised a condolence book \n\nPosed for photos\n\nIn the last two months he has done nothing for Brittany Higgins!!!\n\nSickening https://t.co/b1VwAdvhGK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ScottyFromPhotoOps",
+					"indices": [
+						38,
+						57
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1381056776003448800,
+					"id_str": "1381056776003448833",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/Eyp_0hRU8AEU4D9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eyp_0hRU8AEU4D9.jpg",
+					"url": "https://t.co/b1VwAdvhGK",
+					"display_url": "pic.twitter.com/b1VwAdvhGK",
+					"expanded_url": "https://twitter.com/bianca64936471/status/1381056785985851396/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 567,
+							"h": 366,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 567,
+							"h": 366,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 567,
+							"h": 366,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1381056776003448800,
+					"id_str": "1381056776003448833",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/Eyp_0hRU8AEU4D9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eyp_0hRU8AEU4D9.jpg",
+					"url": "https://t.co/b1VwAdvhGK",
+					"display_url": "pic.twitter.com/b1VwAdvhGK",
+					"expanded_url": "https://twitter.com/bianca64936471/status/1381056785985851396/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 567,
+							"h": 366,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 567,
+							"h": 366,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 567,
+							"h": 366,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1032617805277872100,
+			"id_str": "1032617805277872129",
+			"name": "Bianca 🐀",
+			"screen_name": "bianca64936471",
+			"location": "",
+			"description": "Fed up forty something, passionate about social justice, equity and making a difference. Leftie, unionist, LGBTIQ ally, parent and feminist.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 369,
+			"friends_count": 2084,
+			"listed_count": 0,
+			"created_at": "Thu Aug 23 13:17:24 +0000 2018",
+			"favourites_count": 2262,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2225,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1377062462923546624/JLghzzrH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377062462923546624/JLghzzrH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1032617805277872129/1617349339",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 24,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Since Prince Philip passed 2 days ago #ScottyFromPhotoOps has:\n\nGiven a press briefing  \n\nOrganized a 21 gun salute \n\nWritten a letter of condolence \n\nOrganised a condolence book \n\nPosed for photos\n\nIn the last two months he has done nothing for Brittany Higgins!!!\n\nSickening https://t.co/b1VwAdvhGK"
+	},
+	{
+		"created_at": "Sun Apr 11 00:52:40 +0000 2021",
+		"id": 1380802075102044200,
+		"id_str": "1381047513612906500",
+		"full_text": "I want our nation to be a world leader in gender equality. \n\nAustralia’s response to the violent, sexist and misogynistic conduct in our Parliament needs to be urgent, and ambitious. \n\nMy thoughts here:  https://t.co/YWOuuJo4lk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			227
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YWOuuJo4lk",
+					"expanded_url": "https://www.smh.com.au/national/not-a-plea-a-demand-let-s-make-misogyny-history-20210408-p57hjt.html",
+					"display_url": "smh.com.au/national/not-a…",
+					"indices": [
+						204,
+						227
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 85436197,
+			"id_str": "85436197",
+			"name": "Julia Gillard",
+			"screen_name": "JuliaGillard",
+			"location": "Australia",
+			"description": "Official Twitter account of the 27th Prime Minister of Australia.",
+			"url": "http://t.co/0wKTr8vsKk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/0wKTr8vsKk",
+							"expanded_url": "http://www.juliagillard.com.au",
+							"display_url": "juliagillard.com.au",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 826120,
+			"friends_count": 174362,
+			"listed_count": 5462,
+			"created_at": "Mon Oct 26 22:35:37 +0000 2009",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3518,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3665726987/8ce109475d2ffa28e2a8ca221beb179b_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3665726987/8ce109475d2ffa28e2a8ca221beb179b_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/85436197/1594604712",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 720,
+		"favorite_count": 3512,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I want our nation to be a world leader in gender equality. \n\nAustralia’s response to the violent, sexist and misogynistic conduct in our Parliament needs to be urgent, and ambitious. \n\nMy thoughts here:  https://t.co/YWOuuJo4lk"
+	},
+	{
 		"created_at": "Tue Apr 06 23:34:46 +0000 2021",
 		"id": 1379540465792393200,
 		"id_str": "1379578355876388864",
@@ -70,11 +628,11 @@ Grailbird.data.tweets_2021_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 4677,
-			"friends_count": 1599,
-			"listed_count": 84,
+			"followers_count": 4676,
+			"friends_count": 1598,
+			"listed_count": 0,
 			"created_at": "Wed Mar 26 00:04:13 +0000 2014",
-			"favourites_count": 3963,
+			"favourites_count": 3964,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
@@ -282,16 +840,16 @@ Grailbird.data.tweets_2021_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 698,
-			"friends_count": 2293,
+			"followers_count": 700,
+			"friends_count": 2295,
 			"listed_count": 0,
 			"created_at": "Mon Nov 04 01:45:20 +0000 2013",
-			"favourites_count": 178790,
+			"favourites_count": 179000,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 75339,
+			"statuses_count": 75425,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -457,16 +1015,16 @@ Grailbird.data.tweets_2021_04 =
 					}
 				},
 				"protected": false,
-				"followers_count": 41112,
-				"friends_count": 893,
+				"followers_count": 41120,
+				"friends_count": 892,
 				"listed_count": 192,
 				"created_at": "Sat Aug 12 00:28:11 +0000 2017",
-				"favourites_count": 211569,
+				"favourites_count": 211721,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": false,
-				"statuses_count": 53239,
+				"statuses_count": 53255,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -496,15 +1054,15 @@ Grailbird.data.tweets_2021_04 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 121,
-			"favorite_count": 512,
+			"retweet_count": 122,
+			"favorite_count": 513,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
 			"lang": "en"
 		},
-		"retweet_count": 554,
-		"favorite_count": 1620,
+		"retweet_count": 556,
+		"favorite_count": 1627,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -570,16 +1128,16 @@ Grailbird.data.tweets_2021_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 6281,
-			"friends_count": 1841,
-			"listed_count": 308,
+			"followers_count": 6279,
+			"friends_count": 1842,
+			"listed_count": 307,
 			"created_at": "Tue May 27 06:30:44 +0000 2008",
-			"favourites_count": 33414,
+			"favourites_count": 33413,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 33575,
+			"statuses_count": 33576,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -665,16 +1223,16 @@ Grailbird.data.tweets_2021_04 =
 					}
 				},
 				"protected": false,
-				"followers_count": 7784,
-				"friends_count": 2761,
-				"listed_count": 231,
+				"followers_count": 7783,
+				"friends_count": 2760,
+				"listed_count": 232,
 				"created_at": "Thu May 17 13:12:12 +0000 2007",
-				"favourites_count": 23276,
+				"favourites_count": 23291,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": false,
-				"statuses_count": 17895,
+				"statuses_count": 17901,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -717,179 +1275,5 @@ Grailbird.data.tweets_2021_04 =
 		"possibly_sensitive": false,
 		"lang": "en",
 		"text": "I still feel that one of the more useful everyday things a senior person can do to improve their workplace is to be the one to ask the obvious questions in front of the group. https://t.co/fdz5QL8BkT"
-	},
-	{
-		"created_at": "Fri Apr 02 02:49:24 +0000 2021",
-		"id": 1377416830290067500,
-		"id_str": "1377815400243589121",
-		"full_text": "White? Confused about what to say when it's your turn to Acknowledge Country? Worried ppl will know you're racist?\n\nPanic not! \n\nJust follow this simple guide: https://t.co/yVKPxFYusn",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			159
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": [],
-			"media": [
-				{
-					"id": 1377416827312107500,
-					"id_str": "1377416827312107521",
-					"indices": [
-						160,
-						183
-					],
-					"media_url": "http://pbs.twimg.com/media/Ex2RTnuVcAEnqq9.jpg",
-					"media_url_https": "https://pbs.twimg.com/media/Ex2RTnuVcAEnqq9.jpg",
-					"url": "https://t.co/yVKPxFYusn",
-					"display_url": "pic.twitter.com/yVKPxFYusn",
-					"expanded_url": "https://twitter.com/ScottTrindall/status/1377416830290067460/photo/1",
-					"type": "photo",
-					"sizes": {
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"small": {
-							"w": 680,
-							"h": 500,
-							"resize": "fit"
-						},
-						"medium": {
-							"w": 1200,
-							"h": 882,
-							"resize": "fit"
-						},
-						"large": {
-							"w": 1300,
-							"h": 956,
-							"resize": "fit"
-						}
-					}
-				}
-			]
-		},
-		"extended_entities": {
-			"media": [
-				{
-					"id": 1377416827312107500,
-					"id_str": "1377416827312107521",
-					"indices": [
-						160,
-						183
-					],
-					"media_url": "http://pbs.twimg.com/media/Ex2RTnuVcAEnqq9.jpg",
-					"media_url_https": "https://pbs.twimg.com/media/Ex2RTnuVcAEnqq9.jpg",
-					"url": "https://t.co/yVKPxFYusn",
-					"display_url": "pic.twitter.com/yVKPxFYusn",
-					"expanded_url": "https://twitter.com/ScottTrindall/status/1377416830290067460/photo/1",
-					"type": "photo",
-					"sizes": {
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"small": {
-							"w": 680,
-							"h": 500,
-							"resize": "fit"
-						},
-						"medium": {
-							"w": 1200,
-							"h": 882,
-							"resize": "fit"
-						},
-						"large": {
-							"w": 1300,
-							"h": 956,
-							"resize": "fit"
-						}
-					}
-				}
-			]
-		},
-		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 593221185,
-			"id_str": "593221185",
-			"name": "Banbandhuliwi",
-			"screen_name": "ScottTrindall",
-			"location": "Meanjin via Narrabri",
-			"description": "Gomeroi. It's funny to me. Enemy of racist people and stuff. View, thoughts and prayers are my own.",
-			"url": "https://t.co/I5cIlchB2q",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/I5cIlchB2q",
-							"expanded_url": "https://indigenousx.com.au/donate/",
-							"display_url": "indigenousx.com.au/donate/",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 4303,
-			"friends_count": 2101,
-			"listed_count": 27,
-			"created_at": "Mon May 28 22:59:10 +0000 2012",
-			"favourites_count": 18735,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": false,
-			"verified": false,
-			"statuses_count": 3740,
-			"lang": null,
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "000000",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1379052038001029125/FAG6OAUz_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1379052038001029125/FAG6OAUz_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/593221185/1606479257",
-			"profile_link_color": "551100",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "000000",
-			"profile_text_color": "000000",
-			"profile_use_background_image": false,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none"
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 12,
-		"favorite_count": 105,
-		"favorited": false,
-		"retweeted": true,
-		"possibly_sensitive": false,
-		"lang": "en",
-		"text": "White? Confused about what to say when it's your turn to Acknowledge Country? Worried ppl will know you're racist?\n\nPanic not! \n\nJust follow this simple guide: https://t.co/yVKPxFYusn"
 	}
 ]
