@@ -1,6 +1,705 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Mon Apr 19 12:10:14 +0000 2021",
+		"id": 1383995467843784700,
+		"id_str": "1384117133013962757",
+		"full_text": "I fixed the government’s consent education video for you @ScottMorrisonMP. https://t.co/bUdh2loXT1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ScottMorrisonMP",
+					"name": "Scott Morrison",
+					"id": 34116377,
+					"id_str": "34116377",
+					"indices": [
+						57,
+						73
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1383994859405516800,
+					"id_str": "1383994859405516809",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1383994859405516809/pu/img/Ew7ZePneRB2IZlmy.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1383994859405516809/pu/img/Ew7ZePneRB2IZlmy.jpg",
+					"url": "https://t.co/bUdh2loXT1",
+					"display_url": "pic.twitter.com/bUdh2loXT1",
+					"expanded_url": "https://twitter.com/kailaswild/status/1383995467843784704/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1383994859405516800,
+					"id_str": "1383994859405516809",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1383994859405516809/pu/img/Ew7ZePneRB2IZlmy.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1383994859405516809/pu/img/Ew7ZePneRB2IZlmy.jpg",
+					"url": "https://t.co/bUdh2loXT1",
+					"display_url": "pic.twitter.com/bUdh2loXT1",
+					"expanded_url": "https://twitter.com/kailaswild/status/1383995467843784704/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 42600,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1383994859405516809/pu/vid/640x360/Dzs2F8MOjO1Gzhx5.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1383994859405516809/pu/pl/6eQB8XqFhwHQNic1.m3u8?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1383994859405516809/pu/vid/1280x720/ppptHW0x00zqt1gz.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1383994859405516809/pu/vid/480x270/gc9iZS03LB678irP.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1124307523,
+			"id_str": "1124307523",
+			"name": "Kailas Wild 🐨",
+			"screen_name": "kailaswild",
+			"location": "Gadigal Land / Sydney",
+			"description": "Arborist • Conservationist • Koala dad • Best selling author • Can’t spell • Sometimes funny • He/him. Media enquiries: @SimonSchusterAU",
+			"url": "https://t.co/CsUTYDh83Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CsUTYDh83Y",
+							"expanded_url": "http://www.kailaswild.com.au",
+							"display_url": "kailaswild.com.au",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10331,
+			"friends_count": 785,
+			"listed_count": 53,
+			"created_at": "Sun Jan 27 07:40:52 +0000 2013",
+			"favourites_count": 32976,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4225,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1376764042379812866/X2IDDY1O_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1376764042379812866/X2IDDY1O_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1124307523/1611352403",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1693,
+		"favorite_count": 3671,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I fixed the government’s consent education video for you @ScottMorrisonMP. https://t.co/bUdh2loXT1"
+	},
+	{
+		"created_at": "Mon Apr 19 03:40:41 +0000 2021",
+		"id": 1383943321345613800,
+		"id_str": "1383988900419411968",
+		"full_text": "I spent three days digging through the government's website. I watched every video. I read all of the accompanying materials. \n\nI cannot work out what the milkshakes, tacos or sharks are supposed to represent. And I run an org called \"End Rape on Campus Australia\". https://t.co/sshajJPAkk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			265
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sshajJPAkk",
+					"expanded_url": "https://twitter.com/samanthamaiden/status/1383930548549156872",
+					"display_url": "twitter.com/samanthamaiden…",
+					"indices": [
+						266,
+						289
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 68357033,
+			"id_str": "68357033",
+			"name": "Sharna Bremner",
+			"screen_name": "sharnatweets",
+			"location": "",
+			"description": "#IntlEd & #IntlDev End Rape on Campus Australia founder & director. Views my own. She/her",
+			"url": "https://t.co/w8svUFXu8R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/w8svUFXu8R",
+							"expanded_url": "http://endrapeoncampusau.org",
+							"display_url": "endrapeoncampusau.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3538,
+			"friends_count": 1884,
+			"listed_count": 76,
+			"created_at": "Mon Aug 24 07:56:06 +0000 2009",
+			"favourites_count": 9651,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1492,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ABB8C2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/908262186585346050/6G1NlGlo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/908262186585346050/6G1NlGlo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/68357033/1404623577",
+			"profile_link_color": "89C9FA",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1383930548549156900,
+		"quoted_status_id_str": "1383930548549156872",
+		"quoted_status_permalink": {
+			"url": "https://t.co/sshajJPAkk",
+			"expanded": "https://twitter.com/samanthamaiden/status/1383930548549156872",
+			"display": "twitter.com/samanthamaiden…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Apr 18 23:48:49 +0000 2021",
+			"id": 1383930548549156900,
+			"id_str": "1383930548549156872",
+			"full_text": "PM ⁦@ScottMorrisonMP⁩ “consent education” plan slammed for teaching consent with tacos and milkshakes https://t.co/txVQb9tM72",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				125
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ScottMorrisonMP",
+						"name": "Scott Morrison",
+						"id": 34116377,
+						"id_str": "34116377",
+						"indices": [
+							4,
+							20
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/txVQb9tM72",
+						"expanded_url": "https://www.news.com.au/national/politics/governments-confusing-new-education-campaign-uses-tacos-and-milkshakes-to-explain-consent/news-story/d68f42b5c61165f9606df030e0ecc349",
+						"display_url": "news.com.au/national/polit…",
+						"indices": [
+							102,
+							125
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 76842602,
+				"id_str": "76842602",
+				"name": "Samantha Maiden",
+				"screen_name": "samanthamaiden",
+				"location": "Canberra, Australian Capital Territory",
+				"description": "Political Editor, https://t.co/9NJqClxzrE. Author, Party Animals. samantha.maiden@news.com.au",
+				"url": "https://t.co/vJSA1Q8Hrg",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/vJSA1Q8Hrg",
+								"expanded_url": "https://www.news.com.au",
+								"display_url": "news.com.au",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/9NJqClxzrE",
+								"expanded_url": "http://news.com.au",
+								"display_url": "news.com.au",
+								"indices": [
+									18,
+									41
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 145508,
+				"friends_count": 9688,
+				"listed_count": 1226,
+				"created_at": "Thu Sep 24 03:19:10 +0000 2009",
+				"favourites_count": 23439,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 70213,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1318500752092876801/emaofMrr_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1318500752092876801/emaofMrr_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/76842602/1618144712",
+				"profile_link_color": "4A913C",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 362,
+			"favorite_count": 1672,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 265,
+		"favorite_count": 994,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I spent three days digging through the government's website. I watched every video. I read all of the accompanying materials. \n\nI cannot work out what the milkshakes, tacos or sharks are supposed to represent. And I run an org called \"End Rape on Campus Australia\". https://t.co/sshajJPAkk"
+	},
+	{
+		"created_at": "Mon Apr 19 03:34:53 +0000 2021",
+		"id": 1383987441451733000,
+		"id_str": "1383987441451732999",
+		"full_text": "WTAF is this?!?! How did anyone sign off on this? Did anyone actually watch it beforehand? https://t.co/IUvITxVl71",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IUvITxVl71",
+					"expanded_url": "https://twitter.com/samanthamaiden/status/1383930548549156872",
+					"display_url": "twitter.com/samanthamaiden…",
+					"indices": [
+						91,
+						114
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Adelaide, South Australia",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
+			"url": "https://t.co/uC0c3me6KE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uC0c3me6KE",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 825,
+			"friends_count": 148,
+			"listed_count": 90,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 8969,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14859,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1383930548549156900,
+		"quoted_status_id_str": "1383930548549156872",
+		"quoted_status_permalink": {
+			"url": "https://t.co/IUvITxVl71",
+			"expanded": "https://twitter.com/samanthamaiden/status/1383930548549156872",
+			"display": "twitter.com/samanthamaiden…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Apr 18 23:48:49 +0000 2021",
+			"id": 1383930548549156900,
+			"id_str": "1383930548549156872",
+			"full_text": "PM ⁦@ScottMorrisonMP⁩ “consent education” plan slammed for teaching consent with tacos and milkshakes https://t.co/txVQb9tM72",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				125
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ScottMorrisonMP",
+						"name": "Scott Morrison",
+						"id": 34116377,
+						"id_str": "34116377",
+						"indices": [
+							4,
+							20
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/txVQb9tM72",
+						"expanded_url": "https://www.news.com.au/national/politics/governments-confusing-new-education-campaign-uses-tacos-and-milkshakes-to-explain-consent/news-story/d68f42b5c61165f9606df030e0ecc349",
+						"display_url": "news.com.au/national/polit…",
+						"indices": [
+							102,
+							125
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 76842602,
+				"id_str": "76842602",
+				"name": "Samantha Maiden",
+				"screen_name": "samanthamaiden",
+				"location": "Canberra, Australian Capital Territory",
+				"description": "Political Editor, https://t.co/9NJqClxzrE. Author, Party Animals. samantha.maiden@news.com.au",
+				"url": "https://t.co/vJSA1Q8Hrg",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/vJSA1Q8Hrg",
+								"expanded_url": "https://www.news.com.au",
+								"display_url": "news.com.au",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/9NJqClxzrE",
+								"expanded_url": "http://news.com.au",
+								"display_url": "news.com.au",
+								"indices": [
+									18,
+									41
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 145508,
+				"friends_count": 9688,
+				"listed_count": 1226,
+				"created_at": "Thu Sep 24 03:19:10 +0000 2009",
+				"favourites_count": 23439,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 70213,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1318500752092876801/emaofMrr_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1318500752092876801/emaofMrr_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/76842602/1618144712",
+				"profile_link_color": "4A913C",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 362,
+			"favorite_count": 1672,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "WTAF is this?!?! How did anyone sign off on this? Did anyone actually watch it beforehand? https://t.co/IUvITxVl71"
+	},
+	{
 		"created_at": "Sun Apr 18 23:27:28 +0000 2021",
 		"id": 1383925174475452400,
 		"id_str": "1383925174475452425",
@@ -71,12 +770,12 @@ Grailbird.data.tweets_2021_04 =
 			"friends_count": 148,
 			"listed_count": 90,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8963,
+			"favourites_count": 8969,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14856,
+			"statuses_count": 14859,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -189,12 +888,12 @@ Grailbird.data.tweets_2021_04 =
 			"friends_count": 148,
 			"listed_count": 90,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8963,
+			"favourites_count": 8969,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14856,
+			"statuses_count": 14859,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -291,16 +990,16 @@ Grailbird.data.tweets_2021_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 14320,
+			"followers_count": 14321,
 			"friends_count": 4661,
-			"listed_count": 1136,
+			"listed_count": 1135,
 			"created_at": "Sun Feb 11 10:23:13 +0000 2007",
-			"favourites_count": 27111,
+			"favourites_count": 27118,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 846,
+			"statuses_count": 848,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -397,16 +1096,16 @@ Grailbird.data.tweets_2021_04 =
 					}
 				},
 				"protected": false,
-				"followers_count": 441736,
+				"followers_count": 441725,
 				"friends_count": 164,
-				"listed_count": 10568,
+				"listed_count": 10565,
 				"created_at": "Sun Apr 27 20:19:25 +0000 2008",
-				"favourites_count": 20321,
+				"favourites_count": 20329,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": true,
-				"statuses_count": 58289,
+				"statuses_count": 58298,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -437,7 +1136,7 @@ Grailbird.data.tweets_2021_04 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 332,
+			"retweet_count": 333,
 			"favorite_count": 1055,
 			"favorited": false,
 			"retweeted": false,
@@ -511,16 +1210,16 @@ Grailbird.data.tweets_2021_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 4673,
+			"followers_count": 4671,
 			"friends_count": 744,
 			"listed_count": 249,
 			"created_at": "Sat Sep 24 09:18:58 +0000 2011",
-			"favourites_count": 25843,
+			"favourites_count": 25860,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 36672,
+			"statuses_count": 36673,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -716,11 +1415,11 @@ Grailbird.data.tweets_2021_04 =
 					}
 				},
 				"protected": false,
-				"followers_count": 3233,
+				"followers_count": 3273,
 				"friends_count": 740,
-				"listed_count": 15,
+				"listed_count": 16,
 				"created_at": "Wed Apr 19 23:37:06 +0000 2017",
-				"favourites_count": 22397,
+				"favourites_count": 22411,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
@@ -756,8 +1455,8 @@ Grailbird.data.tweets_2021_04 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 13673,
-			"favorite_count": 44328,
+			"retweet_count": 13774,
+			"favorite_count": 44599,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
@@ -885,16 +1584,16 @@ Grailbird.data.tweets_2021_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 54379,
-			"friends_count": 510,
+			"followers_count": 54381,
+			"friends_count": 511,
 			"listed_count": 2009,
 			"created_at": "Mon Jan 12 22:29:54 +0000 2009",
-			"favourites_count": 39760,
+			"favourites_count": 39783,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 43606,
+			"statuses_count": 43613,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -925,8 +1624,8 @@ Grailbird.data.tweets_2021_04 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 31720,
-		"favorite_count": 96893,
+		"retweet_count": 31959,
+		"favorite_count": 97388,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -992,16 +1691,16 @@ Grailbird.data.tweets_2021_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 3968,
+			"followers_count": 3967,
 			"friends_count": 301,
 			"listed_count": 273,
 			"created_at": "Sun Jan 28 08:28:45 +0000 2007",
-			"favourites_count": 17402,
+			"favourites_count": 17368,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 1450,
+			"statuses_count": 1472,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1111,12 +1810,12 @@ Grailbird.data.tweets_2021_04 =
 			"friends_count": 148,
 			"listed_count": 90,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8963,
+			"favourites_count": 8969,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14856,
+			"statuses_count": 14859,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1218,12 +1917,12 @@ Grailbird.data.tweets_2021_04 =
 			"friends_count": 148,
 			"listed_count": 90,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8963,
+			"favourites_count": 8969,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14856,
+			"statuses_count": 14859,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1314,12 +2013,12 @@ Grailbird.data.tweets_2021_04 =
 			"friends_count": 148,
 			"listed_count": 90,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8963,
+			"favourites_count": 8969,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14856,
+			"statuses_count": 14859,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1418,12 +2117,12 @@ Grailbird.data.tweets_2021_04 =
 			"friends_count": 148,
 			"listed_count": 90,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8963,
+			"favourites_count": 8969,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14856,
+			"statuses_count": 14859,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1524,12 +2223,12 @@ Grailbird.data.tweets_2021_04 =
 			"friends_count": 148,
 			"listed_count": 90,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8963,
+			"favourites_count": 8969,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14856,
+			"statuses_count": 14859,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1799,16 +2498,16 @@ Grailbird.data.tweets_2021_04 =
 					}
 				},
 				"protected": false,
-				"followers_count": 39629,
-				"friends_count": 22924,
-				"listed_count": 286,
+				"followers_count": 39616,
+				"friends_count": 22929,
+				"listed_count": 287,
 				"created_at": "Mon Mar 07 07:11:55 +0000 2011",
-				"favourites_count": 113110,
+				"favourites_count": 113069,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": true,
-				"statuses_count": 43355,
+				"statuses_count": 43366,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -1839,8 +2538,8 @@ Grailbird.data.tweets_2021_04 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 127,
-			"favorite_count": 490,
+			"retweet_count": 130,
+			"favorite_count": 498,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
@@ -1913,16 +2612,16 @@ Grailbird.data.tweets_2021_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 12674,
-			"friends_count": 11707,
-			"listed_count": 57,
+			"followers_count": 12775,
+			"friends_count": 11767,
+			"listed_count": 58,
 			"created_at": "Mon Sep 03 04:29:19 +0000 2012",
-			"favourites_count": 50676,
+			"favourites_count": 50834,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 33993,
+			"statuses_count": 34104,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1953,8 +2652,8 @@ Grailbird.data.tweets_2021_04 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 955,
-		"favorite_count": 4241,
+		"retweet_count": 967,
+		"favorite_count": 4266,
 		"favorited": false,
 		"retweeted": true,
 		"lang": "en",
@@ -2015,16 +2714,16 @@ Grailbird.data.tweets_2021_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 26677,
-			"friends_count": 4402,
-			"listed_count": 105,
+			"followers_count": 26720,
+			"friends_count": 4403,
+			"listed_count": 106,
 			"created_at": "Tue Jul 28 02:02:45 +0000 2009",
-			"favourites_count": 240406,
+			"favourites_count": 240669,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 105721,
+			"statuses_count": 105811,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2201,12 +2900,12 @@ Grailbird.data.tweets_2021_04 =
 			"friends_count": 148,
 			"listed_count": 90,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 8963,
+			"favourites_count": 8969,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14856,
+			"statuses_count": 14859,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2367,8 +3066,8 @@ Grailbird.data.tweets_2021_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 397,
-			"friends_count": 2080,
+			"followers_count": 402,
+			"friends_count": 2081,
 			"listed_count": 0,
 			"created_at": "Thu Aug 23 13:17:24 +0000 2018",
 			"favourites_count": 2253,
@@ -2408,7 +3107,7 @@ Grailbird.data.tweets_2021_04 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 14,
-		"favorite_count": 55,
+		"favorite_count": 57,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -2474,9 +3173,9 @@ Grailbird.data.tweets_2021_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 828002,
-			"friends_count": 174322,
-			"listed_count": 5461,
+			"followers_count": 828040,
+			"friends_count": 174314,
+			"listed_count": 5462,
 			"created_at": "Mon Oct 26 22:35:37 +0000 2009",
 			"favourites_count": 0,
 			"utc_offset": null,
@@ -2514,8 +3213,8 @@ Grailbird.data.tweets_2021_04 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 754,
-		"favorite_count": 3640,
+		"retweet_count": 755,
+		"favorite_count": 3645,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -2592,7 +3291,7 @@ Grailbird.data.tweets_2021_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 4683,
+			"followers_count": 4681,
 			"friends_count": 1596,
 			"listed_count": 83,
 			"created_at": "Wed Mar 26 00:04:13 +0000 2014",
@@ -2805,16 +3504,16 @@ Grailbird.data.tweets_2021_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 708,
-			"friends_count": 2307,
+			"followers_count": 709,
+			"friends_count": 2312,
 			"listed_count": 0,
 			"created_at": "Mon Nov 04 01:45:20 +0000 2013",
-			"favourites_count": 180444,
+			"favourites_count": 180590,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 76049,
+			"statuses_count": 76105,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2981,16 +3680,16 @@ Grailbird.data.tweets_2021_04 =
 					}
 				},
 				"protected": false,
-				"followers_count": 41238,
+				"followers_count": 41255,
 				"friends_count": 895,
-				"listed_count": 195,
+				"listed_count": 197,
 				"created_at": "Sat Aug 12 00:28:11 +0000 2017",
-				"favourites_count": 213043,
+				"favourites_count": 213231,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": false,
-				"statuses_count": 53538,
+				"statuses_count": 53575,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -3028,8 +3727,8 @@ Grailbird.data.tweets_2021_04 =
 			"possibly_sensitive": false,
 			"lang": "en"
 		},
-		"retweet_count": 558,
-		"favorite_count": 1640,
+		"retweet_count": 559,
+		"favorite_count": 1643,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -3096,7 +3795,7 @@ Grailbird.data.tweets_2021_04 =
 			},
 			"protected": false,
 			"followers_count": 6282,
-			"friends_count": 1844,
+			"friends_count": 1843,
 			"listed_count": 307,
 			"created_at": "Tue May 27 06:30:44 +0000 2008",
 			"favourites_count": 33419,
@@ -3104,7 +3803,7 @@ Grailbird.data.tweets_2021_04 =
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 33615,
+			"statuses_count": 33616,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -3191,16 +3890,16 @@ Grailbird.data.tweets_2021_04 =
 					}
 				},
 				"protected": false,
-				"followers_count": 7788,
-				"friends_count": 2772,
+				"followers_count": 7790,
+				"friends_count": 2771,
 				"listed_count": 232,
 				"created_at": "Thu May 17 13:12:12 +0000 2007",
-				"favourites_count": 23507,
+				"favourites_count": 23549,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": false,
-				"statuses_count": 17963,
+				"statuses_count": 17973,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -3372,16 +4071,16 @@ Grailbird.data.tweets_2021_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 4303,
+			"followers_count": 4305,
 			"friends_count": 2103,
 			"listed_count": 26,
 			"created_at": "Mon May 28 22:59:10 +0000 2012",
-			"favourites_count": 18735,
+			"favourites_count": 18752,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 3756,
+			"statuses_count": 3765,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
