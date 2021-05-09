@@ -1,6 +1,422 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Sat May 08 12:01:17 +0000 2021",
+		"id": 1390545668410728400,
+		"id_str": "1391000250026844169",
+		"full_text": "Good stuff Liz Cambage https://t.co/ZZFx8UgDrm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZZFx8UgDrm",
+					"expanded_url": "https://www.smh.com.au/sport/basketball/cambage-threatens-tokyo-boycott-over-aoc-s-whitewashed-promo-shoots-20210507-p57prm.html",
+					"display_url": "smh.com.au/sport/basketba…",
+					"indices": [
+						23,
+						46
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 39199129,
+			"id_str": "39199129",
+			"name": "Osman Faruqi",
+			"screen_name": "oz_f",
+			"location": "Melbourne",
+			"description": "Australian icon.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 42685,
+			"friends_count": 2566,
+			"listed_count": 382,
+			"created_at": "Mon May 11 05:24:58 +0000 2009",
+			"favourites_count": 49344,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1800,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "352726",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1345139554265624576/IYn-JaDQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1345139554265624576/IYn-JaDQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/39199129/1361830662",
+			"profile_link_color": "D02B55",
+			"profile_sidebar_border_color": "829D5E",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 48,
+		"favorite_count": 377,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Good stuff Liz Cambage https://t.co/ZZFx8UgDrm"
+	},
+	{
+		"created_at": "Sat May 08 11:58:16 +0000 2021",
+		"id": 1390794387349590000,
+		"id_str": "1390999490715295746",
+		"full_text": "This is what you’d get if you added about 30 Twitter-style dunks to Gillard’s misogyny speech https://t.co/lFs0nEzodd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lFs0nEzodd",
+					"expanded_url": "https://twitter.com/rosebjackson/status/1390510030919802880",
+					"display_url": "twitter.com/rosebjackson/s…",
+					"indices": [
+						94,
+						117
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 36074231,
+			"id_str": "36074231",
+			"name": "Matt Bevan 🎙",
+			"screen_name": "MatthewBevan",
+			"location": "Newcastle, New South Wales",
+			"description": "Host and writer of ‘..., If You’re Listening’ from @abcnews, @RNBreakfast reporter.",
+			"url": "https://t.co/zByOvZWXcS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zByOvZWXcS",
+							"expanded_url": "http://www.abc.net.au/radio/programs/russia-if-youre-listening/",
+							"display_url": "abc.net.au/radio/programs…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 27686,
+			"friends_count": 2782,
+			"listed_count": 317,
+			"created_at": "Tue Apr 28 14:13:07 +0000 2009",
+			"favourites_count": 34567,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 65754,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1305478511486889985/R2BYy2Aj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1305478511486889985/R2BYy2Aj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/36074231/1610528933",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1390510030919803000,
+		"quoted_status_id_str": "1390510030919802880",
+		"quoted_status_permalink": {
+			"url": "https://t.co/lFs0nEzodd",
+			"expanded": "https://twitter.com/rosebjackson/status/1390510030919802880",
+			"display": "twitter.com/rosebjackson/s…"
+		},
+		"quoted_status": {
+			"created_at": "Fri May 07 03:33:20 +0000 2021",
+			"id": 1390510030919803000,
+			"id_str": "1390510030919802880",
+			"full_text": "I am fed up with Latham’s bullying and time wasting. Every chance he gets Mark Latham works with the Liberals and Nationals to attack vulnerable people and working people. \n\nI reckon it was time to call out his disgusting behaviour. #nswpol #auspol https://t.co/l5o046X24l",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				248
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "nswpol",
+						"indices": [
+							233,
+							240
+						]
+					},
+					{
+						"text": "auspol",
+						"indices": [
+							241,
+							248
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1390509717647151000,
+						"id_str": "1390509717647151105",
+						"indices": [
+							249,
+							272
+						],
+						"media_url": "http://pbs.twimg.com/media/E0wVgFMXEAA0xJ0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E0wVgFMXEAA0xJ0.jpg",
+						"url": "https://t.co/l5o046X24l",
+						"display_url": "pic.twitter.com/l5o046X24l",
+						"expanded_url": "https://twitter.com/RoseBJackson/status/1390510030919802880/video/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 528,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 718,
+								"h": 924,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 718,
+								"h": 924,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1390509717647151000,
+						"id_str": "1390509717647151105",
+						"indices": [
+							249,
+							272
+						],
+						"media_url": "http://pbs.twimg.com/media/E0wVgFMXEAA0xJ0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E0wVgFMXEAA0xJ0.jpg",
+						"url": "https://t.co/l5o046X24l",
+						"display_url": "pic.twitter.com/l5o046X24l",
+						"expanded_url": "https://twitter.com/RoseBJackson/status/1390510030919802880/video/1",
+						"type": "video",
+						"sizes": {
+							"small": {
+								"w": 528,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 718,
+								"h": 924,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 718,
+								"h": 924,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								359,
+								462
+							],
+							"duration_millis": 189760,
+							"variants": [
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1390509717647151105/vid/320x410/TmOi0-68tyDbGEKM.mp4?tag=14"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1390509717647151105/pl/qiUcrXClvhyhL7ep.m3u8?tag=14"
+								},
+								{
+									"bitrate": 950000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1390509717647151105/vid/480x616/eiTvMje0wJqznEK0.mp4?tag=14"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1390509717647151105/vid/718x924/URtW2Nv5obZAlTND.mp4?tag=14"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "I call out Mark Latham",
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1248395071,
+				"id_str": "1248395071",
+				"name": "Rose Jackson",
+				"screen_name": "RoseBJackson",
+				"location": "",
+				"description": "MP in the NSW Legislative Council for @nswlabor. Got the family thing sorted so occasionally tweet about my awesome husband and kiddies.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9087,
+				"friends_count": 682,
+				"listed_count": 34,
+				"created_at": "Thu Mar 07 10:03:49 +0000 2013",
+				"favourites_count": 1890,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 1450,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1225725776386936832/MCQ_kz0__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225725776386936832/MCQ_kz0__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1248395071/1594201815",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1956,
+			"favorite_count": 7719,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 5,
+		"favorite_count": 50,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is what you’d get if you added about 30 Twitter-style dunks to Gillard’s misogyny speech https://t.co/lFs0nEzodd"
+	},
+	{
 		"created_at": "Wed May 05 00:14:41 +0000 2021",
 		"id": 1389735263069376500,
 		"id_str": "1389735263069376512",
@@ -64,12 +480,12 @@ Grailbird.data.tweets_2021_05 =
 			"friends_count": 149,
 			"listed_count": 90,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9035,
+			"favourites_count": 9036,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14879,
+			"statuses_count": 14881,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -170,12 +586,12 @@ Grailbird.data.tweets_2021_05 =
 			"friends_count": 149,
 			"listed_count": 90,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9035,
+			"favourites_count": 9036,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14879,
+			"statuses_count": 14881,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -340,8 +756,8 @@ Grailbird.data.tweets_2021_05 =
 					}
 				},
 				"protected": false,
-				"followers_count": 57766,
-				"friends_count": 508,
+				"followers_count": 57785,
+				"friends_count": 507,
 				"listed_count": 337,
 				"created_at": "Mon Apr 30 12:38:04 +0000 2012",
 				"favourites_count": 791,
@@ -459,12 +875,12 @@ Grailbird.data.tweets_2021_05 =
 			"friends_count": 149,
 			"listed_count": 90,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9035,
+			"favourites_count": 9036,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14879,
+			"statuses_count": 14881,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -705,12 +1121,12 @@ Grailbird.data.tweets_2021_05 =
 			"friends_count": 149,
 			"listed_count": 90,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9035,
+			"favourites_count": 9036,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14879,
+			"statuses_count": 14881,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -833,12 +1249,12 @@ Grailbird.data.tweets_2021_05 =
 			"friends_count": 149,
 			"listed_count": 90,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9035,
+			"favourites_count": 9036,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14879,
+			"statuses_count": 14881,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -965,12 +1381,12 @@ Grailbird.data.tweets_2021_05 =
 			"friends_count": 149,
 			"listed_count": 90,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9035,
+			"favourites_count": 9036,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14879,
+			"statuses_count": 14881,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1071,12 +1487,12 @@ Grailbird.data.tweets_2021_05 =
 			"friends_count": 149,
 			"listed_count": 90,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9035,
+			"favourites_count": 9036,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14879,
+			"statuses_count": 14881,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1174,16 +1590,16 @@ Grailbird.data.tweets_2021_05 =
 				}
 			},
 			"protected": false,
-			"followers_count": 4683,
-			"friends_count": 759,
+			"followers_count": 4684,
+			"friends_count": 760,
 			"listed_count": 249,
 			"created_at": "Sat Sep 24 09:18:58 +0000 2011",
-			"favourites_count": 25988,
+			"favourites_count": 25990,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 36776,
+			"statuses_count": 36778,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1280,8 +1696,8 @@ Grailbird.data.tweets_2021_05 =
 					}
 				},
 				"protected": false,
-				"followers_count": 5711,
-				"friends_count": 2729,
+				"followers_count": 5710,
+				"friends_count": 2728,
 				"listed_count": 473,
 				"created_at": "Fri Mar 30 04:52:58 +0000 2007",
 				"favourites_count": 1904,
@@ -1289,7 +1705,7 @@ Grailbird.data.tweets_2021_05 =
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": false,
-				"statuses_count": 7845,
+				"statuses_count": 7846,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -1476,12 +1892,12 @@ Grailbird.data.tweets_2021_05 =
 			"friends_count": 149,
 			"listed_count": 90,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9035,
+			"favourites_count": 9036,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14879,
+			"statuses_count": 14881,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1569,16 +1985,16 @@ Grailbird.data.tweets_2021_05 =
 				}
 			},
 			"protected": false,
-			"followers_count": 28573,
-			"friends_count": 1159,
-			"listed_count": 0,
+			"followers_count": 28656,
+			"friends_count": 1160,
+			"listed_count": 271,
 			"created_at": "Fri Feb 09 13:54:18 +0000 2018",
-			"favourites_count": 8796,
+			"favourites_count": 8803,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 8118,
+			"statuses_count": 8126,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
