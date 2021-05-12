@@ -1,6 +1,825 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Tue May 11 13:01:21 +0000 2021",
+		"id": 1392052831687876600,
+		"id_str": "1392102529232621577",
+		"full_text": "The budget cuts uni funding by 10% over the next four years, but gives hundreds of millions of dollar to for-profit education corporations.\n\nEducation should NEVER be for profit. We need free &amp; universal public education from early childhood to retirement.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			260
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 236713668,
+			"id_str": "236713668",
+			"name": "Mehreen Faruqi",
+			"screen_name": "MehreenFaruqi",
+			"location": "Sydney",
+			"description": "Greens Senator for NSW. Feminist, Engineer, Migrant ✊🏽",
+			"url": "https://t.co/uo3dnAImkP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uo3dnAImkP",
+							"expanded_url": "http://www.mehreenfaruqi.org.au",
+							"display_url": "mehreenfaruqi.org.au",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34081,
+			"friends_count": 2207,
+			"listed_count": 330,
+			"created_at": "Tue Jan 11 06:02:39 +0000 2011",
+			"favourites_count": 3270,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12841,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "352726",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1054478926448287745/XfGAQbxh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1054478926448287745/XfGAQbxh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/236713668/1590973872",
+			"profile_link_color": "D02B55",
+			"profile_sidebar_border_color": "829D5E",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 526,
+		"favorite_count": 1436,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "The budget cuts uni funding by 10% over the next four years, but gives hundreds of millions of dollar to for-profit education corporations.\n\nEducation should NEVER be for profit. We need free &amp; universal public education from early childhood to retirement."
+	},
+	{
+		"created_at": "Tue May 11 10:57:51 +0000 2021",
+		"id": 1392067436585783300,
+		"id_str": "1392071450622713856",
+		"full_text": "@NTEUNational This is a Govt with no care for research, no care for innovation, no care for young people. University education is a path out of poverty for working class families. #Budget2021 is more bad news for anyone aspiring to study &amp; further themselves or want that for their kids.",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			291
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Budget2021",
+					"indices": [
+						180,
+						191
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NTEUNational",
+					"name": "NTEU ~ Secure jobs, now!",
+					"id": 177751401,
+					"id_str": "177751401",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1392064801019351000,
+		"in_reply_to_status_id_str": "1392064801019351049",
+		"in_reply_to_user_id": 177751401,
+		"in_reply_to_user_id_str": "177751401",
+		"in_reply_to_screen_name": "NTEUNational",
+		"user": {
+			"id": 1001054770096881700,
+			"id_str": "1001054770096881665",
+			"name": "Alison Barnes",
+			"screen_name": "AlisonBarnes25",
+			"location": "Australia",
+			"description": "@NTEUNational President. Researcher and teacher about work and industrial relations. Also a @WoodstockRunner. Views my own.",
+			"url": "https://t.co/AAwEZGNkun",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AAwEZGNkun",
+							"expanded_url": "http://www.nteu.org.au",
+							"display_url": "nteu.org.au",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1906,
+			"friends_count": 917,
+			"listed_count": 14,
+			"created_at": "Mon May 28 10:57:10 +0000 2018",
+			"favourites_count": 2392,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1202,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1001059219863359490/-Pntyqro_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1001059219863359490/-Pntyqro_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1001054770096881665/1527506223",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 47,
+		"favorite_count": 103,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@NTEUNational This is a Govt with no care for research, no care for innovation, no care for young people. University education is a path out of poverty for working class families. #Budget2021 is more bad news for anyone aspiring to study &amp; further themselves or want that for their kids."
+	},
+	{
+		"created_at": "Tue May 11 10:57:44 +0000 2021",
+		"id": 1392065678081888300,
+		"id_str": "1392071418259513347",
+		"full_text": "After 17,300 job losses over the last year the Govt has handed down a 9.3% cut to university funding in #Budget2021 (over forward estimates). They’ve *admitted* that the Jobs Ready Graduate package was just a dressed-up funding cut all along. https://t.co/HEZnd51Vj9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			242
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Budget2021",
+					"indices": [
+						104,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HEZnd51Vj9",
+					"expanded_url": "https://twitter.com/NTEUNational/status/1392064801019351049",
+					"display_url": "twitter.com/NTEUNational/s…",
+					"indices": [
+						243,
+						266
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1001054770096881700,
+			"id_str": "1001054770096881665",
+			"name": "Alison Barnes",
+			"screen_name": "AlisonBarnes25",
+			"location": "Australia",
+			"description": "@NTEUNational President. Researcher and teacher about work and industrial relations. Also a @WoodstockRunner. Views my own.",
+			"url": "https://t.co/AAwEZGNkun",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AAwEZGNkun",
+							"expanded_url": "http://www.nteu.org.au",
+							"display_url": "nteu.org.au",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1906,
+			"friends_count": 917,
+			"listed_count": 14,
+			"created_at": "Mon May 28 10:57:10 +0000 2018",
+			"favourites_count": 2392,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1202,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1001059219863359490/-Pntyqro_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1001059219863359490/-Pntyqro_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1001054770096881665/1527506223",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1392064801019351000,
+		"quoted_status_id_str": "1392064801019351049",
+		"quoted_status_permalink": {
+			"url": "https://t.co/HEZnd51Vj9",
+			"expanded": "https://twitter.com/NTEUNational/status/1392064801019351049",
+			"display": "twitter.com/NTEUNational/s…"
+		},
+		"quoted_status": {
+			"created_at": "Tue May 11 10:31:26 +0000 2021",
+			"id": 1392064801019351000,
+			"id_str": "1392064801019351049",
+			"full_text": "Around 10% cut in uni funding. \n\nThose cuts will sting 250,000 workers, the next generation and our 4th largest export industry\n\nWho’s going to research the next vaccine?\n\n#DumbCuts #Budget21 #FundUniFairly https://t.co/3QAyHVZ2Dj",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				206
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "DumbCuts",
+						"indices": [
+							172,
+							181
+						]
+					},
+					{
+						"text": "Budget21",
+						"indices": [
+							182,
+							191
+						]
+					},
+					{
+						"text": "FundUniFairly",
+						"indices": [
+							192,
+							206
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1392064796548223000,
+						"id_str": "1392064796548222977",
+						"indices": [
+							207,
+							230
+						],
+						"media_url": "http://pbs.twimg.com/media/E1GbjpaVUAEy6KB.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E1GbjpaVUAEy6KB.jpg",
+						"url": "https://t.co/3QAyHVZ2Dj",
+						"display_url": "pic.twitter.com/3QAyHVZ2Dj",
+						"expanded_url": "https://twitter.com/NTEUNational/status/1392064801019351049/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 566,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 750,
+								"h": 624,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 750,
+								"h": 624,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1392064796548223000,
+						"id_str": "1392064796548222977",
+						"indices": [
+							207,
+							230
+						],
+						"media_url": "http://pbs.twimg.com/media/E1GbjpaVUAEy6KB.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E1GbjpaVUAEy6KB.jpg",
+						"url": "https://t.co/3QAyHVZ2Dj",
+						"display_url": "pic.twitter.com/3QAyHVZ2Dj",
+						"expanded_url": "https://twitter.com/NTEUNational/status/1392064801019351049/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 566,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 750,
+								"h": 624,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 750,
+								"h": 624,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 177751401,
+				"id_str": "177751401",
+				"name": "NTEU ~ Secure jobs, now!",
+				"screen_name": "NTEUNational",
+				"location": "Melbourne, Australia",
+				"description": "We’re the union for higher education staff\n#SaveHigherEd #FundUniFairly #SecureJobs\nAuthorised by M.McGowan, Melbourne\nNational Tertiary Education Union",
+				"url": "https://t.co/AAwEZGNkun",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/AAwEZGNkun",
+								"expanded_url": "http://www.nteu.org.au",
+								"display_url": "nteu.org.au",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6502,
+				"friends_count": 1702,
+				"listed_count": 131,
+				"created_at": "Thu Aug 12 23:57:50 +0000 2010",
+				"favourites_count": 4658,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 12344,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "851073",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1377410801858801669/zCIF5vc5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377410801858801669/zCIF5vc5_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/177751401/1619993966",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 120,
+			"favorite_count": 184,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 129,
+		"favorite_count": 218,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "After 17,300 job losses over the last year the Govt has handed down a 9.3% cut to university funding in #Budget2021 (over forward estimates). They’ve *admitted* that the Jobs Ready Graduate package was just a dressed-up funding cut all along. https://t.co/HEZnd51Vj9"
+	},
+	{
+		"created_at": "Tue May 11 04:12:40 +0000 2021",
+		"id": 1391966036417683500,
+		"id_str": "1391969482969550850",
+		"full_text": "Government announces plans to invest 3/5 of a war memorial into women's health. #Budget2021 https://t.co/9Ja4fnAKyh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Budget2021",
+					"indices": [
+						80,
+						91
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1391965588860203000,
+					"id_str": "1391965588860203010",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/E1FBU_-UcAI9323.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1FBU_-UcAI9323.jpg",
+					"url": "https://t.co/9Ja4fnAKyh",
+					"display_url": "pic.twitter.com/9Ja4fnAKyh",
+					"expanded_url": "https://twitter.com/TheShovel/status/1391966036417683457/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1818,
+							"h": 714,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 471,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 267,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1391965588860203000,
+					"id_str": "1391965588860203010",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/E1FBU_-UcAI9323.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1FBU_-UcAI9323.jpg",
+					"url": "https://t.co/9Ja4fnAKyh",
+					"display_url": "pic.twitter.com/9Ja4fnAKyh",
+					"expanded_url": "https://twitter.com/TheShovel/status/1391966036417683457/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1818,
+							"h": 714,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 471,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 267,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 567192377,
+			"id_str": "567192377",
+			"name": "The Shovel",
+			"screen_name": "TheShovel",
+			"location": "",
+			"description": "News you can believe in.",
+			"url": "https://t.co/VtH3TOSmE7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VtH3TOSmE7",
+							"expanded_url": "http://www.theshovel.com.au",
+							"display_url": "theshovel.com.au",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57859,
+			"friends_count": 507,
+			"listed_count": 337,
+			"created_at": "Mon Apr 30 12:38:04 +0000 2012",
+			"favourites_count": 791,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5271,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/508746217627455488/WloTAkIV_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/508746217627455488/WloTAkIV_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/567192377/1602113819",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 250,
+		"favorite_count": 834,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Government announces plans to invest 3/5 of a war memorial into women's health. #Budget2021 https://t.co/9Ja4fnAKyh"
+	},
+	{
+		"created_at": "Tue May 11 03:48:06 +0000 2021",
+		"id": 1391963298845761500,
+		"id_str": "1391963298845761542",
+		"full_text": "@shalailah Good luck!!!",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "shalailah",
+					"name": "Shalailah Medhora",
+					"id": 46828208,
+					"id_str": "46828208",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1391954868676350000,
+		"in_reply_to_status_id_str": "1391954868676349961",
+		"in_reply_to_user_id": 46828208,
+		"in_reply_to_user_id_str": "46828208",
+		"in_reply_to_screen_name": "shalailah",
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Adelaide, South Australia",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
+			"url": "https://t.co/uC0c3me6KE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uC0c3me6KE",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 827,
+			"friends_count": 149,
+			"listed_count": 90,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 9039,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14888,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@shalailah Good luck!!!"
+	},
+	{
 		"created_at": "Mon May 10 10:07:00 +0000 2021",
 		"id": 1391664971226828800,
 		"id_str": "1391696263339397120",
@@ -177,16 +996,16 @@ Grailbird.data.tweets_2021_05 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8255,
+			"followers_count": 8354,
 			"friends_count": 1030,
 			"listed_count": 83,
 			"created_at": "Sat Apr 30 02:30:02 +0000 2011",
-			"favourites_count": 14527,
+			"favourites_count": 14539,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 18039,
+			"statuses_count": 18041,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -217,8 +1036,8 @@ Grailbird.data.tweets_2021_05 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 1662,
-		"favorite_count": 3008,
+		"retweet_count": 2149,
+		"favorite_count": 3791,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -284,16 +1103,16 @@ Grailbird.data.tweets_2021_05 =
 				}
 			},
 			"protected": false,
-			"followers_count": 27694,
+			"followers_count": 27715,
 			"friends_count": 2784,
-			"listed_count": 317,
+			"listed_count": 316,
 			"created_at": "Tue Apr 28 14:13:07 +0000 2009",
-			"favourites_count": 34645,
+			"favourites_count": 34679,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 65817,
+			"statuses_count": 65854,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -487,16 +1306,16 @@ Grailbird.data.tweets_2021_05 =
 									}
 								},
 								"protected": false,
-								"followers_count": 110606,
+								"followers_count": 110639,
 								"friends_count": 2980,
-								"listed_count": 778,
+								"listed_count": 780,
 								"created_at": "Wed Jun 02 00:40:53 +0000 2010",
 								"favourites_count": 975,
 								"utc_offset": null,
 								"time_zone": null,
 								"geo_enabled": true,
 								"verified": true,
-								"statuses_count": 4457,
+								"statuses_count": 4459,
 								"lang": null,
 								"contributors_enabled": false,
 								"is_translator": false,
@@ -559,16 +1378,16 @@ Grailbird.data.tweets_2021_05 =
 					}
 				},
 				"protected": false,
-				"followers_count": 6880,
-				"friends_count": 3820,
+				"followers_count": 6888,
+				"friends_count": 3823,
 				"listed_count": 101,
 				"created_at": "Sat Apr 21 05:17:51 +0000 2012",
-				"favourites_count": 21481,
+				"favourites_count": 21501,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": true,
-				"statuses_count": 25527,
+				"statuses_count": 25543,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -599,15 +1418,15 @@ Grailbird.data.tweets_2021_05 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 315,
-			"favorite_count": 1428,
+			"retweet_count": 349,
+			"favorite_count": 1548,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
 			"lang": "en"
 		},
-		"retweet_count": 270,
-		"favorite_count": 1593,
+		"retweet_count": 297,
+		"favorite_count": 1743,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -667,12 +1486,12 @@ Grailbird.data.tweets_2021_05 =
 			"friends_count": 1910,
 			"listed_count": 139,
 			"created_at": "Mon Mar 30 05:59:18 +0000 2009",
-			"favourites_count": 22526,
+			"favourites_count": 22643,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 9305,
+			"statuses_count": 9328,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -703,8 +1522,8 @@ Grailbird.data.tweets_2021_05 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 313,
-		"favorite_count": 1975,
+		"retweet_count": 314,
+		"favorite_count": 1982,
 		"favorited": false,
 		"retweeted": true,
 		"lang": "en",
@@ -756,16 +1575,16 @@ Grailbird.data.tweets_2021_05 =
 				}
 			},
 			"protected": false,
-			"followers_count": 42725,
-			"friends_count": 2565,
-			"listed_count": 384,
+			"followers_count": 42758,
+			"friends_count": 2564,
+			"listed_count": 385,
 			"created_at": "Mon May 11 05:24:58 +0000 2009",
-			"favourites_count": 49403,
+			"favourites_count": 49399,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 1811,
+			"statuses_count": 1836,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -797,7 +1616,7 @@ Grailbird.data.tweets_2021_05 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 50,
-		"favorite_count": 386,
+		"favorite_count": 390,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -863,16 +1682,16 @@ Grailbird.data.tweets_2021_05 =
 				}
 			},
 			"protected": false,
-			"followers_count": 27694,
+			"followers_count": 27715,
 			"friends_count": 2784,
-			"listed_count": 317,
+			"listed_count": 316,
 			"created_at": "Tue Apr 28 14:13:07 +0000 2009",
-			"favourites_count": 34645,
+			"favourites_count": 34679,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 65817,
+			"statuses_count": 65854,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1071,16 +1890,16 @@ Grailbird.data.tweets_2021_05 =
 					}
 				},
 				"protected": false,
-				"followers_count": 9703,
-				"friends_count": 687,
+				"followers_count": 9767,
+				"friends_count": 690,
 				"listed_count": 36,
 				"created_at": "Thu Mar 07 10:03:49 +0000 2013",
-				"favourites_count": 1894,
+				"favourites_count": 1895,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": true,
-				"statuses_count": 1454,
+				"statuses_count": 1456,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -1111,8 +1930,8 @@ Grailbird.data.tweets_2021_05 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 2073,
-			"favorite_count": 8227,
+			"retweet_count": 2083,
+			"favorite_count": 8256,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
@@ -1190,12 +2009,12 @@ Grailbird.data.tweets_2021_05 =
 			"friends_count": 149,
 			"listed_count": 90,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9038,
+			"favourites_count": 9039,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14883,
+			"statuses_count": 14888,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1296,12 +2115,12 @@ Grailbird.data.tweets_2021_05 =
 			"friends_count": 149,
 			"listed_count": 90,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9038,
+			"favourites_count": 9039,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14883,
+			"statuses_count": 14888,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1466,7 +2285,7 @@ Grailbird.data.tweets_2021_05 =
 					}
 				},
 				"protected": false,
-				"followers_count": 57818,
+				"followers_count": 57859,
 				"friends_count": 507,
 				"listed_count": 337,
 				"created_at": "Mon Apr 30 12:38:04 +0000 2012",
@@ -1475,7 +2294,7 @@ Grailbird.data.tweets_2021_05 =
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": false,
-				"statuses_count": 5265,
+				"statuses_count": 5271,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -1507,7 +2326,7 @@ Grailbird.data.tweets_2021_05 =
 			"contributors": null,
 			"is_quote_status": false,
 			"retweet_count": 155,
-			"favorite_count": 1120,
+			"favorite_count": 1121,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
@@ -1585,12 +2404,12 @@ Grailbird.data.tweets_2021_05 =
 			"friends_count": 149,
 			"listed_count": 90,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9038,
+			"favourites_count": 9039,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14883,
+			"statuses_count": 14888,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1831,12 +2650,12 @@ Grailbird.data.tweets_2021_05 =
 			"friends_count": 149,
 			"listed_count": 90,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9038,
+			"favourites_count": 9039,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14883,
+			"statuses_count": 14888,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1959,12 +2778,12 @@ Grailbird.data.tweets_2021_05 =
 			"friends_count": 149,
 			"listed_count": 90,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9038,
+			"favourites_count": 9039,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14883,
+			"statuses_count": 14888,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2091,12 +2910,12 @@ Grailbird.data.tweets_2021_05 =
 			"friends_count": 149,
 			"listed_count": 90,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9038,
+			"favourites_count": 9039,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14883,
+			"statuses_count": 14888,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2197,12 +3016,12 @@ Grailbird.data.tweets_2021_05 =
 			"friends_count": 149,
 			"listed_count": 90,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9038,
+			"favourites_count": 9039,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14883,
+			"statuses_count": 14888,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2300,16 +3119,16 @@ Grailbird.data.tweets_2021_05 =
 				}
 			},
 			"protected": false,
-			"followers_count": 4688,
+			"followers_count": 4687,
 			"friends_count": 762,
 			"listed_count": 249,
 			"created_at": "Sat Sep 24 09:18:58 +0000 2011",
-			"favourites_count": 25989,
+			"favourites_count": 25995,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 36788,
+			"statuses_count": 36790,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2406,8 +3225,8 @@ Grailbird.data.tweets_2021_05 =
 					}
 				},
 				"protected": false,
-				"followers_count": 5711,
-				"friends_count": 2727,
+				"followers_count": 5709,
+				"friends_count": 2728,
 				"listed_count": 473,
 				"created_at": "Fri Mar 30 04:52:58 +0000 2007",
 				"favourites_count": 1906,
@@ -2415,7 +3234,7 @@ Grailbird.data.tweets_2021_05 =
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": false,
-				"statuses_count": 7850,
+				"statuses_count": 7851,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -2602,12 +3421,12 @@ Grailbird.data.tweets_2021_05 =
 			"friends_count": 149,
 			"listed_count": 90,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9038,
+			"favourites_count": 9039,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14883,
+			"statuses_count": 14888,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2695,16 +3514,16 @@ Grailbird.data.tweets_2021_05 =
 				}
 			},
 			"protected": false,
-			"followers_count": 28821,
-			"friends_count": 1160,
+			"followers_count": 28896,
+			"friends_count": 1162,
 			"listed_count": 272,
 			"created_at": "Fri Feb 09 13:54:18 +0000 2018",
-			"favourites_count": 8817,
+			"favourites_count": 8825,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 8136,
+			"statuses_count": 8153,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
