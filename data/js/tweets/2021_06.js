@@ -1,6 +1,555 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Thu Jun 03 22:00:36 +0000 2021",
+		"id": 1400573157979955200,
+		"id_str": "1400573157979955207",
+		"full_text": "The Principles of Agile Learning Design https://t.co/ax7mCqI9At",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ax7mCqI9At",
+					"expanded_url": "https://timklapdor.wordpress.com/2021/06/04/the-principles-of-agile-learning-design/",
+					"display_url": "timklapdor.wordpress.com/2021/06/04/the…",
+					"indices": [
+						40,
+						63
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Adelaide, South Australia",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
+			"url": "https://t.co/uC0c3me6KE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uC0c3me6KE",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 823,
+			"friends_count": 150,
+			"listed_count": 89,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 9094,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14929,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The Principles of Agile Learning Design https://t.co/ax7mCqI9At"
+	},
+	{
+		"created_at": "Thu Jun 03 14:23:16 +0000 2021",
+		"id": 1400458063677595600,
+		"id_str": "1400458063677595660",
+		"full_text": "Always a pleasure to be Downes'd! https://t.co/8LEvYAW5YN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8LEvYAW5YN",
+					"expanded_url": "https://twitter.com/oldaily/status/1400435138014724096",
+					"display_url": "twitter.com/oldaily/status…",
+					"indices": [
+						34,
+						57
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Adelaide, South Australia",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
+			"url": "https://t.co/uC0c3me6KE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uC0c3me6KE",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 823,
+			"friends_count": 150,
+			"listed_count": 89,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 9094,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14929,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1400435138014724000,
+		"quoted_status_id_str": "1400435138014724096",
+		"quoted_status_permalink": {
+			"url": "https://t.co/8LEvYAW5YN",
+			"expanded": "https://twitter.com/oldaily/status/1400435138014724096",
+			"display": "twitter.com/oldaily/status…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jun 03 12:52:10 +0000 2021",
+			"id": 1400435138014724000,
+			"id_str": "1400435138014724096",
+			"full_text": "An Origin Story for Agile Learning Design #oldaily https://t.co/NuufNJz9Td This post describes Tim Klapdor's turn to agile learning design. In more traditional designs, everything is planned ahead of time and then the project is built.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				235
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "oldaily",
+						"indices": [
+							42,
+							50
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/NuufNJz9Td",
+						"expanded_url": "https://www.downes.ca/post/72413",
+						"display_url": "downes.ca/post/72413",
+						"indices": [
+							51,
+							74
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.downes.ca\" rel=\"nofollow\">OLDaily</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 96139902,
+				"id_str": "96139902",
+				"name": "🍁 Stephen Downes",
+				"screen_name": "oldaily",
+				"location": "Casselman, Ontario, Canada",
+				"description": "Posting from OLDaily, the e-learning and new media news feed from Stephen Downes.",
+				"url": "https://t.co/POxuXAPTF5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/POxuXAPTF5",
+								"expanded_url": "https://www.downes.ca",
+								"display_url": "downes.ca",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6119,
+				"friends_count": 0,
+				"listed_count": 497,
+				"created_at": "Fri Dec 11 14:48:48 +0000 2009",
+				"favourites_count": 2,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 13003,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "6E6F70",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1266457895564083201/E00ZCb0P_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1266457895564083201/E00ZCb0P_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/96139902/1373314419",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Always a pleasure to be Downes'd! https://t.co/8LEvYAW5YN"
+	},
+	{
+		"created_at": "Thu Jun 03 13:55:11 +0000 2021",
+		"id": 1400450996082397200,
+		"id_str": "1400450996082397194",
+		"full_text": "The Design in Learning Design https://t.co/Q9SLO3ErGp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Q9SLO3ErGp",
+					"expanded_url": "https://timklapdor.wordpress.com/2021/06/03/the-design-in-learning-design/",
+					"display_url": "timklapdor.wordpress.com/2021/06/03/the…",
+					"indices": [
+						30,
+						53
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Adelaide, South Australia",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
+			"url": "https://t.co/uC0c3me6KE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uC0c3me6KE",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 823,
+			"friends_count": 150,
+			"listed_count": 89,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 9094,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14929,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The Design in Learning Design https://t.co/Q9SLO3ErGp"
+	},
+	{
+		"created_at": "Thu Jun 03 08:40:09 +0000 2021",
+		"id": 1400256119113584600,
+		"id_str": "1400371716988145672",
+		"full_text": "Full the full analysis, go to: https://t.co/ptunn85MS5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			54
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ptunn85MS5",
+					"expanded_url": "https://www.theshovel.com.au/2021/06/03/covid-data-analysis/",
+					"display_url": "theshovel.com.au/2021/06/03/cov…",
+					"indices": [
+						31,
+						54
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1400255888624033800,
+		"in_reply_to_status_id_str": "1400255888624033793",
+		"in_reply_to_user_id": 567192377,
+		"in_reply_to_user_id_str": "567192377",
+		"in_reply_to_screen_name": "TheShovel",
+		"user": {
+			"id": 567192377,
+			"id_str": "567192377",
+			"name": "The Shovel",
+			"screen_name": "TheShovel",
+			"location": "",
+			"description": "News you can believe in.",
+			"url": "https://t.co/VtH3TOSmE7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VtH3TOSmE7",
+							"expanded_url": "http://www.theshovel.com.au",
+							"display_url": "theshovel.com.au",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 59818,
+			"friends_count": 508,
+			"listed_count": 344,
+			"created_at": "Mon Apr 30 12:38:04 +0000 2012",
+			"favourites_count": 795,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5334,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/508746217627455488/WloTAkIV_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/508746217627455488/WloTAkIV_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/567192377/1602113819",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Full the full analysis, go to: https://t.co/ptunn85MS5"
+	},
+	{
 		"created_at": "Wed Jun 02 13:21:41 +0000 2021",
 		"id": 1400080179502981000,
 		"id_str": "1400080179502981123",
@@ -59,16 +608,16 @@ Grailbird.data.tweets_2021_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 824,
+			"followers_count": 823,
 			"friends_count": 150,
-			"listed_count": 90,
+			"listed_count": 89,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9087,
+			"favourites_count": 9094,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14926,
+			"statuses_count": 14929,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -166,16 +715,16 @@ Grailbird.data.tweets_2021_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 24657,
-			"friends_count": 3991,
+			"followers_count": 24670,
+			"friends_count": 3994,
 			"listed_count": 343,
 			"created_at": "Sat Jun 13 04:45:19 +0000 2009",
-			"favourites_count": 7087,
+			"favourites_count": 7088,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 66749,
+			"statuses_count": 66775,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -206,8 +755,8 @@ Grailbird.data.tweets_2021_06 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 60,
-		"favorite_count": 153,
+		"retweet_count": 61,
+		"favorite_count": 155,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -273,16 +822,16 @@ Grailbird.data.tweets_2021_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 824,
+			"followers_count": 823,
 			"friends_count": 150,
-			"listed_count": 90,
+			"listed_count": 89,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9087,
+			"favourites_count": 9094,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14926,
+			"statuses_count": 14929,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -380,16 +929,16 @@ Grailbird.data.tweets_2021_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 3945,
+			"followers_count": 3944,
 			"friends_count": 303,
 			"listed_count": 272,
 			"created_at": "Sun Jan 28 08:28:45 +0000 2007",
-			"favourites_count": 17958,
+			"favourites_count": 17969,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 2383,
+			"statuses_count": 2408,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -486,7 +1035,7 @@ Grailbird.data.tweets_2021_06 =
 					}
 				},
 				"protected": false,
-				"followers_count": 900777,
+				"followers_count": 900919,
 				"friends_count": 1204,
 				"listed_count": 4654,
 				"created_at": "Thu Apr 16 23:28:23 +0000 2009",
@@ -495,7 +1044,7 @@ Grailbird.data.tweets_2021_06 =
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": true,
-				"statuses_count": 126452,
+				"statuses_count": 126522,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -611,16 +1160,16 @@ Grailbird.data.tweets_2021_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 25513,
+			"followers_count": 25510,
 			"friends_count": 945,
 			"listed_count": 149,
 			"created_at": "Tue Jun 21 03:15:23 +0000 2011",
-			"favourites_count": 12507,
+			"favourites_count": 12509,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 7008,
+			"statuses_count": 7007,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -837,7 +1386,7 @@ Grailbird.data.tweets_2021_06 =
 					}
 				},
 				"protected": false,
-				"followers_count": 250026,
+				"followers_count": 250062,
 				"friends_count": 1164,
 				"listed_count": 920,
 				"created_at": "Mon Feb 07 08:23:05 +0000 2011",
@@ -846,7 +1395,7 @@ Grailbird.data.tweets_2021_06 =
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": true,
-				"statuses_count": 206434,
+				"statuses_count": 206439,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -877,15 +1426,15 @@ Grailbird.data.tweets_2021_06 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 532,
-			"favorite_count": 2291,
+			"retweet_count": 544,
+			"favorite_count": 2314,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
 			"lang": "en"
 		},
 		"retweet_count": 64,
-		"favorite_count": 563,
+		"favorite_count": 564,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -952,16 +1501,16 @@ Grailbird.data.tweets_2021_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 824,
+			"followers_count": 823,
 			"friends_count": 150,
-			"listed_count": 90,
+			"listed_count": 89,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9087,
+			"favourites_count": 9094,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14926,
+			"statuses_count": 14929,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1058,16 +1607,16 @@ Grailbird.data.tweets_2021_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 824,
+			"followers_count": 823,
 			"friends_count": 150,
-			"listed_count": 90,
+			"listed_count": 89,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9087,
+			"favourites_count": 9094,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14926,
+			"statuses_count": 14929,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1284,7 +1833,7 @@ Grailbird.data.tweets_2021_06 =
 					}
 				},
 				"protected": false,
-				"followers_count": 250026,
+				"followers_count": 250062,
 				"friends_count": 1164,
 				"listed_count": 920,
 				"created_at": "Mon Feb 07 08:23:05 +0000 2011",
@@ -1293,7 +1842,7 @@ Grailbird.data.tweets_2021_06 =
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": true,
-				"statuses_count": 206434,
+				"statuses_count": 206439,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -1324,8 +1873,8 @@ Grailbird.data.tweets_2021_06 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 532,
-			"favorite_count": 2291,
+			"retweet_count": 544,
+			"favorite_count": 2314,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
@@ -1398,16 +1947,16 @@ Grailbird.data.tweets_2021_06 =
 				}
 			},
 			"protected": false,
-			"followers_count": 3804,
-			"friends_count": 1940,
+			"followers_count": 3806,
+			"friends_count": 1939,
 			"listed_count": 43,
 			"created_at": "Wed Dec 17 20:41:21 +0000 2008",
-			"favourites_count": 39647,
+			"favourites_count": 39737,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 23066,
+			"statuses_count": 23092,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1624,7 +2173,7 @@ Grailbird.data.tweets_2021_06 =
 					}
 				},
 				"protected": false,
-				"followers_count": 250026,
+				"followers_count": 250062,
 				"friends_count": 1164,
 				"listed_count": 920,
 				"created_at": "Mon Feb 07 08:23:05 +0000 2011",
@@ -1633,7 +2182,7 @@ Grailbird.data.tweets_2021_06 =
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": true,
-				"statuses_count": 206434,
+				"statuses_count": 206439,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -1664,15 +2213,15 @@ Grailbird.data.tweets_2021_06 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 532,
-			"favorite_count": 2291,
+			"retweet_count": 544,
+			"favorite_count": 2314,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
 			"lang": "en"
 		},
 		"retweet_count": 11,
-		"favorite_count": 48,
+		"favorite_count": 49,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,

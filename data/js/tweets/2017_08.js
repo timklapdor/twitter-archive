@@ -70,16 +70,16 @@ Grailbird.data.tweets_2017_08 =
 				}
 			},
 			"protected": false,
-			"followers_count": 824,
+			"followers_count": 823,
 			"friends_count": 150,
-			"listed_count": 90,
+			"listed_count": 89,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9087,
+			"favourites_count": 9094,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14926,
+			"statuses_count": 14929,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -177,16 +177,16 @@ Grailbird.data.tweets_2017_08 =
 				}
 			},
 			"protected": false,
-			"followers_count": 824,
+			"followers_count": 823,
 			"friends_count": 150,
-			"listed_count": 90,
+			"listed_count": 89,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9087,
+			"favourites_count": 9094,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14926,
+			"statuses_count": 14929,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -304,16 +304,16 @@ Grailbird.data.tweets_2017_08 =
 				}
 			},
 			"protected": false,
-			"followers_count": 824,
+			"followers_count": 823,
 			"friends_count": 150,
-			"listed_count": 90,
+			"listed_count": 89,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9087,
+			"favourites_count": 9094,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14926,
+			"statuses_count": 14929,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -411,16 +411,16 @@ Grailbird.data.tweets_2017_08 =
 				}
 			},
 			"protected": false,
-			"followers_count": 824,
+			"followers_count": 823,
 			"friends_count": 150,
-			"listed_count": 90,
+			"listed_count": 89,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9087,
+			"favourites_count": 9094,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14926,
+			"statuses_count": 14929,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -529,16 +529,16 @@ Grailbird.data.tweets_2017_08 =
 					}
 				},
 				"protected": false,
-				"followers_count": 12303,
-				"friends_count": 12302,
+				"followers_count": 12299,
+				"friends_count": 12300,
 				"listed_count": 1148,
 				"created_at": "Wed Nov 21 21:14:58 +0000 2007",
-				"favourites_count": 141540,
+				"favourites_count": 141557,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": false,
-				"statuses_count": 65064,
+				"statuses_count": 65068,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -718,16 +718,16 @@ Grailbird.data.tweets_2017_08 =
 				}
 			},
 			"protected": false,
-			"followers_count": 824,
+			"followers_count": 823,
 			"friends_count": 150,
-			"listed_count": 90,
+			"listed_count": 89,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9087,
+			"favourites_count": 9094,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14926,
+			"statuses_count": 14929,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -937,16 +937,16 @@ Grailbird.data.tweets_2017_08 =
 				}
 			},
 			"protected": false,
-			"followers_count": 824,
+			"followers_count": 823,
 			"friends_count": 150,
-			"listed_count": 90,
+			"listed_count": 89,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9087,
+			"favourites_count": 9094,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14926,
+			"statuses_count": 14929,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1127,16 +1127,16 @@ Grailbird.data.tweets_2017_08 =
 				}
 			},
 			"protected": false,
-			"followers_count": 824,
+			"followers_count": 823,
 			"friends_count": 150,
-			"listed_count": 90,
+			"listed_count": 89,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9087,
+			"favourites_count": 9094,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14926,
+			"statuses_count": 14929,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1317,16 +1317,16 @@ Grailbird.data.tweets_2017_08 =
 				}
 			},
 			"protected": false,
-			"followers_count": 824,
+			"followers_count": 823,
 			"friends_count": 150,
-			"listed_count": 90,
+			"listed_count": 89,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9087,
+			"favourites_count": 9094,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14926,
+			"statuses_count": 14929,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1422,16 +1422,16 @@ Grailbird.data.tweets_2017_08 =
 				}
 			},
 			"protected": false,
-			"followers_count": 824,
+			"followers_count": 823,
 			"friends_count": 150,
-			"listed_count": 90,
+			"listed_count": 89,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9087,
+			"favourites_count": 9094,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14926,
+			"statuses_count": 14929,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1653,16 +1653,16 @@ Grailbird.data.tweets_2017_08 =
 				}
 			},
 			"protected": false,
-			"followers_count": 824,
+			"followers_count": 823,
 			"friends_count": 150,
-			"listed_count": 90,
+			"listed_count": 89,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9087,
+			"favourites_count": 9094,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14926,
+			"statuses_count": 14929,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1760,16 +1760,16 @@ Grailbird.data.tweets_2017_08 =
 				}
 			},
 			"protected": false,
-			"followers_count": 824,
+			"followers_count": 823,
 			"friends_count": 150,
-			"listed_count": 90,
+			"listed_count": 89,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9087,
+			"favourites_count": 9094,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14926,
+			"statuses_count": 14929,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1864,16 +1864,16 @@ Grailbird.data.tweets_2017_08 =
 				}
 			},
 			"protected": false,
-			"followers_count": 824,
+			"followers_count": 823,
 			"friends_count": 150,
-			"listed_count": 90,
+			"listed_count": 89,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9087,
+			"favourites_count": 9094,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14926,
+			"statuses_count": 14929,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1968,16 +1968,16 @@ Grailbird.data.tweets_2017_08 =
 				}
 			},
 			"protected": false,
-			"followers_count": 824,
+			"followers_count": 823,
 			"friends_count": 150,
-			"listed_count": 90,
+			"listed_count": 89,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9087,
+			"favourites_count": 9094,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14926,
+			"statuses_count": 14929,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2138,7 +2138,7 @@ Grailbird.data.tweets_2017_08 =
 			},
 			"protected": false,
 			"followers_count": 974,
-			"friends_count": 914,
+			"friends_count": 915,
 			"listed_count": 68,
 			"created_at": "Tue May 12 20:38:29 +0000 2009",
 			"favourites_count": 331,
@@ -2184,556 +2184,5 @@ Grailbird.data.tweets_2017_08 =
 		"possibly_sensitive": false,
 		"lang": "en",
 		"text": "Me and all my devices. Every. Single. Day. #ux https://t.co/vIrpKqo20L"
-	},
-	{
-		"created_at": "Thu Aug 31 01:13:37 +0000 2017",
-		"id": 903063189914390500,
-		"id_str": "903063189914390528",
-		"full_text": "@jackaroo2000 @Griffith_Uni Or are they like Laserdiscs?",
-		"truncated": false,
-		"display_text_range": [
-			28,
-			56
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [
-				{
-					"screen_name": "jackaroo2000",
-					"name": "Jack Goodman",
-					"id": 87296076,
-					"id_str": "87296076",
-					"indices": [
-						0,
-						13
-					]
-				},
-				{
-					"screen_name": "Griffith_Uni",
-					"name": "Griffith University",
-					"id": 58389760,
-					"id_str": "58389760",
-					"indices": [
-						14,
-						27
-					]
-				}
-			],
-			"urls": []
-		},
-		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-		"in_reply_to_status_id": 903062042642325500,
-		"in_reply_to_status_id_str": "903062042642325504",
-		"in_reply_to_user_id": 87296076,
-		"in_reply_to_user_id_str": "87296076",
-		"in_reply_to_screen_name": "jackaroo2000",
-		"user": {
-			"id": 174124175,
-			"id_str": "174124175",
-			"name": "Tim Klapdor",
-			"screen_name": "timklapdor",
-			"location": "Adelaide, South Australia",
-			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "https://t.co/uC0c3me6KE",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/uC0c3me6KE",
-							"expanded_url": "http://timklapdor.com",
-							"display_url": "timklapdor.com",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 824,
-			"friends_count": 150,
-			"listed_count": 90,
-			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9087,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 14926,
-			"lang": null,
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "C0DEED",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
-			"profile_link_color": "5FA832",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "DDEEF6",
-			"profile_text_color": "333333",
-			"profile_use_background_image": true,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none",
-			"withheld_in_countries": []
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 1,
-		"favorited": false,
-		"retweeted": false,
-		"lang": "en",
-		"text": "@jackaroo2000 @Griffith_Uni Or are they like Laserdiscs?"
-	},
-	{
-		"created_at": "Thu Aug 31 01:11:35 +0000 2017",
-		"id": 903062677622108200,
-		"id_str": "903062677622108160",
-		"full_text": "The reality of EdTech is that it's not focussed on the 'jobs to be done' but so focused on lowhanging fruit #afrhighered17",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			122
-		],
-		"entities": {
-			"hashtags": [
-				{
-					"text": "afrhighered17",
-					"indices": [
-						108,
-						122
-					]
-				}
-			],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": []
-		},
-		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 174124175,
-			"id_str": "174124175",
-			"name": "Tim Klapdor",
-			"screen_name": "timklapdor",
-			"location": "Adelaide, South Australia",
-			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "https://t.co/uC0c3me6KE",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/uC0c3me6KE",
-							"expanded_url": "http://timklapdor.com",
-							"display_url": "timklapdor.com",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 824,
-			"friends_count": 150,
-			"listed_count": 90,
-			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9087,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 14926,
-			"lang": null,
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "C0DEED",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
-			"profile_link_color": "5FA832",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "DDEEF6",
-			"profile_text_color": "333333",
-			"profile_use_background_image": true,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none",
-			"withheld_in_countries": []
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 1,
-		"favorite_count": 3,
-		"favorited": false,
-		"retweeted": false,
-		"lang": "en",
-		"text": "The reality of EdTech is that it's not focussed on the 'jobs to be done' but so focused on lowhanging fruit #afrhighered17"
-	},
-	{
-		"created_at": "Thu Aug 31 01:06:37 +0000 2017",
-		"id": 903061430194249700,
-		"id_str": "903061430194249728",
-		"full_text": "How do you balance authentic learning when the jobs of the future don't yet exist? #afrhighered17",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			97
-		],
-		"entities": {
-			"hashtags": [
-				{
-					"text": "afrhighered17",
-					"indices": [
-						83,
-						97
-					]
-				}
-			],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": []
-		},
-		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 174124175,
-			"id_str": "174124175",
-			"name": "Tim Klapdor",
-			"screen_name": "timklapdor",
-			"location": "Adelaide, South Australia",
-			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "https://t.co/uC0c3me6KE",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/uC0c3me6KE",
-							"expanded_url": "http://timklapdor.com",
-							"display_url": "timklapdor.com",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 824,
-			"friends_count": 150,
-			"listed_count": 90,
-			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9087,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 14926,
-			"lang": null,
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "C0DEED",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
-			"profile_link_color": "5FA832",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "DDEEF6",
-			"profile_text_color": "333333",
-			"profile_use_background_image": true,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none",
-			"withheld_in_countries": []
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 3,
-		"favorite_count": 4,
-		"favorited": false,
-		"retweeted": false,
-		"lang": "en",
-		"text": "How do you balance authentic learning when the jobs of the future don't yet exist? #afrhighered17"
-	},
-	{
-		"created_at": "Wed Aug 30 11:46:55 +0000 2017",
-		"id": 902860176591437800,
-		"id_str": "902860176591437824",
-		"full_text": "Coming to the Harbour city is always like a home coming. #MillersPoint4Life #WindmillCrew https://t.co/UfNeDWSwoh",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			89
-		],
-		"entities": {
-			"hashtags": [
-				{
-					"text": "MillersPoint4Life",
-					"indices": [
-						57,
-						75
-					]
-				},
-				{
-					"text": "WindmillCrew",
-					"indices": [
-						76,
-						89
-					]
-				}
-			],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": [],
-			"media": [
-				{
-					"id": 902860152042225700,
-					"id_str": "902860152042225664",
-					"indices": [
-						90,
-						113
-					],
-					"media_url": "http://pbs.twimg.com/media/DIeahlRVAAA92ru.jpg",
-					"media_url_https": "https://pbs.twimg.com/media/DIeahlRVAAA92ru.jpg",
-					"url": "https://t.co/UfNeDWSwoh",
-					"display_url": "pic.twitter.com/UfNeDWSwoh",
-					"expanded_url": "https://twitter.com/timklapdor/status/902860176591437824/photo/1",
-					"type": "photo",
-					"sizes": {
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"medium": {
-							"w": 1024,
-							"h": 537,
-							"resize": "fit"
-						},
-						"large": {
-							"w": 1024,
-							"h": 537,
-							"resize": "fit"
-						},
-						"small": {
-							"w": 680,
-							"h": 357,
-							"resize": "fit"
-						}
-					}
-				}
-			]
-		},
-		"extended_entities": {
-			"media": [
-				{
-					"id": 902860152042225700,
-					"id_str": "902860152042225664",
-					"indices": [
-						90,
-						113
-					],
-					"media_url": "http://pbs.twimg.com/media/DIeahlRVAAA92ru.jpg",
-					"media_url_https": "https://pbs.twimg.com/media/DIeahlRVAAA92ru.jpg",
-					"url": "https://t.co/UfNeDWSwoh",
-					"display_url": "pic.twitter.com/UfNeDWSwoh",
-					"expanded_url": "https://twitter.com/timklapdor/status/902860176591437824/photo/1",
-					"type": "photo",
-					"sizes": {
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"medium": {
-							"w": 1024,
-							"h": 537,
-							"resize": "fit"
-						},
-						"large": {
-							"w": 1024,
-							"h": 537,
-							"resize": "fit"
-						},
-						"small": {
-							"w": 680,
-							"h": 357,
-							"resize": "fit"
-						}
-					}
-				},
-				{
-					"id": 902860150909812700,
-					"id_str": "902860150909812736",
-					"indices": [
-						90,
-						113
-					],
-					"media_url": "http://pbs.twimg.com/media/DIeahhDVwAABAWO.jpg",
-					"media_url_https": "https://pbs.twimg.com/media/DIeahhDVwAABAWO.jpg",
-					"url": "https://t.co/UfNeDWSwoh",
-					"display_url": "pic.twitter.com/UfNeDWSwoh",
-					"expanded_url": "https://twitter.com/timklapdor/status/902860176591437824/photo/1",
-					"type": "photo",
-					"sizes": {
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"large": {
-							"w": 1024,
-							"h": 768,
-							"resize": "fit"
-						},
-						"medium": {
-							"w": 1024,
-							"h": 768,
-							"resize": "fit"
-						},
-						"small": {
-							"w": 680,
-							"h": 510,
-							"resize": "fit"
-						}
-					}
-				}
-			]
-		},
-		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 174124175,
-			"id_str": "174124175",
-			"name": "Tim Klapdor",
-			"screen_name": "timklapdor",
-			"location": "Adelaide, South Australia",
-			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "https://t.co/uC0c3me6KE",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/uC0c3me6KE",
-							"expanded_url": "http://timklapdor.com",
-							"display_url": "timklapdor.com",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 824,
-			"friends_count": 150,
-			"listed_count": 90,
-			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9087,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 14926,
-			"lang": null,
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "C0DEED",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
-			"profile_link_color": "5FA832",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "DDEEF6",
-			"profile_text_color": "333333",
-			"profile_use_background_image": true,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none",
-			"withheld_in_countries": []
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 1,
-		"favorited": false,
-		"retweeted": false,
-		"possibly_sensitive": false,
-		"lang": "en",
-		"text": "Coming to the Harbour city is always like a home coming. #MillersPoint4Life #WindmillCrew https://t.co/UfNeDWSwoh"
 	}
 ]
