@@ -71,15 +71,15 @@ Grailbird.data.tweets_2017_08 =
 			},
 			"protected": false,
 			"followers_count": 825,
-			"friends_count": 152,
+			"friends_count": 153,
 			"listed_count": 89,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9137,
+			"favourites_count": 9152,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14938,
+			"statuses_count": 14940,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -178,15 +178,15 @@ Grailbird.data.tweets_2017_08 =
 			},
 			"protected": false,
 			"followers_count": 825,
-			"friends_count": 152,
+			"friends_count": 153,
 			"listed_count": 89,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9137,
+			"favourites_count": 9152,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14938,
+			"statuses_count": 14940,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -305,15 +305,15 @@ Grailbird.data.tweets_2017_08 =
 			},
 			"protected": false,
 			"followers_count": 825,
-			"friends_count": 152,
+			"friends_count": 153,
 			"listed_count": 89,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9137,
+			"favourites_count": 9152,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14938,
+			"statuses_count": 14940,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -351,419 +351,5 @@ Grailbird.data.tweets_2017_08 =
 		"possibly_sensitive": false,
 		"lang": "und",
 		"text": "@kiwafruit @catspyjamasnz https://t.co/v5q7EvOERP"
-	},
-	{
-		"created_at": "Thu Aug 31 04:49:41 +0000 2017",
-		"id": 903117564477186000,
-		"id_str": "903117564477186048",
-		"full_text": "And design their own :-) Once we see patterns should share and build a vocabulary https://t.co/bOkr592h2Q",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			81
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": [
-				{
-					"url": "https://t.co/bOkr592h2Q",
-					"expanded_url": "https://twitter.com/catspyjamasnz/status/903117308524060673",
-					"display_url": "twitter.com/catspyjamasnz/…",
-					"indices": [
-						82,
-						105
-					]
-				}
-			]
-		},
-		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 174124175,
-			"id_str": "174124175",
-			"name": "Tim Klapdor",
-			"screen_name": "timklapdor",
-			"location": "Adelaide, South Australia",
-			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "https://t.co/uC0c3me6KE",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/uC0c3me6KE",
-							"expanded_url": "http://timklapdor.com",
-							"display_url": "timklapdor.com",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 825,
-			"friends_count": 152,
-			"listed_count": 89,
-			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9137,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 14938,
-			"lang": null,
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "C0DEED",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
-			"profile_link_color": "5FA832",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "DDEEF6",
-			"profile_text_color": "333333",
-			"profile_use_background_image": true,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none",
-			"withheld_in_countries": []
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": true,
-		"quoted_status_id": 903117308524060700,
-		"quoted_status_id_str": "903117308524060673",
-		"quoted_status_permalink": {
-			"url": "https://t.co/bOkr592h2Q",
-			"expanded": "https://twitter.com/catspyjamasnz/status/903117308524060673",
-			"display": "twitter.com/catspyjamasnz/…"
-		},
-		"quoted_status": {
-			"created_at": "Thu Aug 31 04:48:40 +0000 2017",
-			"id": 903117308524060700,
-			"id_str": "903117308524060673",
-			"full_text": "\"Even with best platform, you need learning designers who are creative &amp; can use design patterns.\" #lxdesign #AFRhighered17 #hearhear",
-			"truncated": false,
-			"display_text_range": [
-				0,
-				137
-			],
-			"entities": {
-				"hashtags": [
-					{
-						"text": "lxdesign",
-						"indices": [
-							103,
-							112
-						]
-					},
-					{
-						"text": "AFRhighered17",
-						"indices": [
-							113,
-							127
-						]
-					},
-					{
-						"text": "hearhear",
-						"indices": [
-							128,
-							137
-						]
-					}
-				],
-				"symbols": [],
-				"user_mentions": [],
-				"urls": []
-			},
-			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
-			"in_reply_to_status_id": null,
-			"in_reply_to_status_id_str": null,
-			"in_reply_to_user_id": null,
-			"in_reply_to_user_id_str": null,
-			"in_reply_to_screen_name": null,
-			"user": {
-				"id": 10451462,
-				"id_str": "10451462",
-				"name": "👩🏻‍💻Joyce 'Stay Safe' Seitzinger #vaccinated",
-				"screen_name": "catspyjamasnz",
-				"location": "Melbourne / Naarm",
-				"description": "Making digital transformation in higher education happen. Director SX Innovation @rmitonline. #vaccinated",
-				"url": "https://t.co/vS8fei87Et",
-				"entities": {
-					"url": {
-						"urls": [
-							{
-								"url": "https://t.co/vS8fei87Et",
-								"expanded_url": "http://online.rmit.edu.au",
-								"display_url": "online.rmit.edu.au",
-								"indices": [
-									0,
-									23
-								]
-							}
-						]
-					},
-					"description": {
-						"urls": []
-					}
-				},
-				"protected": false,
-				"followers_count": 12283,
-				"friends_count": 12303,
-				"listed_count": 1147,
-				"created_at": "Wed Nov 21 21:14:58 +0000 2007",
-				"favourites_count": 142006,
-				"utc_offset": null,
-				"time_zone": null,
-				"geo_enabled": true,
-				"verified": false,
-				"statuses_count": 65152,
-				"lang": null,
-				"contributors_enabled": false,
-				"is_translator": false,
-				"is_translation_enabled": false,
-				"profile_background_color": "DBE9ED",
-				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
-				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
-				"profile_background_tile": false,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/1401057565358706688/dYuwGrBq_normal.jpg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1401057565358706688/dYuwGrBq_normal.jpg",
-				"profile_banner_url": "https://pbs.twimg.com/profile_banners/10451462/1518177565",
-				"profile_link_color": "CC3366",
-				"profile_sidebar_border_color": "FFFFFF",
-				"profile_sidebar_fill_color": "EECD15",
-				"profile_text_color": "000000",
-				"profile_use_background_image": false,
-				"has_extended_profile": false,
-				"default_profile": false,
-				"default_profile_image": false,
-				"following": true,
-				"follow_request_sent": false,
-				"notifications": false,
-				"translator_type": "none",
-				"withheld_in_countries": []
-			},
-			"geo": null,
-			"coordinates": null,
-			"place": null,
-			"contributors": null,
-			"is_quote_status": false,
-			"retweet_count": 3,
-			"favorite_count": 5,
-			"favorited": false,
-			"retweeted": false,
-			"lang": "en"
-		},
-		"retweet_count": 0,
-		"favorite_count": 2,
-		"favorited": false,
-		"retweeted": false,
-		"possibly_sensitive": false,
-		"lang": "en",
-		"text": "And design their own :-) Once we see patterns should share and build a vocabulary https://t.co/bOkr592h2Q"
-	},
-	{
-		"created_at": "Thu Aug 31 04:47:45 +0000 2017",
-		"id": 903117078869098500,
-		"id_str": "903117078869098497",
-		"full_text": "Ohhhh design patterns! My kind of language #AFRHigherEd17 https://t.co/XEzGfsXMlj",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			57
-		],
-		"entities": {
-			"hashtags": [
-				{
-					"text": "AFRHigherEd17",
-					"indices": [
-						43,
-						57
-					]
-				}
-			],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": [],
-			"media": [
-				{
-					"id": 903117067188002800,
-					"id_str": "903117067188002816",
-					"indices": [
-						58,
-						81
-					],
-					"media_url": "http://pbs.twimg.com/media/DIiEMAxVYAAr9XS.jpg",
-					"media_url_https": "https://pbs.twimg.com/media/DIiEMAxVYAAr9XS.jpg",
-					"url": "https://t.co/XEzGfsXMlj",
-					"display_url": "pic.twitter.com/XEzGfsXMlj",
-					"expanded_url": "https://twitter.com/timklapdor/status/903117078869098497/photo/1",
-					"type": "photo",
-					"sizes": {
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"medium": {
-							"w": 1024,
-							"h": 768,
-							"resize": "fit"
-						},
-						"small": {
-							"w": 680,
-							"h": 510,
-							"resize": "fit"
-						},
-						"large": {
-							"w": 1024,
-							"h": 768,
-							"resize": "fit"
-						}
-					}
-				}
-			]
-		},
-		"extended_entities": {
-			"media": [
-				{
-					"id": 903117067188002800,
-					"id_str": "903117067188002816",
-					"indices": [
-						58,
-						81
-					],
-					"media_url": "http://pbs.twimg.com/media/DIiEMAxVYAAr9XS.jpg",
-					"media_url_https": "https://pbs.twimg.com/media/DIiEMAxVYAAr9XS.jpg",
-					"url": "https://t.co/XEzGfsXMlj",
-					"display_url": "pic.twitter.com/XEzGfsXMlj",
-					"expanded_url": "https://twitter.com/timklapdor/status/903117078869098497/photo/1",
-					"type": "photo",
-					"sizes": {
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"medium": {
-							"w": 1024,
-							"h": 768,
-							"resize": "fit"
-						},
-						"small": {
-							"w": 680,
-							"h": 510,
-							"resize": "fit"
-						},
-						"large": {
-							"w": 1024,
-							"h": 768,
-							"resize": "fit"
-						}
-					}
-				}
-			]
-		},
-		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 174124175,
-			"id_str": "174124175",
-			"name": "Tim Klapdor",
-			"screen_name": "timklapdor",
-			"location": "Adelaide, South Australia",
-			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "https://t.co/uC0c3me6KE",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/uC0c3me6KE",
-							"expanded_url": "http://timklapdor.com",
-							"display_url": "timklapdor.com",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 825,
-			"friends_count": 152,
-			"listed_count": 89,
-			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9137,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 14938,
-			"lang": null,
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "C0DEED",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
-			"profile_link_color": "5FA832",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "DDEEF6",
-			"profile_text_color": "333333",
-			"profile_use_background_image": true,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none",
-			"withheld_in_countries": []
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 3,
-		"favorited": false,
-		"retweeted": false,
-		"possibly_sensitive": false,
-		"lang": "en",
-		"text": "Ohhhh design patterns! My kind of language #AFRHigherEd17 https://t.co/XEzGfsXMlj"
 	}
 ]
