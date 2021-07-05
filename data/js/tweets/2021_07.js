@@ -1,6 +1,292 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Sun Jul 04 21:41:18 +0000 2021",
+		"id": 1411792608267890700,
+		"id_str": "1411802324217995265",
+		"full_text": "Everyone: Hey Zuck can you figure out how to stop your company from destroying democracy and also do something about all the Nazis?\n\nZuck: https://t.co/SPteGVZob4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1411786736825426000,
+					"id_str": "1411786736825425922",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1411786736825425922/pu/img/lN1TUyndo8Bh8j0X.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1411786736825425922/pu/img/lN1TUyndo8Bh8j0X.jpg",
+					"url": "https://t.co/SPteGVZob4",
+					"display_url": "pic.twitter.com/SPteGVZob4",
+					"expanded_url": "https://twitter.com/leahmcelrath/status/1411786856065290245/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 315,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 555,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 592,
+							"h": 1280,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1411786856065290200,
+					"source_status_id_str": "1411786856065290245",
+					"source_user_id": 47379354,
+					"source_user_id_str": "47379354"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1411786736825426000,
+					"id_str": "1411786736825425922",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1411786736825425922/pu/img/lN1TUyndo8Bh8j0X.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1411786736825425922/pu/img/lN1TUyndo8Bh8j0X.jpg",
+					"url": "https://t.co/SPteGVZob4",
+					"display_url": "pic.twitter.com/SPteGVZob4",
+					"expanded_url": "https://twitter.com/leahmcelrath/status/1411786856065290245/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 315,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 555,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 592,
+							"h": 1280,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1411786856065290200,
+					"source_status_id_str": "1411786856065290245",
+					"source_user_id": 47379354,
+					"source_user_id_str": "47379354",
+					"video_info": {
+						"aspect_ratio": [
+							37,
+							80
+						],
+						"duration_millis": 70175,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1411786736825425922/pu/pl/mS_1R5WxsYImM3kG.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1411786736825425922/pu/vid/320x690/1PounLRJMLE4ZjpX.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1411786736825425922/pu/vid/592x1280/mdRTXn5xXfUbN4P9.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1411786736825425922/pu/vid/480x1036/f_e6UJAVqoclDs9h.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 47379354,
+							"id_str": "47379354",
+							"name": "Leah McElrath 🏳️‍🌈",
+							"screen_name": "leahmcelrath",
+							"location": "Houston/NYC",
+							"description": "Activism, analysis, commentary | she/they | #LGBTQ #ActuallyAutistic #EDS | @smithcollege BA, MSW | PayPal https://t.co/yM8s1vgSq1 | Venmo @leahmcelrath",
+							"url": "https://t.co/5U4O1gGZY4",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/5U4O1gGZY4",
+											"expanded_url": "http://patreon.com/leahmcelrath",
+											"display_url": "patreon.com/leahmcelrath",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": [
+										{
+											"url": "https://t.co/yM8s1vgSq1",
+											"expanded_url": "http://paypal.me/leahmcelrath",
+											"display_url": "paypal.me/leahmcelrath",
+											"indices": [
+												107,
+												130
+											]
+										}
+									]
+								}
+							},
+							"protected": false,
+							"followers_count": 138825,
+							"friends_count": 2700,
+							"listed_count": 1924,
+							"created_at": "Mon Jun 15 16:48:10 +0000 2009",
+							"favourites_count": 15940,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 288397,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "4C4C59",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1240845477014364160/vcy396tZ_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1240845477014364160/vcy396tZ_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/47379354/1614360071",
+							"profile_link_color": "6E8AFA",
+							"profile_sidebar_border_color": "5EFFF4",
+							"profile_sidebar_fill_color": "D5F2FF",
+							"profile_text_color": "815BD9",
+							"profile_use_background_image": true,
+							"has_extended_profile": true,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none",
+							"withheld_in_countries": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 36074231,
+			"id_str": "36074231",
+			"name": "Matt Bevan",
+			"screen_name": "MatthewBevan",
+			"location": "Newcastle, New South Wales",
+			"description": "Host and writer of 'China, If You’re Listening’ from @abcnews, @RNBreakfast reporter. “Newcastle Man” in The Australian",
+			"url": "https://t.co/wJINoop92m",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wJINoop92m",
+							"expanded_url": "http://www.abc.net.au/radio/programs/russia-if-youre-listening/",
+							"display_url": "abc.net.au/radio/programs…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 28536,
+			"friends_count": 2807,
+			"listed_count": 326,
+			"created_at": "Tue Apr 28 14:13:07 +0000 2009",
+			"favourites_count": 36212,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 67375,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1305478511486889985/R2BYy2Aj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1305478511486889985/R2BYy2Aj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/36074231/1623538142",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 44,
+		"favorite_count": 269,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Everyone: Hey Zuck can you figure out how to stop your company from destroying democracy and also do something about all the Nazis?\n\nZuck: https://t.co/SPteGVZob4"
+	},
+	{
 		"created_at": "Sat Jul 03 11:45:15 +0000 2021",
 		"id": 1410974545561854000,
 		"id_str": "1411289934472744962",
@@ -158,16 +444,16 @@ Grailbird.data.tweets_2021_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 13655,
-			"friends_count": 7046,
-			"listed_count": 459,
+			"followers_count": 13709,
+			"friends_count": 7047,
+			"listed_count": 460,
 			"created_at": "Fri Jun 19 07:49:19 +0000 2009",
-			"favourites_count": 104820,
+			"favourites_count": 104676,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 4826,
+			"statuses_count": 4866,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -198,8 +484,8 @@ Grailbird.data.tweets_2021_07 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 1289,
-		"favorite_count": 4336,
+		"retweet_count": 2089,
+		"favorite_count": 6881,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -265,16 +551,16 @@ Grailbird.data.tweets_2021_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 5438,
+			"followers_count": 5435,
 			"friends_count": 4003,
 			"listed_count": 71,
 			"created_at": "Tue Aug 10 07:10:51 +0000 2010",
-			"favourites_count": 10118,
+			"favourites_count": 10127,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 8780,
+			"statuses_count": 8783,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -450,11 +736,11 @@ Grailbird.data.tweets_2021_07 =
 									}
 								},
 								"protected": false,
-								"followers_count": 85641,
-								"friends_count": 997,
-								"listed_count": 766,
+								"followers_count": 86093,
+								"friends_count": 998,
+								"listed_count": 773,
 								"created_at": "Mon Oct 05 20:57:18 +0000 2009",
-								"favourites_count": 27743,
+								"favourites_count": 27747,
 								"utc_offset": null,
 								"time_zone": null,
 								"geo_enabled": true,
@@ -522,16 +808,16 @@ Grailbird.data.tweets_2021_07 =
 					}
 				},
 				"protected": false,
-				"followers_count": 32626,
-				"friends_count": 1894,
-				"listed_count": 1036,
+				"followers_count": 33190,
+				"friends_count": 1895,
+				"listed_count": 1041,
 				"created_at": "Mon Jan 25 21:19:04 +0000 2010",
-				"favourites_count": 12165,
+				"favourites_count": 12169,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": true,
-				"statuses_count": 27728,
+				"statuses_count": 27729,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -562,15 +848,15 @@ Grailbird.data.tweets_2021_07 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 79746,
-			"favorite_count": 179171,
+			"retweet_count": 84134,
+			"favorite_count": 192401,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
 			"lang": "en"
 		},
-		"retweet_count": 165,
-		"favorite_count": 736,
+		"retweet_count": 167,
+		"favorite_count": 758,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -636,16 +922,16 @@ Grailbird.data.tweets_2021_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 28520,
-			"friends_count": 2808,
+			"followers_count": 28536,
+			"friends_count": 2807,
 			"listed_count": 326,
 			"created_at": "Tue Apr 28 14:13:07 +0000 2009",
-			"favourites_count": 36171,
+			"favourites_count": 36212,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 67340,
+			"statuses_count": 67375,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -761,16 +1047,16 @@ Grailbird.data.tweets_2021_07 =
 					}
 				},
 				"protected": false,
-				"followers_count": 1556323,
+				"followers_count": 1556821,
 				"friends_count": 776,
-				"listed_count": 12515,
+				"listed_count": 12524,
 				"created_at": "Thu May 17 13:35:19 +0000 2007",
 				"favourites_count": 2069,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": true,
-				"statuses_count": 230680,
+				"statuses_count": 230695,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -801,15 +1087,15 @@ Grailbird.data.tweets_2021_07 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 393,
-			"favorite_count": 543,
+			"retweet_count": 405,
+			"favorite_count": 553,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
 			"lang": "en"
 		},
 		"retweet_count": 184,
-		"favorite_count": 1008,
+		"favorite_count": 1009,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -897,10 +1183,10 @@ Grailbird.data.tweets_2021_07 =
 			},
 			"protected": false,
 			"followers_count": 1507,
-			"friends_count": 728,
+			"friends_count": 729,
 			"listed_count": 42,
 			"created_at": "Tue Dec 03 20:27:17 +0000 2013",
-			"favourites_count": 13389,
+			"favourites_count": 13395,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
@@ -935,8 +1221,8 @@ Grailbird.data.tweets_2021_07 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 40,
-		"favorite_count": 37,
+		"retweet_count": 51,
+		"favorite_count": 47,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -1007,12 +1293,12 @@ Grailbird.data.tweets_2021_07 =
 			"friends_count": 155,
 			"listed_count": 89,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9217,
+			"favourites_count": 9222,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14967,
+			"statuses_count": 14968,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
