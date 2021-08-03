@@ -1,6 +1,346 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Mon Aug 02 21:58:23 +0000 2021",
+		"id": 1422315870219427800,
+		"id_str": "1422315870219427840",
+		"full_text": "@QueensDroneAge can’t think of a better crew who could help out on this one. https://t.co/UV32giV29y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "QueensDroneAge",
+					"name": "Queens of the Drone Age",
+					"id": 1295219574309183500,
+					"id_str": "1295219574309183489",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/UV32giV29y",
+					"expanded_url": "https://twitter.com/dangolding/status/1422127226925895682",
+					"display_url": "twitter.com/dangolding/sta…",
+					"indices": [
+						77,
+						100
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 1295219574309183500,
+		"in_reply_to_user_id_str": "1295219574309183489",
+		"in_reply_to_screen_name": "QueensDroneAge",
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Adelaide, South Australia",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
+			"url": "https://t.co/uC0c3me6KE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uC0c3me6KE",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 825,
+			"friends_count": 158,
+			"listed_count": 91,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 9285,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15055,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1422127226925895700,
+		"quoted_status_id_str": "1422127226925895682",
+		"quoted_status_permalink": {
+			"url": "https://t.co/UV32giV29y",
+			"expanded": "https://twitter.com/dangolding/status/1422127226925895682",
+			"display": "twitter.com/dangolding/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Aug 02 09:28:47 +0000 2021",
+			"id": 1422127226925895700,
+			"id_str": "1422127226925895682",
+			"full_text": "Australian game journo people: any help for my PhD student below? https://t.co/JEiw1MKcE1",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				65
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/JEiw1MKcE1",
+						"expanded_url": "https://twitter.com/sa_harkin/status/1422126578234920960",
+						"display_url": "twitter.com/sa_harkin/stat…",
+						"indices": [
+							66,
+							89
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16977592,
+				"id_str": "16977592",
+				"name": "Dan Golding",
+				"screen_name": "dangolding",
+				"location": "Melbourne",
+				"description": "Senior lecturer @Swinburne┊Screen Sounds @ABCClassic┊Author of Star Wars After Lucas┊Music for Untitled Goose Game, Frog Detective┊@artofthescore┊Views my own",
+				"url": "https://t.co/6zpRLUxlHt",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/6zpRLUxlHt",
+								"expanded_url": "http://www.dangolding.com/",
+								"display_url": "dangolding.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9972,
+				"friends_count": 974,
+				"listed_count": 207,
+				"created_at": "Sun Oct 26 06:35:00 +0000 2008",
+				"favourites_count": 26579,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 42973,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1017660562652594177/dj4wow0W_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1017660562652594177/dj4wow0W_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16977592/1398224876",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1422126578234921000,
+			"quoted_status_id_str": "1422126578234920960",
+			"quoted_status_permalink": {
+				"url": "https://t.co/JEiw1MKcE1",
+				"expanded": "https://twitter.com/sa_harkin/status/1422126578234920960",
+				"display": "twitter.com/sa_harkin/stat…"
+			},
+			"retweet_count": 12,
+			"favorite_count": 12,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@QueensDroneAge can’t think of a better crew who could help out on this one. https://t.co/UV32giV29y"
+	},
+	{
+		"created_at": "Mon Aug 02 21:55:06 +0000 2021",
+		"id": 1421930877869707300,
+		"id_str": "1422315042125475843",
+		"full_text": "Tens of thousands of University staff lost their jobs because universities were deliberately excluded fromJobKeeper. Yet private corporations that increased revenue and profits pocketed millions with no obligation to repay.  Disgrace. #savehighered \n\nhttps://t.co/4CVwqbfuhv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "savehighered",
+					"indices": [
+						235,
+						248
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4CVwqbfuhv",
+					"expanded_url": "https://www.smh.com.au/business/companies/lachlan-murdoch-s-nova-boosts-earnings-with-10-6m-jobkeeper-payment-20210801-p58er9.html",
+					"display_url": "smh.com.au/business/compa…",
+					"indices": [
+						251,
+						274
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 177838242,
+			"id_str": "177838242",
+			"name": "Paul Kniest 💉💉",
+			"screen_name": "paulkniest",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 175,
+			"friends_count": 446,
+			"listed_count": 7,
+			"created_at": "Fri Aug 13 05:19:11 +0000 2010",
+			"favourites_count": 3506,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3932,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1253765066878418944/95sxys1y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1253765066878418944/95sxys1y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/177838242/1595536351",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 125,
+		"favorite_count": 210,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Tens of thousands of University staff lost their jobs because universities were deliberately excluded fromJobKeeper. Yet private corporations that increased revenue and profits pocketed millions with no obligation to repay.  Disgrace. #savehighered \n\nhttps://t.co/4CVwqbfuhv"
+	},
+	{
 		"created_at": "Sun Aug 01 07:36:36 +0000 2021",
 		"id": 1421707943838294000,
 		"id_str": "1421736609582436353",
@@ -57,16 +397,16 @@ Grailbird.data.tweets_2021_08 =
 				}
 			},
 			"protected": false,
-			"followers_count": 29244,
-			"friends_count": 6636,
+			"followers_count": 29266,
+			"friends_count": 6634,
 			"listed_count": 360,
 			"created_at": "Tue Sep 02 10:16:22 +0000 2008",
-			"favourites_count": 262236,
+			"favourites_count": 262270,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 241578,
+			"statuses_count": 241582,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -97,8 +437,8 @@ Grailbird.data.tweets_2021_08 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 709,
-		"favorite_count": 2694,
+		"retweet_count": 768,
+		"favorite_count": 2913,
 		"favorited": false,
 		"retweeted": true,
 		"lang": "en",
@@ -243,12 +583,12 @@ Grailbird.data.tweets_2021_08 =
 			"friends_count": 158,
 			"listed_count": 91,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9284,
+			"favourites_count": 9285,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15053,
+			"statuses_count": 15055,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -280,7 +620,7 @@ Grailbird.data.tweets_2021_08 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 4,
+		"favorite_count": 5,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
@@ -351,12 +691,12 @@ Grailbird.data.tweets_2021_08 =
 			"friends_count": 158,
 			"listed_count": 91,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9284,
+			"favourites_count": 9285,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15053,
+			"statuses_count": 15055,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
