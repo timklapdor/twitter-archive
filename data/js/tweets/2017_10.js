@@ -64,12 +64,12 @@ Grailbird.data.tweets_2017_10 =
 			"friends_count": 159,
 			"listed_count": 91,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9315,
+			"favourites_count": 9317,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15093,
+			"statuses_count": 15096,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -370,7 +370,7 @@ Grailbird.data.tweets_2017_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 4619,
+			"followers_count": 4618,
 			"friends_count": 598,
 			"listed_count": 116,
 			"created_at": "Wed Sep 21 23:30:56 +0000 2011",
@@ -492,12 +492,12 @@ Grailbird.data.tweets_2017_10 =
 			"friends_count": 159,
 			"listed_count": 91,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9315,
+			"favourites_count": 9317,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15093,
+			"statuses_count": 15096,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -676,12 +676,12 @@ Grailbird.data.tweets_2017_10 =
 			"friends_count": 159,
 			"listed_count": 91,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9315,
+			"favourites_count": 9317,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15093,
+			"statuses_count": 15096,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -769,16 +769,16 @@ Grailbird.data.tweets_2017_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 49666,
-			"friends_count": 5486,
+			"followers_count": 49682,
+			"friends_count": 5490,
 			"listed_count": 979,
 			"created_at": "Wed Jun 17 14:50:29 +0000 2009",
-			"favourites_count": 16917,
+			"favourites_count": 16929,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 130503,
+			"statuses_count": 130522,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -809,8 +809,8 @@ Grailbird.data.tweets_2017_10 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 8935,
-		"favorite_count": 23769,
+		"retweet_count": 8933,
+		"favorite_count": 23771,
 		"favorited": false,
 		"retweeted": false,
 		"lang": "en",
@@ -880,12 +880,12 @@ Grailbird.data.tweets_2017_10 =
 			"friends_count": 159,
 			"listed_count": 91,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9315,
+			"favourites_count": 9317,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15093,
+			"statuses_count": 15096,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -995,12 +995,12 @@ Grailbird.data.tweets_2017_10 =
 			"friends_count": 159,
 			"listed_count": 91,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9315,
+			"favourites_count": 9317,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15093,
+			"statuses_count": 15096,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1101,12 +1101,12 @@ Grailbird.data.tweets_2017_10 =
 				"friends_count": 159,
 				"listed_count": 91,
 				"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-				"favourites_count": 9315,
+				"favourites_count": 9317,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": false,
-				"statuses_count": 15093,
+				"statuses_count": 15096,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -1215,12 +1215,12 @@ Grailbird.data.tweets_2017_10 =
 			"friends_count": 159,
 			"listed_count": 91,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9315,
+			"favourites_count": 9317,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15093,
+			"statuses_count": 15096,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1322,12 +1322,12 @@ Grailbird.data.tweets_2017_10 =
 			"friends_count": 159,
 			"listed_count": 91,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9315,
+			"favourites_count": 9317,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15093,
+			"statuses_count": 15096,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1424,11 +1424,11 @@ Grailbird.data.tweets_2017_10 =
 					}
 				},
 				"protected": false,
-				"followers_count": 115627,
+				"followers_count": 115670,
 				"friends_count": 441,
-				"listed_count": 4873,
+				"listed_count": 1,
 				"created_at": "Fri Jan 04 21:57:10 +0000 2008",
-				"favourites_count": 79835,
+				"favourites_count": 79843,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
@@ -1551,12 +1551,12 @@ Grailbird.data.tweets_2017_10 =
 			"friends_count": 159,
 			"listed_count": 91,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9315,
+			"favourites_count": 9317,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15093,
+			"statuses_count": 15096,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1665,15 +1665,15 @@ Grailbird.data.tweets_2017_10 =
 			},
 			"protected": false,
 			"followers_count": 1497,
-			"friends_count": 1070,
+			"friends_count": 1071,
 			"listed_count": 98,
 			"created_at": "Thu Mar 12 11:34:54 +0000 2009",
-			"favourites_count": 7535,
+			"favourites_count": 7602,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 23213,
+			"statuses_count": 23226,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1755,16 +1755,16 @@ Grailbird.data.tweets_2017_10 =
 					}
 				},
 				"protected": false,
-				"followers_count": 12247,
-				"friends_count": 7012,
+				"followers_count": 12256,
+				"friends_count": 7015,
 				"listed_count": 326,
 				"created_at": "Wed Jun 16 06:21:42 +0000 2010",
-				"favourites_count": 36164,
+				"favourites_count": 36326,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": false,
-				"statuses_count": 154127,
+				"statuses_count": 154251,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -1883,12 +1883,12 @@ Grailbird.data.tweets_2017_10 =
 			"friends_count": 159,
 			"listed_count": 91,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9315,
+			"favourites_count": 9317,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15093,
+			"statuses_count": 15096,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2000,12 +2000,12 @@ Grailbird.data.tweets_2017_10 =
 			"friends_count": 159,
 			"listed_count": 91,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9315,
+			"favourites_count": 9317,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15093,
+			"statuses_count": 15096,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2107,12 +2107,12 @@ Grailbird.data.tweets_2017_10 =
 			"friends_count": 159,
 			"listed_count": 91,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9315,
+			"favourites_count": 9317,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15093,
+			"statuses_count": 15096,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2214,12 +2214,12 @@ Grailbird.data.tweets_2017_10 =
 			"friends_count": 159,
 			"listed_count": 91,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9315,
+			"favourites_count": 9317,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15093,
+			"statuses_count": 15096,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2321,12 +2321,12 @@ Grailbird.data.tweets_2017_10 =
 			"friends_count": 159,
 			"listed_count": 91,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9315,
+			"favourites_count": 9317,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15093,
+			"statuses_count": 15096,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2428,12 +2428,12 @@ Grailbird.data.tweets_2017_10 =
 			"friends_count": 159,
 			"listed_count": 91,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9315,
+			"favourites_count": 9317,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15093,
+			"statuses_count": 15096,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2608,16 +2608,16 @@ Grailbird.data.tweets_2017_10 =
 					}
 				},
 				"protected": false,
-				"followers_count": 10976,
+				"followers_count": 11012,
 				"friends_count": 728,
 				"listed_count": 128,
 				"created_at": "Sun Dec 13 05:42:34 +0000 2009",
-				"favourites_count": 7898,
+				"favourites_count": 7913,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": false,
-				"statuses_count": 20466,
+				"statuses_count": 20500,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -2682,7 +2682,7 @@ Grailbird.data.tweets_2017_10 =
 			"contributors": null,
 			"is_quote_status": false,
 			"retweet_count": 462,
-			"favorite_count": 2402,
+			"favorite_count": 2404,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
@@ -2848,12 +2848,12 @@ Grailbird.data.tweets_2017_10 =
 			"friends_count": 159,
 			"listed_count": 91,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9315,
+			"favourites_count": 9317,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15093,
+			"statuses_count": 15096,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2988,12 +2988,12 @@ Grailbird.data.tweets_2017_10 =
 			"friends_count": 159,
 			"listed_count": 91,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9315,
+			"favourites_count": 9317,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15093,
+			"statuses_count": 15096,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -3031,640 +3031,5 @@ Grailbird.data.tweets_2017_10 =
 		"possibly_sensitive": false,
 		"lang": "en",
 		"text": "The NBN was engineered to fail. Great article that mirrors my thoughts - something great that was ruined by politics https://t.co/FGD2gNVgBc"
-	},
-	{
-		"created_at": "Tue Oct 24 08:19:52 +0000 2017",
-		"id": 922284637962911700,
-		"id_str": "922739405902581760",
-		"full_text": "MAN WHO PERSONALLY TURNED THE NBN INTO RUBBISH MAKES SHOCKING CLAIM NBN IS RUBBISH",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			82
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": []
-		},
-		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 3099501,
-			"id_str": "3099501",
-			"name": "Mark Pesce #GetAJab 💉💉",
-			"screen_name": "mpesce",
-			"location": "Sydney, Gadigal Land",
-			"description": "Futurist, inventor, author, educator & speaker. Multi-award-winning columnist @TheRegister. @IEEESpectrum. Award-winning podcaster @nextbillionsecs. 🏳️‍🌈",
-			"url": "http://t.co/bMVYoBWgeS",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "http://t.co/bMVYoBWgeS",
-							"expanded_url": "http://www.markpesce.com",
-							"display_url": "markpesce.com",
-							"indices": [
-								0,
-								22
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 44576,
-			"friends_count": 13549,
-			"listed_count": 1636,
-			"created_at": "Sun Apr 01 03:40:29 +0000 2007",
-			"favourites_count": 3619,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": false,
-			"verified": false,
-			"statuses_count": 294404,
-			"lang": null,
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "0099B9",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1246348184462319616/XZczmf4r_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1246348184462319616/XZczmf4r_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3099501/1604628966",
-			"profile_link_color": "0099B9",
-			"profile_sidebar_border_color": "5ED4DC",
-			"profile_sidebar_fill_color": "95E8EC",
-			"profile_text_color": "3C3940",
-			"profile_use_background_image": true,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none",
-			"withheld_in_countries": []
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 129,
-		"favorite_count": 219,
-		"favorited": false,
-		"retweeted": false,
-		"lang": "en",
-		"text": "MAN WHO PERSONALLY TURNED THE NBN INTO RUBBISH MAKES SHOCKING CLAIM NBN IS RUBBISH"
-	},
-	{
-		"created_at": "Tue Oct 24 04:53:01 +0000 2017",
-		"id": 920436514147971100,
-		"id_str": "922687349670100992",
-		"full_text": "Bulls on Parade but the wah pedal parts are replaced with Owen Wilson saying wow https://t.co/TqUfExZSme",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			80
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": [],
-			"media": [
-				{
-					"id": 920436464688787500,
-					"id_str": "920436464688787456",
-					"indices": [
-						81,
-						104
-					],
-					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/920436464688787456/pu/img/usOeGbJyclOjVo1p.jpg",
-					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/920436464688787456/pu/img/usOeGbJyclOjVo1p.jpg",
-					"url": "https://t.co/TqUfExZSme",
-					"display_url": "pic.twitter.com/TqUfExZSme",
-					"expanded_url": "https://twitter.com/jeffisokay/status/920436514147971073/video/1",
-					"type": "photo",
-					"sizes": {
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"large": {
-							"w": 720,
-							"h": 406,
-							"resize": "fit"
-						},
-						"small": {
-							"w": 680,
-							"h": 383,
-							"resize": "fit"
-						},
-						"medium": {
-							"w": 720,
-							"h": 406,
-							"resize": "fit"
-						}
-					}
-				}
-			]
-		},
-		"extended_entities": {
-			"media": [
-				{
-					"id": 920436464688787500,
-					"id_str": "920436464688787456",
-					"indices": [
-						81,
-						104
-					],
-					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/920436464688787456/pu/img/usOeGbJyclOjVo1p.jpg",
-					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/920436464688787456/pu/img/usOeGbJyclOjVo1p.jpg",
-					"url": "https://t.co/TqUfExZSme",
-					"display_url": "pic.twitter.com/TqUfExZSme",
-					"expanded_url": "https://twitter.com/jeffisokay/status/920436514147971073/video/1",
-					"type": "video",
-					"sizes": {
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"large": {
-							"w": 720,
-							"h": 406,
-							"resize": "fit"
-						},
-						"small": {
-							"w": 680,
-							"h": 383,
-							"resize": "fit"
-						},
-						"medium": {
-							"w": 720,
-							"h": 406,
-							"resize": "fit"
-						}
-					},
-					"video_info": {
-						"aspect_ratio": [
-							360,
-							203
-						],
-						"duration_millis": 25767,
-						"variants": [
-							{
-								"content_type": "application/x-mpegURL",
-								"url": "https://video.twimg.com/ext_tw_video/920436464688787456/pu/pl/53hfoY25EmpDrbhr.m3u8"
-							},
-							{
-								"bitrate": 256000,
-								"content_type": "video/mp4",
-								"url": "https://video.twimg.com/ext_tw_video/920436464688787456/pu/vid/318x180/06IZNzJ2MTtOnnMn.mp4"
-							},
-							{
-								"bitrate": 832000,
-								"content_type": "video/mp4",
-								"url": "https://video.twimg.com/ext_tw_video/920436464688787456/pu/vid/638x360/oDspN5f_-9hJprDt.mp4"
-							}
-						]
-					},
-					"additional_media_info": {
-						"monetizable": false
-					}
-				}
-			]
-		},
-		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 3126825005,
-			"id_str": "3126825005",
-			"name": "Moose Springsteen",
-			"screen_name": "jeffisokay",
-			"location": "",
-			"description": "there can be no true peace if you enjoy using the computer.",
-			"url": "https://t.co/MINKbqyayg",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/MINKbqyayg",
-							"expanded_url": "https://linktr.ee/HeatherGreyNJ",
-							"display_url": "linktr.ee/HeatherGreyNJ",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 487,
-			"friends_count": 443,
-			"listed_count": 6,
-			"created_at": "Sun Mar 29 16:19:52 +0000 2015",
-			"favourites_count": 47817,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 29066,
-			"lang": null,
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "C0DEED",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/949474245431758851/2_-ayX5e_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/949474245431758851/2_-ayX5e_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3126825005/1614398456",
-			"profile_link_color": "1DA1F2",
-			"profile_sidebar_border_color": "C0DEED",
-			"profile_sidebar_fill_color": "DDEEF6",
-			"profile_text_color": "333333",
-			"profile_use_background_image": true,
-			"has_extended_profile": true,
-			"default_profile": true,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none",
-			"withheld_in_countries": []
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 3102,
-		"favorite_count": 4630,
-		"favorited": false,
-		"retweeted": false,
-		"possibly_sensitive": false,
-		"lang": "en",
-		"text": "Bulls on Parade but the wah pedal parts are replaced with Owen Wilson saying wow https://t.co/TqUfExZSme"
-	},
-	{
-		"created_at": "Mon Oct 23 02:21:24 +0000 2017",
-		"id": 922286805126225900,
-		"id_str": "922286805126225920",
-		"full_text": "@travisaholland Agree. Am still think this is an issue because the Liberals continue to frame public infrastructure as business, &amp; need to make profit",
-		"truncated": false,
-		"display_text_range": [
-			16,
-			154
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [
-				{
-					"screen_name": "travisaholland",
-					"name": "Travis Holland",
-					"id": 22888086,
-					"id_str": "22888086",
-					"indices": [
-						0,
-						15
-					]
-				}
-			],
-			"urls": []
-		},
-		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
-		"in_reply_to_status_id": 922280034894614500,
-		"in_reply_to_status_id_str": "922280034894614528",
-		"in_reply_to_user_id": 22888086,
-		"in_reply_to_user_id_str": "22888086",
-		"in_reply_to_screen_name": "travisaholland",
-		"user": {
-			"id": 174124175,
-			"id_str": "174124175",
-			"name": "Tim Klapdor",
-			"screen_name": "timklapdor",
-			"location": "Adelaide, South Australia",
-			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "https://t.co/uC0c3me6KE",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/uC0c3me6KE",
-							"expanded_url": "http://timklapdor.com",
-							"display_url": "timklapdor.com",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 823,
-			"friends_count": 159,
-			"listed_count": 91,
-			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9315,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 15093,
-			"lang": null,
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "C0DEED",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
-			"profile_link_color": "5FA832",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "DDEEF6",
-			"profile_text_color": "333333",
-			"profile_use_background_image": true,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none",
-			"withheld_in_countries": []
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 0,
-		"favorited": false,
-		"retweeted": false,
-		"lang": "en",
-		"text": "@travisaholland Agree. Am still think this is an issue because the Liberals continue to frame public infrastructure as business, &amp; need to make profit"
-	},
-	{
-		"created_at": "Sun Oct 22 22:50:37 +0000 2017",
-		"id": 922233761273663500,
-		"id_str": "922233761273663490",
-		"full_text": "So when are we going to have a discussion about whether infrastructure needs to make a profit? After we can’t afford healthcare &amp; education? https://t.co/jJhhAUsEYo",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			144
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": [
-				{
-					"url": "https://t.co/jJhhAUsEYo",
-					"expanded_url": "https://twitter.com/travisaholland/status/922204103010222080",
-					"display_url": "twitter.com/travisaholland…",
-					"indices": [
-						145,
-						168
-					]
-				}
-			]
-		},
-		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 174124175,
-			"id_str": "174124175",
-			"name": "Tim Klapdor",
-			"screen_name": "timklapdor",
-			"location": "Adelaide, South Australia",
-			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "https://t.co/uC0c3me6KE",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/uC0c3me6KE",
-							"expanded_url": "http://timklapdor.com",
-							"display_url": "timklapdor.com",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 823,
-			"friends_count": 159,
-			"listed_count": 91,
-			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9315,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 15093,
-			"lang": null,
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "C0DEED",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
-			"profile_link_color": "5FA832",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "DDEEF6",
-			"profile_text_color": "333333",
-			"profile_use_background_image": true,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none",
-			"withheld_in_countries": []
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": true,
-		"quoted_status_id": 922204103010222100,
-		"quoted_status_id_str": "922204103010222080",
-		"quoted_status_permalink": {
-			"url": "https://t.co/jJhhAUsEYo",
-			"expanded": "https://twitter.com/travisaholland/status/922204103010222080",
-			"display": "twitter.com/travisaholland…"
-		},
-		"quoted_status": {
-			"created_at": "Sun Oct 22 20:52:46 +0000 2017",
-			"id": 922204103010222100,
-			"id_str": "922204103010222080",
-			"full_text": "CEO warns that NBN may never make a profit https://t.co/eSD2ZqvZLp via @smh",
-			"truncated": false,
-			"display_text_range": [
-				0,
-				75
-			],
-			"entities": {
-				"hashtags": [],
-				"symbols": [],
-				"user_mentions": [
-					{
-						"screen_name": "smh",
-						"name": "The Sydney Morning Herald",
-						"id": 16675569,
-						"id_str": "16675569",
-						"indices": [
-							71,
-							75
-						]
-					}
-				],
-				"urls": [
-					{
-						"url": "https://t.co/eSD2ZqvZLp",
-						"expanded_url": "http://www.smh.com.au/federal-politics/political-news/slug-mobile-internet-connections-or-pay-us-more-nbn-chief-bill-morrow-warns-20171022-gz5p87.html",
-						"display_url": "smh.com.au/federal-politi…",
-						"indices": [
-							43,
-							66
-						]
-					}
-				]
-			},
-			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
-			"in_reply_to_status_id": null,
-			"in_reply_to_status_id_str": null,
-			"in_reply_to_user_id": null,
-			"in_reply_to_user_id_str": null,
-			"in_reply_to_screen_name": null,
-			"user": {
-				"id": 22888086,
-				"id_str": "22888086",
-				"name": "Travis Holland",
-				"screen_name": "travisaholland",
-				"location": "Wiradjuri country, Australia",
-				"description": "Communicator. Educator. Pop culture nerd. Space geek. AFOL.",
-				"url": "https://t.co/7N3M38bFzq",
-				"entities": {
-					"url": {
-						"urls": [
-							{
-								"url": "https://t.co/7N3M38bFzq",
-								"expanded_url": "http://travish.co",
-								"display_url": "travish.co",
-								"indices": [
-									0,
-									23
-								]
-							}
-						]
-					},
-					"description": {
-						"urls": []
-					}
-				},
-				"protected": false,
-				"followers_count": 2021,
-				"friends_count": 3041,
-				"listed_count": 80,
-				"created_at": "Thu Mar 05 06:03:28 +0000 2009",
-				"favourites_count": 578,
-				"utc_offset": null,
-				"time_zone": null,
-				"geo_enabled": true,
-				"verified": false,
-				"statuses_count": 21460,
-				"lang": null,
-				"contributors_enabled": false,
-				"is_translator": false,
-				"is_translation_enabled": false,
-				"profile_background_color": "FFFFFF",
-				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
-				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
-				"profile_background_tile": false,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/1403292923412697091/IXVZ7bvS_normal.jpg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1403292923412697091/IXVZ7bvS_normal.jpg",
-				"profile_banner_url": "https://pbs.twimg.com/profile_banners/22888086/1620256297",
-				"profile_link_color": "72B9BF",
-				"profile_sidebar_border_color": "A0EEF5",
-				"profile_sidebar_fill_color": "1A3F57",
-				"profile_text_color": "9DDD95",
-				"profile_use_background_image": true,
-				"has_extended_profile": true,
-				"default_profile": false,
-				"default_profile_image": false,
-				"following": true,
-				"follow_request_sent": false,
-				"notifications": false,
-				"translator_type": "none",
-				"withheld_in_countries": []
-			},
-			"geo": null,
-			"coordinates": null,
-			"place": null,
-			"contributors": null,
-			"is_quote_status": false,
-			"retweet_count": 1,
-			"favorite_count": 1,
-			"favorited": false,
-			"retweeted": false,
-			"possibly_sensitive": false,
-			"lang": "en"
-		},
-		"retweet_count": 2,
-		"favorite_count": 2,
-		"favorited": false,
-		"retweeted": false,
-		"possibly_sensitive": false,
-		"lang": "en",
-		"text": "So when are we going to have a discussion about whether infrastructure needs to make a profit? After we can’t afford healthcare &amp; education? https://t.co/jJhhAUsEYo"
 	}
 ]
