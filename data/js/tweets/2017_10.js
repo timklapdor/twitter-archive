@@ -62,14 +62,14 @@ Grailbird.data.tweets_2017_10 =
 			"protected": false,
 			"followers_count": 823,
 			"friends_count": 159,
-			"listed_count": 0,
+			"listed_count": 91,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9328,
+			"favourites_count": 9333,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15104,
+			"statuses_count": 15108,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -265,16 +265,16 @@ Grailbird.data.tweets_2017_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 2400,
+			"followers_count": 2399,
 			"friends_count": 1875,
 			"listed_count": 161,
 			"created_at": "Wed Aug 13 22:04:00 +0000 2008",
-			"favourites_count": 2656,
+			"favourites_count": 2658,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 9162,
+			"statuses_count": 9164,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -374,12 +374,12 @@ Grailbird.data.tweets_2017_10 =
 			"friends_count": 598,
 			"listed_count": 116,
 			"created_at": "Wed Sep 21 23:30:56 +0000 2011",
-			"favourites_count": 477,
+			"favourites_count": 478,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 4637,
+			"statuses_count": 4638,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -490,14 +490,14 @@ Grailbird.data.tweets_2017_10 =
 			"protected": false,
 			"followers_count": 823,
 			"friends_count": 159,
-			"listed_count": 0,
+			"listed_count": 91,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9328,
+			"favourites_count": 9333,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15104,
+			"statuses_count": 15108,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -674,14 +674,14 @@ Grailbird.data.tweets_2017_10 =
 			"protected": false,
 			"followers_count": 823,
 			"friends_count": 159,
-			"listed_count": 0,
+			"listed_count": 91,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9328,
+			"favourites_count": 9333,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15104,
+			"statuses_count": 15108,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -748,7 +748,7 @@ Grailbird.data.tweets_2017_10 =
 			"name": "Tananarive (Team Pfizer) Due",
 			"screen_name": "TananariveDue",
 			"location": "Los Angeles",
-			"description": "Exec Prod @shudder's #HorrorNoire Author, screenwriter, Twilight Zone @serialbox Black Panther, Vanity Fair #BlackHorror #BLM UCLA, American Book Award. She/Her",
+			"description": "Exec Prod @shudder's #HorrorNoire Twilight Zone. Author, screenwriter, UCLA educator. The Undefeated, Vanity Fair #BlackHorror #BLM American Book Award. She/Her",
 			"url": "https://t.co/Z9pVh8V0gK",
 			"entities": {
 				"url": {
@@ -769,16 +769,16 @@ Grailbird.data.tweets_2017_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 49873,
-			"friends_count": 5500,
-			"listed_count": 980,
+			"followers_count": 49888,
+			"friends_count": 5504,
+			"listed_count": 982,
 			"created_at": "Wed Jun 17 14:50:29 +0000 2009",
-			"favourites_count": 17039,
+			"favourites_count": 17053,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 130829,
+			"statuses_count": 130878,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -809,8 +809,8 @@ Grailbird.data.tweets_2017_10 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 8925,
-		"favorite_count": 23758,
+		"retweet_count": 8923,
+		"favorite_count": 23756,
 		"favorited": false,
 		"retweeted": false,
 		"lang": "en",
@@ -878,14 +878,14 @@ Grailbird.data.tweets_2017_10 =
 			"protected": false,
 			"followers_count": 823,
 			"friends_count": 159,
-			"listed_count": 0,
+			"listed_count": 91,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9328,
+			"favourites_count": 9333,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15104,
+			"statuses_count": 15108,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -922,891 +922,5 @@ Grailbird.data.tweets_2017_10 =
 		"retweeted": false,
 		"lang": "en",
 		"text": "@helsouth I’m out at the moment. But I’ve got some work to put on github I can direct you to"
-	},
-	{
-		"created_at": "Fri Oct 27 23:58:11 +0000 2017",
-		"id": 924062705526251500,
-		"id_str": "924062705526251520",
-		"full_text": "Let’s not forget where Abbott and Turnbull launcher their NBN “alternative” - Fox HQ https://t.co/Dbnf6M2lAX https://t.co/tHzS6NvvOu",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			108
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": [
-				{
-					"url": "https://t.co/Dbnf6M2lAX",
-					"expanded_url": "https://delimiter.com.au/2013/04/09/coalition-releases-long-awaited-rival-nbn-policy/",
-					"display_url": "delimiter.com.au/2013/04/09/coa…",
-					"indices": [
-						85,
-						108
-					]
-				},
-				{
-					"url": "https://t.co/tHzS6NvvOu",
-					"expanded_url": "https://twitter.com/timklapdor/status/924062403792216064",
-					"display_url": "twitter.com/timklapdor/sta…",
-					"indices": [
-						109,
-						132
-					]
-				}
-			]
-		},
-		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
-		"in_reply_to_status_id": 924062403792216000,
-		"in_reply_to_status_id_str": "924062403792216064",
-		"in_reply_to_user_id": 174124175,
-		"in_reply_to_user_id_str": "174124175",
-		"in_reply_to_screen_name": "timklapdor",
-		"user": {
-			"id": 174124175,
-			"id_str": "174124175",
-			"name": "Tim Klapdor",
-			"screen_name": "timklapdor",
-			"location": "Adelaide, South Australia",
-			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "https://t.co/uC0c3me6KE",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/uC0c3me6KE",
-							"expanded_url": "http://timklapdor.com",
-							"display_url": "timklapdor.com",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 823,
-			"friends_count": 159,
-			"listed_count": 0,
-			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9328,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 15104,
-			"lang": null,
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "C0DEED",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
-			"profile_link_color": "5FA832",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "DDEEF6",
-			"profile_text_color": "333333",
-			"profile_use_background_image": true,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none",
-			"withheld_in_countries": []
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": true,
-		"quoted_status_id": 924062403792216000,
-		"quoted_status_id_str": "924062403792216064",
-		"quoted_status_permalink": {
-			"url": "https://t.co/tHzS6NvvOu",
-			"expanded": "https://twitter.com/timklapdor/status/924062403792216064",
-			"display": "twitter.com/timklapdor/sta…"
-		},
-		"quoted_status": {
-			"created_at": "Fri Oct 27 23:56:59 +0000 2017",
-			"id": 924062403792216000,
-			"id_str": "924062403792216064",
-			"full_text": "ExPM Kevin Rudd blames Rupert Murdoch for the destruction of the NBN, the election of Donald Trump &amp; the Brexit vote https://t.co/lwksCBTDVy",
-			"truncated": false,
-			"display_text_range": [
-				0,
-				144
-			],
-			"entities": {
-				"hashtags": [],
-				"symbols": [],
-				"user_mentions": [],
-				"urls": [
-					{
-						"url": "https://t.co/lwksCBTDVy",
-						"expanded_url": "https://www.rewindradio.com/abc774melbourne/former-prime-minister-of-australia-kevin-rudd-directly-blames-rupert-murdoch-for-the-destruction-of-the-nbn-the-election-of-donald-trump-and-the-brexit-vote",
-						"display_url": "rewindradio.com/abc774melbourn…",
-						"indices": [
-							121,
-							144
-						]
-					}
-				]
-			},
-			"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
-			"in_reply_to_status_id": null,
-			"in_reply_to_status_id_str": null,
-			"in_reply_to_user_id": null,
-			"in_reply_to_user_id_str": null,
-			"in_reply_to_screen_name": null,
-			"user": {
-				"id": 174124175,
-				"id_str": "174124175",
-				"name": "Tim Klapdor",
-				"screen_name": "timklapdor",
-				"location": "Adelaide, South Australia",
-				"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-				"url": "https://t.co/uC0c3me6KE",
-				"entities": {
-					"url": {
-						"urls": [
-							{
-								"url": "https://t.co/uC0c3me6KE",
-								"expanded_url": "http://timklapdor.com",
-								"display_url": "timklapdor.com",
-								"indices": [
-									0,
-									23
-								]
-							}
-						]
-					},
-					"description": {
-						"urls": []
-					}
-				},
-				"protected": false,
-				"followers_count": 823,
-				"friends_count": 159,
-				"listed_count": 0,
-				"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-				"favourites_count": 9328,
-				"utc_offset": null,
-				"time_zone": null,
-				"geo_enabled": true,
-				"verified": false,
-				"statuses_count": 15104,
-				"lang": null,
-				"contributors_enabled": false,
-				"is_translator": false,
-				"is_translation_enabled": false,
-				"profile_background_color": "C0DEED",
-				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-				"profile_background_tile": false,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-				"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
-				"profile_link_color": "5FA832",
-				"profile_sidebar_border_color": "000000",
-				"profile_sidebar_fill_color": "DDEEF6",
-				"profile_text_color": "333333",
-				"profile_use_background_image": true,
-				"has_extended_profile": true,
-				"default_profile": false,
-				"default_profile_image": false,
-				"following": false,
-				"follow_request_sent": false,
-				"notifications": false,
-				"translator_type": "none",
-				"withheld_in_countries": []
-			},
-			"geo": null,
-			"coordinates": null,
-			"place": null,
-			"contributors": null,
-			"is_quote_status": false,
-			"retweet_count": 0,
-			"favorite_count": 1,
-			"favorited": false,
-			"retweeted": false,
-			"possibly_sensitive": false,
-			"lang": "en"
-		},
-		"retweet_count": 0,
-		"favorite_count": 1,
-		"favorited": false,
-		"retweeted": false,
-		"possibly_sensitive": false,
-		"lang": "en",
-		"text": "Let’s not forget where Abbott and Turnbull launcher their NBN “alternative” - Fox HQ https://t.co/Dbnf6M2lAX https://t.co/tHzS6NvvOu"
-	},
-	{
-		"created_at": "Fri Oct 27 23:56:59 +0000 2017",
-		"id": 924062403792216000,
-		"id_str": "924062403792216064",
-		"full_text": "ExPM Kevin Rudd blames Rupert Murdoch for the destruction of the NBN, the election of Donald Trump &amp; the Brexit vote https://t.co/lwksCBTDVy",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			144
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": [
-				{
-					"url": "https://t.co/lwksCBTDVy",
-					"expanded_url": "https://www.rewindradio.com/abc774melbourne/former-prime-minister-of-australia-kevin-rudd-directly-blames-rupert-murdoch-for-the-destruction-of-the-nbn-the-election-of-donald-trump-and-the-brexit-vote",
-					"display_url": "rewindradio.com/abc774melbourn…",
-					"indices": [
-						121,
-						144
-					]
-				}
-			]
-		},
-		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 174124175,
-			"id_str": "174124175",
-			"name": "Tim Klapdor",
-			"screen_name": "timklapdor",
-			"location": "Adelaide, South Australia",
-			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "https://t.co/uC0c3me6KE",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/uC0c3me6KE",
-							"expanded_url": "http://timklapdor.com",
-							"display_url": "timklapdor.com",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 823,
-			"friends_count": 159,
-			"listed_count": 0,
-			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9328,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 15104,
-			"lang": null,
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "C0DEED",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
-			"profile_link_color": "5FA832",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "DDEEF6",
-			"profile_text_color": "333333",
-			"profile_use_background_image": true,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none",
-			"withheld_in_countries": []
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 1,
-		"favorited": false,
-		"retweeted": false,
-		"possibly_sensitive": false,
-		"lang": "en",
-		"text": "ExPM Kevin Rudd blames Rupert Murdoch for the destruction of the NBN, the election of Donald Trump &amp; the Brexit vote https://t.co/lwksCBTDVy"
-	},
-	{
-		"created_at": "Fri Oct 27 22:27:16 +0000 2017",
-		"id": 924039824553664500,
-		"id_str": "924039824553664512",
-		"full_text": "This is pretty cool. This kind of assistance is how we can build beyond code. https://t.co/He3yAIRFxT",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			77
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": [
-				{
-					"url": "https://t.co/He3yAIRFxT",
-					"expanded_url": "https://twitter.com/brad_frost/status/923927551868882944",
-					"display_url": "twitter.com/brad_frost/sta…",
-					"indices": [
-						78,
-						101
-					]
-				}
-			]
-		},
-		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 174124175,
-			"id_str": "174124175",
-			"name": "Tim Klapdor",
-			"screen_name": "timklapdor",
-			"location": "Adelaide, South Australia",
-			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "https://t.co/uC0c3me6KE",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/uC0c3me6KE",
-							"expanded_url": "http://timklapdor.com",
-							"display_url": "timklapdor.com",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 823,
-			"friends_count": 159,
-			"listed_count": 0,
-			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9328,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 15104,
-			"lang": null,
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "C0DEED",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
-			"profile_link_color": "5FA832",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "DDEEF6",
-			"profile_text_color": "333333",
-			"profile_use_background_image": true,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none",
-			"withheld_in_countries": []
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": true,
-		"quoted_status_id": 923927551868883000,
-		"quoted_status_id_str": "923927551868882944",
-		"quoted_status_permalink": {
-			"url": "https://t.co/He3yAIRFxT",
-			"expanded": "https://twitter.com/brad_frost/status/923927551868882944",
-			"display": "twitter.com/brad_frost/sta…"
-		},
-		"quoted_status": {
-			"created_at": "Fri Oct 27 15:01:08 +0000 2017",
-			"id": 923927551868883000,
-			"id_str": "923927551868882944",
-			"full_text": "Design system + machine learning = instantly going from whiteboard sketch to working code https://t.co/4nC2ToGP1Q\n\nFucking incredible.",
-			"truncated": false,
-			"display_text_range": [
-				0,
-				134
-			],
-			"entities": {
-				"hashtags": [],
-				"symbols": [],
-				"user_mentions": [],
-				"urls": [
-					{
-						"url": "https://t.co/4nC2ToGP1Q",
-						"expanded_url": "https://airbnb.design/sketching-interfaces/",
-						"display_url": "airbnb.design/sketching-inte…",
-						"indices": [
-							90,
-							113
-						]
-					}
-				]
-			},
-			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-			"in_reply_to_status_id": null,
-			"in_reply_to_status_id_str": null,
-			"in_reply_to_user_id": null,
-			"in_reply_to_user_id_str": null,
-			"in_reply_to_screen_name": null,
-			"user": {
-				"id": 11855482,
-				"id_str": "11855482",
-				"name": "Brad Frost",
-				"screen_name": "brad_frost",
-				"location": "Pittsburgh, PA",
-				"description": "I am a web designer, speaker, writer, consultant, and musician in beautiful Pittsburgh, PA. Author of Atomic Design.",
-				"url": "https://t.co/o7uHHw2jAr",
-				"entities": {
-					"url": {
-						"urls": [
-							{
-								"url": "https://t.co/o7uHHw2jAr",
-								"expanded_url": "http://bradfrost.com",
-								"display_url": "bradfrost.com",
-								"indices": [
-									0,
-									23
-								]
-							}
-						]
-					},
-					"description": {
-						"urls": []
-					}
-				},
-				"protected": false,
-				"followers_count": 115823,
-				"friends_count": 442,
-				"listed_count": 4871,
-				"created_at": "Fri Jan 04 21:57:10 +0000 2008",
-				"favourites_count": 79923,
-				"utc_offset": null,
-				"time_zone": null,
-				"geo_enabled": true,
-				"verified": false,
-				"statuses_count": 45054,
-				"lang": null,
-				"contributors_enabled": false,
-				"is_translator": false,
-				"is_translation_enabled": false,
-				"profile_background_color": "221E23",
-				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-				"profile_background_tile": true,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/907811115459125248/i8AzK6gR_normal.jpg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/907811115459125248/i8AzK6gR_normal.jpg",
-				"profile_banner_url": "https://pbs.twimg.com/profile_banners/11855482/1499641533",
-				"profile_link_color": "BE6900",
-				"profile_sidebar_border_color": "FFFFFF",
-				"profile_sidebar_fill_color": "E1DBB9",
-				"profile_text_color": "250000",
-				"profile_use_background_image": true,
-				"has_extended_profile": true,
-				"default_profile": false,
-				"default_profile_image": false,
-				"following": true,
-				"follow_request_sent": false,
-				"notifications": false,
-				"translator_type": "regular",
-				"withheld_in_countries": []
-			},
-			"geo": null,
-			"coordinates": null,
-			"place": null,
-			"contributors": null,
-			"is_quote_status": false,
-			"retweet_count": 70,
-			"favorite_count": 202,
-			"favorited": false,
-			"retweeted": false,
-			"possibly_sensitive": false,
-			"lang": "en"
-		},
-		"retweet_count": 0,
-		"favorite_count": 0,
-		"favorited": false,
-		"retweeted": false,
-		"possibly_sensitive": false,
-		"lang": "en",
-		"text": "This is pretty cool. This kind of assistance is how we can build beyond code. https://t.co/He3yAIRFxT"
-	},
-	{
-		"created_at": "Fri Oct 27 08:09:13 +0000 2017",
-		"id": 923823890220032000,
-		"id_str": "923823890220032000",
-		"full_text": "Indigenous recognition: Turnbull Government's rejection of Uluru Statement indefensible https://t.co/msSO2mvZ4y https://t.co/msSO2mvZ4y",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			135
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": [
-				{
-					"url": "https://t.co/msSO2mvZ4y",
-					"expanded_url": "http://www.abc.net.au/news/2017-10-27/decision-to-reject-uluru-statement-is-indefensible/9093408",
-					"display_url": "abc.net.au/news/2017-10-2…",
-					"indices": [
-						88,
-						111
-					]
-				},
-				{
-					"url": "https://t.co/msSO2mvZ4y",
-					"expanded_url": "http://www.abc.net.au/news/2017-10-27/decision-to-reject-uluru-statement-is-indefensible/9093408",
-					"display_url": "abc.net.au/news/2017-10-2…",
-					"indices": [
-						112,
-						135
-					]
-				}
-			]
-		},
-		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 174124175,
-			"id_str": "174124175",
-			"name": "Tim Klapdor",
-			"screen_name": "timklapdor",
-			"location": "Adelaide, South Australia",
-			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "https://t.co/uC0c3me6KE",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/uC0c3me6KE",
-							"expanded_url": "http://timklapdor.com",
-							"display_url": "timklapdor.com",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 823,
-			"friends_count": 159,
-			"listed_count": 0,
-			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9328,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 15104,
-			"lang": null,
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "C0DEED",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
-			"profile_link_color": "5FA832",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "DDEEF6",
-			"profile_text_color": "333333",
-			"profile_use_background_image": true,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none",
-			"withheld_in_countries": []
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 0,
-		"favorited": false,
-		"retweeted": false,
-		"possibly_sensitive": false,
-		"lang": "en",
-		"text": "Indigenous recognition: Turnbull Government's rejection of Uluru Statement indefensible https://t.co/msSO2mvZ4y https://t.co/msSO2mvZ4y"
-	},
-	{
-		"created_at": "Fri Oct 27 01:21:52 +0000 2017",
-		"id": 923648028774350800,
-		"id_str": "923721376929800192",
-		"full_text": "Accurate and sad reflection on our current ‘leadership’ https://t.co/JeUM5A9go3",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			55
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": [
-				{
-					"url": "https://t.co/JeUM5A9go3",
-					"expanded_url": "https://twitter.com/profsarahj/status/923427274657030144",
-					"display_url": "twitter.com/profsarahj/sta…",
-					"indices": [
-						56,
-						79
-					]
-				}
-			]
-		},
-		"source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 23933514,
-			"id_str": "23933514",
-			"name": "Dr Linda Kirkman",
-			"screen_name": "lindathestar",
-			"location": "Dja Dja Wurrung Country Aust",
-			"description": "Entrepreneur sexologist w sexuality PhD, sex-positive educator, sex therapist, consultant, gazer at the sky, singer, friend. https://t.co/F81ljJ2MnE",
-			"url": "https://t.co/wAqtleHtxb",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/wAqtleHtxb",
-							"expanded_url": "http://www.lindakirkman.org",
-							"display_url": "lindakirkman.org",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": [
-						{
-							"url": "https://t.co/F81ljJ2MnE",
-							"expanded_url": "http://Lindathestar.wordpress.com",
-							"display_url": "Lindathestar.wordpress.com",
-							"indices": [
-								125,
-								148
-							]
-						}
-					]
-				}
-			},
-			"protected": false,
-			"followers_count": 1500,
-			"friends_count": 1076,
-			"listed_count": 98,
-			"created_at": "Thu Mar 12 11:34:54 +0000 2009",
-			"favourites_count": 7911,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": false,
-			"verified": false,
-			"statuses_count": 23281,
-			"lang": null,
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "352726",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
-			"profile_background_tile": true,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/725854186634539008/QN75zoIq_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/725854186634539008/QN75zoIq_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/23933514/1359775788",
-			"profile_link_color": "D02B55",
-			"profile_sidebar_border_color": "829D5E",
-			"profile_sidebar_fill_color": "99CC33",
-			"profile_text_color": "3E4415",
-			"profile_use_background_image": true,
-			"has_extended_profile": false,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none",
-			"withheld_in_countries": []
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": true,
-		"quoted_status_id": 923427274657030100,
-		"quoted_status_id_str": "923427274657030144",
-		"quoted_status_permalink": {
-			"url": "https://t.co/JeUM5A9go3",
-			"expanded": "https://twitter.com/profsarahj/status/923427274657030144",
-			"display": "twitter.com/profsarahj/sta…"
-		},
-		"quoted_status": {
-			"created_at": "Thu Oct 26 05:53:13 +0000 2017",
-			"id": 923427274657030100,
-			"id_str": "923427274657030144",
-			"full_text": "Uluru statement? Er, no. Clean Energy Target? Nope. World class broadband? Guffaw. Marriage equality? Have a postal survey. #ambition",
-			"truncated": false,
-			"display_text_range": [
-				0,
-				133
-			],
-			"entities": {
-				"hashtags": [
-					{
-						"text": "ambition",
-						"indices": [
-							124,
-							133
-						]
-					}
-				],
-				"symbols": [],
-				"user_mentions": [],
-				"urls": []
-			},
-			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
-			"in_reply_to_status_id": null,
-			"in_reply_to_status_id_str": null,
-			"in_reply_to_user_id": null,
-			"in_reply_to_user_id_str": null,
-			"in_reply_to_screen_name": null,
-			"user": {
-				"id": 156177513,
-				"id_str": "156177513",
-				"name": "Sarah Joseph",
-				"screen_name": "profsarahj",
-				"location": "Brisbane",
-				"description": "Human Rights, law, politics, sport, pop culture, stuff - views are my own. RT not necessarily endorsement",
-				"url": null,
-				"entities": {
-					"description": {
-						"urls": []
-					}
-				},
-				"protected": false,
-				"followers_count": 12336,
-				"friends_count": 7031,
-				"listed_count": 326,
-				"created_at": "Wed Jun 16 06:21:42 +0000 2010",
-				"favourites_count": 37185,
-				"utc_offset": null,
-				"time_zone": null,
-				"geo_enabled": true,
-				"verified": false,
-				"statuses_count": 155112,
-				"lang": null,
-				"contributors_enabled": false,
-				"is_translator": false,
-				"is_translation_enabled": false,
-				"profile_background_color": "ACDED6",
-				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
-				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
-				"profile_background_tile": false,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/1431747934320685059/sT77Hehf_normal.jpg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1431747934320685059/sT77Hehf_normal.jpg",
-				"profile_banner_url": "https://pbs.twimg.com/profile_banners/156177513/1595765431",
-				"profile_link_color": "038543",
-				"profile_sidebar_border_color": "FFFFFF",
-				"profile_sidebar_fill_color": "F6F6F6",
-				"profile_text_color": "333333",
-				"profile_use_background_image": true,
-				"has_extended_profile": false,
-				"default_profile": false,
-				"default_profile_image": false,
-				"following": false,
-				"follow_request_sent": false,
-				"notifications": false,
-				"translator_type": "none",
-				"withheld_in_countries": []
-			},
-			"geo": null,
-			"coordinates": null,
-			"place": null,
-			"contributors": null,
-			"is_quote_status": false,
-			"retweet_count": 3,
-			"favorite_count": 6,
-			"favorited": false,
-			"retweeted": false,
-			"lang": "en"
-		},
-		"retweet_count": 2,
-		"favorite_count": 5,
-		"favorited": false,
-		"retweeted": false,
-		"possibly_sensitive": false,
-		"lang": "en",
-		"text": "Accurate and sad reflection on our current ‘leadership’ https://t.co/JeUM5A9go3"
 	}
 ]
