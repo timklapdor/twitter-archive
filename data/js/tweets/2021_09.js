@@ -1,6 +1,102 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Thu Sep 02 08:44:43 +0000 2021",
+		"id": 1433212621608550400,
+		"id_str": "1433350161665650694",
+		"full_text": "From day one, the nature of this pandemic threw into sharp relief what Australia needed to fix: aged care, woeful healthcare investment, the precarity of the gig economy, the lack of protection for essential workers. 18 months in, has there been any significant structural reform?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1303140445501833200,
+			"id_str": "1303140445501833216",
+			"name": "Maddison Connaughton",
+			"screen_name": "madconnaughton",
+			"location": "Australia",
+			"description": "Journalist, editor, inaugural Walkley Our Watch fellow | Previously @satpaper, @vice | maddisonconnaughton@protonmail.com",
+			"url": "https://t.co/AXrlepTsqm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AXrlepTsqm",
+							"expanded_url": "http://maddisonconnaughton.com",
+							"display_url": "maddisonconnaughton.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3551,
+			"friends_count": 1623,
+			"listed_count": 23,
+			"created_at": "Tue Sep 08 01:17:54 +0000 2020",
+			"favourites_count": 968,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 499,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1386562916141338624/_OYWJk1D_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1386562916141338624/_OYWJk1D_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1303140445501833216/1614482391",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 659,
+		"favorite_count": 2668,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "From day one, the nature of this pandemic threw into sharp relief what Australia needed to fix: aged care, woeful healthcare investment, the precarity of the gig economy, the lack of protection for essential workers. 18 months in, has there been any significant structural reform?"
+	},
+	{
 		"created_at": "Wed Sep 01 09:11:37 +0000 2021",
 		"id": 1432994541146017800,
 		"id_str": "1432994541146017801",
@@ -131,12 +227,12 @@ Grailbird.data.tweets_2021_09 =
 			"friends_count": 159,
 			"listed_count": 91,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9346,
+			"favourites_count": 9351,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15116,
+			"statuses_count": 15117,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
