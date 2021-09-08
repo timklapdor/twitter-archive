@@ -1,6 +1,825 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Tue Sep 07 21:01:58 +0000 2021",
+		"id": 1434968285913702400,
+		"id_str": "1435347635494219778",
+		"full_text": "How QR codes are made https://t.co/oanBjUxZIu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			21
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1434968244817911800,
+					"id_str": "1434968244817911813",
+					"indices": [
+						22,
+						45
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1434968244817911813/pu/img/z7Rqa6wSCpOr6nDO.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1434968244817911813/pu/img/z7Rqa6wSCpOr6nDO.jpg",
+					"url": "https://t.co/oanBjUxZIu",
+					"display_url": "pic.twitter.com/oanBjUxZIu",
+					"expanded_url": "https://twitter.com/mcflyhh/status/1434968285913702409/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 220,
+							"h": 220,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 220,
+							"h": 220,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 220,
+							"h": 220,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1434968244817911800,
+					"id_str": "1434968244817911813",
+					"indices": [
+						22,
+						45
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1434968244817911813/pu/img/z7Rqa6wSCpOr6nDO.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1434968244817911813/pu/img/z7Rqa6wSCpOr6nDO.jpg",
+					"url": "https://t.co/oanBjUxZIu",
+					"display_url": "pic.twitter.com/oanBjUxZIu",
+					"expanded_url": "https://twitter.com/mcflyhh/status/1434968285913702409/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 220,
+							"h": 220,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 220,
+							"h": 220,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 220,
+							"h": 220,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 25200,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1434968244817911813/pu/pl/VFCbAaZnqY8-iaXt.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1434968244817911813/pu/vid/220x220/lJuvg02VUvC9p2w_.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 37400546,
+			"id_str": "37400546",
+			"name": "mc.fly",
+			"screen_name": "mcflyhh",
+			"location": "Rotterdam, Zuid-Holland",
+			"description": "Hacker. kind of.  Here tweets the private team of https://t.co/om4iuSERRU. \nGerman expat living in Holland. @pixelbar010 CCC\nTweets in en, de and een kleine beetje nederlands",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/om4iuSERRU",
+							"expanded_url": "http://mc.fly",
+							"display_url": "mc.fly",
+							"indices": [
+								50,
+								73
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2594,
+			"friends_count": 2225,
+			"listed_count": 44,
+			"created_at": "Sun May 03 11:04:08 +0000 2009",
+			"favourites_count": 29088,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14452,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1167164838545678336/5Xb0wpv5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1167164838545678336/5Xb0wpv5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/37400546/1483536380",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9875,
+		"favorite_count": 44029,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "How QR codes are made https://t.co/oanBjUxZIu"
+	},
+	{
+		"created_at": "Tue Sep 07 14:12:07 +0000 2021",
+		"id": 1435244494278979600,
+		"id_str": "1435244494278979584",
+		"full_text": "@kinlane Thanks for sharing Kin! Awesome to hear some positive news and that’s such a great photo. Pass on my congrats to Ms21 :)",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			129
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kinlane",
+					"name": "Kin Lane",
+					"id": 5954192,
+					"id_str": "5954192",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1435242903933046800,
+		"in_reply_to_status_id_str": "1435242903933046791",
+		"in_reply_to_user_id": 5954192,
+		"in_reply_to_user_id_str": "5954192",
+		"in_reply_to_screen_name": "kinlane",
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Adelaide, South Australia",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
+			"url": "https://t.co/uC0c3me6KE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uC0c3me6KE",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 822,
+			"friends_count": 160,
+			"listed_count": 91,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 9368,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15124,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@kinlane Thanks for sharing Kin! Awesome to hear some positive news and that’s such a great photo. Pass on my congrats to Ms21 :)"
+	},
+	{
+		"created_at": "Tue Sep 07 14:10:25 +0000 2021",
+		"id": 1435244066929737700,
+		"id_str": "1435244066929737733",
+		"full_text": "@jlknott @ryanknott Thanks for sharing! So nice to hear these amazing milestones from afar. Your commitment to just being awesome humans is appreciated :)",
+		"truncated": false,
+		"display_text_range": [
+			20,
+			154
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jlknott",
+					"name": "Dr. Jessica L. Knott",
+					"id": 7693002,
+					"id_str": "7693002",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "ryanknott",
+					"name": "Ryan Knott is fully vaccinated.",
+					"id": 8188682,
+					"id_str": "8188682",
+					"indices": [
+						9,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1435228474973868000,
+		"in_reply_to_status_id_str": "1435228474973868036",
+		"in_reply_to_user_id": 7693002,
+		"in_reply_to_user_id_str": "7693002",
+		"in_reply_to_screen_name": "jlknott",
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Adelaide, South Australia",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
+			"url": "https://t.co/uC0c3me6KE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uC0c3me6KE",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 822,
+			"friends_count": 160,
+			"listed_count": 91,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 9368,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15124,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@jlknott @ryanknott Thanks for sharing! So nice to hear these amazing milestones from afar. Your commitment to just being awesome humans is appreciated :)"
+	},
+	{
+		"created_at": "Mon Sep 06 04:23:37 +0000 2021",
+		"id": 1434728020040773600,
+		"id_str": "1434734005404856321",
+		"full_text": "“There is no excuse, and sorry doesn't cut it” says man who promotes, and refuses to investigate, alleged rapist. #AusPol",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AusPol",
+					"indices": [
+						114,
+						121
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 358536192,
+			"id_str": "358536192",
+			"name": "JT",
+			"screen_name": "jtango18",
+			"location": "Melbourne",
+			"description": "He/Him",
+			"url": "https://t.co/hopQTA6MG9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hopQTA6MG9",
+							"expanded_url": "https://goodch.at",
+							"display_url": "goodch.at",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 913,
+			"friends_count": 96,
+			"listed_count": 59,
+			"created_at": "Sat Aug 20 02:39:38 +0000 2011",
+			"favourites_count": 309,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25099,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1345209510948818944/IFuwNZJs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1345209510948818944/IFuwNZJs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/358536192/1411475989",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "“There is no excuse, and sorry doesn't cut it” says man who promotes, and refuses to investigate, alleged rapist. #AusPol"
+	},
+	{
+		"created_at": "Mon Sep 06 04:23:26 +0000 2021",
+		"id": 1434476448505479200,
+		"id_str": "1434733958592270340",
+		"full_text": "The fact that random technologists are doing this for free is a pretty big indictment of the big 4 driven tech landscape of this country - I imagine the kpmg quote for this would have been low 7 figures https://t.co/4jfqGoT2FP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			202
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4jfqGoT2FP",
+					"expanded_url": "https://twitter.com/covid19nearmeau/status/1434446310157873158",
+					"display_url": "twitter.com/covid19nearmea…",
+					"indices": [
+						203,
+						226
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 971761,
+			"id_str": "971761",
+			"name": "dan nolan",
+			"screen_name": "dannolan",
+			"location": "Sydney",
+			"description": "disgraced former child",
+			"url": "https://t.co/AjjagUqIcy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AjjagUqIcy",
+							"expanded_url": "http://instagram.com/dannolan",
+							"display_url": "instagram.com/dannolan",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 24243,
+			"friends_count": 2598,
+			"listed_count": 342,
+			"created_at": "Mon Mar 12 01:14:36 +0000 2007",
+			"favourites_count": 121549,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 28190,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1155413896972234754/RyEHEpC6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1155413896972234754/RyEHEpC6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/971761/1574758018",
+			"profile_link_color": "EE22B0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1434446310157873200,
+		"quoted_status_id_str": "1434446310157873158",
+		"quoted_status_permalink": {
+			"url": "https://t.co/4jfqGoT2FP",
+			"expanded": "https://twitter.com/covid19nearmeau/status/1434446310157873158",
+			"display": "twitter.com/covid19nearmea…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Sep 05 09:20:25 +0000 2021",
+			"id": 1434446310157873200,
+			"id_str": "1434446310157873158",
+			"full_text": "💉We've now added real-time availability information for Pfizer bookings at Victorian state clinics\n\nhttps://t.co/Xq3oljkDMw https://t.co/nKuJPkYOnr",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				123
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Xq3oljkDMw",
+						"expanded_url": "https://covid19nearme.com.au/state/vic/vaccination?type=PF&provider=state&availability=next-21-days",
+						"display_url": "covid19nearme.com.au/state/vic/vacc…",
+						"indices": [
+							100,
+							123
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1434446227458781200,
+						"id_str": "1434446227458781185",
+						"indices": [
+							124,
+							147
+						],
+						"media_url": "http://pbs.twimg.com/media/E-gtPm0UcAE71Qy.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E-gtPm0UcAE71Qy.jpg",
+						"url": "https://t.co/nKuJPkYOnr",
+						"display_url": "pic.twitter.com/nKuJPkYOnr",
+						"expanded_url": "https://twitter.com/COVID19NearMeAU/status/1434446310157873158/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 375,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 661,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1128,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1434446227458781200,
+						"id_str": "1434446227458781185",
+						"indices": [
+							124,
+							147
+						],
+						"media_url": "http://pbs.twimg.com/media/E-gtPm0UcAE71Qy.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E-gtPm0UcAE71Qy.jpg",
+						"url": "https://t.co/nKuJPkYOnr",
+						"display_url": "pic.twitter.com/nKuJPkYOnr",
+						"expanded_url": "https://twitter.com/COVID19NearMeAU/status/1434446310157873158/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 375,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 661,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1128,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1343159918015082500,
+				"id_str": "1343159918015082496",
+				"name": "COVID-19 Near Me",
+				"screen_name": "COVID19NearMeAU",
+				"location": "Australia",
+				"description": "We are a checklist and map visualisation app, making it easier to track COVID-19 exposure locations in Australia and New Zealand. By @jxeeno",
+				"url": "https://t.co/3jFPOer98s",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/3jFPOer98s",
+								"expanded_url": "https://covid19nearme.com.au",
+								"display_url": "covid19nearme.com.au",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9289,
+				"friends_count": 8,
+				"listed_count": 88,
+				"created_at": "Sun Dec 27 11:41:14 +0000 2020",
+				"favourites_count": 65,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2584,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1343160304885092352/99KjIQme_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1343160304885092352/99KjIQme_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1343159918015082496/1609379737",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 243,
+			"favorite_count": 760,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 286,
+		"favorite_count": 1823,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The fact that random technologists are doing this for free is a pretty big indictment of the big 4 driven tech landscape of this country - I imagine the kpmg quote for this would have been low 7 figures https://t.co/4jfqGoT2FP"
+	},
+	{
 		"created_at": "Sun Sep 05 06:36:02 +0000 2021",
 		"id": 1434404939707535400,
 		"id_str": "1434404939707535360",
@@ -49,16 +868,16 @@ Grailbird.data.tweets_2021_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 823,
-			"friends_count": 159,
+			"followers_count": 822,
+			"friends_count": 160,
 			"listed_count": 91,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9355,
+			"favourites_count": 9368,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15119,
+			"statuses_count": 15124,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -155,16 +974,16 @@ Grailbird.data.tweets_2021_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 823,
-			"friends_count": 159,
+			"followers_count": 822,
+			"friends_count": 160,
 			"listed_count": 91,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9355,
+			"favourites_count": 9368,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15119,
+			"statuses_count": 15124,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -252,16 +1071,16 @@ Grailbird.data.tweets_2021_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 3567,
-			"friends_count": 1636,
-			"listed_count": 23,
+			"followers_count": 3641,
+			"friends_count": 1657,
+			"listed_count": 24,
 			"created_at": "Tue Sep 08 01:17:54 +0000 2020",
-			"favourites_count": 975,
+			"favourites_count": 994,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 506,
+			"statuses_count": 520,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -293,7 +1112,7 @@ Grailbird.data.tweets_2021_09 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 709,
-		"favorite_count": 2870,
+		"favorite_count": 2873,
 		"favorited": false,
 		"retweeted": true,
 		"lang": "en",
@@ -426,16 +1245,16 @@ Grailbird.data.tweets_2021_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 823,
-			"friends_count": 159,
+			"followers_count": 822,
+			"friends_count": 160,
 			"listed_count": 91,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9355,
+			"favourites_count": 9368,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15119,
+			"statuses_count": 15124,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
