@@ -69,7 +69,7 @@ Grailbird.data.tweets_2017_11 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15159,
+			"statuses_count": 15161,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -196,7 +196,7 @@ Grailbird.data.tweets_2017_11 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15159,
+			"statuses_count": 15161,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -405,16 +405,16 @@ Grailbird.data.tweets_2017_11 =
 				}
 			},
 			"protected": false,
-			"followers_count": 77683,
+			"followers_count": 77727,
 			"friends_count": 525,
-			"listed_count": 397,
+			"listed_count": 0,
 			"created_at": "Mon Apr 30 12:38:04 +0000 2012",
 			"favourites_count": 809,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 5782,
+			"statuses_count": 5783,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -521,7 +521,7 @@ Grailbird.data.tweets_2017_11 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15159,
+			"statuses_count": 15161,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -741,9 +741,9 @@ Grailbird.data.tweets_2017_11 =
 				}
 			},
 			"protected": false,
-			"followers_count": 383911,
+			"followers_count": 383923,
 			"friends_count": 166,
-			"listed_count": 2828,
+			"listed_count": 2827,
 			"created_at": "Tue Oct 29 18:54:34 +0000 2013",
 			"favourites_count": 7138,
 			"utc_offset": null,
@@ -781,8 +781,8 @@ Grailbird.data.tweets_2017_11 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 741,
-		"favorite_count": 2683,
+		"retweet_count": 739,
+		"favorite_count": 2684,
 		"favorited": false,
 		"retweeted": false,
 		"lang": "en",
@@ -837,9 +837,9 @@ Grailbird.data.tweets_2017_11 =
 				}
 			},
 			"protected": false,
-			"followers_count": 6547091,
+			"followers_count": 6547228,
 			"friends_count": 134,
-			"listed_count": 15132,
+			"listed_count": 15133,
 			"created_at": "Fri Dec 06 15:26:35 +0000 2013",
 			"favourites_count": 34,
 			"utc_offset": null,
@@ -876,8 +876,8 @@ Grailbird.data.tweets_2017_11 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 9728,
-		"favorite_count": 49157,
+		"retweet_count": 9727,
+		"favorite_count": 49155,
 		"favorited": false,
 		"retweeted": false,
 		"lang": "en",
@@ -970,7 +970,7 @@ Grailbird.data.tweets_2017_11 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15159,
+			"statuses_count": 15161,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1202,7 +1202,7 @@ Grailbird.data.tweets_2017_11 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15159,
+			"statuses_count": 15161,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1239,422 +1239,5 @@ Grailbird.data.tweets_2017_11 =
 		"retweeted": false,
 		"lang": "en",
 		"text": "@cogdog That sky is amazing! We had a massive hailstorm come through this afternoon. Luckily only small hail but it was long."
-	},
-	{
-		"created_at": "Sun Nov 26 05:17:23 +0000 2017",
-		"id": 934602647855947800,
-		"id_str": "934652283089850369",
-		"full_text": "Do you have an innovative idea or are you a new agriculture or technology business? Check out CSU's AgriTech Incubator and register for the info session on Tuesday 5 December: https://t.co/n0lpLauJLl https://t.co/pX8ctAPGmK",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			199
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": [
-				{
-					"url": "https://t.co/n0lpLauJLl",
-					"expanded_url": "http://ow.ly/VPiK30gMQqg",
-					"display_url": "ow.ly/VPiK30gMQqg",
-					"indices": [
-						176,
-						199
-					]
-				}
-			],
-			"media": [
-				{
-					"id": 934602644630507500,
-					"id_str": "934602644630507521",
-					"indices": [
-						200,
-						223
-					],
-					"media_url": "http://pbs.twimg.com/media/DPhgJ09XkAEc1nF.jpg",
-					"media_url_https": "https://pbs.twimg.com/media/DPhgJ09XkAEc1nF.jpg",
-					"url": "https://t.co/pX8ctAPGmK",
-					"display_url": "pic.twitter.com/pX8ctAPGmK",
-					"expanded_url": "https://twitter.com/CharlesSturtUni/status/934602647855947776/photo/1",
-					"type": "photo",
-					"sizes": {
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"large": {
-							"w": 649,
-							"h": 365,
-							"resize": "fit"
-						},
-						"medium": {
-							"w": 649,
-							"h": 365,
-							"resize": "fit"
-						},
-						"small": {
-							"w": 649,
-							"h": 365,
-							"resize": "fit"
-						}
-					}
-				}
-			]
-		},
-		"extended_entities": {
-			"media": [
-				{
-					"id": 934602644630507500,
-					"id_str": "934602644630507521",
-					"indices": [
-						200,
-						223
-					],
-					"media_url": "http://pbs.twimg.com/media/DPhgJ09XkAEc1nF.jpg",
-					"media_url_https": "https://pbs.twimg.com/media/DPhgJ09XkAEc1nF.jpg",
-					"url": "https://t.co/pX8ctAPGmK",
-					"display_url": "pic.twitter.com/pX8ctAPGmK",
-					"expanded_url": "https://twitter.com/CharlesSturtUni/status/934602647855947776/photo/1",
-					"type": "photo",
-					"sizes": {
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"large": {
-							"w": 649,
-							"h": 365,
-							"resize": "fit"
-						},
-						"medium": {
-							"w": 649,
-							"h": 365,
-							"resize": "fit"
-						},
-						"small": {
-							"w": 649,
-							"h": 365,
-							"resize": "fit"
-						}
-					}
-				}
-			]
-		},
-		"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 17074680,
-			"id_str": "17074680",
-			"name": "Charles Sturt University",
-			"screen_name": "CharlesSturtUni",
-			"location": "Regional NSW Australia",
-			"description": "Australia's largest regional university. Use #CharlesSturtUni to join the conversation. Community guidelines: https://t.co/Tsl78ek7XV",
-			"url": "https://t.co/Fksfz6gYXX",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/Fksfz6gYXX",
-							"expanded_url": "http://csu.edu.au",
-							"display_url": "csu.edu.au",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": [
-						{
-							"url": "https://t.co/Tsl78ek7XV",
-							"expanded_url": "http://social.csu.edu.au/connect",
-							"display_url": "social.csu.edu.au/connect",
-							"indices": [
-								110,
-								133
-							]
-						}
-					]
-				}
-			},
-			"protected": false,
-			"followers_count": 13686,
-			"friends_count": 291,
-			"listed_count": 232,
-			"created_at": "Thu Oct 30 21:12:30 +0000 2008",
-			"favourites_count": 4864,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": true,
-			"statuses_count": 11620,
-			"lang": null,
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "F3F2F1",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1368794222485147649/2y9BMA-U_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368794222485147649/2y9BMA-U_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17074680/1633662584",
-			"profile_link_color": "E31B21",
-			"profile_sidebar_border_color": "FFFFFF",
-			"profile_sidebar_fill_color": "FEDABC",
-			"profile_text_color": "525254",
-			"profile_use_background_image": true,
-			"has_extended_profile": false,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none",
-			"withheld_in_countries": []
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 2,
-		"favorite_count": 2,
-		"favorited": false,
-		"retweeted": false,
-		"possibly_sensitive": false,
-		"lang": "en",
-		"text": "Do you have an innovative idea or are you a new agriculture or technology business? Check out CSU's AgriTech Incubator and register for the info session on Tuesday 5 December: https://t.co/n0lpLauJLl https://t.co/pX8ctAPGmK"
-	},
-	{
-		"created_at": "Sat Nov 25 02:49:27 +0000 2017",
-		"id": 934252666636582900,
-		"id_str": "934252666636582912",
-		"full_text": "Got @cogdog to the beach for a splash https://t.co/4ogdG3Iz97",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			37
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [
-				{
-					"screen_name": "cogdog",
-					"name": "Alan Levine",
-					"id": 740343,
-					"id_str": "740343",
-					"indices": [
-						4,
-						11
-					]
-				}
-			],
-			"urls": [],
-			"media": [
-				{
-					"id": 934252643089711100,
-					"id_str": "934252643089711104",
-					"indices": [
-						38,
-						61
-					],
-					"media_url": "http://pbs.twimg.com/media/DPch1DnVAAAYovI.jpg",
-					"media_url_https": "https://pbs.twimg.com/media/DPch1DnVAAAYovI.jpg",
-					"url": "https://t.co/4ogdG3Iz97",
-					"display_url": "pic.twitter.com/4ogdG3Iz97",
-					"expanded_url": "https://twitter.com/timklapdor/status/934252666636582912/photo/1",
-					"type": "photo",
-					"sizes": {
-						"small": {
-							"w": 680,
-							"h": 510,
-							"resize": "fit"
-						},
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"medium": {
-							"w": 1024,
-							"h": 768,
-							"resize": "fit"
-						},
-						"large": {
-							"w": 1024,
-							"h": 768,
-							"resize": "fit"
-						}
-					}
-				}
-			]
-		},
-		"extended_entities": {
-			"media": [
-				{
-					"id": 934252643089711100,
-					"id_str": "934252643089711104",
-					"indices": [
-						38,
-						61
-					],
-					"media_url": "http://pbs.twimg.com/media/DPch1DnVAAAYovI.jpg",
-					"media_url_https": "https://pbs.twimg.com/media/DPch1DnVAAAYovI.jpg",
-					"url": "https://t.co/4ogdG3Iz97",
-					"display_url": "pic.twitter.com/4ogdG3Iz97",
-					"expanded_url": "https://twitter.com/timklapdor/status/934252666636582912/photo/1",
-					"type": "photo",
-					"sizes": {
-						"small": {
-							"w": 680,
-							"h": 510,
-							"resize": "fit"
-						},
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"medium": {
-							"w": 1024,
-							"h": 768,
-							"resize": "fit"
-						},
-						"large": {
-							"w": 1024,
-							"h": 768,
-							"resize": "fit"
-						}
-					}
-				},
-				{
-					"id": 934252644528296000,
-					"id_str": "934252644528295936",
-					"indices": [
-						38,
-						61
-					],
-					"media_url": "http://pbs.twimg.com/media/DPch1I-UEAAbyPZ.jpg",
-					"media_url_https": "https://pbs.twimg.com/media/DPch1I-UEAAbyPZ.jpg",
-					"url": "https://t.co/4ogdG3Iz97",
-					"display_url": "pic.twitter.com/4ogdG3Iz97",
-					"expanded_url": "https://twitter.com/timklapdor/status/934252666636582912/photo/1",
-					"type": "photo",
-					"sizes": {
-						"small": {
-							"w": 680,
-							"h": 510,
-							"resize": "fit"
-						},
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"medium": {
-							"w": 1024,
-							"h": 768,
-							"resize": "fit"
-						},
-						"large": {
-							"w": 1024,
-							"h": 768,
-							"resize": "fit"
-						}
-					}
-				}
-			]
-		},
-		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 174124175,
-			"id_str": "174124175",
-			"name": "Tim Klapdor",
-			"screen_name": "timklapdor",
-			"location": "Adelaide, South Australia",
-			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "https://t.co/uC0c3me6KE",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/uC0c3me6KE",
-							"expanded_url": "http://timklapdor.com",
-							"display_url": "timklapdor.com",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 824,
-			"friends_count": 160,
-			"listed_count": 90,
-			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9427,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 15159,
-			"lang": null,
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "C0DEED",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
-			"profile_link_color": "5FA832",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "DDEEF6",
-			"profile_text_color": "333333",
-			"profile_use_background_image": true,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none",
-			"withheld_in_countries": []
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 5,
-		"favorited": false,
-		"retweeted": false,
-		"possibly_sensitive": false,
-		"lang": "en",
-		"text": "Got @cogdog to the beach for a splash https://t.co/4ogdG3Iz97"
 	}
 ]
