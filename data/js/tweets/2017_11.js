@@ -64,12 +64,12 @@ Grailbird.data.tweets_2017_11 =
 			"friends_count": 161,
 			"listed_count": 90,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9430,
+			"favourites_count": 9437,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15162,
+			"statuses_count": 15164,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -191,12 +191,12 @@ Grailbird.data.tweets_2017_11 =
 			"friends_count": 161,
 			"listed_count": 90,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9430,
+			"favourites_count": 9437,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15162,
+			"statuses_count": 15164,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -405,7 +405,7 @@ Grailbird.data.tweets_2017_11 =
 				}
 			},
 			"protected": false,
-			"followers_count": 77868,
+			"followers_count": 77919,
 			"friends_count": 524,
 			"listed_count": 397,
 			"created_at": "Mon Apr 30 12:38:04 +0000 2012",
@@ -414,7 +414,7 @@ Grailbird.data.tweets_2017_11 =
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 5792,
+			"statuses_count": 5793,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -516,12 +516,12 @@ Grailbird.data.tweets_2017_11 =
 			"friends_count": 161,
 			"listed_count": 90,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9430,
+			"favourites_count": 9437,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15162,
+			"statuses_count": 15164,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -629,7 +629,7 @@ Grailbird.data.tweets_2017_11 =
 				"protected": false,
 				"followers_count": 831,
 				"friends_count": 48,
-				"listed_count": 0,
+				"listed_count": 44,
 				"created_at": "Thu Aug 18 03:18:44 +0000 2011",
 				"favourites_count": 3,
 				"utc_offset": null,
@@ -741,16 +741,16 @@ Grailbird.data.tweets_2017_11 =
 				}
 			},
 			"protected": false,
-			"followers_count": 383948,
+			"followers_count": 383955,
 			"friends_count": 166,
-			"listed_count": 2826,
+			"listed_count": 2823,
 			"created_at": "Tue Oct 29 18:54:34 +0000 2013",
-			"favourites_count": 7144,
+			"favourites_count": 7147,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 8791,
+			"statuses_count": 8793,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -782,355 +782,10 @@ Grailbird.data.tweets_2017_11 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 739,
-		"favorite_count": 2683,
+		"favorite_count": 2682,
 		"favorited": false,
 		"retweeted": false,
 		"lang": "en",
 		"text": "Libertarian: private companies should be able to do whatever they want.\nAlso Libertarian: wtf Twitter banned me for harassing women. This should be illegal."
-	},
-	{
-		"created_at": "Tue Nov 28 20:28:00 +0000 2017",
-		"id": 935314030239117300,
-		"id_str": "935606219682623488",
-		"full_text": "Pissed-off drummer is tired of people saying he's not a real musician. Goes to the music store and says, \"I'll show 'em. Gimme that red trumpet and that accordion.\" Music store guy says, \"You can have the fire extinguisher but the radiator has to stay.",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			252
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": []
-		},
-		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 2233154425,
-			"id_str": "2233154425",
-			"name": "Stephen King",
-			"screen_name": "StephenKing",
-			"location": "",
-			"description": "Author",
-			"url": "http://t.co/iPedKNPjre",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "http://t.co/iPedKNPjre",
-							"expanded_url": "http://stephenking.com",
-							"display_url": "stephenking.com",
-							"indices": [
-								0,
-								22
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 6547381,
-			"friends_count": 134,
-			"listed_count": 15138,
-			"created_at": "Fri Dec 06 15:26:35 +0000 2013",
-			"favourites_count": 34,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": false,
-			"verified": true,
-			"statuses_count": 6474,
-			"lang": null,
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "C0DEED",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000836981162/b683f7509ec792c3e481ead332940cdc_normal.jpeg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000836981162/b683f7509ec792c3e481ead332940cdc_normal.jpeg",
-			"profile_link_color": "1DA1F2",
-			"profile_sidebar_border_color": "C0DEED",
-			"profile_sidebar_fill_color": "DDEEF6",
-			"profile_text_color": "333333",
-			"profile_use_background_image": true,
-			"has_extended_profile": true,
-			"default_profile": true,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none",
-			"withheld_in_countries": []
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 9727,
-		"favorite_count": 49151,
-		"favorited": false,
-		"retweeted": false,
-		"lang": "en",
-		"text": "Pissed-off drummer is tired of people saying he's not a real musician. Goes to the music store and says, \"I'll show 'em. Gimme that red trumpet and that accordion.\" Music store guy says, \"You can have the fire extinguisher but the radiator has to stay."
-	},
-	{
-		"created_at": "Tue Nov 28 06:23:47 +0000 2017",
-		"id": 935393766021652500,
-		"id_str": "935393766021652480",
-		"full_text": "Great opportunity for local #wagga businesses &amp; @CharlesSturtUni students. Come and find out more on the 7th of December! https://t.co/bN0Kp9pAcM",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			125
-		],
-		"entities": {
-			"hashtags": [
-				{
-					"text": "wagga",
-					"indices": [
-						28,
-						34
-					]
-				}
-			],
-			"symbols": [],
-			"user_mentions": [
-				{
-					"screen_name": "CharlesSturtUni",
-					"name": "Charles Sturt University",
-					"id": 17074680,
-					"id_str": "17074680",
-					"indices": [
-						52,
-						68
-					]
-				}
-			],
-			"urls": [
-				{
-					"url": "https://t.co/bN0Kp9pAcM",
-					"expanded_url": "https://twitter.com/uimagine_csu/status/935393274054901762",
-					"display_url": "twitter.com/uimagine_csu/s…",
-					"indices": [
-						126,
-						149
-					]
-				}
-			]
-		},
-		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 174124175,
-			"id_str": "174124175",
-			"name": "Tim Klapdor",
-			"screen_name": "timklapdor",
-			"location": "Adelaide, South Australia",
-			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "https://t.co/uC0c3me6KE",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/uC0c3me6KE",
-							"expanded_url": "http://timklapdor.com",
-							"display_url": "timklapdor.com",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 824,
-			"friends_count": 161,
-			"listed_count": 90,
-			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9430,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 15162,
-			"lang": null,
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "C0DEED",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
-			"profile_link_color": "5FA832",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "DDEEF6",
-			"profile_text_color": "333333",
-			"profile_use_background_image": true,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none",
-			"withheld_in_countries": []
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": true,
-		"quoted_status_id": 935393274054901800,
-		"quoted_status_id_str": "935393274054901762",
-		"quoted_status_permalink": {
-			"url": "https://t.co/bN0Kp9pAcM",
-			"expanded": "https://twitter.com/uimagine_csu/status/935393274054901762",
-			"display": "twitter.com/uimagine_csu/s…"
-		},
-		"quoted_status": {
-			"created_at": "Tue Nov 28 06:21:49 +0000 2017",
-			"id": 935393274054901800,
-			"id_str": "935393274054901762",
-			"full_text": "Can we bring digital marketing services to regional businesses and provide students a authentic learning experiences? That's the aim of @upstart_academy. \n\nIf you're in Wagga 7th December come and meet Martin and discuss opportunities!\n\nhttps://t.co/p5hck4C4Dy",
-			"truncated": false,
-			"display_text_range": [
-				0,
-				260
-			],
-			"entities": {
-				"hashtags": [],
-				"symbols": [],
-				"user_mentions": [
-					{
-						"screen_name": "upstart_academy",
-						"name": "Upstart Academy",
-						"id": 727492294920671200,
-						"id_str": "727492294920671232",
-						"indices": [
-							136,
-							152
-						]
-					}
-				],
-				"urls": [
-					{
-						"url": "https://t.co/p5hck4C4Dy",
-						"expanded_url": "https://www.eventbrite.com.au/e/digital-marketing-with-upstart-academy-tickets-39999607904",
-						"display_url": "eventbrite.com.au/e/digital-mark…",
-						"indices": [
-							237,
-							260
-						]
-					}
-				]
-			},
-			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-			"in_reply_to_status_id": null,
-			"in_reply_to_status_id_str": null,
-			"in_reply_to_user_id": null,
-			"in_reply_to_user_id_str": null,
-			"in_reply_to_screen_name": null,
-			"user": {
-				"id": 2785201626,
-				"id_str": "2785201626",
-				"name": "uImagine",
-				"screen_name": "uimagine_csu",
-				"location": "New South Wales, Australia",
-				"description": "Think-tank, incubator and laboratory for exploring and experimenting in new educational practices, paradigms patterns and platforms.",
-				"url": "https://t.co/c6UmFms96q",
-				"entities": {
-					"url": {
-						"urls": [
-							{
-								"url": "https://t.co/c6UmFms96q",
-								"expanded_url": "http://uimagine.edu.au",
-								"display_url": "uimagine.edu.au",
-								"indices": [
-									0,
-									23
-								]
-							}
-						]
-					},
-					"description": {
-						"urls": []
-					}
-				},
-				"protected": false,
-				"followers_count": 144,
-				"friends_count": 60,
-				"listed_count": 1,
-				"created_at": "Tue Sep 02 04:53:20 +0000 2014",
-				"favourites_count": 16,
-				"utc_offset": null,
-				"time_zone": null,
-				"geo_enabled": true,
-				"verified": false,
-				"statuses_count": 359,
-				"lang": null,
-				"contributors_enabled": false,
-				"is_translator": false,
-				"is_translation_enabled": false,
-				"profile_background_color": "ABABAB",
-				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-				"profile_background_tile": false,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/1028793345483493378/7-0Bt5j4_normal.jpg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1028793345483493378/7-0Bt5j4_normal.jpg",
-				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2785201626/1409633705",
-				"profile_link_color": "FF5500",
-				"profile_sidebar_border_color": "FFFFFF",
-				"profile_sidebar_fill_color": "000000",
-				"profile_text_color": "000000",
-				"profile_use_background_image": false,
-				"has_extended_profile": false,
-				"default_profile": false,
-				"default_profile_image": false,
-				"following": false,
-				"follow_request_sent": false,
-				"notifications": false,
-				"translator_type": "none",
-				"withheld_in_countries": []
-			},
-			"geo": null,
-			"coordinates": null,
-			"place": null,
-			"contributors": null,
-			"is_quote_status": false,
-			"retweet_count": 1,
-			"favorite_count": 1,
-			"favorited": false,
-			"retweeted": false,
-			"possibly_sensitive": false,
-			"lang": "en"
-		},
-		"retweet_count": 0,
-		"favorite_count": 2,
-		"favorited": false,
-		"retweeted": false,
-		"possibly_sensitive": false,
-		"lang": "en",
-		"text": "Great opportunity for local #wagga businesses &amp; @CharlesSturtUni students. Come and find out more on the 7th of December! https://t.co/bN0Kp9pAcM"
 	}
 ]

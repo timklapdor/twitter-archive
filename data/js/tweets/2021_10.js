@@ -1,6 +1,620 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Wed Oct 13 10:34:02 +0000 2021",
+		"id": 1448118922948092000,
+		"id_str": "1448235575396339712",
+		"full_text": "“Treasury explains its analysis based on a $47.6bill sample of $70.3bill  paid in 1st phase of JobKeeper. For reasons that are arguably flimsy &amp; inarguably self-serving, Treasury’s analysis excluded all of JobKeeper paid to not-for-profits like rich private schools, churches..” https://t.co/ONICjcDpA1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			282
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ONICjcDpA1",
+					"expanded_url": "https://twitter.com/quentindempster/status/1448100645089730571",
+					"display_url": "twitter.com/quentindempste…",
+					"indices": [
+						283,
+						306
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 754592435003457500,
+			"id_str": "754592435003457536",
+			"name": "Philip Thalis",
+			"screen_name": "PhilipThalis",
+			"location": "Gadigal - Sydney, Australia",
+			"description": "Architect, urban designer, public advocate. Principal @HillThalisAUP Co author #PublicSydney. Prof Practice UNSW. Independent City Councillor RTs not endorsem’t",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4914,
+			"friends_count": 3139,
+			"listed_count": 103,
+			"created_at": "Sun Jul 17 08:23:50 +0000 2016",
+			"favourites_count": 113797,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 25301,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/754596038384586752/FBL2XKoM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/754596038384586752/FBL2XKoM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/754592435003457536/1468745682",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1448100645089730600,
+		"quoted_status_id_str": "1448100645089730571",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ONICjcDpA1",
+			"expanded": "https://twitter.com/quentindempster/status/1448100645089730571",
+			"display": "twitter.com/quentindempste…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Oct 13 01:37:52 +0000 2021",
+			"id": 1448100645089730600,
+			"id_str": "1448100645089730571",
+			"full_text": "JobKeeper wasted $40 billion, not $27 billion, but who’s counting? Joe Aston exposes a politicised federal Treasury. This is the Commonwealth Govt’s biggest implementation failure.  https://t.co/8uoyzfDTho",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				205
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/8uoyzfDTho",
+						"expanded_url": "https://www.afr.com/rear-window/jobkeeper-wasted-40-billion-not-27-billion-but-who-s-counting-20211012-p58zeq",
+						"display_url": "afr.com/rear-window/jo…",
+						"indices": [
+							182,
+							205
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 22573600,
+				"id_str": "22573600",
+				"name": "Quentin Dempster",
+				"screen_name": "QuentinDempster",
+				"location": "Australia",
+				"description": "Journalist and author",
+				"url": "https://t.co/1XM55S20Cn",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/1XM55S20Cn",
+								"expanded_url": "http://www.facebook.com/quentindempster",
+								"display_url": "facebook.com/quentindempster",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 42373,
+				"friends_count": 2920,
+				"listed_count": 564,
+				"created_at": "Tue Mar 03 02:43:06 +0000 2009",
+				"favourites_count": 3121,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 18803,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/554510464999104512/30MM94gT_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/554510464999104512/30MM94gT_normal.jpeg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 580,
+			"favorite_count": 1386,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 32,
+		"favorite_count": 72,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“Treasury explains its analysis based on a $47.6bill sample of $70.3bill  paid in 1st phase of JobKeeper. For reasons that are arguably flimsy &amp; inarguably self-serving, Treasury’s analysis excluded all of JobKeeper paid to not-for-profits like rich private schools, churches..” https://t.co/ONICjcDpA1"
+	},
+	{
+		"created_at": "Wed Oct 13 10:06:21 +0000 2021",
+		"id": 1448094027522486300,
+		"id_str": "1448228608741240836",
+		"full_text": "I love how Fb is promoting their TikTok clone/competitor on Fb, but half the things on it are TikTok exports https://t.co/W9EnRfhBgN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1448094024846426000,
+					"id_str": "1448094024846426115",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/FBip1-BWQAMSZNJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBip1-BWQAMSZNJ.jpg",
+					"url": "https://t.co/W9EnRfhBgN",
+					"display_url": "pic.twitter.com/W9EnRfhBgN",
+					"expanded_url": "https://twitter.com/holden/status/1448094027522486277/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 952,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1624,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 539,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1448094024846426000,
+					"id_str": "1448094024846426115",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/FBip1-BWQAMSZNJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBip1-BWQAMSZNJ.jpg",
+					"url": "https://t.co/W9EnRfhBgN",
+					"display_url": "pic.twitter.com/W9EnRfhBgN",
+					"expanded_url": "https://twitter.com/holden/status/1448094027522486277/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 952,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1624,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 539,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1912681,
+			"id_str": "1912681",
+			"name": "Mike Caulfield",
+			"screen_name": "holden",
+			"location": "Portland, OR (he/him)",
+			"description": "Radically rethinking how online information literacy is taught for WSU and partnering national organizations. Recent project with NWP: https://t.co/iRmNTgWumn",
+			"url": "https://t.co/ty2GJPfEz8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ty2GJPfEz8",
+							"expanded_url": "http://hapgood.us",
+							"display_url": "hapgood.us",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/iRmNTgWumn",
+							"expanded_url": "http://infodemic.blog",
+							"display_url": "infodemic.blog",
+							"indices": [
+								135,
+								158
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 13099,
+			"friends_count": 1433,
+			"listed_count": 555,
+			"created_at": "Thu Mar 22 17:38:27 +0000 2007",
+			"favourites_count": 18396,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 865,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1202287659378298881/06HiPOTe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1202287659378298881/06HiPOTe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1912681/1614309562",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I love how Fb is promoting their TikTok clone/competitor on Fb, but half the things on it are TikTok exports https://t.co/W9EnRfhBgN"
+	},
+	{
+		"created_at": "Wed Oct 13 10:04:30 +0000 2021",
+		"id": 1448228140384354300,
+		"id_str": "1448228140384354306",
+		"full_text": "Subtle I told you so, but highlights the internal expertise operating in the public service that is often overlooked because it doesn’t come from an expensive consultant. https://t.co/sZ7EZA6yrV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sZ7EZA6yrV",
+					"expanded_url": "https://twitter.com/whobekindto/status/1448067614991917058",
+					"display_url": "twitter.com/whobekindto/st…",
+					"indices": [
+						171,
+						194
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Adelaide, South Australia",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
+			"url": "https://t.co/uC0c3me6KE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uC0c3me6KE",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 824,
+			"friends_count": 161,
+			"listed_count": 90,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 9437,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15164,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1448067614991917000,
+		"quoted_status_id_str": "1448067614991917058",
+		"quoted_status_permalink": {
+			"url": "https://t.co/sZ7EZA6yrV",
+			"expanded": "https://twitter.com/whobekindto/status/1448067614991917058",
+			"display": "twitter.com/whobekindto/st…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Oct 12 23:26:37 +0000 2021",
+			"id": 1448067614991917000,
+			"id_str": "1448067614991917058",
+			"full_text": "Parl Library Budget Review raised possibility of low take-up of the hiring credit due to design and in light of slow take-up of previous schemes.\nAlso flagged that unlike other wage subsidies, this was administered through ATO rather than employment dept https://t.co/Ch3VFvxbnF https://t.co/qp6Ti58CvM",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				278
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Ch3VFvxbnF",
+						"expanded_url": "https://www.aph.gov.au/About_Parliament/Parliamentary_Departments/Parliamentary_Library/pubs/rp/BudgetReview202021/EmploymentServicesMeasures",
+						"display_url": "aph.gov.au/About_Parliame…",
+						"indices": [
+							255,
+							278
+						]
+					},
+					{
+						"url": "https://t.co/qp6Ti58CvM",
+						"expanded_url": "https://twitter.com/CaseyBriggs/status/1448033030153531392",
+						"display_url": "twitter.com/CaseyBriggs/st…",
+						"indices": [
+							279,
+							302
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 380335289,
+				"id_str": "380335289",
+				"name": "Michael Klapdor",
+				"screen_name": "whobekindto",
+				"location": "Canberra, Australia",
+				"description": "social policy researcher | personal account, impersonal observations | 'Be kind to your self, it is only one/and perishable'",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1414,
+				"friends_count": 1651,
+				"listed_count": 24,
+				"created_at": "Mon Sep 26 13:40:53 +0000 2011",
+				"favourites_count": 6017,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 14433,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1407886310921043976/D-mVoffw_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1407886310921043976/D-mVoffw_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/380335289/1612148414",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1448033030153531400,
+			"quoted_status_id_str": "1448033030153531392",
+			"quoted_status_permalink": {
+				"url": "https://t.co/qp6Ti58CvM",
+				"expanded": "https://twitter.com/CaseyBriggs/status/1448033030153531392",
+				"display": "twitter.com/CaseyBriggs/st…"
+			},
+			"retweet_count": 2,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Subtle I told you so, but highlights the internal expertise operating in the public service that is often overlooked because it doesn’t come from an expensive consultant. https://t.co/sZ7EZA6yrV"
+	},
+	{
 		"created_at": "Tue Oct 12 22:49:55 +0000 2021",
 		"id": 1448058376571605000,
 		"id_str": "1448058376571604997",
@@ -89,12 +703,12 @@ Grailbird.data.tweets_2021_10 =
 			"friends_count": 161,
 			"listed_count": 90,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9430,
+			"favourites_count": 9437,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15162,
+			"statuses_count": 15164,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -125,8 +739,8 @@ Grailbird.data.tweets_2021_10 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 0,
+		"retweet_count": 1,
+		"favorite_count": 2,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
@@ -197,12 +811,12 @@ Grailbird.data.tweets_2021_10 =
 			"friends_count": 161,
 			"listed_count": 90,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9430,
+			"favourites_count": 9437,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15162,
+			"statuses_count": 15164,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -304,12 +918,12 @@ Grailbird.data.tweets_2021_10 =
 			"friends_count": 161,
 			"listed_count": 90,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9430,
+			"favourites_count": 9437,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15162,
+			"statuses_count": 15164,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -410,12 +1024,12 @@ Grailbird.data.tweets_2021_10 =
 			"friends_count": 161,
 			"listed_count": 90,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9430,
+			"favourites_count": 9437,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15162,
+			"statuses_count": 15164,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -515,14 +1129,14 @@ Grailbird.data.tweets_2021_10 =
 				"protected": false,
 				"followers_count": 937,
 				"friends_count": 205,
-				"listed_count": 59,
+				"listed_count": 0,
 				"created_at": "Sun Sep 14 12:58:34 +0000 2008",
-				"favourites_count": 982,
+				"favourites_count": 984,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": false,
-				"statuses_count": 7417,
+				"statuses_count": 7424,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -641,12 +1255,12 @@ Grailbird.data.tweets_2021_10 =
 			"friends_count": 161,
 			"listed_count": 90,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9430,
+			"favourites_count": 9437,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15162,
+			"statuses_count": 15164,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -758,12 +1372,12 @@ Grailbird.data.tweets_2021_10 =
 			"friends_count": 161,
 			"listed_count": 90,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9430,
+			"favourites_count": 9437,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15162,
+			"statuses_count": 15164,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -875,12 +1489,12 @@ Grailbird.data.tweets_2021_10 =
 			"friends_count": 161,
 			"listed_count": 90,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9430,
+			"favourites_count": 9437,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15162,
+			"statuses_count": 15164,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1000,12 +1614,12 @@ Grailbird.data.tweets_2021_10 =
 			"friends_count": 161,
 			"listed_count": 90,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9430,
+			"favourites_count": 9437,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15162,
+			"statuses_count": 15164,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1094,15 +1708,15 @@ Grailbird.data.tweets_2021_10 =
 			},
 			"protected": false,
 			"followers_count": 20776,
-			"friends_count": 1056,
+			"friends_count": 1057,
 			"listed_count": 191,
 			"created_at": "Wed Apr 29 09:59:06 +0000 2009",
-			"favourites_count": 24146,
+			"favourites_count": 24156,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 47036,
+			"statuses_count": 47042,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1134,7 +1748,7 @@ Grailbird.data.tweets_2021_10 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 722,
-		"favorite_count": 3404,
+		"favorite_count": 3405,
 		"favorited": false,
 		"retweeted": true,
 		"lang": "en",
@@ -1254,16 +1868,16 @@ Grailbird.data.tweets_2021_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 2392,
-			"friends_count": 1039,
+			"followers_count": 2401,
+			"friends_count": 1040,
 			"listed_count": 71,
 			"created_at": "Tue Nov 25 20:07:44 +0000 2008",
-			"favourites_count": 42644,
+			"favourites_count": 42718,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 9249,
+			"statuses_count": 9258,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1294,8 +1908,8 @@ Grailbird.data.tweets_2021_10 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 3626,
-		"favorite_count": 9349,
+		"retweet_count": 3647,
+		"favorite_count": 9398,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -1386,12 +2000,12 @@ Grailbird.data.tweets_2021_10 =
 			"friends_count": 161,
 			"listed_count": 90,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9430,
+			"favourites_count": 9437,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15162,
+			"statuses_count": 15164,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1465,16 +2079,16 @@ Grailbird.data.tweets_2021_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 16151,
+			"followers_count": 16155,
 			"friends_count": 862,
 			"listed_count": 426,
 			"created_at": "Tue Apr 29 04:08:22 +0000 2014",
-			"favourites_count": 127032,
+			"favourites_count": 127040,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 136606,
+			"statuses_count": 136608,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1505,108 +2119,12 @@ Grailbird.data.tweets_2021_10 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 22575,
-		"favorite_count": 150262,
+		"retweet_count": 22564,
+		"favorite_count": 150244,
 		"favorited": false,
 		"retweeted": true,
 		"lang": "en",
 		"text": "\"facebook is down\" is one thing but \"facebook is down and they can't fix it because they locked themselves out of the house and they can't talk to each other because facebook is down\" is funnier than any joke you could write"
-	},
-	{
-		"created_at": "Mon Oct 04 22:41:23 +0000 2021",
-		"id": 1445130867073032200,
-		"id_str": "1445157125789863942",
-		"full_text": "a bunch of friends have texted me asking for a basic explanation as to what the hell happened to knock off all of Facebook so:",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			126
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": []
-		},
-		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 4004901,
-			"id_str": "4004901",
-			"name": "alex hern",
-			"screen_name": "alexhern",
-			"location": "London",
-			"description": "Now: on parental leave. past and future: UK Technology Editor at the Guardian. Views mine, tweets deleted weekly.",
-			"url": "https://t.co/2y73Tm59jQ",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/2y73Tm59jQ",
-							"expanded_url": "http://theguardian.com/profile/alex-hern",
-							"display_url": "theguardian.com/profile/alex-h…",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 69715,
-			"friends_count": 1964,
-			"listed_count": 1247,
-			"created_at": "Tue Apr 10 09:02:36 +0000 2007",
-			"favourites_count": 34622,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": true,
-			"statuses_count": 198,
-			"lang": null,
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "9AE4E8",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1072939067623530496/rduOc_6m_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1072939067623530496/rduOc_6m_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4004901/1474891837",
-			"profile_link_color": "0000FF",
-			"profile_sidebar_border_color": "FFFFFF",
-			"profile_sidebar_fill_color": "E0FF92",
-			"profile_text_color": "000000",
-			"profile_use_background_image": true,
-			"has_extended_profile": false,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none",
-			"withheld_in_countries": []
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 13654,
-		"favorite_count": 43759,
-		"favorited": false,
-		"retweeted": true,
-		"lang": "en",
-		"text": "a bunch of friends have texted me asking for a basic explanation as to what the hell happened to knock off all of Facebook so:"
 	},
 	{
 		"created_at": "Mon Oct 04 22:39:25 +0000 2021",
@@ -1682,12 +2200,12 @@ Grailbird.data.tweets_2021_10 =
 			"friends_count": 161,
 			"listed_count": 90,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9430,
+			"favourites_count": 9437,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15162,
+			"statuses_count": 15164,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1789,12 +2307,12 @@ Grailbird.data.tweets_2021_10 =
 			"friends_count": 161,
 			"listed_count": 90,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9430,
+			"favourites_count": 9437,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15162,
+			"statuses_count": 15164,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1906,12 +2424,12 @@ Grailbird.data.tweets_2021_10 =
 			"friends_count": 161,
 			"listed_count": 90,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9430,
+			"favourites_count": 9437,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15162,
+			"statuses_count": 15164,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2107,8 +2625,8 @@ Grailbird.data.tweets_2021_10 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1555,
-			"friends_count": 578,
+			"followers_count": 1557,
+			"friends_count": 579,
 			"listed_count": 30,
 			"created_at": "Wed Jul 20 04:09:30 +0000 2011",
 			"favourites_count": 471,
@@ -2116,7 +2634,7 @@ Grailbird.data.tweets_2021_10 =
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 2083,
+			"statuses_count": 2086,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
