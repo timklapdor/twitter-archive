@@ -1,6 +1,354 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Tue Nov 02 22:05:55 +0000 2021",
+		"id": 1455498284408131600,
+		"id_str": "1455657451617878016",
+		"full_text": "Compare the pair… https://t.co/jYvQBIYLRd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			17
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1455498277080772600,
+					"id_str": "1455498277080772617",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/media/FDL3-LCXsAkc2Uq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDL3-LCXsAkc2Uq.jpg",
+					"url": "https://t.co/jYvQBIYLRd",
+					"display_url": "pic.twitter.com/jYvQBIYLRd",
+					"expanded_url": "https://twitter.com/hughwhitfeld/status/1455498284408131591/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 651,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 749,
+							"h": 782,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 749,
+							"h": 782,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1455498277080772600,
+					"id_str": "1455498277080772617",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/media/FDL3-LCXsAkc2Uq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDL3-LCXsAkc2Uq.jpg",
+					"url": "https://t.co/jYvQBIYLRd",
+					"display_url": "pic.twitter.com/jYvQBIYLRd",
+					"expanded_url": "https://twitter.com/hughwhitfeld/status/1455498284408131591/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 651,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 749,
+							"h": 782,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 749,
+							"h": 782,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1455498277097549800,
+					"id_str": "1455498277097549825",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/media/FDL3-LGXsAEsXT5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDL3-LGXsAEsXT5.jpg",
+					"url": "https://t.co/jYvQBIYLRd",
+					"display_url": "pic.twitter.com/jYvQBIYLRd",
+					"expanded_url": "https://twitter.com/hughwhitfeld/status/1455498284408131591/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 749,
+							"h": 824,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 618,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 749,
+							"h": 824,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 237201490,
+			"id_str": "237201490",
+			"name": "Hugh Whitfeld",
+			"screen_name": "hughwhitfeld",
+			"location": "London",
+			"description": "Europe Bureau Chief, Seven Network Australia @7NewsAustralia | Instagram: @hughwhitfeld | https://t.co/le5UafdywF",
+			"url": "https://t.co/Wr0tC7MCGQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Wr0tC7MCGQ",
+							"expanded_url": "http://7news.com.au",
+							"display_url": "7news.com.au",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/le5UafdywF",
+							"expanded_url": "http://Facebook.com/hughwhitfeld7",
+							"display_url": "Facebook.com/hughwhitfeld7",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7243,
+			"friends_count": 1650,
+			"listed_count": 172,
+			"created_at": "Wed Jan 12 09:17:07 +0000 2011",
+			"favourites_count": 6162,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13503,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/690578178553843712/TCytN9Pi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/690578178553843712/TCytN9Pi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/237201490/1477814384",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 31,
+		"favorite_count": 114,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Compare the pair… https://t.co/jYvQBIYLRd"
+	},
+	{
+		"created_at": "Tue Nov 02 07:46:40 +0000 2021",
+		"id": 1455441213608267800,
+		"id_str": "1455441213608267778",
+		"full_text": "@decryption I’d go for @jekyllrb or @eleven_ty. Static sites and adding search is easier than configuring a server. Some themes have everything out of the box ready to go. Can run of GitHub pages.",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			196
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "decryption",
+					"name": "decryption",
+					"id": 718713,
+					"id_str": "718713",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "jekyllrb",
+					"name": "jekyll",
+					"id": 1143789606,
+					"id_str": "1143789606",
+					"indices": [
+						23,
+						32
+					]
+				},
+				{
+					"screen_name": "eleven_ty",
+					"name": "Eleventy (1.0.0-beta.3)",
+					"id": 949639269433380900,
+					"id_str": "949639269433380864",
+					"indices": [
+						36,
+						46
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1455417660066308000,
+		"in_reply_to_status_id_str": "1455417660066308099",
+		"in_reply_to_user_id": 718713,
+		"in_reply_to_user_id_str": "718713",
+		"in_reply_to_screen_name": "decryption",
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Adelaide, South Australia",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
+			"url": "https://t.co/uC0c3me6KE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uC0c3me6KE",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 823,
+			"friends_count": 160,
+			"listed_count": 90,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 9487,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15191,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@decryption I’d go for @jekyllrb or @eleven_ty. Static sites and adding search is easier than configuring a server. Some themes have everything out of the box ready to go. Can run of GitHub pages."
+	},
+	{
 		"created_at": "Mon Nov 01 21:59:48 +0000 2021",
 		"id": 1455293521611694000,
 		"id_str": "1455293521611694086",
@@ -68,7 +416,7 @@ Grailbird.data.tweets_2021_11 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15189,
+			"statuses_count": 15191,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -174,16 +522,16 @@ Grailbird.data.tweets_2021_11 =
 				}
 			},
 			"protected": false,
-			"followers_count": 787,
-			"friends_count": 708,
+			"followers_count": 788,
+			"friends_count": 710,
 			"listed_count": 10,
 			"created_at": "Wed May 29 09:18:47 +0000 2013",
-			"favourites_count": 3410,
+			"favourites_count": 3442,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 1718,
+			"statuses_count": 1725,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -380,16 +728,16 @@ Grailbird.data.tweets_2021_11 =
 									}
 								},
 								"protected": false,
-								"followers_count": 151625,
-								"friends_count": 1063,
+								"followers_count": 151742,
+								"friends_count": 1064,
 								"listed_count": 145,
 								"created_at": "Mon May 02 08:04:54 +0000 2011",
-								"favourites_count": 17220,
+								"favourites_count": 17237,
 								"utc_offset": null,
 								"time_zone": null,
 								"geo_enabled": true,
 								"verified": true,
-								"statuses_count": 41878,
+								"statuses_count": 41897,
 								"lang": null,
 								"contributors_enabled": false,
 								"is_translator": false,
@@ -462,16 +810,16 @@ Grailbird.data.tweets_2021_11 =
 					}
 				},
 				"protected": false,
-				"followers_count": 52689,
-				"friends_count": 1686,
+				"followers_count": 52701,
+				"friends_count": 1684,
 				"listed_count": 1237,
 				"created_at": "Fri Mar 06 10:50:29 +0000 2009",
-				"favourites_count": 39746,
+				"favourites_count": 39757,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": true,
-				"statuses_count": 18869,
+				"statuses_count": 18871,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -502,15 +850,15 @@ Grailbird.data.tweets_2021_11 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 6840,
-			"favorite_count": 14037,
+			"retweet_count": 7443,
+			"favorite_count": 15168,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
 			"lang": "en"
 		},
 		"retweet_count": 2,
-		"favorite_count": 3,
+		"favorite_count": 6,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -644,16 +992,16 @@ Grailbird.data.tweets_2021_11 =
 				}
 			},
 			"protected": false,
-			"followers_count": 22848,
-			"friends_count": 1922,
+			"followers_count": 22849,
+			"friends_count": 1925,
 			"listed_count": 219,
 			"created_at": "Fri Apr 10 09:03:18 +0000 2009",
-			"favourites_count": 114975,
+			"favourites_count": 115019,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 82637,
+			"statuses_count": 82663,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -684,8 +1032,8 @@ Grailbird.data.tweets_2021_11 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 511,
-		"favorite_count": 3218,
+		"retweet_count": 607,
+		"favorite_count": 3567,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -751,16 +1099,16 @@ Grailbird.data.tweets_2021_11 =
 				}
 			},
 			"protected": false,
-			"followers_count": 7694,
-			"friends_count": 2604,
-			"listed_count": 18,
+			"followers_count": 7692,
+			"friends_count": 2601,
+			"listed_count": 17,
 			"created_at": "Fri Nov 25 19:40:41 +0000 2011",
-			"favourites_count": 117239,
+			"favourites_count": 117307,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 30156,
+			"statuses_count": 30168,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -964,8 +1312,8 @@ Grailbird.data.tweets_2021_11 =
 					}
 				},
 				"protected": false,
-				"followers_count": 131835,
-				"friends_count": 4121,
+				"followers_count": 132015,
+				"friends_count": 4123,
 				"listed_count": 805,
 				"created_at": "Fri May 09 00:39:11 +0000 2008",
 				"favourites_count": 4468,
@@ -973,7 +1321,7 @@ Grailbird.data.tweets_2021_11 =
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": true,
-				"statuses_count": 24018,
+				"statuses_count": 24027,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -1005,7 +1353,7 @@ Grailbird.data.tweets_2021_11 =
 			"contributors": null,
 			"is_quote_status": false,
 			"retweet_count": 58,
-			"favorite_count": 277,
+			"favorite_count": 279,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
