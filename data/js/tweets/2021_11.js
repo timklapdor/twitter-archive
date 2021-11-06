@@ -1,6 +1,529 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Fri Nov 05 23:29:45 +0000 2021",
+		"id": 1456608340549816300,
+		"id_str": "1456765710932209667",
+		"full_text": "If Bob Ross taught Postmodern Art. https://t.co/SPBCuzxj1E",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			34
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1456607928446816300,
+					"id_str": "1456607928446816262",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1456607928446816262/pu/img/7M7-l8p8_q9i6lNS.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1456607928446816262/pu/img/7M7-l8p8_q9i6lNS.jpg",
+					"url": "https://t.co/SPBCuzxj1E",
+					"display_url": "pic.twitter.com/SPBCuzxj1E",
+					"expanded_url": "https://twitter.com/SeanBurkeShow/status/1456608340549816326/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1456607928446816300,
+					"id_str": "1456607928446816262",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1456607928446816262/pu/img/7M7-l8p8_q9i6lNS.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1456607928446816262/pu/img/7M7-l8p8_q9i6lNS.jpg",
+					"url": "https://t.co/SPBCuzxj1E",
+					"display_url": "pic.twitter.com/SPBCuzxj1E",
+					"expanded_url": "https://twitter.com/SeanBurkeShow/status/1456608340549816326/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1440,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							3
+						],
+						"duration_millis": 63313,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1456607928446816262/pu/vid/480x360/sWBum5qbAkmlyGpK.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1456607928446816262/pu/vid/360x270/78X8uDqZmOmsSj_d.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1456607928446816262/pu/vid/960x720/p7gA_Dw_FKNTpptw.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1456607928446816262/pu/pl/jZSYxk8YKN2Z8eYQ.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 248904891,
+			"id_str": "248904891",
+			"name": "Seán Burke",
+			"screen_name": "SeanBurkeShow",
+			"location": "London",
+			"description": "Comedian and class act 👏 \"Very funny guy\" - Dwayne 'The Rock' Johnson. Comedy Agent: Theo@johnnoel.com, VO Agent: info@volcanic.ie",
+			"url": "https://t.co/g2hILBSAVD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/g2hILBSAVD",
+							"expanded_url": "https://www.instagram.com/seanburkeshow",
+							"display_url": "instagram.com/seanburkeshow",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 78555,
+			"friends_count": 987,
+			"listed_count": 179,
+			"created_at": "Mon Feb 07 23:42:24 +0000 2011",
+			"favourites_count": 16253,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11535,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1438891637107724301/IXMtSjcc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1438891637107724301/IXMtSjcc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/248904891/1586787927",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1131,
+		"favorite_count": 6837,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If Bob Ross taught Postmodern Art. https://t.co/SPBCuzxj1E"
+	},
+	{
+		"created_at": "Fri Nov 05 06:49:17 +0000 2021",
+		"id": 1456415398883070000,
+		"id_str": "1456513935335591942",
+		"full_text": "Possibly one of the coolest/rarest hand held evening photos I will EVER take.  What I thought I was taking was a composition test shot for last nights #Aurora Australis off the coast of #Dunedin #NZ ended up being a sunset AND auroral blue glow at the same time!\n\nSuper rare thing https://t.co/C61CA3Wqxu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Aurora",
+					"indices": [
+						151,
+						158
+					]
+				},
+				{
+					"text": "Dunedin",
+					"indices": [
+						186,
+						194
+					]
+				},
+				{
+					"text": "NZ",
+					"indices": [
+						195,
+						198
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1456415025229303800,
+					"id_str": "1456415025229303816",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/FDY5v8BVkAgQ4I1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDY5v8BVkAgQ4I1.jpg",
+					"url": "https://t.co/C61CA3Wqxu",
+					"display_url": "pic.twitter.com/C61CA3Wqxu",
+					"expanded_url": "https://twitter.com/five15design/status/1456415398883069958/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 750,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 425,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1456415025229303800,
+					"id_str": "1456415025229303816",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/FDY5v8BVkAgQ4I1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDY5v8BVkAgQ4I1.jpg",
+					"url": "https://t.co/C61CA3Wqxu",
+					"display_url": "pic.twitter.com/C61CA3Wqxu",
+					"expanded_url": "https://twitter.com/five15design/status/1456415398883069958/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 750,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 425,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17284137,
+			"id_str": "17284137",
+			"name": "paul le comte",
+			"screen_name": "five15design",
+			"location": "New Zealand / Canada",
+			"description": "Caffeinated Hypermediated Leftist Designer/#Photographer. Sad devotion to #typefaces #Everton & UK Indie music. From #NZ's Sth with dash of #Vancouver #Melrose",
+			"url": "https://t.co/qQR2GW1p5r",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qQR2GW1p5r",
+							"expanded_url": "https://paullecomtephoto.nz",
+							"display_url": "paullecomtephoto.nz",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11629,
+			"friends_count": 12707,
+			"listed_count": 402,
+			"created_at": "Mon Nov 10 09:35:02 +0000 2008",
+			"favourites_count": 403993,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 373814,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F3F4FB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1439847041492946948/hyG1KMbG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1439847041492946948/hyG1KMbG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17284137/1635370319",
+			"profile_link_color": "4D4D4D",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E3E2DE",
+			"profile_text_color": "634047",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 126,
+		"favorite_count": 1322,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Possibly one of the coolest/rarest hand held evening photos I will EVER take.  What I thought I was taking was a composition test shot for last nights #Aurora Australis off the coast of #Dunedin #NZ ended up being a sunset AND auroral blue glow at the same time!\n\nSuper rare thing https://t.co/C61CA3Wqxu"
+	},
+	{
+		"created_at": "Fri Nov 05 02:40:39 +0000 2021",
+		"id": 1456167542582485000,
+		"id_str": "1456451364599394310",
+		"full_text": "Another world first for South Australia: On Sunday it experienced four hours of \"negative net load\" on its distributed network as rooftop #solar met all demand, and more. Never seen before in gigawatt scale grid. #transition https://t.co/Q5NLNHRFSz via @renew_economy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			267
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "solar",
+					"indices": [
+						138,
+						144
+					]
+				},
+				{
+					"text": "transition",
+					"indices": [
+						213,
+						224
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "renew_economy",
+					"name": "RenewEconomy",
+					"id": 456230845,
+					"id_str": "456230845",
+					"indices": [
+						253,
+						267
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Q5NLNHRFSz",
+					"expanded_url": "https://reneweconomy.com.au/rooftop-solar-pushes-states-entire-local-network-into-negative-load-for-four-hours/",
+					"display_url": "reneweconomy.com.au/rooftop-solar-…",
+					"indices": [
+						225,
+						248
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 456230845,
+			"id_str": "456230845",
+			"name": "RenewEconomy",
+			"screen_name": "renew_economy",
+			"location": "Australia",
+			"description": "Australia's only independent news and commentary on clean energy and climate change. Edited by @GilesParkinson",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 31757,
+			"friends_count": 730,
+			"listed_count": 940,
+			"created_at": "Fri Jan 06 01:07:14 +0000 2012",
+			"favourites_count": 2694,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 42686,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1026050217160790018/oiTWajKR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1026050217160790018/oiTWajKR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/456230845/1457323542",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 191,
+		"favorite_count": 535,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Another world first for South Australia: On Sunday it experienced four hours of \"negative net load\" on its distributed network as rooftop #solar met all demand, and more. Never seen before in gigawatt scale grid. #transition https://t.co/Q5NLNHRFSz via @renew_economy"
+	},
+	{
 		"created_at": "Thu Nov 04 07:26:42 +0000 2021",
 		"id": 1456160961757257700,
 		"id_str": "1456160961757257731",
@@ -74,12 +597,12 @@ Grailbird.data.tweets_2021_11 =
 			"friends_count": 160,
 			"listed_count": 90,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9496,
+			"favourites_count": 9505,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15194,
+			"statuses_count": 15197,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -176,8 +699,8 @@ Grailbird.data.tweets_2021_11 =
 					}
 				},
 				"protected": false,
-				"followers_count": 7912,
-				"friends_count": 1198,
+				"followers_count": 7917,
+				"friends_count": 1199,
 				"listed_count": 212,
 				"created_at": "Wed Nov 12 11:47:59 +0000 2008",
 				"favourites_count": 286,
@@ -185,7 +708,7 @@ Grailbird.data.tweets_2021_11 =
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": false,
-				"statuses_count": 9464,
+				"statuses_count": 9472,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -216,8 +739,8 @@ Grailbird.data.tweets_2021_11 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 175,
-			"favorite_count": 529,
+			"retweet_count": 188,
+			"favorite_count": 559,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
@@ -290,8 +813,8 @@ Grailbird.data.tweets_2021_11 =
 				}
 			},
 			"protected": false,
-			"followers_count": 7912,
-			"friends_count": 1198,
+			"followers_count": 7917,
+			"friends_count": 1199,
 			"listed_count": 212,
 			"created_at": "Wed Nov 12 11:47:59 +0000 2008",
 			"favourites_count": 286,
@@ -299,7 +822,7 @@ Grailbird.data.tweets_2021_11 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 9464,
+			"statuses_count": 9472,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -330,8 +853,8 @@ Grailbird.data.tweets_2021_11 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 175,
-		"favorite_count": 529,
+		"retweet_count": 188,
+		"favorite_count": 559,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -408,16 +931,16 @@ Grailbird.data.tweets_2021_11 =
 				}
 			},
 			"protected": false,
-			"followers_count": 95856,
+			"followers_count": 95879,
 			"friends_count": 525,
 			"listed_count": 1514,
 			"created_at": "Tue Feb 17 02:13:19 +0000 2009",
-			"favourites_count": 349,
+			"favourites_count": 350,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 125567,
+			"statuses_count": 125572,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -642,16 +1165,16 @@ Grailbird.data.tweets_2021_11 =
 					}
 				},
 				"protected": false,
-				"followers_count": 7397,
+				"followers_count": 7399,
 				"friends_count": 1652,
 				"listed_count": 174,
 				"created_at": "Wed Jan 12 09:17:07 +0000 2011",
-				"favourites_count": 6163,
+				"favourites_count": 6165,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": true,
-				"statuses_count": 13508,
+				"statuses_count": 13509,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -682,15 +1205,15 @@ Grailbird.data.tweets_2021_11 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 2375,
-			"favorite_count": 7544,
+			"retweet_count": 2394,
+			"favorite_count": 7595,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
 			"lang": "en"
 		},
-		"retweet_count": 614,
-		"favorite_count": 2906,
+		"retweet_count": 613,
+		"favorite_count": 2910,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -870,16 +1393,16 @@ Grailbird.data.tweets_2021_11 =
 				}
 			},
 			"protected": false,
-			"followers_count": 7397,
+			"followers_count": 7399,
 			"friends_count": 1652,
 			"listed_count": 174,
 			"created_at": "Wed Jan 12 09:17:07 +0000 2011",
-			"favourites_count": 6163,
+			"favourites_count": 6165,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 13508,
+			"statuses_count": 13509,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1002,12 +1525,12 @@ Grailbird.data.tweets_2021_11 =
 			"friends_count": 160,
 			"listed_count": 90,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9496,
+			"favourites_count": 9505,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15194,
+			"statuses_count": 15197,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1108,12 +1631,12 @@ Grailbird.data.tweets_2021_11 =
 			"friends_count": 160,
 			"listed_count": 90,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9496,
+			"favourites_count": 9505,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15194,
+			"statuses_count": 15197,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1219,16 +1742,16 @@ Grailbird.data.tweets_2021_11 =
 				}
 			},
 			"protected": false,
-			"followers_count": 792,
+			"followers_count": 798,
 			"friends_count": 715,
 			"listed_count": 10,
 			"created_at": "Wed May 29 09:18:47 +0000 2013",
-			"favourites_count": 3496,
+			"favourites_count": 3514,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 1739,
+			"statuses_count": 1742,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1425,16 +1948,16 @@ Grailbird.data.tweets_2021_11 =
 									}
 								},
 								"protected": false,
-								"followers_count": 152013,
+								"followers_count": 152281,
 								"friends_count": 1065,
 								"listed_count": 145,
 								"created_at": "Mon May 02 08:04:54 +0000 2011",
-								"favourites_count": 17274,
+								"favourites_count": 17303,
 								"utc_offset": null,
 								"time_zone": null,
 								"geo_enabled": true,
 								"verified": true,
-								"statuses_count": 41942,
+								"statuses_count": 41970,
 								"lang": null,
 								"contributors_enabled": false,
 								"is_translator": false,
@@ -1507,16 +2030,16 @@ Grailbird.data.tweets_2021_11 =
 					}
 				},
 				"protected": false,
-				"followers_count": 52723,
+				"followers_count": 52738,
 				"friends_count": 1685,
 				"listed_count": 1237,
 				"created_at": "Fri Mar 06 10:50:29 +0000 2009",
-				"favourites_count": 39795,
+				"favourites_count": 39811,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": true,
-				"statuses_count": 18877,
+				"statuses_count": 18885,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -1547,8 +2070,8 @@ Grailbird.data.tweets_2021_11 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 7573,
-			"favorite_count": 15443,
+			"retweet_count": 7608,
+			"favorite_count": 15511,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
@@ -1690,15 +2213,15 @@ Grailbird.data.tweets_2021_11 =
 			},
 			"protected": false,
 			"followers_count": 22860,
-			"friends_count": 1926,
-			"listed_count": 220,
+			"friends_count": 1925,
+			"listed_count": 219,
 			"created_at": "Fri Apr 10 09:03:18 +0000 2009",
-			"favourites_count": 115127,
+			"favourites_count": 115151,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 82708,
+			"statuses_count": 82724,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1729,8 +2252,8 @@ Grailbird.data.tweets_2021_11 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 611,
-		"favorite_count": 3595,
+		"retweet_count": 610,
+		"favorite_count": 3598,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -1796,16 +2319,16 @@ Grailbird.data.tweets_2021_11 =
 				}
 			},
 			"protected": false,
-			"followers_count": 7727,
-			"friends_count": 2601,
+			"followers_count": 7735,
+			"friends_count": 2599,
 			"listed_count": 17,
 			"created_at": "Fri Nov 25 19:40:41 +0000 2011",
-			"favourites_count": 117516,
+			"favourites_count": 117578,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 30225,
+			"statuses_count": 30233,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2009,16 +2532,16 @@ Grailbird.data.tweets_2021_11 =
 					}
 				},
 				"protected": false,
-				"followers_count": 132308,
-				"friends_count": 4125,
+				"followers_count": 132388,
+				"friends_count": 4128,
 				"listed_count": 805,
 				"created_at": "Fri May 09 00:39:11 +0000 2008",
-				"favourites_count": 4469,
+				"favourites_count": 4471,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": true,
-				"statuses_count": 24063,
+				"statuses_count": 24064,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
