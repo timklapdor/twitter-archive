@@ -64,12 +64,12 @@ Grailbird.data.tweets_2017_12 =
 			"friends_count": 162,
 			"listed_count": 88,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9540,
+			"favourites_count": 9544,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15217,
+			"statuses_count": 15219,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -171,12 +171,12 @@ Grailbird.data.tweets_2017_12 =
 			"friends_count": 162,
 			"listed_count": 88,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9540,
+			"favourites_count": 9544,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15217,
+			"statuses_count": 15219,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -288,12 +288,12 @@ Grailbird.data.tweets_2017_12 =
 			"friends_count": 162,
 			"listed_count": 88,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9540,
+			"favourites_count": 9544,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15217,
+			"statuses_count": 15219,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -395,12 +395,12 @@ Grailbird.data.tweets_2017_12 =
 			"friends_count": 162,
 			"listed_count": 88,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9540,
+			"favourites_count": 9544,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15217,
+			"statuses_count": 15219,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -490,9 +490,9 @@ Grailbird.data.tweets_2017_12 =
 			"protected": false,
 			"followers_count": 1178,
 			"friends_count": 162,
-			"listed_count": 52,
+			"listed_count": 0,
 			"created_at": "Wed May 20 06:01:27 +0000 2009",
-			"favourites_count": 1068,
+			"favourites_count": 1087,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
@@ -578,16 +578,16 @@ Grailbird.data.tweets_2017_12 =
 				}
 			},
 			"protected": false,
-			"followers_count": 5131,
+			"followers_count": 5133,
 			"friends_count": 897,
 			"listed_count": 102,
 			"created_at": "Wed Sep 30 12:21:19 +0000 2009",
-			"favourites_count": 613,
+			"favourites_count": 618,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 77728,
+			"statuses_count": 77745,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -752,16 +752,16 @@ Grailbird.data.tweets_2017_12 =
 				}
 			},
 			"protected": false,
-			"followers_count": 60121,
-			"friends_count": 2228,
+			"followers_count": 60138,
+			"friends_count": 2227,
 			"listed_count": 3111,
 			"created_at": "Mon Mar 12 23:01:19 +0000 2007",
-			"favourites_count": 34454,
+			"favourites_count": 34505,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 38342,
+			"statuses_count": 38350,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -882,16 +882,16 @@ Grailbird.data.tweets_2017_12 =
 				}
 			},
 			"protected": false,
-			"followers_count": 44636,
-			"friends_count": 13544,
+			"followers_count": 44635,
+			"friends_count": 13540,
 			"listed_count": 1627,
 			"created_at": "Sun Apr 01 03:40:29 +0000 2007",
-			"favourites_count": 3988,
+			"favourites_count": 4005,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 295146,
+			"statuses_count": 295150,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1070,12 +1070,12 @@ Grailbird.data.tweets_2017_12 =
 			"friends_count": 162,
 			"listed_count": 88,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9540,
+			"favourites_count": 9544,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15217,
+			"statuses_count": 15219,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1218,12 +1218,12 @@ Grailbird.data.tweets_2017_12 =
 			"friends_count": 162,
 			"listed_count": 88,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9540,
+			"favourites_count": 9544,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15217,
+			"statuses_count": 15219,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1322,12 +1322,12 @@ Grailbird.data.tweets_2017_12 =
 			"friends_count": 162,
 			"listed_count": 88,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9540,
+			"favourites_count": 9544,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15217,
+			"statuses_count": 15219,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1426,16 +1426,16 @@ Grailbird.data.tweets_2017_12 =
 				}
 			},
 			"protected": false,
-			"followers_count": 14621,
-			"friends_count": 7467,
+			"followers_count": 14620,
+			"friends_count": 7470,
 			"listed_count": 333,
 			"created_at": "Mon Oct 22 07:25:28 +0000 2012",
-			"favourites_count": 234933,
+			"favourites_count": 235077,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 300033,
+			"statuses_count": 300199,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1541,16 +1541,16 @@ Grailbird.data.tweets_2017_12 =
 					}
 				},
 				"protected": false,
-				"followers_count": 17606,
+				"followers_count": 17611,
 				"friends_count": 1198,
 				"listed_count": 271,
 				"created_at": "Mon Mar 17 05:25:34 +0000 2014",
-				"favourites_count": 9149,
+				"favourites_count": 9154,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": true,
-				"statuses_count": 3694,
+				"statuses_count": 3697,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -1652,16 +1652,16 @@ Grailbird.data.tweets_2017_12 =
 				}
 			},
 			"protected": false,
-			"followers_count": 17790,
-			"friends_count": 1608,
+			"followers_count": 17793,
+			"friends_count": 1611,
 			"listed_count": 466,
 			"created_at": "Wed Mar 21 05:42:08 +0000 2007",
-			"favourites_count": 251552,
+			"favourites_count": 251747,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 167495,
+			"statuses_count": 167594,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1795,12 +1795,12 @@ Grailbird.data.tweets_2017_12 =
 			"friends_count": 162,
 			"listed_count": 88,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9540,
+			"favourites_count": 9544,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15217,
+			"statuses_count": 15219,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1898,16 +1898,16 @@ Grailbird.data.tweets_2017_12 =
 				}
 			},
 			"protected": false,
-			"followers_count": 269566,
-			"friends_count": 8142,
-			"listed_count": 1545,
+			"followers_count": 269532,
+			"friends_count": 8144,
+			"listed_count": 1548,
 			"created_at": "Tue Aug 25 17:33:14 +0000 2009",
-			"favourites_count": 288635,
+			"favourites_count": 288669,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 106985,
+			"statuses_count": 107022,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2018,12 +2018,12 @@ Grailbird.data.tweets_2017_12 =
 			"friends_count": 162,
 			"listed_count": 88,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9540,
+			"favourites_count": 9544,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15217,
+			"statuses_count": 15219,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2125,12 +2125,12 @@ Grailbird.data.tweets_2017_12 =
 				"friends_count": 162,
 				"listed_count": 88,
 				"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-				"favourites_count": 9540,
+				"favourites_count": 9544,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": false,
-				"statuses_count": 15217,
+				"statuses_count": 15219,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -2239,12 +2239,12 @@ Grailbird.data.tweets_2017_12 =
 			"friends_count": 162,
 			"listed_count": 88,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9540,
+			"favourites_count": 9544,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15217,
+			"statuses_count": 15219,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2366,12 +2366,12 @@ Grailbird.data.tweets_2017_12 =
 			"friends_count": 162,
 			"listed_count": 88,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9540,
+			"favourites_count": 9544,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15217,
+			"statuses_count": 15219,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2661,16 +2661,16 @@ Grailbird.data.tweets_2017_12 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1468208,
+			"followers_count": 1468369,
 			"friends_count": 4882,
-			"listed_count": 4175,
+			"listed_count": 4176,
 			"created_at": "Tue Jun 29 15:25:42 +0000 2010",
 			"favourites_count": 2696,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 26711,
+			"statuses_count": 26714,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2702,7 +2702,7 @@ Grailbird.data.tweets_2017_12 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 1962,
-		"favorite_count": 6764,
+		"favorite_count": 6763,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
@@ -2791,14 +2791,14 @@ Grailbird.data.tweets_2017_12 =
 			"protected": false,
 			"followers_count": 1442,
 			"friends_count": 292,
-			"listed_count": 0,
+			"listed_count": 297,
 			"created_at": "Sat May 08 04:59:40 +0000 2010",
 			"favourites_count": 0,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 146806,
+			"statuses_count": 146843,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2895,16 +2895,16 @@ Grailbird.data.tweets_2017_12 =
 					}
 				},
 				"protected": false,
-				"followers_count": 2906,
+				"followers_count": 2903,
 				"friends_count": 2246,
 				"listed_count": 50,
 				"created_at": "Fri Mar 27 04:16:18 +0000 2015",
-				"favourites_count": 6513,
+				"favourites_count": 6519,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": true,
-				"statuses_count": 7367,
+				"statuses_count": 7375,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -3044,12 +3044,12 @@ Grailbird.data.tweets_2017_12 =
 			"friends_count": 162,
 			"listed_count": 88,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9540,
+			"favourites_count": 9544,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15217,
+			"statuses_count": 15219,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -3181,12 +3181,12 @@ Grailbird.data.tweets_2017_12 =
 			"friends_count": 162,
 			"listed_count": 88,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9540,
+			"favourites_count": 9544,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15217,
+			"statuses_count": 15219,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -3223,423 +3223,5 @@ Grailbird.data.tweets_2017_12 =
 		"retweeted": false,
 		"lang": "en",
 		"text": "@audreywatters @GoogleGuacamole @realdlnorman @cogdog @wanderer_920 You missed nothing - and saved your myself the torment of sitting through hours of nonsense"
-	},
-	{
-		"created_at": "Wed Dec 13 11:48:35 +0000 2017",
-		"id": 940413414349750300,
-		"id_str": "940911322538971136",
-		"full_text": "Mic drop https://t.co/4SkOdzbcu1",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			8
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": [],
-			"media": [
-				{
-					"id": 940413391381790700,
-					"id_str": "940413391381790721",
-					"indices": [
-						9,
-						32
-					],
-					"media_url": "http://pbs.twimg.com/media/DQ0E_zdVAAE0qWL.jpg",
-					"media_url_https": "https://pbs.twimg.com/media/DQ0E_zdVAAE0qWL.jpg",
-					"url": "https://t.co/4SkOdzbcu1",
-					"display_url": "pic.twitter.com/4SkOdzbcu1",
-					"expanded_url": "https://twitter.com/adamgartrell/status/940413414349750272/photo/1",
-					"type": "photo",
-					"sizes": {
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"medium": {
-							"w": 750,
-							"h": 866,
-							"resize": "fit"
-						},
-						"small": {
-							"w": 589,
-							"h": 680,
-							"resize": "fit"
-						},
-						"large": {
-							"w": 750,
-							"h": 866,
-							"resize": "fit"
-						}
-					}
-				}
-			]
-		},
-		"extended_entities": {
-			"media": [
-				{
-					"id": 940413391381790700,
-					"id_str": "940413391381790721",
-					"indices": [
-						9,
-						32
-					],
-					"media_url": "http://pbs.twimg.com/media/DQ0E_zdVAAE0qWL.jpg",
-					"media_url_https": "https://pbs.twimg.com/media/DQ0E_zdVAAE0qWL.jpg",
-					"url": "https://t.co/4SkOdzbcu1",
-					"display_url": "pic.twitter.com/4SkOdzbcu1",
-					"expanded_url": "https://twitter.com/adamgartrell/status/940413414349750272/photo/1",
-					"type": "photo",
-					"sizes": {
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"medium": {
-							"w": 750,
-							"h": 866,
-							"resize": "fit"
-						},
-						"small": {
-							"w": 589,
-							"h": 680,
-							"resize": "fit"
-						},
-						"large": {
-							"w": 750,
-							"h": 866,
-							"resize": "fit"
-						}
-					}
-				}
-			]
-		},
-		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 44535159,
-			"id_str": "44535159",
-			"name": "Adam Gartrell",
-			"screen_name": "adamgartrell",
-			"location": "Canberra",
-			"description": "Labor flack, former hack. By way of The Sydney Morning Herald, The Age and AAP. Former foreign correspondent. Books, vinyl. Dad.",
-			"url": null,
-			"entities": {
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 14032,
-			"friends_count": 4071,
-			"listed_count": 235,
-			"created_at": "Thu Jun 04 03:27:29 +0000 2009",
-			"favourites_count": 15047,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": true,
-			"statuses_count": 13021,
-			"lang": null,
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "000000",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1457528603625734146/0CBZQLwu_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1457528603625734146/0CBZQLwu_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/44535159/1603451357",
-			"profile_link_color": "3B94D9",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "000000",
-			"profile_text_color": "000000",
-			"profile_use_background_image": false,
-			"has_extended_profile": false,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none",
-			"withheld_in_countries": []
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": {
-			"id": "01e4b0c84959d430",
-			"url": "https://api.twitter.com/1.1/geo/id/01e4b0c84959d430.json",
-			"place_type": "city",
-			"name": "Canberra",
-			"full_name": "Canberra, Australian Capital Territory",
-			"country_code": "AU",
-			"country": "Australia",
-			"contained_within": [],
-			"bounding_box": {
-				"type": "Polygon",
-				"coordinates": [
-					[
-						[
-							148.9959216,
-							-35.480260417
-						],
-						[
-							149.263643456,
-							-35.480260417
-						],
-						[
-							149.263643456,
-							-35.147699163
-						],
-						[
-							148.9959216,
-							-35.147699163
-						]
-					]
-				]
-			},
-			"attributes": {}
-		},
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 229,
-		"favorite_count": 661,
-		"favorited": false,
-		"retweeted": false,
-		"possibly_sensitive": false,
-		"lang": "en",
-		"text": "Mic drop https://t.co/4SkOdzbcu1"
-	},
-	{
-		"created_at": "Wed Dec 13 11:47:05 +0000 2017",
-		"id": 940856052555374600,
-		"id_str": "940910945198522368",
-		"full_text": "#BREAKING The @CommBank has admitted it breached Australia's anti-money laundering and counter terrorism laws more than 53,000 times. https://t.co/Y2rcpnBR47",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			133
-		],
-		"entities": {
-			"hashtags": [
-				{
-					"text": "BREAKING",
-					"indices": [
-						0,
-						9
-					]
-				}
-			],
-			"symbols": [],
-			"user_mentions": [
-				{
-					"screen_name": "CommBank",
-					"name": "CommBank",
-					"id": 14787749,
-					"id_str": "14787749",
-					"indices": [
-						14,
-						23
-					]
-				}
-			],
-			"urls": [],
-			"media": [
-				{
-					"id": 940856006736834600,
-					"id_str": "940856006736834560",
-					"indices": [
-						134,
-						157
-					],
-					"media_url": "http://pbs.twimg.com/media/DQ6XlUYWsAArrl4.jpg",
-					"media_url_https": "https://pbs.twimg.com/media/DQ6XlUYWsAArrl4.jpg",
-					"url": "https://t.co/Y2rcpnBR47",
-					"display_url": "pic.twitter.com/Y2rcpnBR47",
-					"expanded_url": "https://twitter.com/abcnews/status/940856052555374592/video/1",
-					"type": "photo",
-					"sizes": {
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"large": {
-							"w": 640,
-							"h": 360,
-							"resize": "fit"
-						},
-						"medium": {
-							"w": 640,
-							"h": 360,
-							"resize": "fit"
-						},
-						"small": {
-							"w": 640,
-							"h": 360,
-							"resize": "fit"
-						}
-					}
-				}
-			]
-		},
-		"extended_entities": {
-			"media": [
-				{
-					"id": 940856006736834600,
-					"id_str": "940856006736834560",
-					"indices": [
-						134,
-						157
-					],
-					"media_url": "http://pbs.twimg.com/media/DQ6XlUYWsAArrl4.jpg",
-					"media_url_https": "https://pbs.twimg.com/media/DQ6XlUYWsAArrl4.jpg",
-					"url": "https://t.co/Y2rcpnBR47",
-					"display_url": "pic.twitter.com/Y2rcpnBR47",
-					"expanded_url": "https://twitter.com/abcnews/status/940856052555374592/video/1",
-					"type": "video",
-					"sizes": {
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"large": {
-							"w": 640,
-							"h": 360,
-							"resize": "fit"
-						},
-						"medium": {
-							"w": 640,
-							"h": 360,
-							"resize": "fit"
-						},
-						"small": {
-							"w": 640,
-							"h": 360,
-							"resize": "fit"
-						}
-					},
-					"video_info": {
-						"aspect_ratio": [
-							16,
-							9
-						],
-						"duration_millis": 30567,
-						"variants": [
-							{
-								"content_type": "application/x-mpegURL",
-								"url": "https://video.twimg.com/amplify_video/940856006736834560/pl/YoPfx8HdqBHoPrCQ.m3u8"
-							},
-							{
-								"bitrate": 832000,
-								"content_type": "video/mp4",
-								"url": "https://video.twimg.com/amplify_video/940856006736834560/vid/640x360/WX6L2FPHsa9e9EZH.mp4"
-							},
-							{
-								"bitrate": 320000,
-								"content_type": "video/mp4",
-								"url": "https://video.twimg.com/amplify_video/940856006736834560/vid/320x180/ojg8gav0i3UD_U6k.mp4"
-							}
-						]
-					},
-					"additional_media_info": {
-						"title": "CBA breaches",
-						"description": "The Commonwealth Bank has admitted it breached Australia's anti-money laundering and counter terrorism laws more than 53,000 times.",
-						"embeddable": true,
-						"monetizable": false
-					}
-				}
-			]
-		},
-		"source": "<a href=\"http://snappytv.com\" rel=\"nofollow\">SnappyTV.com</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 2768501,
-			"id_str": "2768501",
-			"name": "ABC News",
-			"screen_name": "abcnews",
-			"location": "Australia",
-			"description": "Latest news updates (mostly automated) from the Australian Broadcasting Corp. This is an official @abcaustralia account.",
-			"url": "http://t.co/knlFvfwxkf",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "http://t.co/knlFvfwxkf",
-							"expanded_url": "http://www.abc.net.au/news",
-							"display_url": "abc.net.au/news",
-							"indices": [
-								0,
-								22
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 1865528,
-			"friends_count": 1187,
-			"listed_count": 13068,
-			"created_at": "Thu Mar 29 02:15:36 +0000 2007",
-			"favourites_count": 2721,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": true,
-			"statuses_count": 338052,
-			"lang": null,
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "000000",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1034589406005317632/Cdi3F2ro_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1034589406005317632/Cdi3F2ro_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2768501/1629431378",
-			"profile_link_color": "0000FF",
-			"profile_sidebar_border_color": "CCCCCC",
-			"profile_sidebar_fill_color": "C8C8C8",
-			"profile_text_color": "000000",
-			"profile_use_background_image": true,
-			"has_extended_profile": false,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none",
-			"withheld_in_countries": []
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 255,
-		"favorite_count": 228,
-		"favorited": false,
-		"retweeted": false,
-		"possibly_sensitive": false,
-		"lang": "en",
-		"text": "#BREAKING The @CommBank has admitted it breached Australia's anti-money laundering and counter terrorism laws more than 53,000 times. https://t.co/Y2rcpnBR47"
 	}
 ]
