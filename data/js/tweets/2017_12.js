@@ -60,16 +60,16 @@ Grailbird.data.tweets_2017_12 =
 				}
 			},
 			"protected": false,
-			"followers_count": 826,
+			"followers_count": 825,
 			"friends_count": 162,
 			"listed_count": 88,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9552,
+			"favourites_count": 9554,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15221,
+			"statuses_count": 15223,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -167,16 +167,16 @@ Grailbird.data.tweets_2017_12 =
 				}
 			},
 			"protected": false,
-			"followers_count": 826,
+			"followers_count": 825,
 			"friends_count": 162,
 			"listed_count": 88,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9552,
+			"favourites_count": 9554,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15221,
+			"statuses_count": 15223,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -284,16 +284,16 @@ Grailbird.data.tweets_2017_12 =
 				}
 			},
 			"protected": false,
-			"followers_count": 826,
+			"followers_count": 825,
 			"friends_count": 162,
 			"listed_count": 88,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9552,
+			"favourites_count": 9554,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15221,
+			"statuses_count": 15223,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -391,16 +391,16 @@ Grailbird.data.tweets_2017_12 =
 				}
 			},
 			"protected": false,
-			"followers_count": 826,
+			"followers_count": 825,
 			"friends_count": 162,
 			"listed_count": 88,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9552,
+			"favourites_count": 9554,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15221,
+			"statuses_count": 15223,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -490,7 +490,7 @@ Grailbird.data.tweets_2017_12 =
 			"protected": false,
 			"followers_count": 1178,
 			"friends_count": 162,
-			"listed_count": 52,
+			"listed_count": 0,
 			"created_at": "Wed May 20 06:01:27 +0000 2009",
 			"favourites_count": 1087,
 			"utc_offset": null,
@@ -578,8 +578,8 @@ Grailbird.data.tweets_2017_12 =
 				}
 			},
 			"protected": false,
-			"followers_count": 5132,
-			"friends_count": 897,
+			"followers_count": 5131,
+			"friends_count": 898,
 			"listed_count": 102,
 			"created_at": "Wed Sep 30 12:21:19 +0000 2009",
 			"favourites_count": 620,
@@ -587,7 +587,7 @@ Grailbird.data.tweets_2017_12 =
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 77780,
+			"statuses_count": 77787,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -752,7 +752,7 @@ Grailbird.data.tweets_2017_12 =
 				}
 			},
 			"protected": false,
-			"followers_count": 60161,
+			"followers_count": 60162,
 			"friends_count": 2230,
 			"listed_count": 3110,
 			"created_at": "Mon Mar 12 23:01:19 +0000 2007",
@@ -883,15 +883,15 @@ Grailbird.data.tweets_2017_12 =
 			},
 			"protected": false,
 			"followers_count": 44632,
-			"friends_count": 13531,
+			"friends_count": 13526,
 			"listed_count": 1628,
 			"created_at": "Sun Apr 01 03:40:29 +0000 2007",
-			"favourites_count": 4044,
+			"favourites_count": 4053,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 295168,
+			"statuses_count": 295174,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -923,7 +923,7 @@ Grailbird.data.tweets_2017_12 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 1089,
-		"favorite_count": 2144,
+		"favorite_count": 2143,
 		"favorited": false,
 		"retweeted": false,
 		"lang": "en",
@@ -1066,16 +1066,16 @@ Grailbird.data.tweets_2017_12 =
 				}
 			},
 			"protected": false,
-			"followers_count": 826,
+			"followers_count": 825,
 			"friends_count": 162,
 			"listed_count": 88,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9552,
+			"favourites_count": 9554,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15221,
+			"statuses_count": 15223,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1214,16 +1214,16 @@ Grailbird.data.tweets_2017_12 =
 				}
 			},
 			"protected": false,
-			"followers_count": 826,
+			"followers_count": 825,
 			"friends_count": 162,
 			"listed_count": 88,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9552,
+			"favourites_count": 9554,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15221,
+			"statuses_count": 15223,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1318,16 +1318,16 @@ Grailbird.data.tweets_2017_12 =
 				}
 			},
 			"protected": false,
-			"followers_count": 826,
+			"followers_count": 825,
 			"friends_count": 162,
 			"listed_count": 88,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9552,
+			"favourites_count": 9554,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15221,
+			"statuses_count": 15223,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1426,16 +1426,16 @@ Grailbird.data.tweets_2017_12 =
 				}
 			},
 			"protected": false,
-			"followers_count": 14628,
-			"friends_count": 7481,
+			"followers_count": 14626,
+			"friends_count": 7480,
 			"listed_count": 333,
 			"created_at": "Mon Oct 22 07:25:28 +0000 2012",
-			"favourites_count": 235618,
+			"favourites_count": 235765,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 300814,
+			"statuses_count": 300977,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1541,8 +1541,8 @@ Grailbird.data.tweets_2017_12 =
 					}
 				},
 				"protected": false,
-				"followers_count": 17616,
-				"friends_count": 1199,
+				"followers_count": 17615,
+				"friends_count": 1198,
 				"listed_count": 271,
 				"created_at": "Mon Mar 17 05:25:34 +0000 2014",
 				"favourites_count": 9160,
@@ -1652,16 +1652,16 @@ Grailbird.data.tweets_2017_12 =
 				}
 			},
 			"protected": false,
-			"followers_count": 17810,
-			"friends_count": 1612,
+			"followers_count": 17821,
+			"friends_count": 1613,
 			"listed_count": 464,
 			"created_at": "Wed Mar 21 05:42:08 +0000 2007",
-			"favourites_count": 252115,
+			"favourites_count": 252231,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 167696,
+			"statuses_count": 167740,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1791,16 +1791,16 @@ Grailbird.data.tweets_2017_12 =
 				}
 			},
 			"protected": false,
-			"followers_count": 826,
+			"followers_count": 825,
 			"friends_count": 162,
 			"listed_count": 88,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9552,
+			"favourites_count": 9554,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15221,
+			"statuses_count": 15223,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1898,16 +1898,16 @@ Grailbird.data.tweets_2017_12 =
 				}
 			},
 			"protected": false,
-			"followers_count": 269671,
+			"followers_count": 269670,
 			"friends_count": 8141,
-			"listed_count": 1547,
+			"listed_count": 1548,
 			"created_at": "Tue Aug 25 17:33:14 +0000 2009",
-			"favourites_count": 288689,
+			"favourites_count": 288702,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 107060,
+			"statuses_count": 107080,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2014,16 +2014,16 @@ Grailbird.data.tweets_2017_12 =
 				}
 			},
 			"protected": false,
-			"followers_count": 826,
+			"followers_count": 825,
 			"friends_count": 162,
 			"listed_count": 88,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9552,
+			"favourites_count": 9554,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15221,
+			"statuses_count": 15223,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2121,16 +2121,16 @@ Grailbird.data.tweets_2017_12 =
 					}
 				},
 				"protected": false,
-				"followers_count": 826,
+				"followers_count": 825,
 				"friends_count": 162,
 				"listed_count": 88,
 				"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-				"favourites_count": 9552,
+				"favourites_count": 9554,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": false,
-				"statuses_count": 15221,
+				"statuses_count": 15223,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -2235,16 +2235,16 @@ Grailbird.data.tweets_2017_12 =
 				}
 			},
 			"protected": false,
-			"followers_count": 826,
+			"followers_count": 825,
 			"friends_count": 162,
 			"listed_count": 88,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9552,
+			"favourites_count": 9554,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15221,
+			"statuses_count": 15223,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2362,16 +2362,16 @@ Grailbird.data.tweets_2017_12 =
 				}
 			},
 			"protected": false,
-			"followers_count": 826,
+			"followers_count": 825,
 			"friends_count": 162,
 			"listed_count": 88,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9552,
+			"favourites_count": 9554,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15221,
+			"statuses_count": 15223,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2479,7 +2479,7 @@ Grailbird.data.tweets_2017_12 =
 					}
 				},
 				"protected": false,
-				"followers_count": 17626,
+				"followers_count": 17624,
 				"friends_count": 394,
 				"listed_count": 1418,
 				"created_at": "Fri Nov 30 08:40:47 +0000 2007",
@@ -2533,421 +2533,5 @@ Grailbird.data.tweets_2017_12 =
 		"possibly_sensitive": false,
 		"lang": "en",
 		"text": "@grantpotter @brlamb this might be of interest https://t.co/KMwoz6lG8c"
-	},
-	{
-		"created_at": "Sat Dec 16 23:35:51 +0000 2017",
-		"id": 941600321599569900,
-		"id_str": "942176475008008192",
-		"full_text": "There is no Grinch in ‘The Nightmare Before Christmas’!! Is this more evidence that you can’t believe what you read in the Daily Mail? 😉 https://t.co/1jtGD5SfAc",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			136
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": [],
-			"media": [
-				{
-					"id": 941600319955488800,
-					"id_str": "941600319955488768",
-					"indices": [
-						137,
-						160
-					],
-					"media_url": "http://pbs.twimg.com/media/DRE8gI9XUAAHgHP.jpg",
-					"media_url_https": "https://pbs.twimg.com/media/DRE8gI9XUAAHgHP.jpg",
-					"url": "https://t.co/1jtGD5SfAc",
-					"display_url": "pic.twitter.com/1jtGD5SfAc",
-					"expanded_url": "https://twitter.com/NicolaSturgeon/status/941600321599569921/photo/1",
-					"type": "photo",
-					"sizes": {
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"small": {
-							"w": 500,
-							"h": 680,
-							"resize": "fit"
-						},
-						"large": {
-							"w": 640,
-							"h": 871,
-							"resize": "fit"
-						},
-						"medium": {
-							"w": 640,
-							"h": 871,
-							"resize": "fit"
-						}
-					}
-				}
-			]
-		},
-		"extended_entities": {
-			"media": [
-				{
-					"id": 941600319955488800,
-					"id_str": "941600319955488768",
-					"indices": [
-						137,
-						160
-					],
-					"media_url": "http://pbs.twimg.com/media/DRE8gI9XUAAHgHP.jpg",
-					"media_url_https": "https://pbs.twimg.com/media/DRE8gI9XUAAHgHP.jpg",
-					"url": "https://t.co/1jtGD5SfAc",
-					"display_url": "pic.twitter.com/1jtGD5SfAc",
-					"expanded_url": "https://twitter.com/NicolaSturgeon/status/941600321599569921/photo/1",
-					"type": "photo",
-					"sizes": {
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"small": {
-							"w": 500,
-							"h": 680,
-							"resize": "fit"
-						},
-						"large": {
-							"w": 640,
-							"h": 871,
-							"resize": "fit"
-						},
-						"medium": {
-							"w": 640,
-							"h": 871,
-							"resize": "fit"
-						}
-					}
-				}
-			]
-		},
-		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 160952087,
-			"id_str": "160952087",
-			"name": "Nicola Sturgeon",
-			"screen_name": "NicolaSturgeon",
-			"location": "Glasgow, Scotland",
-			"description": "First Minister of Scotland, @theSNP Leader and MSP for Glasgow Southside. Loves📚. All tweets promoted by @NicolaSturgeon 3 Jacksons Entry EH8 8PJ",
-			"url": "https://t.co/viEKYxG7er",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/viEKYxG7er",
-							"expanded_url": "http://www.firstminister.gov.scot",
-							"display_url": "firstminister.gov.scot",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 1468979,
-			"friends_count": 4881,
-			"listed_count": 4170,
-			"created_at": "Tue Jun 29 15:25:42 +0000 2010",
-			"favourites_count": 2702,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": false,
-			"verified": true,
-			"statuses_count": 26747,
-			"lang": null,
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "FFF04D",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1180619089183686663/YZJeUxxP_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1180619089183686663/YZJeUxxP_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/160952087/1592059883",
-			"profile_link_color": "0099CC",
-			"profile_sidebar_border_color": "FFF8AD",
-			"profile_sidebar_fill_color": "F6FFD1",
-			"profile_text_color": "333333",
-			"profile_use_background_image": true,
-			"has_extended_profile": false,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none",
-			"withheld_in_countries": []
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 1961,
-		"favorite_count": 6762,
-		"favorited": false,
-		"retweeted": false,
-		"possibly_sensitive": false,
-		"lang": "en",
-		"text": "There is no Grinch in ‘The Nightmare Before Christmas’!! Is this more evidence that you can’t believe what you read in the Daily Mail? 😉 https://t.co/1jtGD5SfAc"
-	},
-	{
-		"created_at": "Fri Dec 15 07:43:04 +0000 2017",
-		"id": 941568330099392500,
-		"id_str": "941574313831833600",
-		"full_text": "Not that anyone needs any more evidence that Trumble and @LiberalAus are morally bankrupt... https://t.co/JeL8xBZPiI",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			92
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [
-				{
-					"screen_name": "LiberalAus",
-					"name": "Liberal Party",
-					"id": 28739612,
-					"id_str": "28739612",
-					"indices": [
-						57,
-						68
-					]
-				}
-			],
-			"urls": [
-				{
-					"url": "https://t.co/JeL8xBZPiI",
-					"expanded_url": "https://twitter.com/RemyVarga/status/941467220978188288",
-					"display_url": "twitter.com/RemyVarga/stat…",
-					"indices": [
-						93,
-						116
-					]
-				}
-			]
-		},
-		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 141466282,
-			"id_str": "141466282",
-			"name": "Stuart Palmer",
-			"screen_name": "s_palm",
-			"location": "Geelong, Victoria, Australia",
-			"description": "Professional engineer & research specialist.🔌 Working with qual & quant data to improve work safety in Victoria.🦺 Opinions my own. https://t.co/xcJ6XRZH4u",
-			"url": "https://t.co/Js3TqymWfz",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/Js3TqymWfz",
-							"expanded_url": "https://spalm.home.exetel.com.au/",
-							"display_url": "spalm.home.exetel.com.au",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": [
-						{
-							"url": "https://t.co/xcJ6XRZH4u",
-							"expanded_url": "http://spalm.home.exetel.com.au",
-							"display_url": "spalm.home.exetel.com.au",
-							"indices": [
-								131,
-								154
-							]
-						}
-					]
-				}
-			},
-			"protected": false,
-			"followers_count": 1442,
-			"friends_count": 292,
-			"listed_count": 297,
-			"created_at": "Sat May 08 04:59:40 +0000 2010",
-			"favourites_count": 0,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 146927,
-			"lang": null,
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "022330",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1087615364/twitter_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1087615364/twitter_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/141466282/1579311178",
-			"profile_link_color": "0084B4",
-			"profile_sidebar_border_color": "A8C7F7",
-			"profile_sidebar_fill_color": "C0DFEC",
-			"profile_text_color": "333333",
-			"profile_use_background_image": true,
-			"has_extended_profile": false,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": true,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none",
-			"withheld_in_countries": []
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": true,
-		"quoted_status_id": 941467220978188300,
-		"quoted_status_id_str": "941467220978188288",
-		"quoted_status_permalink": {
-			"url": "https://t.co/JeL8xBZPiI",
-			"expanded": "https://twitter.com/RemyVarga/status/941467220978188288",
-			"display": "twitter.com/RemyVarga/stat…"
-		},
-		"quoted_status": {
-			"created_at": "Fri Dec 15 00:37:31 +0000 2017",
-			"id": 941467220978188300,
-			"id_str": "941467220978188288",
-			"full_text": "Turnbull says child sex abuse survivors who did jail time will be denied compensation under the redress scheme. He acknowledges their crimes may stem from their trauma https://t.co/vRHdxCJwgO",
-			"truncated": false,
-			"display_text_range": [
-				0,
-				191
-			],
-			"entities": {
-				"hashtags": [],
-				"symbols": [],
-				"user_mentions": [],
-				"urls": [
-					{
-						"url": "https://t.co/vRHdxCJwgO",
-						"expanded_url": "http://www.theaustralian.com.au/national-affairs/no-payout-for-abuse-survivors-whove-done-time-turnbull-says/news-story/00112d5aa468827bd7352dac40ec7613",
-						"display_url": "theaustralian.com.au/national-affai…",
-						"indices": [
-							168,
-							191
-						]
-					}
-				]
-			},
-			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-			"in_reply_to_status_id": null,
-			"in_reply_to_status_id_str": null,
-			"in_reply_to_user_id": null,
-			"in_reply_to_user_id_str": null,
-			"in_reply_to_screen_name": null,
-			"user": {
-				"id": 3109208035,
-				"id_str": "3109208035",
-				"name": "Remy Varga",
-				"screen_name": "RemyVarga",
-				"location": "Melbourne, Victoria",
-				"description": "Reporter/Podcast writer at @australian/Telegram and Signal as RemyVarga/remy.varga@theaustralian.com.au and remyvarga@protonmail.com",
-				"url": "https://t.co/Qd0M9ZWszT",
-				"entities": {
-					"url": {
-						"urls": [
-							{
-								"url": "https://t.co/Qd0M9ZWszT",
-								"expanded_url": "http://www.theaustralian.com.au/author/Remy+Varga",
-								"display_url": "theaustralian.com.au/author/Remy+Va…",
-								"indices": [
-									0,
-									23
-								]
-							}
-						]
-					},
-					"description": {
-						"urls": []
-					}
-				},
-				"protected": false,
-				"followers_count": 2906,
-				"friends_count": 2250,
-				"listed_count": 50,
-				"created_at": "Fri Mar 27 04:16:18 +0000 2015",
-				"favourites_count": 6534,
-				"utc_offset": null,
-				"time_zone": null,
-				"geo_enabled": false,
-				"verified": true,
-				"statuses_count": 7386,
-				"lang": null,
-				"contributors_enabled": false,
-				"is_translator": false,
-				"is_translation_enabled": false,
-				"profile_background_color": "C0DEED",
-				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-				"profile_background_tile": false,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/980996997917241344/RGlK88kh_normal.jpg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/980996997917241344/RGlK88kh_normal.jpg",
-				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3109208035/1622612093",
-				"profile_link_color": "1DA1F2",
-				"profile_sidebar_border_color": "C0DEED",
-				"profile_sidebar_fill_color": "DDEEF6",
-				"profile_text_color": "333333",
-				"profile_use_background_image": true,
-				"has_extended_profile": true,
-				"default_profile": true,
-				"default_profile_image": false,
-				"following": false,
-				"follow_request_sent": false,
-				"notifications": false,
-				"translator_type": "none",
-				"withheld_in_countries": []
-			},
-			"geo": null,
-			"coordinates": null,
-			"place": null,
-			"contributors": null,
-			"is_quote_status": false,
-			"retweet_count": 115,
-			"favorite_count": 47,
-			"favorited": false,
-			"retweeted": false,
-			"possibly_sensitive": true,
-			"lang": "en"
-		},
-		"retweet_count": 1,
-		"favorite_count": 0,
-		"favorited": false,
-		"retweeted": false,
-		"possibly_sensitive": false,
-		"lang": "en",
-		"text": "Not that anyone needs any more evidence that Trumble and @LiberalAus are morally bankrupt... https://t.co/JeL8xBZPiI"
 	}
 ]
