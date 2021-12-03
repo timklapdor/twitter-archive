@@ -64,12 +64,12 @@ Grailbird.data.tweets_2017_12 =
 			"friends_count": 162,
 			"listed_count": 88,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9574,
+			"favourites_count": 9584,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15227,
+			"statuses_count": 15229,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -171,12 +171,12 @@ Grailbird.data.tweets_2017_12 =
 			"friends_count": 162,
 			"listed_count": 88,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9574,
+			"favourites_count": 9584,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15227,
+			"statuses_count": 15229,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -288,12 +288,12 @@ Grailbird.data.tweets_2017_12 =
 			"friends_count": 162,
 			"listed_count": 88,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9574,
+			"favourites_count": 9584,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15227,
+			"statuses_count": 15229,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -395,12 +395,12 @@ Grailbird.data.tweets_2017_12 =
 			"friends_count": 162,
 			"listed_count": 88,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9574,
+			"favourites_count": 9584,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15227,
+			"statuses_count": 15229,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -578,16 +578,16 @@ Grailbird.data.tweets_2017_12 =
 				}
 			},
 			"protected": false,
-			"followers_count": 5129,
+			"followers_count": 5126,
 			"friends_count": 893,
 			"listed_count": 102,
 			"created_at": "Wed Sep 30 12:21:19 +0000 2009",
-			"favourites_count": 622,
+			"favourites_count": 623,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 77813,
+			"statuses_count": 77816,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -752,16 +752,16 @@ Grailbird.data.tweets_2017_12 =
 				}
 			},
 			"protected": false,
-			"followers_count": 60200,
-			"friends_count": 2233,
-			"listed_count": 3110,
+			"followers_count": 60212,
+			"friends_count": 2235,
+			"listed_count": 0,
 			"created_at": "Mon Mar 12 23:01:19 +0000 2007",
-			"favourites_count": 34755,
+			"favourites_count": 34799,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 38413,
+			"statuses_count": 38400,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -882,16 +882,16 @@ Grailbird.data.tweets_2017_12 =
 				}
 			},
 			"protected": false,
-			"followers_count": 44625,
+			"followers_count": 44623,
 			"friends_count": 13521,
 			"listed_count": 1625,
 			"created_at": "Sun Apr 01 03:40:29 +0000 2007",
-			"favourites_count": 4066,
+			"favourites_count": 4074,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 295192,
+			"statuses_count": 295198,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -922,7 +922,7 @@ Grailbird.data.tweets_2017_12 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 1089,
+		"retweet_count": 1088,
 		"favorite_count": 2144,
 		"favorited": false,
 		"retweeted": false,
@@ -1070,12 +1070,12 @@ Grailbird.data.tweets_2017_12 =
 			"friends_count": 162,
 			"listed_count": 88,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9574,
+			"favourites_count": 9584,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15227,
+			"statuses_count": 15229,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1218,12 +1218,12 @@ Grailbird.data.tweets_2017_12 =
 			"friends_count": 162,
 			"listed_count": 88,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9574,
+			"favourites_count": 9584,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15227,
+			"statuses_count": 15229,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1260,476 +1260,5 @@ Grailbird.data.tweets_2017_12 =
 		"retweeted": false,
 		"lang": "en",
 		"text": "@hypervisible @funnymonkey @kinlane @KateMfD @cogdog I’m in if you’re meeting in a virtual room :-)"
-	},
-	{
-		"created_at": "Thu Dec 28 05:38:33 +0000 2017",
-		"id": 946254021458722800,
-		"id_str": "946254021458722817",
-		"full_text": "#anniversary Miss you dad.",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			26
-		],
-		"entities": {
-			"hashtags": [
-				{
-					"text": "anniversary",
-					"indices": [
-						0,
-						12
-					]
-				}
-			],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": []
-		},
-		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 174124175,
-			"id_str": "174124175",
-			"name": "Tim Klapdor",
-			"screen_name": "timklapdor",
-			"location": "Adelaide, South Australia",
-			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "https://t.co/uC0c3me6KE",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/uC0c3me6KE",
-							"expanded_url": "http://timklapdor.com",
-							"display_url": "timklapdor.com",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 824,
-			"friends_count": 162,
-			"listed_count": 88,
-			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9574,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 15227,
-			"lang": null,
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "C0DEED",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
-			"profile_link_color": "5FA832",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "DDEEF6",
-			"profile_text_color": "333333",
-			"profile_use_background_image": true,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none",
-			"withheld_in_countries": []
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 3,
-		"favorited": false,
-		"retweeted": false,
-		"lang": "en",
-		"text": "#anniversary Miss you dad."
-	},
-	{
-		"created_at": "Thu Dec 28 01:13:30 +0000 2017",
-		"id": 946117678367850500,
-		"id_str": "946187318083207168",
-		"full_text": "Ummmmm no!\nOnly for incompetent, lazy, wannabe politicians who can’t be bothered checking their dual citizenship status.\nNext great debate, the only one politicians should be having is #UluruStatement and #Indigenous voice. https://t.co/o6IUctCDvh",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			223
-		],
-		"entities": {
-			"hashtags": [
-				{
-					"text": "UluruStatement",
-					"indices": [
-						185,
-						200
-					]
-				},
-				{
-					"text": "Indigenous",
-					"indices": [
-						205,
-						216
-					]
-				}
-			],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": [
-				{
-					"url": "https://t.co/o6IUctCDvh",
-					"expanded_url": "https://twitter.com/lindareynoldswa/status/945562297933729792",
-					"display_url": "twitter.com/lindareynoldsw…",
-					"indices": [
-						224,
-						247
-					]
-				}
-			]
-		},
-		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 896941926,
-			"id_str": "896941926",
-			"name": "Paul Dutton - Kali Mukwarra Barkindji",
-			"screen_name": "pauldutton1968",
-			"location": "",
-			"description": "#MotherEarth is our Mother. Look after her like your own children. She will yours. Care for Our Land and Connect to it. 🖤💛❤️🌏🦅",
-			"url": null,
-			"entities": {
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 14627,
-			"friends_count": 7478,
-			"listed_count": 333,
-			"created_at": "Mon Oct 22 07:25:28 +0000 2012",
-			"favourites_count": 236187,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 301422,
-			"lang": null,
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "000000",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1458419040020418560/Rq9calCI_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1458419040020418560/Rq9calCI_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/896941926/1608498043",
-			"profile_link_color": "B35100",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "000000",
-			"profile_text_color": "000000",
-			"profile_use_background_image": false,
-			"has_extended_profile": false,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none",
-			"withheld_in_countries": []
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": true,
-		"quoted_status_id": 945562297933729800,
-		"quoted_status_id_str": "945562297933729792",
-		"quoted_status_permalink": {
-			"url": "https://t.co/o6IUctCDvh",
-			"expanded": "https://twitter.com/lindareynoldswa/status/945562297933729792",
-			"display": "twitter.com/lindareynoldsw…"
-		},
-		"quoted_status": {
-			"created_at": "Tue Dec 26 07:49:54 +0000 2017",
-			"id": 945562297933729800,
-			"id_str": "945562297933729792",
-			"full_text": "The next great national debate has started. Without change, 50% of Aussies could be ineligible to seek election. I believe no other country should ever be able to dictate who we can elect to represent us. Let the committee know what is important to you.\nhttps://t.co/9BFeUZT1dq https://t.co/TurZmAS5A2",
-			"truncated": false,
-			"display_text_range": [
-				0,
-				277
-			],
-			"entities": {
-				"hashtags": [],
-				"symbols": [],
-				"user_mentions": [],
-				"urls": [
-					{
-						"url": "https://t.co/9BFeUZT1dq",
-						"expanded_url": "https://www.aph.gov.au/Parliamentary_Business/Committees/Joint/Electoral_Matters/Inquiry_into_matters_relating_to_Section_44_of_the_Constitution",
-						"display_url": "aph.gov.au/Parliamentary_…",
-						"indices": [
-							254,
-							277
-						]
-					},
-					{
-						"url": "https://t.co/TurZmAS5A2",
-						"expanded_url": "https://twitter.com/rosieslewis/status/945446553824587776",
-						"display_url": "twitter.com/rosieslewis/st…",
-						"indices": [
-							278,
-							301
-						]
-					}
-				]
-			},
-			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
-			"in_reply_to_status_id": null,
-			"in_reply_to_status_id_str": null,
-			"in_reply_to_user_id": null,
-			"in_reply_to_user_id_str": null,
-			"in_reply_to_screen_name": null,
-			"user": {
-				"id": 2393844469,
-				"id_str": "2393844469",
-				"name": "Linda Reynolds",
-				"screen_name": "lindareynoldswa",
-				"location": "Perth, Western Australia",
-				"description": "Minister for the National Disability Insurance Scheme and Minister for Government Services. Authorised by Linda Reynolds, Liberal Party of Australia, Perth.",
-				"url": "https://t.co/ZeiEu77rhh",
-				"entities": {
-					"url": {
-						"urls": [
-							{
-								"url": "https://t.co/ZeiEu77rhh",
-								"expanded_url": "http://www.lindareynolds.com.au/",
-								"display_url": "lindareynolds.com.au",
-								"indices": [
-									0,
-									23
-								]
-							}
-						]
-					},
-					"description": {
-						"urls": []
-					}
-				},
-				"protected": false,
-				"followers_count": 17629,
-				"friends_count": 1198,
-				"listed_count": 273,
-				"created_at": "Mon Mar 17 05:25:34 +0000 2014",
-				"favourites_count": 9162,
-				"utc_offset": null,
-				"time_zone": null,
-				"geo_enabled": true,
-				"verified": true,
-				"statuses_count": 3702,
-				"lang": null,
-				"contributors_enabled": false,
-				"is_translator": false,
-				"is_translation_enabled": false,
-				"profile_background_color": "000000",
-				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-				"profile_background_tile": false,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/1103985043104362496/pEaBxGsZ_normal.jpg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1103985043104362496/pEaBxGsZ_normal.jpg",
-				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2393844469/1618454961",
-				"profile_link_color": "1B95E0",
-				"profile_sidebar_border_color": "000000",
-				"profile_sidebar_fill_color": "000000",
-				"profile_text_color": "000000",
-				"profile_use_background_image": false,
-				"has_extended_profile": false,
-				"default_profile": false,
-				"default_profile_image": false,
-				"following": false,
-				"follow_request_sent": false,
-				"notifications": false,
-				"translator_type": "none",
-				"withheld_in_countries": []
-			},
-			"geo": null,
-			"coordinates": null,
-			"place": null,
-			"contributors": null,
-			"is_quote_status": true,
-			"quoted_status_id": 945446553824587800,
-			"quoted_status_id_str": "945446553824587776",
-			"quoted_status_permalink": {
-				"url": "https://t.co/TurZmAS5A2",
-				"expanded": "https://twitter.com/rosieslewis/status/945446553824587776",
-				"display": "twitter.com/rosieslewis/st…"
-			},
-			"retweet_count": 39,
-			"favorite_count": 51,
-			"favorited": false,
-			"retweeted": false,
-			"possibly_sensitive": false,
-			"lang": "en"
-		},
-		"retweet_count": 52,
-		"favorite_count": 101,
-		"favorited": false,
-		"retweeted": false,
-		"possibly_sensitive": false,
-		"lang": "en",
-		"text": "Ummmmm no!\nOnly for incompetent, lazy, wannabe politicians who can’t be bothered checking their dual citizenship status.\nNext great debate, the only one politicians should be having is #UluruStatement and #Indigenous voice. https://t.co/o6IUctCDvh"
-	},
-	{
-		"created_at": "Wed Dec 27 19:59:15 +0000 2017",
-		"id": 945889848564387800,
-		"id_str": "946108234372284416",
-		"full_text": "If you want to see how absolutely and horrifyingly broken Google search has become, search for “Canada goose”, expecting to find results for the species... go ahead, I’ll wait.",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			176
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": []
-		},
-		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 1716121,
-			"id_str": "1716121",
-			"name": "Bryan William Jones",
-			"screen_name": "BWJones",
-			"location": "In The Data",
-			"description": "Neuroscientist, photographer, advocate for specialized knowledge.       PI/Director for @Marclab_Utah Connectomics",
-			"url": "https://t.co/lahSU2Qqep",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/lahSU2Qqep",
-							"expanded_url": "http://prometheus.med.utah.edu/~bwjones/",
-							"display_url": "prometheus.med.utah.edu/~bwjones/",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 17824,
-			"friends_count": 1615,
-			"listed_count": 464,
-			"created_at": "Wed Mar 21 05:42:08 +0000 2007",
-			"favourites_count": 252579,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": true,
-			"statuses_count": 167861,
-			"lang": null,
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "9AE4E8",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": true,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/756507619544576000/KNg4ymzT_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/756507619544576000/KNg4ymzT_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1716121/1387587460",
-			"profile_link_color": "0000FF",
-			"profile_sidebar_border_color": "87BC44",
-			"profile_sidebar_fill_color": "E0FF92",
-			"profile_text_color": "000000",
-			"profile_use_background_image": true,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none",
-			"withheld_in_countries": []
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": {
-			"id": "bd7c511e9f8bc5da",
-			"url": "https://api.twitter.com/1.1/geo/id/bd7c511e9f8bc5da.json",
-			"place_type": "city",
-			"name": "Salt Lake City",
-			"full_name": "Salt Lake City, UT",
-			"country_code": "US",
-			"country": "United States",
-			"contained_within": [],
-			"bounding_box": {
-				"type": "Polygon",
-				"coordinates": [
-					[
-						[
-							-112.0383105,
-							40.6998952
-						],
-						[
-							-111.795741,
-							40.6998952
-						],
-						[
-							-111.795741,
-							40.8317151
-						],
-						[
-							-112.0383105,
-							40.8317151
-						]
-					]
-				]
-			},
-			"attributes": {}
-		},
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 32,
-		"favorite_count": 80,
-		"favorited": false,
-		"retweeted": false,
-		"lang": "en",
-		"text": "If you want to see how absolutely and horrifyingly broken Google search has become, search for “Canada goose”, expecting to find results for the species... go ahead, I’ll wait."
 	}
 ]
