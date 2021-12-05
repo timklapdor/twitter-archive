@@ -1,6 +1,322 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Sat Dec 04 23:35:07 +0000 2021",
+		"id": 1467276308488941600,
+		"id_str": "1467276308488941568",
+		"full_text": "Watching these antivax protests and I’m wondering - who the fuck even owns a flag? I mean really, where do you even buy them? What need could you possibly have to go and buy one?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Adelaide, South Australia",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
+			"url": "https://t.co/uC0c3me6KE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uC0c3me6KE",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 824,
+			"friends_count": 162,
+			"listed_count": 88,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 9585,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15229,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Watching these antivax protests and I’m wondering - who the fuck even owns a flag? I mean really, where do you even buy them? What need could you possibly have to go and buy one?"
+	},
+	{
+		"created_at": "Sat Dec 04 20:43:47 +0000 2021",
+		"id": 1467233190754795500,
+		"id_str": "1467233190754795520",
+		"full_text": "Crazy story &amp; scam. https://t.co/rx4RXuRx3L",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rx4RXuRx3L",
+					"expanded_url": "https://twitter.com/AmyJBrittain/status/1466817844209987585",
+					"display_url": "twitter.com/AmyJBrittain/s…",
+					"indices": [
+						24,
+						47
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Adelaide, South Australia",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
+			"url": "https://t.co/uC0c3me6KE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uC0c3me6KE",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 824,
+			"friends_count": 162,
+			"listed_count": 88,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 9585,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15229,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1466817844209987600,
+		"quoted_status_id_str": "1466817844209987585",
+		"quoted_status_permalink": {
+			"url": "https://t.co/rx4RXuRx3L",
+			"expanded": "https://twitter.com/AmyJBrittain/status/1466817844209987585",
+			"display": "twitter.com/AmyJBrittain/s…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Dec 03 17:13:20 +0000 2021",
+			"id": 1466817844209987600,
+			"id_str": "1466817844209987585",
+			"full_text": "This is bonkers. Musician Benn Jordan has accused former NYT investigative reporter Ian Urbina of \"Oceans 11 levels of deceit\" by hyping promo/coverage of his reporting project &amp; convincing 100s of musicians to sign contracts that led to loss of royalties. https://t.co/hLQhzQIODy",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				284
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/hLQhzQIODy",
+						"expanded_url": "https://youtu.be/zk872ERRVxA",
+						"display_url": "youtu.be/zk872ERRVxA",
+						"indices": [
+							261,
+							284
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 211643692,
+				"id_str": "211643692",
+				"name": "Amy Brittain",
+				"screen_name": "AmyJBrittain",
+				"location": "Washington, D.C.",
+				"description": "Investigative reporter for The Washington Post. Host of the new podcast, \"Canary: The Washington Post Investigates.\" amy.brittain@washpost.com",
+				"url": "https://t.co/rj4quzhEgI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/rj4quzhEgI",
+								"expanded_url": "https://www.washingtonpost.com/canary",
+								"display_url": "washingtonpost.com/canary",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 13897,
+				"friends_count": 975,
+				"listed_count": 294,
+				"created_at": "Wed Nov 03 21:05:49 +0000 2010",
+				"favourites_count": 1492,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 564,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1402728423215276043/ZQ5-HEGj_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1402728423215276043/ZQ5-HEGj_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/211643692/1600357267",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 136,
+			"favorite_count": 303,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Crazy story &amp; scam. https://t.co/rx4RXuRx3L"
+	},
+	{
 		"created_at": "Thu Dec 02 21:41:13 +0000 2021",
 		"id": 1466506678145196000,
 		"id_str": "1466522869249175556",
@@ -114,16 +430,16 @@ Grailbird.data.tweets_2021_12 =
 				}
 			},
 			"protected": false,
-			"followers_count": 2977,
-			"friends_count": 4994,
+			"followers_count": 2983,
+			"friends_count": 4996,
 			"listed_count": 40,
 			"created_at": "Sat Dec 26 03:06:18 +0000 2009",
-			"favourites_count": 189265,
+			"favourites_count": 189712,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 62972,
+			"statuses_count": 63102,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -377,16 +693,16 @@ Grailbird.data.tweets_2021_12 =
 				}
 			},
 			"protected": false,
-			"followers_count": 25397,
+			"followers_count": 25401,
 			"friends_count": 3224,
 			"listed_count": 357,
 			"created_at": "Mon May 24 01:26:34 +0000 2010",
-			"favourites_count": 45794,
+			"favourites_count": 45799,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 83168,
+			"statuses_count": 83173,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -417,8 +733,8 @@ Grailbird.data.tweets_2021_12 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 183,
-		"favorite_count": 788,
+		"retweet_count": 182,
+		"favorite_count": 787,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -591,16 +907,16 @@ Grailbird.data.tweets_2021_12 =
 				}
 			},
 			"protected": false,
-			"followers_count": 4460,
-			"friends_count": 877,
+			"followers_count": 4520,
+			"friends_count": 878,
 			"listed_count": 61,
 			"created_at": "Mon Oct 14 08:23:57 +0000 2019",
-			"favourites_count": 1763,
+			"favourites_count": 1783,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 616,
+			"statuses_count": 618,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -631,8 +947,8 @@ Grailbird.data.tweets_2021_12 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 4048,
-		"favorite_count": 10701,
+		"retweet_count": 4171,
+		"favorite_count": 10937,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
