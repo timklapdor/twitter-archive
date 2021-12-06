@@ -1,6 +1,628 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Sun Dec 05 13:01:08 +0000 2021",
+		"id": 1465997284030566400,
+		"id_str": "1467479150139117568",
+		"full_text": "A policy to protect the most vulnerable to criticism in society — Government Ministers. #Auspol #TrollSeeker https://t.co/RdEIYdZ3NC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Auspol",
+					"indices": [
+						88,
+						95
+					]
+				},
+				{
+					"text": "TrollSeeker",
+					"indices": [
+						96,
+						108
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1465996615576002600,
+					"id_str": "1465996615576002562",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1465996615576002562/img/PiMoD_5Lf-PDzidK.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1465996615576002562/img/PiMoD_5Lf-PDzidK.jpg",
+					"url": "https://t.co/RdEIYdZ3NC",
+					"display_url": "pic.twitter.com/RdEIYdZ3NC",
+					"expanded_url": "https://twitter.com/ARationalFear/status/1465997284030566406/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"source_user_id": 15414356,
+					"source_user_id_str": "15414356"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1465996615576002600,
+					"id_str": "1465996615576002562",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1465996615576002562/img/PiMoD_5Lf-PDzidK.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1465996615576002562/img/PiMoD_5Lf-PDzidK.jpg",
+					"url": "https://t.co/RdEIYdZ3NC",
+					"display_url": "pic.twitter.com/RdEIYdZ3NC",
+					"expanded_url": "https://twitter.com/ARationalFear/status/1465997284030566406/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"source_user_id": 15414356,
+					"source_user_id_str": "15414356",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 69866,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1465996615576002562/vid/1280x720/nMCSkVbcSGrVA-5o.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1465996615576002562/pl/XOF9FO7Z8BaE2ZeB.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1465996615576002562/vid/640x360/jcjBEE8IsMyo_hWB.mp4?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1465996615576002562/vid/480x270/M8I-ys70QErqCbcR.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "TrollSeeker — Protecting Australians (who work in Parliament House)",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false,
+						"source_user": {
+							"id": 15414356,
+							"id_str": "15414356",
+							"name": "Dan Ilic 🔣",
+							"screen_name": "danilic",
+							"location": "Gadigal country. Bondi Beach.",
+							"description": "Investigative Humourist.\nHost of @arationalfear.  Bertha Fellow. Comedy Showrunner.",
+							"url": "https://t.co/a1haG88R8X",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/a1haG88R8X",
+											"expanded_url": "https://linktr.ee/danilic",
+											"display_url": "linktr.ee/danilic",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 62229,
+							"friends_count": 11240,
+							"listed_count": 652,
+							"created_at": "Sun Jul 13 12:33:17 +0000 2008",
+							"favourites_count": 70951,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": true,
+							"statuses_count": 15773,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "000000",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1461462685434843137/cpUoJZIy_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1461462685434843137/cpUoJZIy_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/15414356/1593993215",
+							"profile_link_color": "ABB8C2",
+							"profile_sidebar_border_color": "FFFFFF",
+							"profile_sidebar_fill_color": "A0C5C7",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none",
+							"withheld_in_countries": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 505544317,
+			"id_str": "505544317",
+			"name": "A Rational Fear",
+			"screen_name": "ARationalFear",
+			"location": "Canberra",
+			"description": "🏆 Best Comedy Podcast - 2020 Aus Podcast Awards\n🤑 CHIP IN TO OUR PATREON https://t.co/2aqS6tqKb7\nEMAIL LIST: https://t.co/Kp2qoMflov",
+			"url": "https://t.co/NRAhz3uPfn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/NRAhz3uPfn",
+							"expanded_url": "https://arationalfear.com",
+							"display_url": "arationalfear.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/2aqS6tqKb7",
+							"expanded_url": "http://patreon.com/ARationalFear",
+							"display_url": "patreon.com/ARationalFear",
+							"indices": [
+								73,
+								96
+							]
+						},
+						{
+							"url": "https://t.co/Kp2qoMflov",
+							"expanded_url": "http://arationalfear.com",
+							"display_url": "arationalfear.com",
+							"indices": [
+								109,
+								132
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8338,
+			"friends_count": 645,
+			"listed_count": 66,
+			"created_at": "Mon Feb 27 06:45:14 +0000 2012",
+			"favourites_count": 731,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6403,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E81C4F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330357824514256897/4ZN0YKDP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330357824514256897/4ZN0YKDP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/505544317/1392677118",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 31,
+		"favorite_count": 80,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A policy to protect the most vulnerable to criticism in society — Government Ministers. #Auspol #TrollSeeker https://t.co/RdEIYdZ3NC"
+	},
+	{
+		"created_at": "Sun Dec 05 07:11:15 +0000 2021",
+		"id": 1467016319010807800,
+		"id_str": "1467391098255380480",
+		"full_text": "this is a brilliant depiction of the covid situation https://t.co/H43gLVbPPq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1467016199867351000,
+					"id_str": "1467016199867351043",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1467016199867351043/pu/img/kO4ZiuqcCd0EdhE9.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1467016199867351043/pu/img/kO4ZiuqcCd0EdhE9.jpg",
+					"url": "https://t.co/H43gLVbPPq",
+					"display_url": "pic.twitter.com/H43gLVbPPq",
+					"expanded_url": "https://twitter.com/punkarelly/status/1467016319010807817/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1467016199867351000,
+					"id_str": "1467016199867351043",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1467016199867351043/pu/img/kO4ZiuqcCd0EdhE9.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1467016199867351043/pu/img/kO4ZiuqcCd0EdhE9.jpg",
+					"url": "https://t.co/H43gLVbPPq",
+					"display_url": "pic.twitter.com/H43gLVbPPq",
+					"expanded_url": "https://twitter.com/punkarelly/status/1467016319010807817/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 99183,
+						"variants": [
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1467016199867351043/pu/vid/480x852/3ej39LZRPojtgvIF.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1467016199867351043/pu/vid/320x568/h7L4emTD7QZLbFbW.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1467016199867351043/pu/pl/mtsNmRHk78FeK118.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1467016199867351043/pu/vid/576x1024/909H-uF-64ybU-gd.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 866554246203936800,
+			"id_str": "866554246203936768",
+			"name": "krupali 🐙",
+			"screen_name": "punkarelly",
+			"location": "🇧🇼",
+			"description": "Multipotentialite | Curious | Neurodivergent | Passionate about Africa | Innovation | Data Privacy | Cybersecurity",
+			"url": "https://t.co/ByKUspRGeI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ByKUspRGeI",
+							"expanded_url": "https://www.krusletter.com/",
+							"display_url": "krusletter.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 965,
+			"friends_count": 93,
+			"listed_count": 19,
+			"created_at": "Mon May 22 07:20:06 +0000 2017",
+			"favourites_count": 18519,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16667,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1460927109531152390/CQ31-0ma_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1460927109531152390/CQ31-0ma_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/866554246203936768/1637645987",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10181,
+		"favorite_count": 17467,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "this is a brilliant depiction of the covid situation https://t.co/H43gLVbPPq"
+	},
+	{
+		"created_at": "Sun Dec 05 00:36:13 +0000 2021",
+		"id": 1467291686074142700,
+		"id_str": "1467291686074142727",
+		"full_text": "@mdevraj There have been small ones, but was prompted by watching the attempt to storm the ABC in Melbourne.",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			108
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mdevraj",
+					"name": "Dev Mukherjee",
+					"id": 15340674,
+					"id_str": "15340674",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1467277551173136400,
+		"in_reply_to_status_id_str": "1467277551173136384",
+		"in_reply_to_user_id": 15340674,
+		"in_reply_to_user_id_str": "15340674",
+		"in_reply_to_screen_name": "mdevraj",
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Adelaide, South Australia",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
+			"url": "https://t.co/uC0c3me6KE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uC0c3me6KE",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 824,
+			"friends_count": 162,
+			"listed_count": 88,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 9585,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15232,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@mdevraj There have been small ones, but was prompted by watching the attempt to storm the ABC in Melbourne."
+	},
+	{
 		"created_at": "Sat Dec 04 23:35:07 +0000 2021",
 		"id": 1467276308488941600,
 		"id_str": "1467276308488941568",
@@ -58,7 +680,7 @@ Grailbird.data.tweets_2021_12 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15229,
+			"statuses_count": 15232,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -90,7 +712,7 @@ Grailbird.data.tweets_2021_12 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 1,
+		"favorite_count": 3,
 		"favorited": false,
 		"retweeted": false,
 		"lang": "en",
@@ -164,7 +786,7 @@ Grailbird.data.tweets_2021_12 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15229,
+			"statuses_count": 15232,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -261,11 +883,11 @@ Grailbird.data.tweets_2021_12 =
 					}
 				},
 				"protected": false,
-				"followers_count": 13897,
+				"followers_count": 13902,
 				"friends_count": 975,
 				"listed_count": 294,
 				"created_at": "Wed Nov 03 21:05:49 +0000 2010",
-				"favourites_count": 1492,
+				"favourites_count": 1493,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
@@ -301,8 +923,8 @@ Grailbird.data.tweets_2021_12 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 136,
-			"favorite_count": 303,
+			"retweet_count": 159,
+			"favorite_count": 356,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
@@ -430,16 +1052,16 @@ Grailbird.data.tweets_2021_12 =
 				}
 			},
 			"protected": false,
-			"followers_count": 2983,
-			"friends_count": 4996,
+			"followers_count": 2987,
+			"friends_count": 5000,
 			"listed_count": 40,
 			"created_at": "Sat Dec 26 03:06:18 +0000 2009",
-			"favourites_count": 189712,
+			"favourites_count": 189986,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 63102,
+			"statuses_count": 63177,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -693,16 +1315,16 @@ Grailbird.data.tweets_2021_12 =
 				}
 			},
 			"protected": false,
-			"followers_count": 25401,
-			"friends_count": 3224,
+			"followers_count": 25404,
+			"friends_count": 3222,
 			"listed_count": 357,
 			"created_at": "Mon May 24 01:26:34 +0000 2010",
-			"favourites_count": 45799,
+			"favourites_count": 45805,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 83173,
+			"statuses_count": 83187,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -733,8 +1355,8 @@ Grailbird.data.tweets_2021_12 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 182,
-		"favorite_count": 787,
+		"retweet_count": 184,
+		"favorite_count": 796,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -907,16 +1529,16 @@ Grailbird.data.tweets_2021_12 =
 				}
 			},
 			"protected": false,
-			"followers_count": 4520,
+			"followers_count": 4533,
 			"friends_count": 878,
-			"listed_count": 61,
+			"listed_count": 0,
 			"created_at": "Mon Oct 14 08:23:57 +0000 2019",
-			"favourites_count": 1783,
+			"favourites_count": 1791,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 618,
+			"statuses_count": 620,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -947,8 +1569,8 @@ Grailbird.data.tweets_2021_12 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 4171,
-		"favorite_count": 10937,
+		"retweet_count": 4253,
+		"favorite_count": 11087,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,

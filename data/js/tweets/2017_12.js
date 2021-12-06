@@ -69,7 +69,7 @@ Grailbird.data.tweets_2017_12 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15229,
+			"statuses_count": 15232,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -176,7 +176,7 @@ Grailbird.data.tweets_2017_12 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15229,
+			"statuses_count": 15232,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -293,7 +293,7 @@ Grailbird.data.tweets_2017_12 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15229,
+			"statuses_count": 15232,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -400,7 +400,7 @@ Grailbird.data.tweets_2017_12 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15229,
+			"statuses_count": 15232,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -578,16 +578,16 @@ Grailbird.data.tweets_2017_12 =
 				}
 			},
 			"protected": false,
-			"followers_count": 5124,
-			"friends_count": 894,
+			"followers_count": 5123,
+			"friends_count": 895,
 			"listed_count": 101,
 			"created_at": "Wed Sep 30 12:21:19 +0000 2009",
-			"favourites_count": 627,
+			"favourites_count": 630,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 77840,
+			"statuses_count": 77848,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -752,16 +752,16 @@ Grailbird.data.tweets_2017_12 =
 				}
 			},
 			"protected": false,
-			"followers_count": 60215,
+			"followers_count": 60217,
 			"friends_count": 2235,
-			"listed_count": 3111,
+			"listed_count": 3110,
 			"created_at": "Mon Mar 12 23:01:19 +0000 2007",
-			"favourites_count": 34790,
+			"favourites_count": 34792,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 38409,
+			"statuses_count": 38410,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -832,433 +832,5 @@ Grailbird.data.tweets_2017_12 =
 		"possibly_sensitive": false,
 		"lang": "en",
 		"text": "Public libraries: like coworking spaces except, you know, free: https://t.co/ZH6i7i6SF6"
-	},
-	{
-		"created_at": "Fri Dec 29 07:45:17 +0000 2017",
-		"id": 946611413908254700,
-		"id_str": "946648302728003584",
-		"full_text": "Let's get something perfectly clear for the economic illiterates who apparently run government ministries: WELFARE IS AN ENORMOUS BOOST TO THE ECONOMY. EVERY PENNY IS USED TO PAY FOR RENT AND FOOD AND UTILITIES.\n\nIt has a massive economic multiplier effect.",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			257
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": []
-		},
-		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 3099501,
-			"id_str": "3099501",
-			"name": "Mark Pesce #GetAJab 💉💉 #WearAMask 😷",
-			"screen_name": "mpesce",
-			"location": "Sydney, Gadigal Land",
-			"description": "Futurist, inventor, author, educator & speaker. Multi-award-winning columnist @TheRegister. @IEEESpectrum. Award-winning podcaster @nextbillionsecs. 🏳️‍🌈",
-			"url": "http://t.co/bMVYoBWgeS",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "http://t.co/bMVYoBWgeS",
-							"expanded_url": "http://www.markpesce.com",
-							"display_url": "markpesce.com",
-							"indices": [
-								0,
-								22
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 44623,
-			"friends_count": 13511,
-			"listed_count": 1625,
-			"created_at": "Sun Apr 01 03:40:29 +0000 2007",
-			"favourites_count": 4106,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": false,
-			"verified": false,
-			"statuses_count": 295213,
-			"lang": null,
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "0099B9",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1246348184462319616/XZczmf4r_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1246348184462319616/XZczmf4r_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3099501/1604628966",
-			"profile_link_color": "0099B9",
-			"profile_sidebar_border_color": "5ED4DC",
-			"profile_sidebar_fill_color": "95E8EC",
-			"profile_text_color": "3C3940",
-			"profile_use_background_image": true,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none",
-			"withheld_in_countries": []
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 1088,
-		"favorite_count": 2144,
-		"favorited": false,
-		"retweeted": false,
-		"lang": "en",
-		"text": "Let's get something perfectly clear for the economic illiterates who apparently run government ministries: WELFARE IS AN ENORMOUS BOOST TO THE ECONOMY. EVERY PENNY IS USED TO PAY FOR RENT AND FOOD AND UTILITIES.\n\nIt has a massive economic multiplier effect."
-	},
-	{
-		"created_at": "Fri Dec 29 06:49:23 +0000 2017",
-		"id": 946634234395062300,
-		"id_str": "946634234395062272",
-		"full_text": "Rebuilding: Homes and Hospitality. Thankful to have made it out the otherside wiser, happier https://t.co/5pxQxPzV1Q https://t.co/L8FUQ2JOjz",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			116
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": [
-				{
-					"url": "https://t.co/5pxQxPzV1Q",
-					"expanded_url": "https://timklapdor.wordpress.com/2017/12/29/2017-rebuilding-homes-and-hospitality/",
-					"display_url": "timklapdor.wordpress.com/2017/12/29/201…",
-					"indices": [
-						93,
-						116
-					]
-				}
-			],
-			"media": [
-				{
-					"id": 946634230926209000,
-					"id_str": "946634230926209026",
-					"indices": [
-						117,
-						140
-					],
-					"media_url": "http://pbs.twimg.com/media/DSMe0UqU8AIcKih.jpg",
-					"media_url_https": "https://pbs.twimg.com/media/DSMe0UqU8AIcKih.jpg",
-					"url": "https://t.co/L8FUQ2JOjz",
-					"display_url": "pic.twitter.com/L8FUQ2JOjz",
-					"expanded_url": "https://twitter.com/timklapdor/status/946634234395062272/photo/1",
-					"type": "photo",
-					"sizes": {
-						"large": {
-							"w": 1024,
-							"h": 768,
-							"resize": "fit"
-						},
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"medium": {
-							"w": 1024,
-							"h": 768,
-							"resize": "fit"
-						},
-						"small": {
-							"w": 680,
-							"h": 510,
-							"resize": "fit"
-						}
-					}
-				}
-			]
-		},
-		"extended_entities": {
-			"media": [
-				{
-					"id": 946634230926209000,
-					"id_str": "946634230926209026",
-					"indices": [
-						117,
-						140
-					],
-					"media_url": "http://pbs.twimg.com/media/DSMe0UqU8AIcKih.jpg",
-					"media_url_https": "https://pbs.twimg.com/media/DSMe0UqU8AIcKih.jpg",
-					"url": "https://t.co/L8FUQ2JOjz",
-					"display_url": "pic.twitter.com/L8FUQ2JOjz",
-					"expanded_url": "https://twitter.com/timklapdor/status/946634234395062272/photo/1",
-					"type": "photo",
-					"sizes": {
-						"large": {
-							"w": 1024,
-							"h": 768,
-							"resize": "fit"
-						},
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"medium": {
-							"w": 1024,
-							"h": 768,
-							"resize": "fit"
-						},
-						"small": {
-							"w": 680,
-							"h": 510,
-							"resize": "fit"
-						}
-					}
-				}
-			]
-		},
-		"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 174124175,
-			"id_str": "174124175",
-			"name": "Tim Klapdor",
-			"screen_name": "timklapdor",
-			"location": "Adelaide, South Australia",
-			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "https://t.co/uC0c3me6KE",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/uC0c3me6KE",
-							"expanded_url": "http://timklapdor.com",
-							"display_url": "timklapdor.com",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 824,
-			"friends_count": 162,
-			"listed_count": 88,
-			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9585,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 15229,
-			"lang": null,
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "C0DEED",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
-			"profile_link_color": "5FA832",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "DDEEF6",
-			"profile_text_color": "333333",
-			"profile_use_background_image": true,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none",
-			"withheld_in_countries": []
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 2,
-		"favorited": false,
-		"retweeted": false,
-		"possibly_sensitive": false,
-		"lang": "en",
-		"text": "Rebuilding: Homes and Hospitality. Thankful to have made it out the otherside wiser, happier https://t.co/5pxQxPzV1Q https://t.co/L8FUQ2JOjz"
-	},
-	{
-		"created_at": "Fri Dec 29 00:48:29 +0000 2017",
-		"id": 946543409862402000,
-		"id_str": "946543409862402048",
-		"full_text": "@hypervisible @funnymonkey @kinlane @KateMfD @cogdog I’m in if you’re meeting in a virtual room :-)",
-		"truncated": false,
-		"display_text_range": [
-			53,
-			99
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [
-				{
-					"screen_name": "hypervisible",
-					"name": "The North Pole is a fusion center",
-					"id": 175292337,
-					"id_str": "175292337",
-					"indices": [
-						0,
-						13
-					]
-				},
-				{
-					"screen_name": "funnymonkey",
-					"name": "Bill Fitzgerald (he/him)",
-					"id": 12127972,
-					"id_str": "12127972",
-					"indices": [
-						14,
-						26
-					]
-				},
-				{
-					"screen_name": "kinlane",
-					"name": "Kin Lane",
-					"id": 5954192,
-					"id_str": "5954192",
-					"indices": [
-						27,
-						35
-					]
-				},
-				{
-					"screen_name": "KateMfD",
-					"name": "Kate Bowles",
-					"id": 379065166,
-					"id_str": "379065166",
-					"indices": [
-						36,
-						44
-					]
-				},
-				{
-					"screen_name": "cogdog",
-					"name": "Alan Levine",
-					"id": 740343,
-					"id_str": "740343",
-					"indices": [
-						45,
-						52
-					]
-				}
-			],
-			"urls": []
-		},
-		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
-		"in_reply_to_status_id": 946540104813875200,
-		"in_reply_to_status_id_str": "946540104813875200",
-		"in_reply_to_user_id": 175292337,
-		"in_reply_to_user_id_str": "175292337",
-		"in_reply_to_screen_name": "hypervisible",
-		"user": {
-			"id": 174124175,
-			"id_str": "174124175",
-			"name": "Tim Klapdor",
-			"screen_name": "timklapdor",
-			"location": "Adelaide, South Australia",
-			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "https://t.co/uC0c3me6KE",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/uC0c3me6KE",
-							"expanded_url": "http://timklapdor.com",
-							"display_url": "timklapdor.com",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 824,
-			"friends_count": 162,
-			"listed_count": 88,
-			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9585,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 15229,
-			"lang": null,
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "C0DEED",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
-			"profile_link_color": "5FA832",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "DDEEF6",
-			"profile_text_color": "333333",
-			"profile_use_background_image": true,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none",
-			"withheld_in_countries": []
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 2,
-		"favorited": false,
-		"retweeted": false,
-		"lang": "en",
-		"text": "@hypervisible @funnymonkey @kinlane @KateMfD @cogdog I’m in if you’re meeting in a virtual room :-)"
 	}
 ]
