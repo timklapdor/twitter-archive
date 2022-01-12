@@ -1,6 +1,401 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Tue Jan 11 23:55:37 +0000 2022",
+		"id": 1481030999396208600,
+		"id_str": "1481052206048886784",
+		"full_text": "Government waiting for Rapid Anti-Djokovic Polling before fucking up next move\nhttps://t.co/DP0QT9pvqm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DP0QT9pvqm",
+					"expanded_url": "https://www.theshovel.com.au/2022/01/12/government-waiting-for-rapid-anti-djokovic-polling/",
+					"display_url": "theshovel.com.au/2022/01/12/gov…",
+					"indices": [
+						79,
+						102
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 567192377,
+			"id_str": "567192377",
+			"name": "The Shovel",
+			"screen_name": "TheShovel",
+			"location": "",
+			"description": "\"An amusing, humorous website\": Senator James Paterson",
+			"url": "https://t.co/Z2f3RLqD2h",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z2f3RLqD2h",
+							"expanded_url": "http://www.theshovel.com.au",
+							"display_url": "theshovel.com.au",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 87380,
+			"friends_count": 532,
+			"listed_count": 404,
+			"created_at": "Mon Apr 30 12:38:04 +0000 2012",
+			"favourites_count": 837,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6016,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/508746217627455488/WloTAkIV_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/508746217627455488/WloTAkIV_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/567192377/1634189285",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 67,
+		"favorite_count": 455,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Government waiting for Rapid Anti-Djokovic Polling before fucking up next move\nhttps://t.co/DP0QT9pvqm"
+	},
+	{
+		"created_at": "Tue Jan 11 05:57:55 +0000 2022",
+		"id": 1478330605053964300,
+		"id_str": "1480780996354056194",
+		"full_text": "BREAKING \nScott Morrison set to retain ranking as mens no. 1 dickhead despite arrival of tennis player in coming weeks.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 104758530,
+			"id_str": "104758530",
+			"name": "Pup Fiction",
+			"screen_name": "jjjove",
+			"location": "Melbourne",
+			"description": "I have opinions. I have a sense of humour. I am sometimes delusional re the latter. There will be puns - you have been warned",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4292,
+			"friends_count": 465,
+			"listed_count": 14,
+			"created_at": "Thu Jan 14 09:02:01 +0000 2010",
+			"favourites_count": 115538,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 57694,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/880265019111358464/OiwpuP9t_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/880265019111358464/OiwpuP9t_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 89,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "BREAKING \nScott Morrison set to retain ranking as mens no. 1 dickhead despite arrival of tennis player in coming weeks."
+	},
+	{
+		"created_at": "Tue Jan 11 05:57:40 +0000 2022",
+		"id": 1478856489846685700,
+		"id_str": "1480780931262672897",
+		"full_text": "Tired: Seinfeld NFT jokes\nWired: Guy Ritchie NFT jokes https://t.co/oJL0Nw8sNT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			54
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1478856403343261700,
+					"id_str": "1478856403343261704",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1478856403343261704/pu/img/zZbmYWJgOGKfhGhH.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1478856403343261704/pu/img/zZbmYWJgOGKfhGhH.jpg",
+					"url": "https://t.co/oJL0Nw8sNT",
+					"display_url": "pic.twitter.com/oJL0Nw8sNT",
+					"expanded_url": "https://twitter.com/toomuchnick/status/1478856489846685698/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1478856403343261700,
+					"id_str": "1478856403343261704",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1478856403343261704/pu/img/zZbmYWJgOGKfhGhH.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1478856403343261704/pu/img/zZbmYWJgOGKfhGhH.jpg",
+					"url": "https://t.co/oJL0Nw8sNT",
+					"display_url": "pic.twitter.com/oJL0Nw8sNT",
+					"expanded_url": "https://twitter.com/toomuchnick/status/1478856489846685698/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 63992,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1478856403343261704/pu/vid/320x568/zyuMDsXHkDK9UdXz.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1478856403343261704/pu/pl/LIUPGdAqZjnIQHij.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1478856403343261704/pu/vid/576x1024/qDc76E-eIAPmmy9M.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1478856403343261704/pu/vid/480x852/sK1pwxWfJifsGl4q.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1478853000001163300,
+		"in_reply_to_status_id_str": "1478853000001163266",
+		"in_reply_to_user_id": 1084,
+		"in_reply_to_user_id_str": "1084",
+		"in_reply_to_screen_name": "toomuchnick",
+		"user": {
+			"id": 1084,
+			"id_str": "1084",
+			"name": "Little Saint Nick",
+			"screen_name": "toomuchnick",
+			"location": "Brooklyn, NY",
+			"description": "Let's not mince hairs. Co-creator of the fantasy-comedy podcast Roommate From Hell @evilsitcom. Guy in the video about making friends with cats. He/him.",
+			"url": "https://t.co/vGYfa5Naj2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vGYfa5Naj2",
+							"expanded_url": "http://toomuchnick.com",
+							"display_url": "toomuchnick.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14220,
+			"friends_count": 5080,
+			"listed_count": 503,
+			"created_at": "Sun Jul 16 00:42:59 +0000 2006",
+			"favourites_count": 247454,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6181,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1240791841429209088/q1M_zKek_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1240791841429209088/q1M_zKek_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1084/1519844781",
+			"profile_link_color": "000CFF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "D9D9D9",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 259,
+		"favorite_count": 712,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Tired: Seinfeld NFT jokes\nWired: Guy Ritchie NFT jokes https://t.co/oJL0Nw8sNT"
+	},
+	{
 		"created_at": "Sun Jan 09 22:18:03 +0000 2022",
 		"id": 1480302877742559200,
 		"id_str": "1480302877742559232",
@@ -79,7 +474,7 @@ Grailbird.data.tweets_2022_01 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15261,
+			"statuses_count": 15264,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -253,7 +648,7 @@ Grailbird.data.tweets_2022_01 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15261,
+			"statuses_count": 15264,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -350,7 +745,7 @@ Grailbird.data.tweets_2022_01 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15261,
+			"statuses_count": 15264,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -515,16 +910,16 @@ Grailbird.data.tweets_2022_01 =
 				}
 			},
 			"protected": false,
-			"followers_count": 34969,
+			"followers_count": 34983,
 			"friends_count": 4864,
-			"listed_count": 281,
+			"listed_count": 280,
 			"created_at": "Sat Aug 30 16:29:26 +0000 2014",
-			"favourites_count": 27741,
+			"favourites_count": 27761,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 33541,
+			"statuses_count": 33568,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -555,8 +950,8 @@ Grailbird.data.tweets_2022_01 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 70,
-		"favorite_count": 260,
+		"retweet_count": 72,
+		"favorite_count": 262,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -621,7 +1016,7 @@ Grailbird.data.tweets_2022_01 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15261,
+			"statuses_count": 15264,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -705,16 +1100,16 @@ Grailbird.data.tweets_2022_01 =
 				}
 			},
 			"protected": false,
-			"followers_count": 5131,
-			"friends_count": 1382,
+			"followers_count": 5129,
+			"friends_count": 1381,
 			"listed_count": 134,
 			"created_at": "Mon Jun 06 15:25:56 +0000 2011",
-			"favourites_count": 12678,
+			"favourites_count": 12683,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 312160,
+			"statuses_count": 312248,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -821,7 +1216,7 @@ Grailbird.data.tweets_2022_01 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15261,
+			"statuses_count": 15264,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -917,7 +1312,7 @@ Grailbird.data.tweets_2022_01 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15261,
+			"statuses_count": 15264,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1014,16 +1409,16 @@ Grailbird.data.tweets_2022_01 =
 				}
 			},
 			"protected": false,
-			"followers_count": 131254,
-			"friends_count": 3160,
-			"listed_count": 1321,
+			"followers_count": 131287,
+			"friends_count": 3163,
+			"listed_count": 1322,
 			"created_at": "Sun Mar 01 23:19:49 +0000 2009",
-			"favourites_count": 61342,
+			"favourites_count": 61393,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 48905,
+			"statuses_count": 48912,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1110,9 +1505,9 @@ Grailbird.data.tweets_2022_01 =
 					}
 				},
 				"protected": false,
-				"followers_count": 620228,
+				"followers_count": 620792,
 				"friends_count": 1719,
-				"listed_count": 2572,
+				"listed_count": 2569,
 				"created_at": "Wed Apr 22 00:51:17 +0000 2009",
 				"favourites_count": 43,
 				"utc_offset": null,
@@ -1150,8 +1545,8 @@ Grailbird.data.tweets_2022_01 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 9994,
-			"favorite_count": 59397,
+			"retweet_count": 10023,
+			"favorite_count": 59621,
 			"favorited": false,
 			"retweeted": false,
 			"lang": "en"
@@ -1222,7 +1617,7 @@ Grailbird.data.tweets_2022_01 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15261,
+			"statuses_count": 15264,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1329,7 +1724,7 @@ Grailbird.data.tweets_2022_01 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15261,
+			"statuses_count": 15264,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1435,7 +1830,7 @@ Grailbird.data.tweets_2022_01 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15261,
+			"statuses_count": 15264,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1639,16 +2034,16 @@ Grailbird.data.tweets_2022_01 =
 					}
 				},
 				"protected": false,
-				"followers_count": 11414,
-				"friends_count": 4700,
-				"listed_count": 98,
+				"followers_count": 11586,
+				"friends_count": 4750,
+				"listed_count": 99,
 				"created_at": "Fri Sep 14 19:50:11 +0000 2018",
-				"favourites_count": 4452,
+				"favourites_count": 4456,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": false,
-				"statuses_count": 3526,
+				"statuses_count": 3529,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -1679,8 +2074,8 @@ Grailbird.data.tweets_2022_01 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 7688,
-			"favorite_count": 36014,
+			"retweet_count": 7918,
+			"favorite_count": 36784,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
@@ -1752,7 +2147,7 @@ Grailbird.data.tweets_2022_01 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15261,
+			"statuses_count": 15264,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1926,7 +2321,7 @@ Grailbird.data.tweets_2022_01 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15261,
+			"statuses_count": 15264,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2033,7 +2428,7 @@ Grailbird.data.tweets_2022_01 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15261,
+			"statuses_count": 15264,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2117,16 +2512,16 @@ Grailbird.data.tweets_2022_01 =
 					}
 				},
 				"protected": false,
-				"followers_count": 58184,
-				"friends_count": 5205,
-				"listed_count": 1180,
+				"followers_count": 58223,
+				"friends_count": 5208,
+				"listed_count": 1184,
 				"created_at": "Mon Apr 16 08:19:09 +0000 2007",
-				"favourites_count": 22086,
+				"favourites_count": 22131,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": false,
-				"statuses_count": 32411,
+				"statuses_count": 32435,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -2157,8 +2552,8 @@ Grailbird.data.tweets_2022_01 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 2483,
-			"favorite_count": 5905,
+			"retweet_count": 2492,
+			"favorite_count": 5933,
 			"favorited": false,
 			"retweeted": false,
 			"lang": "en"
@@ -2229,7 +2624,7 @@ Grailbird.data.tweets_2022_01 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15261,
+			"statuses_count": 15264,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2336,7 +2731,7 @@ Grailbird.data.tweets_2022_01 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15261,
+			"statuses_count": 15264,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2432,7 +2827,7 @@ Grailbird.data.tweets_2022_01 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15261,
+			"statuses_count": 15264,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2528,7 +2923,7 @@ Grailbird.data.tweets_2022_01 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15261,
+			"statuses_count": 15264,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2635,7 +3030,7 @@ Grailbird.data.tweets_2022_01 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15261,
+			"statuses_count": 15264,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
