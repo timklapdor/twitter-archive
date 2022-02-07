@@ -1,6 +1,829 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Sun Feb 06 22:18:43 +0000 2022",
+		"id": 1490449906896863200,
+		"id_str": "1490449906896863234",
+		"full_text": "If you have access to ALL the information you could possibly need and still manage it the way that they have you are both stupid and incompetent. \n\nWe don’t need an election — we deserve a mass resignation. Every minister should resign for failing the people they represent.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1490446603114934300,
+		"in_reply_to_status_id_str": "1490446603114934272",
+		"in_reply_to_user_id": 174124175,
+		"in_reply_to_user_id_str": "174124175",
+		"in_reply_to_screen_name": "timklapdor",
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Adelaide, South Australia",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
+			"url": "https://t.co/uC0c3me6KE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uC0c3me6KE",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 822,
+			"friends_count": 162,
+			"listed_count": 88,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 9767,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15319,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "If you have access to ALL the information you could possibly need and still manage it the way that they have you are both stupid and incompetent. \n\nWe don’t need an election — we deserve a mass resignation. Every minister should resign for failing the people they represent."
+	},
+	{
+		"created_at": "Sun Feb 06 22:16:07 +0000 2022",
+		"id": 1490449252958765000,
+		"id_str": "1490449252958765056",
+		"full_text": "Or at least covid itself is no longer a crisis. The way governments are handling it  most definitely is. \n\nThey have yet to grasp the reality of this pandemic, which is just unfathomable when your position is to lead.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			217
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1490446603114934300,
+		"in_reply_to_status_id_str": "1490446603114934272",
+		"in_reply_to_user_id": 174124175,
+		"in_reply_to_user_id_str": "174124175",
+		"in_reply_to_screen_name": "timklapdor",
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Adelaide, South Australia",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
+			"url": "https://t.co/uC0c3me6KE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uC0c3me6KE",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 822,
+			"friends_count": 162,
+			"listed_count": 88,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 9767,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15319,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Or at least covid itself is no longer a crisis. The way governments are handling it  most definitely is. \n\nThey have yet to grasp the reality of this pandemic, which is just unfathomable when your position is to lead."
+	},
+	{
+		"created_at": "Sun Feb 06 22:12:42 +0000 2022",
+		"id": 1490448392203681800,
+		"id_str": "1490448392203681792",
+		"full_text": "The problem with that logic is that you’re still treating covid as a crisis. That was fine a year or two ago, but we know what this is now. We have global data sets to base decisions on now. This is not an unknown thing anymore. This isn’t unpredictable. It’s no longer a crisis.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1490446603114934300,
+		"in_reply_to_status_id_str": "1490446603114934272",
+		"in_reply_to_user_id": 174124175,
+		"in_reply_to_user_id_str": "174124175",
+		"in_reply_to_screen_name": "timklapdor",
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Adelaide, South Australia",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
+			"url": "https://t.co/uC0c3me6KE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uC0c3me6KE",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 822,
+			"friends_count": 162,
+			"listed_count": 88,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 9767,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15319,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "The problem with that logic is that you’re still treating covid as a crisis. That was fine a year or two ago, but we know what this is now. We have global data sets to base decisions on now. This is not an unknown thing anymore. This isn’t unpredictable. It’s no longer a crisis."
+	},
+	{
+		"created_at": "Sun Feb 06 22:10:08 +0000 2022",
+		"id": 1490447744477307000,
+		"id_str": "1490447744477306880",
+		"full_text": "There’s already been talk about the next election focusing on the future, and specifically not mentioning covid because it’s not going to go away. Any new government is just going to manage the crisis.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			201
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1490446603114934300,
+		"in_reply_to_status_id_str": "1490446603114934272",
+		"in_reply_to_user_id": 174124175,
+		"in_reply_to_user_id_str": "174124175",
+		"in_reply_to_screen_name": "timklapdor",
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Adelaide, South Australia",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
+			"url": "https://t.co/uC0c3me6KE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uC0c3me6KE",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 822,
+			"friends_count": 162,
+			"listed_count": 88,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 9767,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15319,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "There’s already been talk about the next election focusing on the future, and specifically not mentioning covid because it’s not going to go away. Any new government is just going to manage the crisis."
+	},
+	{
+		"created_at": "Sun Feb 06 22:05:35 +0000 2022",
+		"id": 1490446603114934300,
+		"id_str": "1490446603114934272",
+		"full_text": "Out of curiosity, has the government announced a single measure to combat the NEXT Covid variant? \n\nWe know for certain there will be one. We know our infrastructure and logistics are straining now, so how are we being prepared for what comes next?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			248
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Adelaide, South Australia",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
+			"url": "https://t.co/uC0c3me6KE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uC0c3me6KE",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 822,
+			"friends_count": 162,
+			"listed_count": 88,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 9767,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15319,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Out of curiosity, has the government announced a single measure to combat the NEXT Covid variant? \n\nWe know for certain there will be one. We know our infrastructure and logistics are straining now, so how are we being prepared for what comes next?"
+	},
+	{
+		"created_at": "Sun Feb 06 11:05:15 +0000 2022",
+		"id": 1490280424391975000,
+		"id_str": "1490280424391974916",
+		"full_text": "Hogwarts for Wankers got me. https://t.co/TmVLyueF9S",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			28
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TmVLyueF9S",
+					"expanded_url": "https://twitter.com/nytopinion/status/1489566060328198148",
+					"display_url": "twitter.com/nytopinion/sta…",
+					"indices": [
+						29,
+						52
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Adelaide, South Australia",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
+			"url": "https://t.co/uC0c3me6KE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uC0c3me6KE",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 822,
+			"friends_count": 162,
+			"listed_count": 88,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 9767,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15319,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1489566060328198100,
+		"quoted_status_id_str": "1489566060328198148",
+		"quoted_status_permalink": {
+			"url": "https://t.co/TmVLyueF9S",
+			"expanded": "https://twitter.com/nytopinion/status/1489566060328198148",
+			"display": "twitter.com/nytopinion/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Feb 04 11:46:38 +0000 2022",
+			"id": 1489566060328198100,
+			"id_str": "1489566060328198148",
+			"full_text": "“Seriously I can just come out and say it? Call him a liar?” asks @JonathanPieNews, a fictional broadcast reporter created and performed by comedian Tom Walker, in a satirical video about Britain’s Prime Minister.\n“God bless America.” https://t.co/Hu6Q6q8TBp https://t.co/ojr8Pb1d0S",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				258
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "JonathanPieNews",
+						"name": "Jonathan Pie",
+						"id": 3948308435,
+						"id_str": "3948308435",
+						"indices": [
+							66,
+							82
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/Hu6Q6q8TBp",
+						"expanded_url": "https://nyti.ms/3306M3q",
+						"display_url": "nyti.ms/3306M3q",
+						"indices": [
+							235,
+							258
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1489558925238284300,
+						"id_str": "1489558925238284290",
+						"indices": [
+							259,
+							282
+						],
+						"media_url": "http://pbs.twimg.com/media/FKv_tnoWUAAvUNg.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FKv_tnoWUAAvUNg.jpg",
+						"url": "https://t.co/ojr8Pb1d0S",
+						"display_url": "pic.twitter.com/ojr8Pb1d0S",
+						"expanded_url": "https://twitter.com/nytopinion/status/1489566060328198148/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1489558925238284300,
+						"id_str": "1489558925238284290",
+						"indices": [
+							259,
+							282
+						],
+						"media_url": "http://pbs.twimg.com/media/FKv_tnoWUAAvUNg.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FKv_tnoWUAAvUNg.jpg",
+						"url": "https://t.co/ojr8Pb1d0S",
+						"display_url": "pic.twitter.com/ojr8Pb1d0S",
+						"expanded_url": "https://twitter.com/nytopinion/status/1489566060328198148/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 462044,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1489558925238284290/vid/1280x720/F5aUvpSFtB4HvfXW.mp4?tag=14"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1489558925238284290/pl/rmK6Ck_4edJ6JTix.m3u8?tag=14&container=fmp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1489558925238284290/vid/640x360/mtcy5UWzdAGO7bnh.mp4?tag=14"
+								},
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1489558925238284290/vid/480x270/PUQLBGgIrKH_3CMQ.mp4?tag=14"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16686144,
+				"id_str": "16686144",
+				"name": "New York Times Opinion",
+				"screen_name": "nytopinion",
+				"location": "NYC, London, Paris, Hong Kong",
+				"description": "We amplify voices on the issues that matter to you. | Tell us what you think: letters@nytimes.com",
+				"url": "https://t.co/oy7Q8cSQqk",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/oy7Q8cSQqk",
+								"expanded_url": "http://nytimes.com/opinion",
+								"display_url": "nytimes.com/opinion",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 802501,
+				"friends_count": 1473,
+				"listed_count": 8145,
+				"created_at": "Fri Oct 10 17:32:53 +0000 2008",
+				"favourites_count": 4497,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 216822,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "169ADB",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/963564424278650886/ibjM-Kyv_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/963564424278650886/ibjM-Kyv_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16686144/1580770032",
+				"profile_link_color": "169ADB",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 30283,
+			"favorite_count": 77092,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hogwarts for Wankers got me. https://t.co/TmVLyueF9S"
+	},
+	{
 		"created_at": "Sat Feb 05 02:34:28 +0000 2022",
 		"id": 1489367354207207400,
 		"id_str": "1489789492538257411",
@@ -136,16 +959,16 @@ Grailbird.data.tweets_2022_02 =
 				}
 			},
 			"protected": false,
-			"followers_count": 443,
+			"followers_count": 448,
 			"friends_count": 550,
 			"listed_count": 57,
 			"created_at": "Tue Feb 17 12:24:54 +0000 2009",
-			"favourites_count": 5106,
+			"favourites_count": 5115,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 51116,
+			"statuses_count": 51130,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -176,8 +999,8 @@ Grailbird.data.tweets_2022_02 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 21,
-		"favorite_count": 22,
+		"retweet_count": 23,
+		"favorite_count": 24,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -315,12 +1138,12 @@ Grailbird.data.tweets_2022_02 =
 			"friends_count": 162,
 			"listed_count": 88,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9765,
+			"favourites_count": 9767,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15313,
+			"statuses_count": 15319,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -433,16 +1256,16 @@ Grailbird.data.tweets_2022_02 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8579,
+			"followers_count": 8583,
 			"friends_count": 2690,
 			"listed_count": 91,
 			"created_at": "Fri Aug 17 23:38:38 +0000 2012",
-			"favourites_count": 31334,
+			"favourites_count": 31348,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 15160,
+			"statuses_count": 15172,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -537,16 +1360,16 @@ Grailbird.data.tweets_2022_02 =
 					}
 				},
 				"protected": false,
-				"followers_count": 8579,
+				"followers_count": 8583,
 				"friends_count": 2690,
 				"listed_count": 91,
 				"created_at": "Fri Aug 17 23:38:38 +0000 2012",
-				"favourites_count": 31334,
+				"favourites_count": 31348,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": true,
-				"statuses_count": 15160,
+				"statuses_count": 15172,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -608,8 +1431,8 @@ Grailbird.data.tweets_2022_02 =
 			"urls": [
 				{
 					"url": "https://t.co/kKhDo7ihBJ",
-					"expanded_url": "https://twitter.com/caseybriggs/status/1489388483001348097",
-					"display_url": "twitter.com/caseybriggs/st…",
+					"expanded_url": "https://twitter.com/CaseyBriggs/status/1489388483001348097",
+					"display_url": "twitter.com/CaseyBriggs/st…",
 					"indices": [
 						158,
 						181
@@ -650,16 +1473,16 @@ Grailbird.data.tweets_2022_02 =
 				}
 			},
 			"protected": false,
-			"followers_count": 30190,
-			"friends_count": 8051,
+			"followers_count": 30189,
+			"friends_count": 8054,
 			"listed_count": 431,
 			"created_at": "Thu Apr 03 16:10:25 +0000 2008",
-			"favourites_count": 28542,
+			"favourites_count": 28547,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 49623,
+			"statuses_count": 49634,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -694,8 +1517,8 @@ Grailbird.data.tweets_2022_02 =
 		"quoted_status_id_str": "1489388483001348097",
 		"quoted_status_permalink": {
 			"url": "https://t.co/kKhDo7ihBJ",
-			"expanded": "https://twitter.com/caseybriggs/status/1489388483001348097",
-			"display": "twitter.com/caseybriggs/st…"
+			"expanded": "https://twitter.com/CaseyBriggs/status/1489388483001348097",
+			"display": "twitter.com/CaseyBriggs/st…"
 		},
 		"quoted_status": {
 			"created_at": "Fri Feb 04 00:01:00 +0000 2022",
@@ -847,16 +1670,16 @@ Grailbird.data.tweets_2022_02 =
 					}
 				},
 				"protected": false,
-				"followers_count": 67812,
-				"friends_count": 2113,
+				"followers_count": 67823,
+				"friends_count": 2112,
 				"listed_count": 463,
 				"created_at": "Mon Apr 21 13:15:53 +0000 2008",
-				"favourites_count": 35000,
+				"favourites_count": 35007,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": true,
-				"statuses_count": 5024,
+				"statuses_count": 5038,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -887,15 +1710,15 @@ Grailbird.data.tweets_2022_02 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 205,
-			"favorite_count": 1179,
+			"retweet_count": 207,
+			"favorite_count": 1184,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
 			"lang": "en"
 		},
-		"retweet_count": 530,
-		"favorite_count": 3130,
+		"retweet_count": 534,
+		"favorite_count": 3156,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -976,12 +1799,12 @@ Grailbird.data.tweets_2022_02 =
 			"friends_count": 162,
 			"listed_count": 88,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9765,
+			"favourites_count": 9767,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15313,
+			"statuses_count": 15319,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1195,16 +2018,16 @@ Grailbird.data.tweets_2022_02 =
 				}
 			},
 			"protected": false,
-			"followers_count": 93936,
+			"followers_count": 93947,
 			"friends_count": 136,
-			"listed_count": 0,
+			"listed_count": 327,
 			"created_at": "Wed Aug 26 05:00:56 +0000 2009",
 			"favourites_count": 1105,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 4746,
+			"statuses_count": 4747,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1235,8 +2058,8 @@ Grailbird.data.tweets_2022_02 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 794,
-		"favorite_count": 2177,
+		"retweet_count": 795,
+		"favorite_count": 2179,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
