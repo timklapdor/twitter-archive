@@ -66,7 +66,7 @@ Grailbird.data.tweets_2018_01 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15329,
+			"statuses_count": 15331,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -172,7 +172,7 @@ Grailbird.data.tweets_2018_01 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15329,
+			"statuses_count": 15331,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -277,7 +277,7 @@ Grailbird.data.tweets_2018_01 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15329,
+			"statuses_count": 15331,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -381,7 +381,7 @@ Grailbird.data.tweets_2018_01 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15329,
+			"statuses_count": 15331,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -541,7 +541,7 @@ Grailbird.data.tweets_2018_01 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15329,
+			"statuses_count": 15331,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -647,7 +647,7 @@ Grailbird.data.tweets_2018_01 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15329,
+			"statuses_count": 15331,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -811,7 +811,7 @@ Grailbird.data.tweets_2018_01 =
 				},
 				"protected": false,
 				"followers_count": 531,
-				"friends_count": 575,
+				"friends_count": 576,
 				"listed_count": 30,
 				"created_at": "Fri Jan 09 13:40:57 +0000 2009",
 				"favourites_count": 601,
@@ -944,7 +944,7 @@ Grailbird.data.tweets_2018_01 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15329,
+			"statuses_count": 15331,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1061,7 +1061,7 @@ Grailbird.data.tweets_2018_01 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15329,
+			"statuses_count": 15331,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1178,7 +1178,7 @@ Grailbird.data.tweets_2018_01 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15329,
+			"statuses_count": 15331,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1292,7 +1292,7 @@ Grailbird.data.tweets_2018_01 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15329,
+			"statuses_count": 15331,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1413,12 +1413,12 @@ Grailbird.data.tweets_2018_01 =
 				"friends_count": 2073,
 				"listed_count": 257,
 				"created_at": "Mon Feb 23 04:03:32 +0000 2009",
-				"favourites_count": 37261,
+				"favourites_count": 37263,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": false,
-				"statuses_count": 61234,
+				"statuses_count": 61237,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -1530,7 +1530,7 @@ Grailbird.data.tweets_2018_01 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15329,
+			"statuses_count": 15331,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1617,16 +1617,16 @@ Grailbird.data.tweets_2018_01 =
 				}
 			},
 			"protected": false,
-			"followers_count": 756570,
-			"friends_count": 6175,
-			"listed_count": 7660,
+			"followers_count": 757583,
+			"friends_count": 6177,
+			"listed_count": 7695,
 			"created_at": "Mon Sep 12 23:21:14 +0000 2011",
-			"favourites_count": 37992,
+			"favourites_count": 37997,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 28757,
+			"statuses_count": 28795,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1657,484 +1657,11 @@ Grailbird.data.tweets_2018_01 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 12136,
-		"favorite_count": 20196,
+		"retweet_count": 12135,
+		"favorite_count": 20194,
 		"favorited": false,
 		"retweeted": false,
 		"lang": "en",
 		"text": "This is incredible. Not only did the Dutch hack into Cozy Bear’s network, they also hacked the security cameras outside the building the Russian hackers worked in— allowing them to be identified and compared to known Russian spies. https://t.co/xwD48qeGEd?amp=1"
-	},
-	{
-		"created_at": "Sat Jan 27 13:58:11 +0000 2018",
-		"id": 957251393982644200,
-		"id_str": "957251393982644229",
-		"full_text": "This is a great post from @twoodwar deconstructing the humble Portfolio. We hear a lot about them but this is a really concise practical look at what’s they do and how they can be used. https://t.co/JnW7WiLrXv",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			209
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [
-				{
-					"screen_name": "twoodwar",
-					"name": "Tom Woodward",
-					"id": 10076902,
-					"id_str": "10076902",
-					"indices": [
-						26,
-						35
-					]
-				}
-			],
-			"urls": [
-				{
-					"url": "https://t.co/JnW7WiLrXv",
-					"expanded_url": "http://bionicteaching.com/portfolio-data-visualization/",
-					"display_url": "bionicteaching.com/portfolio-data…",
-					"indices": [
-						186,
-						209
-					]
-				}
-			]
-		},
-		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 174124175,
-			"id_str": "174124175",
-			"name": "Tim Klapdor",
-			"screen_name": "timklapdor",
-			"location": "Adelaide, South Australia",
-			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "https://t.co/uC0c3me6KE",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/uC0c3me6KE",
-							"expanded_url": "http://timklapdor.com",
-							"display_url": "timklapdor.com",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 822,
-			"friends_count": 162,
-			"listed_count": 88,
-			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9805,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 15329,
-			"lang": null,
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "C0DEED",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
-			"profile_link_color": "5FA832",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "DDEEF6",
-			"profile_text_color": "333333",
-			"profile_use_background_image": true,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none",
-			"withheld_in_countries": []
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 4,
-		"favorited": false,
-		"retweeted": false,
-		"possibly_sensitive": false,
-		"lang": "en",
-		"text": "This is a great post from @twoodwar deconstructing the humble Portfolio. We hear a lot about them but this is a really concise practical look at what’s they do and how they can be used. https://t.co/JnW7WiLrXv"
-	},
-	{
-		"created_at": "Sat Jan 27 13:38:31 +0000 2018",
-		"id": 957246444972339200,
-		"id_str": "957246444972339200",
-		"full_text": "Interesting cc @lyn_hay @croftpiggin https://t.co/WzgkfXsOxw",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			36
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [
-				{
-					"screen_name": "lyn_hay",
-					"name": "Lyn Hay",
-					"id": 15843075,
-					"id_str": "15843075",
-					"indices": [
-						15,
-						23
-					]
-				},
-				{
-					"screen_name": "croftpiggin",
-					"name": "Lindy Croft-Piggin",
-					"id": 2481006092,
-					"id_str": "2481006092",
-					"indices": [
-						24,
-						36
-					]
-				}
-			],
-			"urls": [
-				{
-					"url": "https://t.co/WzgkfXsOxw",
-					"expanded_url": "https://twitter.com/Jisc/status/956845972423958529",
-					"display_url": "twitter.com/Jisc/status/95…",
-					"indices": [
-						37,
-						60
-					]
-				}
-			]
-		},
-		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 174124175,
-			"id_str": "174124175",
-			"name": "Tim Klapdor",
-			"screen_name": "timklapdor",
-			"location": "Adelaide, South Australia",
-			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "https://t.co/uC0c3me6KE",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/uC0c3me6KE",
-							"expanded_url": "http://timklapdor.com",
-							"display_url": "timklapdor.com",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 822,
-			"friends_count": 162,
-			"listed_count": 88,
-			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9805,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 15329,
-			"lang": null,
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "C0DEED",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
-			"profile_link_color": "5FA832",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "DDEEF6",
-			"profile_text_color": "333333",
-			"profile_use_background_image": true,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none",
-			"withheld_in_countries": []
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": true,
-		"quoted_status_id": 956845972423958500,
-		"quoted_status_id_str": "956845972423958529",
-		"quoted_status_permalink": {
-			"url": "https://t.co/WzgkfXsOxw",
-			"expanded": "https://twitter.com/Jisc/status/956845972423958529",
-			"display": "twitter.com/Jisc/status/95…"
-		},
-		"quoted_status": {
-			"created_at": "Fri Jan 26 11:07:11 +0000 2018",
-			"id": 956845972423958500,
-			"id_str": "956845972423958529",
-			"full_text": "Designing learning and assessment in a digital age, take a look at our shiny new guide! https://t.co/rk6YufbtLq https://t.co/Q69nCnm3eE",
-			"truncated": false,
-			"display_text_range": [
-				0,
-				111
-			],
-			"entities": {
-				"hashtags": [],
-				"symbols": [],
-				"user_mentions": [],
-				"urls": [
-					{
-						"url": "https://t.co/rk6YufbtLq",
-						"expanded_url": "https://ji.sc/2DRhhr0",
-						"display_url": "ji.sc/2DRhhr0",
-						"indices": [
-							88,
-							111
-						]
-					}
-				],
-				"media": [
-					{
-						"id": 956845970205032400,
-						"id_str": "956845970205032448",
-						"indices": [
-							112,
-							135
-						],
-						"media_url": "http://pbs.twimg.com/media/DUdmVx7VwAA1lVg.jpg",
-						"media_url_https": "https://pbs.twimg.com/media/DUdmVx7VwAA1lVg.jpg",
-						"url": "https://t.co/Q69nCnm3eE",
-						"display_url": "pic.twitter.com/Q69nCnm3eE",
-						"expanded_url": "https://twitter.com/Jisc/status/956845972423958529/photo/1",
-						"type": "photo",
-						"sizes": {
-							"thumb": {
-								"w": 150,
-								"h": 150,
-								"resize": "crop"
-							},
-							"large": {
-								"w": 960,
-								"h": 844,
-								"resize": "fit"
-							},
-							"medium": {
-								"w": 960,
-								"h": 844,
-								"resize": "fit"
-							},
-							"small": {
-								"w": 680,
-								"h": 598,
-								"resize": "fit"
-							}
-						}
-					}
-				]
-			},
-			"extended_entities": {
-				"media": [
-					{
-						"id": 956845970205032400,
-						"id_str": "956845970205032448",
-						"indices": [
-							112,
-							135
-						],
-						"media_url": "http://pbs.twimg.com/media/DUdmVx7VwAA1lVg.jpg",
-						"media_url_https": "https://pbs.twimg.com/media/DUdmVx7VwAA1lVg.jpg",
-						"url": "https://t.co/Q69nCnm3eE",
-						"display_url": "pic.twitter.com/Q69nCnm3eE",
-						"expanded_url": "https://twitter.com/Jisc/status/956845972423958529/photo/1",
-						"type": "photo",
-						"sizes": {
-							"thumb": {
-								"w": 150,
-								"h": 150,
-								"resize": "crop"
-							},
-							"large": {
-								"w": 960,
-								"h": 844,
-								"resize": "fit"
-							},
-							"medium": {
-								"w": 960,
-								"h": 844,
-								"resize": "fit"
-							},
-							"small": {
-								"w": 680,
-								"h": 598,
-								"resize": "fit"
-							}
-						}
-					},
-					{
-						"id": 956845970179858400,
-						"id_str": "956845970179858432",
-						"indices": [
-							112,
-							135
-						],
-						"media_url": "http://pbs.twimg.com/media/DUdmVx1VoAAxvSh.jpg",
-						"media_url_https": "https://pbs.twimg.com/media/DUdmVx1VoAAxvSh.jpg",
-						"url": "https://t.co/Q69nCnm3eE",
-						"display_url": "pic.twitter.com/Q69nCnm3eE",
-						"expanded_url": "https://twitter.com/Jisc/status/956845972423958529/photo/1",
-						"type": "photo",
-						"sizes": {
-							"thumb": {
-								"w": 150,
-								"h": 150,
-								"resize": "crop"
-							},
-							"large": {
-								"w": 450,
-								"h": 450,
-								"resize": "fit"
-							},
-							"medium": {
-								"w": 450,
-								"h": 450,
-								"resize": "fit"
-							},
-							"small": {
-								"w": 450,
-								"h": 450,
-								"resize": "fit"
-							}
-						}
-					}
-				]
-			},
-			"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
-			"in_reply_to_status_id": null,
-			"in_reply_to_status_id_str": null,
-			"in_reply_to_user_id": null,
-			"in_reply_to_user_id_str": null,
-			"in_reply_to_screen_name": null,
-			"user": {
-				"id": 18829580,
-				"id_str": "18829580",
-				"name": "Jisc",
-				"screen_name": "Jisc",
-				"location": "UK",
-				"description": "We work in partnership with the UK’s research and education communities to develop the digital technologies they need to teach, discover and thrive",
-				"url": "https://t.co/PKVm0AILRa",
-				"entities": {
-					"url": {
-						"urls": [
-							{
-								"url": "https://t.co/PKVm0AILRa",
-								"expanded_url": "http://www.jisc.ac.uk",
-								"display_url": "jisc.ac.uk",
-								"indices": [
-									0,
-									23
-								]
-							}
-						]
-					},
-					"description": {
-						"urls": []
-					}
-				},
-				"protected": false,
-				"followers_count": 63770,
-				"friends_count": 1371,
-				"listed_count": 1977,
-				"created_at": "Sat Jan 10 07:32:44 +0000 2009",
-				"favourites_count": 8329,
-				"utc_offset": null,
-				"time_zone": null,
-				"geo_enabled": true,
-				"verified": true,
-				"statuses_count": 34907,
-				"lang": null,
-				"contributors_enabled": false,
-				"is_translator": false,
-				"is_translation_enabled": false,
-				"profile_background_color": "E3E9EE",
-				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-				"profile_background_tile": false,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/1410973964466282506/pd6TVAEM_normal.jpg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1410973964466282506/pd6TVAEM_normal.jpg",
-				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18829580/1639567267",
-				"profile_link_color": "00557F",
-				"profile_sidebar_border_color": "FFFFFF",
-				"profile_sidebar_fill_color": "CCCCCC",
-				"profile_text_color": "333333",
-				"profile_use_background_image": false,
-				"has_extended_profile": false,
-				"default_profile": false,
-				"default_profile_image": false,
-				"following": false,
-				"follow_request_sent": false,
-				"notifications": false,
-				"translator_type": "none",
-				"withheld_in_countries": []
-			},
-			"geo": null,
-			"coordinates": null,
-			"place": null,
-			"contributors": null,
-			"is_quote_status": false,
-			"retweet_count": 104,
-			"favorite_count": 118,
-			"favorited": false,
-			"retweeted": false,
-			"possibly_sensitive": false,
-			"lang": "en"
-		},
-		"retweet_count": 0,
-		"favorite_count": 1,
-		"favorited": false,
-		"retweeted": false,
-		"possibly_sensitive": false,
-		"lang": "in",
-		"text": "Interesting cc @lyn_hay @croftpiggin https://t.co/WzgkfXsOxw"
 	}
 ]
