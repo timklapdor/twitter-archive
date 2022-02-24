@@ -61,12 +61,12 @@ Grailbird.data.tweets_2018_01 =
 			"friends_count": 162,
 			"listed_count": 88,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9805,
+			"favourites_count": 9806,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15331,
+			"statuses_count": 15334,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -167,12 +167,12 @@ Grailbird.data.tweets_2018_01 =
 			"friends_count": 162,
 			"listed_count": 88,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9805,
+			"favourites_count": 9806,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15331,
+			"statuses_count": 15334,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -272,12 +272,12 @@ Grailbird.data.tweets_2018_01 =
 			"friends_count": 162,
 			"listed_count": 88,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9805,
+			"favourites_count": 9806,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15331,
+			"statuses_count": 15334,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -376,12 +376,12 @@ Grailbird.data.tweets_2018_01 =
 			"friends_count": 162,
 			"listed_count": 88,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9805,
+			"favourites_count": 9806,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15331,
+			"statuses_count": 15334,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -536,12 +536,12 @@ Grailbird.data.tweets_2018_01 =
 			"friends_count": 162,
 			"listed_count": 88,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9805,
+			"favourites_count": 9806,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15331,
+			"statuses_count": 15334,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -642,12 +642,12 @@ Grailbird.data.tweets_2018_01 =
 			"friends_count": 162,
 			"listed_count": 88,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9805,
+			"favourites_count": 9806,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15331,
+			"statuses_count": 15334,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -939,12 +939,12 @@ Grailbird.data.tweets_2018_01 =
 			"friends_count": 162,
 			"listed_count": 88,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9805,
+			"favourites_count": 9806,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15331,
+			"statuses_count": 15334,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1056,12 +1056,12 @@ Grailbird.data.tweets_2018_01 =
 			"friends_count": 162,
 			"listed_count": 88,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9805,
+			"favourites_count": 9806,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15331,
+			"statuses_count": 15334,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1173,12 +1173,12 @@ Grailbird.data.tweets_2018_01 =
 			"friends_count": 162,
 			"listed_count": 88,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9805,
+			"favourites_count": 9806,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15331,
+			"statuses_count": 15334,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1215,453 +1215,5 @@ Grailbird.data.tweets_2018_01 =
 		"retweeted": false,
 		"lang": "en",
 		"text": "@twoodwar @IlnickiStudios Part of my answer would be - it depends on how much of it you record and keep. i think a good part of a portfolio is some kind of reflection and process would be great to follow. But often you just don't keep all the lead up work."
-	},
-	{
-		"created_at": "Mon Jan 29 01:42:03 +0000 2018",
-		"id": 957790914058977300,
-		"id_str": "957790914058977280",
-		"full_text": "I find this greatly disturbing. This kind of thing is what should be on the table at an election. \n\nWe shouldn’t be aiming to make a profit out of death. We shouldn’t think thats a great opportunity. \n\n#auspol has become morally bankrupt https://t.co/s0BICqv6VO",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			237
-		],
-		"entities": {
-			"hashtags": [
-				{
-					"text": "auspol",
-					"indices": [
-						202,
-						209
-					]
-				}
-			],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": [
-				{
-					"url": "https://t.co/s0BICqv6VO",
-					"expanded_url": "https://twitter.com/clairebrooks/status/957751887834464256",
-					"display_url": "twitter.com/clairebrooks/s…",
-					"indices": [
-						238,
-						261
-					]
-				}
-			]
-		},
-		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 174124175,
-			"id_str": "174124175",
-			"name": "Tim Klapdor",
-			"screen_name": "timklapdor",
-			"location": "Adelaide, South Australia",
-			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "https://t.co/uC0c3me6KE",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/uC0c3me6KE",
-							"expanded_url": "http://timklapdor.com",
-							"display_url": "timklapdor.com",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 822,
-			"friends_count": 162,
-			"listed_count": 88,
-			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9805,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 15331,
-			"lang": null,
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "C0DEED",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
-			"profile_link_color": "5FA832",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "DDEEF6",
-			"profile_text_color": "333333",
-			"profile_use_background_image": true,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none",
-			"withheld_in_countries": []
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": {
-			"id": "00de77a74e8155fa",
-			"url": "https://api.twitter.com/1.1/geo/id/00de77a74e8155fa.json",
-			"place_type": "city",
-			"name": "Estella",
-			"full_name": "Estella, New South Wales",
-			"country_code": "AU",
-			"country": "Australia",
-			"contained_within": [],
-			"bounding_box": {
-				"type": "Polygon",
-				"coordinates": [
-					[
-						[
-							147.342861344,
-							-35.0844753575
-						],
-						[
-							147.363966496,
-							-35.0844753575
-						],
-						[
-							147.363966496,
-							-35.046804418
-						],
-						[
-							147.342861344,
-							-35.046804418
-						]
-					]
-				]
-			},
-			"attributes": {}
-		},
-		"contributors": null,
-		"is_quote_status": true,
-		"quoted_status_id": 957751887834464300,
-		"quoted_status_id_str": "957751887834464256",
-		"quoted_status_permalink": {
-			"url": "https://t.co/s0BICqv6VO",
-			"expanded": "https://twitter.com/clairebrooks/status/957751887834464256",
-			"display": "twitter.com/clairebrooks/s…"
-		},
-		"quoted_status": {
-			"created_at": "Sun Jan 28 23:06:58 +0000 2018",
-			"id": 957751887834464300,
-			"id_str": "957751887834464256",
-			"full_text": "Australia unveils plan to become one of world’s top 10 arms exporters: Death merchants and then deny refugees asylum. How low have we sunk.https://t.co/2SvvnZO6cx",
-			"truncated": false,
-			"display_text_range": [
-				0,
-				162
-			],
-			"entities": {
-				"hashtags": [],
-				"symbols": [],
-				"user_mentions": [],
-				"urls": [
-					{
-						"url": "https://t.co/2SvvnZO6cx",
-						"expanded_url": "https://www.theguardian.com/world/2018/jan/28/australia-unveils-plan-to-become-one-of-worlds-top-10-arms-exporters?CMP=share_btn_tw",
-						"display_url": "theguardian.com/world/2018/jan…",
-						"indices": [
-							139,
-							162
-						]
-					}
-				]
-			},
-			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-			"in_reply_to_status_id": null,
-			"in_reply_to_status_id_str": null,
-			"in_reply_to_user_id": null,
-			"in_reply_to_user_id_str": null,
-			"in_reply_to_screen_name": null,
-			"user": {
-				"id": 21629610,
-				"id_str": "21629610",
-				"name": "Claire",
-				"screen_name": "clairebrooks",
-				"location": "Wiradjuri/ Wavereoo/Dhudhuroa",
-				"description": "learning, teaching, ed. tech, learning design, org. change.....lots more. #auspol Opinions my own & liable to change, RT's could mean anything",
-				"url": null,
-				"entities": {
-					"description": {
-						"urls": []
-					}
-				},
-				"protected": false,
-				"followers_count": 2600,
-				"friends_count": 2073,
-				"listed_count": 257,
-				"created_at": "Mon Feb 23 04:03:32 +0000 2009",
-				"favourites_count": 37263,
-				"utc_offset": null,
-				"time_zone": null,
-				"geo_enabled": true,
-				"verified": false,
-				"statuses_count": 61237,
-				"lang": null,
-				"contributors_enabled": false,
-				"is_translator": false,
-				"is_translation_enabled": false,
-				"profile_background_color": "352726",
-				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
-				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
-				"profile_background_tile": false,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/1079512322001883136/eCWNCK0S_normal.jpg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1079512322001883136/eCWNCK0S_normal.jpg",
-				"profile_banner_url": "https://pbs.twimg.com/profile_banners/21629610/1584750466",
-				"profile_link_color": "D02B55",
-				"profile_sidebar_border_color": "829D5E",
-				"profile_sidebar_fill_color": "99CC33",
-				"profile_text_color": "3E4415",
-				"profile_use_background_image": true,
-				"has_extended_profile": false,
-				"default_profile": false,
-				"default_profile_image": false,
-				"following": false,
-				"follow_request_sent": false,
-				"notifications": false,
-				"translator_type": "none",
-				"withheld_in_countries": []
-			},
-			"geo": null,
-			"coordinates": null,
-			"place": null,
-			"contributors": null,
-			"is_quote_status": false,
-			"retweet_count": 0,
-			"favorite_count": 1,
-			"favorited": false,
-			"retweeted": false,
-			"possibly_sensitive": false,
-			"lang": "en"
-		},
-		"retweet_count": 0,
-		"favorite_count": 2,
-		"favorited": false,
-		"retweeted": false,
-		"possibly_sensitive": false,
-		"lang": "en",
-		"text": "I find this greatly disturbing. This kind of thing is what should be on the table at an election. \n\nWe shouldn’t be aiming to make a profit out of death. We shouldn’t think thats a great opportunity. \n\n#auspol has become morally bankrupt https://t.co/s0BICqv6VO"
-	},
-	{
-		"created_at": "Sun Jan 28 13:57:11 +0000 2018",
-		"id": 957613530278084600,
-		"id_str": "957613530278084608",
-		"full_text": "Caught up with friends today. Kids played while we all got to talk and eat and drink. Great way to finish the weekend. #twenty18 /28",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			132
-		],
-		"entities": {
-			"hashtags": [
-				{
-					"text": "twenty18",
-					"indices": [
-						119,
-						128
-					]
-				}
-			],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": []
-		},
-		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 174124175,
-			"id_str": "174124175",
-			"name": "Tim Klapdor",
-			"screen_name": "timklapdor",
-			"location": "Adelaide, South Australia",
-			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "https://t.co/uC0c3me6KE",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/uC0c3me6KE",
-							"expanded_url": "http://timklapdor.com",
-							"display_url": "timklapdor.com",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 822,
-			"friends_count": 162,
-			"listed_count": 88,
-			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9805,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 15331,
-			"lang": null,
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "C0DEED",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
-			"profile_link_color": "5FA832",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "DDEEF6",
-			"profile_text_color": "333333",
-			"profile_use_background_image": true,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none",
-			"withheld_in_countries": []
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 0,
-		"favorited": false,
-		"retweeted": false,
-		"lang": "en",
-		"text": "Caught up with friends today. Kids played while we all got to talk and eat and drink. Great way to finish the weekend. #twenty18 /28"
-	},
-	{
-		"created_at": "Sat Jan 27 14:17:41 +0000 2018",
-		"id": 956650716856307700,
-		"id_str": "957256300202782720",
-		"full_text": "This is incredible. Not only did the Dutch hack into Cozy Bear’s network, they also hacked the security cameras outside the building the Russian hackers worked in— allowing them to be identified and compared to known Russian spies. https://t.co/xwD48qeGEd?amp=1",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			261
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": []
-		},
-		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 372536101,
-			"id_str": "372536101",
-			"name": "Natasha Bertrand",
-			"screen_name": "NatashaBertrand",
-			"location": "Washington, DC",
-			"description": "@CNN reporter covering the White House and national security. #ForbesUnder30. Send tips to natasha.bertrand@cnn.com or nbertrand@protonmail.com. DM for Signal.",
-			"url": "https://t.co/JOmxXcguGR",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/JOmxXcguGR",
-							"expanded_url": "https://www.cnn.com/profiles/natasha-bertrand-profile",
-							"display_url": "cnn.com/profiles/natas…",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 757583,
-			"friends_count": 6177,
-			"listed_count": 7695,
-			"created_at": "Mon Sep 12 23:21:14 +0000 2011",
-			"favourites_count": 37997,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": true,
-			"statuses_count": 28795,
-			"lang": null,
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "C6E2EE",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1491103000676474880/3toZTVtx_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1491103000676474880/3toZTVtx_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/372536101/1637285946",
-			"profile_link_color": "1F97C7",
-			"profile_sidebar_border_color": "C6E2EE",
-			"profile_sidebar_fill_color": "DAECF4",
-			"profile_text_color": "663B12",
-			"profile_use_background_image": true,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "regular",
-			"withheld_in_countries": []
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 12135,
-		"favorite_count": 20194,
-		"favorited": false,
-		"retweeted": false,
-		"lang": "en",
-		"text": "This is incredible. Not only did the Dutch hack into Cozy Bear’s network, they also hacked the security cameras outside the building the Russian hackers worked in— allowing them to be identified and compared to known Russian spies. https://t.co/xwD48qeGEd?amp=1"
 	}
 ]
