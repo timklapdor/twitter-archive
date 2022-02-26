@@ -57,8 +57,8 @@ Grailbird.data.tweets_2018_01 =
 				}
 			},
 			"protected": false,
-			"followers_count": 822,
-			"friends_count": 162,
+			"followers_count": 821,
+			"friends_count": 163,
 			"listed_count": 88,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
 			"favourites_count": 9813,
@@ -66,7 +66,7 @@ Grailbird.data.tweets_2018_01 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15334,
+			"statuses_count": 15336,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -163,8 +163,8 @@ Grailbird.data.tweets_2018_01 =
 				}
 			},
 			"protected": false,
-			"followers_count": 822,
-			"friends_count": 162,
+			"followers_count": 821,
+			"friends_count": 163,
 			"listed_count": 88,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
 			"favourites_count": 9813,
@@ -172,7 +172,7 @@ Grailbird.data.tweets_2018_01 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15334,
+			"statuses_count": 15336,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -268,8 +268,8 @@ Grailbird.data.tweets_2018_01 =
 				}
 			},
 			"protected": false,
-			"followers_count": 822,
-			"friends_count": 162,
+			"followers_count": 821,
+			"friends_count": 163,
 			"listed_count": 88,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
 			"favourites_count": 9813,
@@ -277,7 +277,7 @@ Grailbird.data.tweets_2018_01 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15334,
+			"statuses_count": 15336,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -372,8 +372,8 @@ Grailbird.data.tweets_2018_01 =
 				}
 			},
 			"protected": false,
-			"followers_count": 822,
-			"friends_count": 162,
+			"followers_count": 821,
+			"friends_count": 163,
 			"listed_count": 88,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
 			"favourites_count": 9813,
@@ -381,7 +381,7 @@ Grailbird.data.tweets_2018_01 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15334,
+			"statuses_count": 15336,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -532,8 +532,8 @@ Grailbird.data.tweets_2018_01 =
 				}
 			},
 			"protected": false,
-			"followers_count": 822,
-			"friends_count": 162,
+			"followers_count": 821,
+			"friends_count": 163,
 			"listed_count": 88,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
 			"favourites_count": 9813,
@@ -541,7 +541,7 @@ Grailbird.data.tweets_2018_01 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15334,
+			"statuses_count": 15336,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -638,8 +638,8 @@ Grailbird.data.tweets_2018_01 =
 				}
 			},
 			"protected": false,
-			"followers_count": 822,
-			"friends_count": 162,
+			"followers_count": 821,
+			"friends_count": 163,
 			"listed_count": 88,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
 			"favourites_count": 9813,
@@ -647,7 +647,7 @@ Grailbird.data.tweets_2018_01 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15334,
+			"statuses_count": 15336,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -864,356 +864,5 @@ Grailbird.data.tweets_2018_01 =
 		"possibly_sensitive": false,
 		"lang": "en",
 		"text": "Wondering if this would work in Australia too. https://t.co/SMigJa2onD"
-	},
-	{
-		"created_at": "Mon Jan 29 03:56:57 +0000 2018",
-		"id": 957824862281637900,
-		"id_str": "957824862281637888",
-		"full_text": "@twoodwar @IlnickiStudios I'm tidying up a bunch of projects from the last 3 years - and wish we'd done more artefacts along the way for some projects. Agree that tying in the blog would be a great way to go. Help work out loud too.",
-		"truncated": false,
-		"display_text_range": [
-			26,
-			232
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [
-				{
-					"screen_name": "twoodwar",
-					"name": "Tom Woodward",
-					"id": 10076902,
-					"id_str": "10076902",
-					"indices": [
-						0,
-						9
-					]
-				},
-				{
-					"screen_name": "IlnickiStudios",
-					"name": "Andrew Ilnicki",
-					"id": 505943647,
-					"id_str": "505943647",
-					"indices": [
-						10,
-						25
-					]
-				}
-			],
-			"urls": []
-		},
-		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-		"in_reply_to_status_id": 957819000473489400,
-		"in_reply_to_status_id_str": "957819000473489409",
-		"in_reply_to_user_id": 10076902,
-		"in_reply_to_user_id_str": "10076902",
-		"in_reply_to_screen_name": "twoodwar",
-		"user": {
-			"id": 174124175,
-			"id_str": "174124175",
-			"name": "Tim Klapdor",
-			"screen_name": "timklapdor",
-			"location": "Adelaide, South Australia",
-			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "https://t.co/uC0c3me6KE",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/uC0c3me6KE",
-							"expanded_url": "http://timklapdor.com",
-							"display_url": "timklapdor.com",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 822,
-			"friends_count": 162,
-			"listed_count": 88,
-			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9813,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 15334,
-			"lang": null,
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "C0DEED",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
-			"profile_link_color": "5FA832",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "DDEEF6",
-			"profile_text_color": "333333",
-			"profile_use_background_image": true,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none",
-			"withheld_in_countries": []
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 0,
-		"favorited": false,
-		"retweeted": false,
-		"lang": "en",
-		"text": "@twoodwar @IlnickiStudios I'm tidying up a bunch of projects from the last 3 years - and wish we'd done more artefacts along the way for some projects. Agree that tying in the blog would be a great way to go. Help work out loud too."
-	},
-	{
-		"created_at": "Mon Jan 29 03:26:00 +0000 2018",
-		"id": 957817072834105300,
-		"id_str": "957817072834105345",
-		"full_text": "@twoodwar @IlnickiStudios But I recognise that being able to at least track some of the decision making - why you ended up at a point might be a way of making up for the lack of evidence. It's that kind of stuff you would use during a critique or client meeting to support/justify.",
-		"truncated": false,
-		"display_text_range": [
-			26,
-			281
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [
-				{
-					"screen_name": "twoodwar",
-					"name": "Tom Woodward",
-					"id": 10076902,
-					"id_str": "10076902",
-					"indices": [
-						0,
-						9
-					]
-				},
-				{
-					"screen_name": "IlnickiStudios",
-					"name": "Andrew Ilnicki",
-					"id": 505943647,
-					"id_str": "505943647",
-					"indices": [
-						10,
-						25
-					]
-				}
-			],
-			"urls": []
-		},
-		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-		"in_reply_to_status_id": 957816504732405800,
-		"in_reply_to_status_id_str": "957816504732405761",
-		"in_reply_to_user_id": 174124175,
-		"in_reply_to_user_id_str": "174124175",
-		"in_reply_to_screen_name": "timklapdor",
-		"user": {
-			"id": 174124175,
-			"id_str": "174124175",
-			"name": "Tim Klapdor",
-			"screen_name": "timklapdor",
-			"location": "Adelaide, South Australia",
-			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "https://t.co/uC0c3me6KE",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/uC0c3me6KE",
-							"expanded_url": "http://timklapdor.com",
-							"display_url": "timklapdor.com",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 822,
-			"friends_count": 162,
-			"listed_count": 88,
-			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9813,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 15334,
-			"lang": null,
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "C0DEED",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
-			"profile_link_color": "5FA832",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "DDEEF6",
-			"profile_text_color": "333333",
-			"profile_use_background_image": true,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none",
-			"withheld_in_countries": []
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 0,
-		"favorited": false,
-		"retweeted": false,
-		"lang": "en",
-		"text": "@twoodwar @IlnickiStudios But I recognise that being able to at least track some of the decision making - why you ended up at a point might be a way of making up for the lack of evidence. It's that kind of stuff you would use during a critique or client meeting to support/justify."
-	},
-	{
-		"created_at": "Mon Jan 29 03:23:44 +0000 2018",
-		"id": 957816504732405800,
-		"id_str": "957816504732405761",
-		"full_text": "@twoodwar @IlnickiStudios Part of my answer would be - it depends on how much of it you record and keep. i think a good part of a portfolio is some kind of reflection and process would be great to follow. But often you just don't keep all the lead up work.",
-		"truncated": false,
-		"display_text_range": [
-			26,
-			256
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [
-				{
-					"screen_name": "twoodwar",
-					"name": "Tom Woodward",
-					"id": 10076902,
-					"id_str": "10076902",
-					"indices": [
-						0,
-						9
-					]
-				},
-				{
-					"screen_name": "IlnickiStudios",
-					"name": "Andrew Ilnicki",
-					"id": 505943647,
-					"id_str": "505943647",
-					"indices": [
-						10,
-						25
-					]
-				}
-			],
-			"urls": []
-		},
-		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-		"in_reply_to_status_id": 957436405940129800,
-		"in_reply_to_status_id_str": "957436405940129793",
-		"in_reply_to_user_id": 10076902,
-		"in_reply_to_user_id_str": "10076902",
-		"in_reply_to_screen_name": "twoodwar",
-		"user": {
-			"id": 174124175,
-			"id_str": "174124175",
-			"name": "Tim Klapdor",
-			"screen_name": "timklapdor",
-			"location": "Adelaide, South Australia",
-			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "https://t.co/uC0c3me6KE",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/uC0c3me6KE",
-							"expanded_url": "http://timklapdor.com",
-							"display_url": "timklapdor.com",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 822,
-			"friends_count": 162,
-			"listed_count": 88,
-			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9813,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 15334,
-			"lang": null,
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "C0DEED",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
-			"profile_link_color": "5FA832",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "DDEEF6",
-			"profile_text_color": "333333",
-			"profile_use_background_image": true,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none",
-			"withheld_in_countries": []
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 0,
-		"favorited": false,
-		"retweeted": false,
-		"lang": "en",
-		"text": "@twoodwar @IlnickiStudios Part of my answer would be - it depends on how much of it you record and keep. i think a good part of a portfolio is some kind of reflection and process would be great to follow. But often you just don't keep all the lead up work."
 	}
 ]
