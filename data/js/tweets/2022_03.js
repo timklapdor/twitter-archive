@@ -89,16 +89,16 @@ Grailbird.data.tweets_2022_03 =
 				}
 			},
 			"protected": false,
-			"followers_count": 88584,
-			"friends_count": 3393,
-			"listed_count": 2721,
+			"followers_count": 88590,
+			"friends_count": 3395,
+			"listed_count": 2720,
 			"created_at": "Mon Sep 03 11:51:27 +0000 2007",
-			"favourites_count": 249043,
+			"favourites_count": 249331,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 335538,
+			"statuses_count": 335845,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -136,254 +136,8 @@ Grailbird.data.tweets_2022_03 =
 			"expanded": "https://twitter.com/novaya_gazeta/status/1498784549639229444",
 			"display": "twitter.com/novaya_gazeta/…"
 		},
-		"quoted_status": {
-			"created_at": "Tue Mar 01 22:17:37 +0000 2022",
-			"id": 1498784549639229400,
-			"id_str": "1498784549639229444",
-			"full_text": "В ОВД Пресненское детей и их родителей оставляют на ночь. Полиция задержала их, когда они возлагали цветы у посольства Украины\n\nФото: фейсбук https://t.co/Wq3trWsjPN",
-			"truncated": false,
-			"display_text_range": [
-				0,
-				141
-			],
-			"entities": {
-				"hashtags": [],
-				"symbols": [],
-				"user_mentions": [],
-				"urls": [],
-				"media": [
-					{
-						"id": 1498784362048991200,
-						"id_str": "1498784362048991234",
-						"indices": [
-							142,
-							165
-						],
-						"media_url": "http://pbs.twimg.com/media/FMzAb7bXMAI0R-h.jpg",
-						"media_url_https": "https://pbs.twimg.com/media/FMzAb7bXMAI0R-h.jpg",
-						"url": "https://t.co/Wq3trWsjPN",
-						"display_url": "pic.twitter.com/Wq3trWsjPN",
-						"expanded_url": "https://twitter.com/novaya_gazeta/status/1498784549639229444/photo/1",
-						"type": "photo",
-						"sizes": {
-							"thumb": {
-								"w": 150,
-								"h": 150,
-								"resize": "crop"
-							},
-							"medium": {
-								"w": 677,
-								"h": 1200,
-								"resize": "fit"
-							},
-							"large": {
-								"w": 1119,
-								"h": 1983,
-								"resize": "fit"
-							},
-							"small": {
-								"w": 384,
-								"h": 680,
-								"resize": "fit"
-							}
-						}
-					}
-				]
-			},
-			"extended_entities": {
-				"media": [
-					{
-						"id": 1498784362048991200,
-						"id_str": "1498784362048991234",
-						"indices": [
-							142,
-							165
-						],
-						"media_url": "http://pbs.twimg.com/media/FMzAb7bXMAI0R-h.jpg",
-						"media_url_https": "https://pbs.twimg.com/media/FMzAb7bXMAI0R-h.jpg",
-						"url": "https://t.co/Wq3trWsjPN",
-						"display_url": "pic.twitter.com/Wq3trWsjPN",
-						"expanded_url": "https://twitter.com/novaya_gazeta/status/1498784549639229444/photo/1",
-						"type": "photo",
-						"sizes": {
-							"thumb": {
-								"w": 150,
-								"h": 150,
-								"resize": "crop"
-							},
-							"medium": {
-								"w": 677,
-								"h": 1200,
-								"resize": "fit"
-							},
-							"large": {
-								"w": 1119,
-								"h": 1983,
-								"resize": "fit"
-							},
-							"small": {
-								"w": 384,
-								"h": 680,
-								"resize": "fit"
-							}
-						}
-					},
-					{
-						"id": 1498784362044825600,
-						"id_str": "1498784362044825603",
-						"indices": [
-							142,
-							165
-						],
-						"media_url": "http://pbs.twimg.com/media/FMzAb7aXoAMzUsU.jpg",
-						"media_url_https": "https://pbs.twimg.com/media/FMzAb7aXoAMzUsU.jpg",
-						"url": "https://t.co/Wq3trWsjPN",
-						"display_url": "pic.twitter.com/Wq3trWsjPN",
-						"expanded_url": "https://twitter.com/novaya_gazeta/status/1498784549639229444/photo/1",
-						"type": "photo",
-						"sizes": {
-							"medium": {
-								"w": 888,
-								"h": 1200,
-								"resize": "fit"
-							},
-							"large": {
-								"w": 1125,
-								"h": 1520,
-								"resize": "fit"
-							},
-							"thumb": {
-								"w": 150,
-								"h": 150,
-								"resize": "crop"
-							},
-							"small": {
-								"w": 503,
-								"h": 680,
-								"resize": "fit"
-							}
-						}
-					},
-					{
-						"id": 1498784362032214000,
-						"id_str": "1498784362032214020",
-						"indices": [
-							142,
-							165
-						],
-						"media_url": "http://pbs.twimg.com/media/FMzAb7XXMAQYjqy.jpg",
-						"media_url_https": "https://pbs.twimg.com/media/FMzAb7XXMAQYjqy.jpg",
-						"url": "https://t.co/Wq3trWsjPN",
-						"display_url": "pic.twitter.com/Wq3trWsjPN",
-						"expanded_url": "https://twitter.com/novaya_gazeta/status/1498784549639229444/photo/1",
-						"type": "photo",
-						"sizes": {
-							"thumb": {
-								"w": 150,
-								"h": 150,
-								"resize": "crop"
-							},
-							"small": {
-								"w": 510,
-								"h": 680,
-								"resize": "fit"
-							},
-							"medium": {
-								"w": 900,
-								"h": 1200,
-								"resize": "fit"
-							},
-							"large": {
-								"w": 1200,
-								"h": 1600,
-								"resize": "fit"
-							}
-						}
-					}
-				]
-			},
-			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-			"in_reply_to_status_id": null,
-			"in_reply_to_status_id_str": null,
-			"in_reply_to_user_id": null,
-			"in_reply_to_user_id_str": null,
-			"in_reply_to_screen_name": null,
-			"user": {
-				"id": 176515826,
-				"id_str": "176515826",
-				"name": "Новая Газета",
-				"screen_name": "novaya_gazeta",
-				"location": "Moscow",
-				"description": "Рассказываем то, о чем другие боятся даже подумать",
-				"url": "https://t.co/l4R2ZUDGcy",
-				"entities": {
-					"url": {
-						"urls": [
-							{
-								"url": "https://t.co/l4R2ZUDGcy",
-								"expanded_url": "http://t.me/novaya_pishet",
-								"display_url": "t.me/novaya_pishet",
-								"indices": [
-									0,
-									23
-								]
-							}
-						]
-					},
-					"description": {
-						"urls": []
-					}
-				},
-				"protected": false,
-				"followers_count": 608648,
-				"friends_count": 423,
-				"listed_count": 3783,
-				"created_at": "Mon Aug 09 19:07:34 +0000 2010",
-				"favourites_count": 392,
-				"utc_offset": null,
-				"time_zone": null,
-				"geo_enabled": true,
-				"verified": true,
-				"statuses_count": 94188,
-				"lang": null,
-				"contributors_enabled": false,
-				"is_translator": false,
-				"is_translation_enabled": false,
-				"profile_background_color": "0099B9",
-				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
-				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
-				"profile_background_tile": false,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/1269534941471277056/6D9BElh6_normal.jpg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1269534941471277056/6D9BElh6_normal.jpg",
-				"profile_banner_url": "https://pbs.twimg.com/profile_banners/176515826/1620481575",
-				"profile_link_color": "5DAAE5",
-				"profile_sidebar_border_color": "5ED4DC",
-				"profile_sidebar_fill_color": "95E8EC",
-				"profile_text_color": "3C3940",
-				"profile_use_background_image": true,
-				"has_extended_profile": true,
-				"default_profile": false,
-				"default_profile_image": false,
-				"following": false,
-				"follow_request_sent": false,
-				"notifications": false,
-				"translator_type": "none",
-				"withheld_in_countries": []
-			},
-			"geo": null,
-			"coordinates": null,
-			"place": null,
-			"contributors": null,
-			"is_quote_status": false,
-			"retweet_count": 1979,
-			"favorite_count": 4461,
-			"favorited": false,
-			"retweeted": false,
-			"possibly_sensitive": false,
-			"lang": "ru"
-		},
 		"retweet_count": 44,
-		"favorite_count": 51,
+		"favorite_count": 52,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -453,12 +207,12 @@ Grailbird.data.tweets_2022_03 =
 			"friends_count": 163,
 			"listed_count": 88,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9828,
+			"favourites_count": 9841,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15347,
+			"statuses_count": 15345,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -651,16 +405,16 @@ Grailbird.data.tweets_2022_03 =
 					}
 				},
 				"protected": false,
-				"followers_count": 4944,
+				"followers_count": 4950,
 				"friends_count": 6041,
-				"listed_count": 39,
+				"listed_count": 40,
 				"created_at": "Fri May 29 04:16:24 +0000 2015",
-				"favourites_count": 3249,
+				"favourites_count": 3261,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": true,
-				"statuses_count": 2490,
+				"statuses_count": 2496,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -691,8 +445,8 @@ Grailbird.data.tweets_2022_03 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 1108,
-			"favorite_count": 9036,
+			"retweet_count": 1109,
+			"favorite_count": 9062,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
@@ -869,16 +623,16 @@ Grailbird.data.tweets_2022_03 =
 				}
 			},
 			"protected": false,
-			"followers_count": 14606,
-			"friends_count": 1090,
+			"followers_count": 14616,
+			"friends_count": 1080,
 			"listed_count": 61,
 			"created_at": "Fri Sep 13 11:27:14 +0000 2013",
-			"favourites_count": 93673,
+			"favourites_count": 93727,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13605,
+			"statuses_count": 13611,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -909,8 +663,8 @@ Grailbird.data.tweets_2022_03 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 290,
-		"favorite_count": 1879,
+		"retweet_count": 291,
+		"favorite_count": 1884,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
