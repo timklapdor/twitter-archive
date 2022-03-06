@@ -1,6 +1,221 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Sat Mar 05 23:52:38 +0000 2022",
+		"id": 1500205798710190000,
+		"id_str": "1500258012304637953",
+		"full_text": "I see that the National Recovery &amp; Resilience Agency led by Morrison's little mate Shane Stone left Lismore off the priority list for disaster risk funding. Had cool $1.9M for flood risk to a Sydney golf course in 2020-21 though. @YaThinkN @MinhKular @CloudsCreek  @Captainturtle https://t.co/FE3nBrSaYw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			283
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "YaThinkN",
+					"name": "Noely ⚡️🏐",
+					"id": 237612784,
+					"id_str": "237612784",
+					"indices": [
+						234,
+						243
+					]
+				},
+				{
+					"screen_name": "MinhKular",
+					"name": "Socialist Sewer Rat 🐀🐁",
+					"id": 485497413,
+					"id_str": "485497413",
+					"indices": [
+						244,
+						254
+					]
+				},
+				{
+					"screen_name": "CloudsCreek",
+					"name": "Meredith Stanton",
+					"id": 89903229,
+					"id_str": "89903229",
+					"indices": [
+						255,
+						267
+					]
+				},
+				{
+					"screen_name": "Captainturtle",
+					"name": "Captain Turtle",
+					"id": 96909255,
+					"id_str": "96909255",
+					"indices": [
+						269,
+						283
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1500204291277344800,
+					"id_str": "1500204291277344768",
+					"indices": [
+						284,
+						307
+					],
+					"media_url": "http://pbs.twimg.com/media/FNHL2sAaUAABxw-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FNHL2sAaUAABxw-.jpg",
+					"url": "https://t.co/FE3nBrSaYw",
+					"display_url": "pic.twitter.com/FE3nBrSaYw",
+					"expanded_url": "https://twitter.com/no_filter_Yamba/status/1500205798710190080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1500204291277344800,
+					"id_str": "1500204291277344768",
+					"indices": [
+						284,
+						307
+					],
+					"media_url": "http://pbs.twimg.com/media/FNHL2sAaUAABxw-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FNHL2sAaUAABxw-.jpg",
+					"url": "https://t.co/FE3nBrSaYw",
+					"display_url": "pic.twitter.com/FE3nBrSaYw",
+					"expanded_url": "https://twitter.com/no_filter_Yamba/status/1500205798710190080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17479606,
+			"id_str": "17479606",
+			"name": "no_filter_Yamba",
+			"screen_name": "no_filter_Yamba",
+			"location": "Privileged to be on Yaegl land",
+			"description": "Retweets do not always indicate endorsement. As new Twitter version bombards me with ads/promos please be aware non-community group ads/promos will be blocked",
+			"url": "http://t.co/h5TYsUcdmK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/h5TYsUcdmK",
+							"expanded_url": "http://northcoastvoices.blogspot.com",
+							"display_url": "northcoastvoices.blogspot.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2282,
+			"friends_count": 2149,
+			"listed_count": 74,
+			"created_at": "Wed Nov 19 04:04:56 +0000 2008",
+			"favourites_count": 10502,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 122527,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2273037722/yp6zxkttj675na0iff5r_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2273037722/yp6zxkttj675na0iff5r_normal.jpeg",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 487,
+		"favorite_count": 837,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I see that the National Recovery &amp; Resilience Agency led by Morrison's little mate Shane Stone left Lismore off the priority list for disaster risk funding. Had cool $1.9M for flood risk to a Sydney golf course in 2020-21 though. @YaThinkN @MinhKular @CloudsCreek  @Captainturtle https://t.co/FE3nBrSaYw"
+	},
+	{
 		"created_at": "Thu Mar 03 20:22:55 +0000 2022",
 		"id": 1499037291330912300,
 		"id_str": "1499480462145691648",
@@ -89,16 +304,16 @@ Grailbird.data.tweets_2022_03 =
 				}
 			},
 			"protected": false,
-			"followers_count": 88590,
-			"friends_count": 3395,
-			"listed_count": 2720,
+			"followers_count": 88585,
+			"friends_count": 3397,
+			"listed_count": 2721,
 			"created_at": "Mon Sep 03 11:51:27 +0000 2007",
-			"favourites_count": 249331,
+			"favourites_count": 249675,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 335845,
+			"statuses_count": 336207,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -203,16 +418,16 @@ Grailbird.data.tweets_2022_03 =
 				}
 			},
 			"protected": false,
-			"followers_count": 823,
+			"followers_count": 824,
 			"friends_count": 163,
 			"listed_count": 88,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9841,
+			"favourites_count": 9848,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15345,
+			"statuses_count": 15346,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -397,7 +612,7 @@ Grailbird.data.tweets_2022_03 =
 				"name": "Olivia Grace-Curran",
 				"screen_name": "livgracecurran",
 				"location": "",
-				"description": "Chief of Staff & News Editor @9newsaus @nbnnews Central Coast, Newy & Hunter Valley, Mid Coast, Mid North Coast, North West, North Coast, Gold Coast",
+				"description": "Chief of Staff | News Editor | Reporter @9newsaus @nbnnews Central Coast, Newy & Hunter Valley, Mid Coast, Mid Nth Coast, Nth West, Nth Coast, Gold Coast",
 				"url": null,
 				"entities": {
 					"description": {
@@ -405,16 +620,16 @@ Grailbird.data.tweets_2022_03 =
 					}
 				},
 				"protected": false,
-				"followers_count": 4950,
+				"followers_count": 4952,
 				"friends_count": 6041,
 				"listed_count": 40,
 				"created_at": "Fri May 29 04:16:24 +0000 2015",
-				"favourites_count": 3261,
+				"favourites_count": 3274,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": true,
-				"statuses_count": 2496,
+				"statuses_count": 2495,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -445,8 +660,8 @@ Grailbird.data.tweets_2022_03 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 1109,
-			"favorite_count": 9062,
+			"retweet_count": 1111,
+			"favorite_count": 9081,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
@@ -623,16 +838,16 @@ Grailbird.data.tweets_2022_03 =
 				}
 			},
 			"protected": false,
-			"followers_count": 14616,
+			"followers_count": 14620,
 			"friends_count": 1080,
 			"listed_count": 61,
 			"created_at": "Fri Sep 13 11:27:14 +0000 2013",
-			"favourites_count": 93727,
+			"favourites_count": 93756,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13611,
+			"statuses_count": 13612,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -664,7 +879,7 @@ Grailbird.data.tweets_2022_03 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 291,
-		"favorite_count": 1884,
+		"favorite_count": 1885,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
