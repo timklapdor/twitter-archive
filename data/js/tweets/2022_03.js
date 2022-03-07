@@ -1,6 +1,330 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Sun Mar 06 10:17:27 +0000 2022",
+		"id": 1500350052593995800,
+		"id_str": "1500415255335165952",
+		"full_text": "The Northern Rivers situation is increasingly looking like a scandalous failure of government and emergency response that rivals FEMA’s failure after Hurricane Katrina. We should all be ashamed. https://t.co/RYnIv7t3SH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			194
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RYnIv7t3SH",
+					"expanded_url": "https://twitter.com/liammendes/status/1499906439275773953",
+					"display_url": "twitter.com/liammendes/sta…",
+					"indices": [
+						195,
+						218
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 181346324,
+			"id_str": "181346324",
+			"name": "Anthony Burke",
+			"screen_name": "Pool_Depth1_1",
+			"location": "Planet Earth -  Ngunnawal land",
+			"description": "Australian political theorist & international relations professor. Climate, biodiversity, cosmosecurity, Indigenous sovereignty & ecological democracy. He/him.",
+			"url": "https://t.co/T7OnFFdXj3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/T7OnFFdXj3",
+							"expanded_url": "https://www.planetpolitics.org/",
+							"display_url": "planetpolitics.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3311,
+			"friends_count": 2027,
+			"listed_count": 74,
+			"created_at": "Sat Aug 21 23:47:26 +0000 2010",
+			"favourites_count": 37503,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 9386,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1041538026919288832/H4mXGOvS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1041538026919288832/H4mXGOvS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/181346324/1596177246",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1499906439275774000,
+		"quoted_status_id_str": "1499906439275773953",
+		"quoted_status_permalink": {
+			"url": "https://t.co/RYnIv7t3SH",
+			"expanded": "https://twitter.com/liammendes/status/1499906439275773953",
+			"display": "twitter.com/liammendes/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Mar 05 00:35:36 +0000 2022",
+			"id": 1499906439275774000,
+			"id_str": "1499906439275773953",
+			"full_text": "Thread: Heading towards one of the worst-hit areas in northern NSW, I spot a cop with a speed gun.\n\nJust 30 mins away, residents are trapped inside their communities. \n\nThey say they’ve had no assistance from emergency services and are relying on helis and volunteers. https://t.co/6uqIDzMx6O",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				268
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1499896376649724000,
+						"id_str": "1499896376649723904",
+						"indices": [
+							269,
+							292
+						],
+						"media_url": "http://pbs.twimg.com/media/FNCzzsoaMAAiNtQ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FNCzzsoaMAAiNtQ.jpg",
+						"url": "https://t.co/6uqIDzMx6O",
+						"display_url": "pic.twitter.com/6uqIDzMx6O",
+						"expanded_url": "https://twitter.com/liammendes/status/1499906439275773953/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 486,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 857,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1463,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1499896376649724000,
+						"id_str": "1499896376649723904",
+						"indices": [
+							269,
+							292
+						],
+						"media_url": "http://pbs.twimg.com/media/FNCzzsoaMAAiNtQ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FNCzzsoaMAAiNtQ.jpg",
+						"url": "https://t.co/6uqIDzMx6O",
+						"display_url": "pic.twitter.com/6uqIDzMx6O",
+						"expanded_url": "https://twitter.com/liammendes/status/1499906439275773953/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 486,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 857,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1463,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1499896376645533700,
+						"id_str": "1499896376645533698",
+						"indices": [
+							269,
+							292
+						],
+						"media_url": "http://pbs.twimg.com/media/FNCzzsnaQAI3N3h.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FNCzzsnaQAI3N3h.jpg",
+						"url": "https://t.co/6uqIDzMx6O",
+						"display_url": "pic.twitter.com/6uqIDzMx6O",
+						"expanded_url": "https://twitter.com/liammendes/status/1499906439275773953/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 857,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 486,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1463,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 156196279,
+				"id_str": "156196279",
+				"name": "Liam Mendes",
+				"screen_name": "liammendes",
+				"location": "Oceania",
+				"description": "Journalist at the national newspaper, the @australian | liam.mendes@protonmail.com",
+				"url": "https://t.co/AMOiacG3gP",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/AMOiacG3gP",
+								"expanded_url": "http://theaustralian.com.au",
+								"display_url": "theaustralian.com.au",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 906,
+				"friends_count": 471,
+				"listed_count": 13,
+				"created_at": "Wed Jun 16 07:52:47 +0000 2010",
+				"favourites_count": 517,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 248,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1428320093000273923/z1IEZ6Jc_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1428320093000273923/z1IEZ6Jc_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/156196279/1496019192",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1960,
+			"favorite_count": 5697,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 12,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The Northern Rivers situation is increasingly looking like a scandalous failure of government and emergency response that rivals FEMA’s failure after Hurricane Katrina. We should all be ashamed. https://t.co/RYnIv7t3SH"
+	},
+	{
 		"created_at": "Sat Mar 05 23:52:38 +0000 2022",
 		"id": 1500205798710190000,
 		"id_str": "1500258012304637953",
@@ -168,16 +492,16 @@ Grailbird.data.tweets_2022_03 =
 				}
 			},
 			"protected": false,
-			"followers_count": 2282,
+			"followers_count": 2301,
 			"friends_count": 2149,
-			"listed_count": 74,
+			"listed_count": 75,
 			"created_at": "Wed Nov 19 04:04:56 +0000 2008",
-			"favourites_count": 10502,
+			"favourites_count": 10548,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 122527,
+			"statuses_count": 122605,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -207,8 +531,8 @@ Grailbird.data.tweets_2022_03 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 487,
-		"favorite_count": 837,
+		"retweet_count": 944,
+		"favorite_count": 1814,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -304,16 +628,16 @@ Grailbird.data.tweets_2022_03 =
 				}
 			},
 			"protected": false,
-			"followers_count": 88585,
-			"friends_count": 3397,
-			"listed_count": 2721,
+			"followers_count": 88744,
+			"friends_count": 3402,
+			"listed_count": 2722,
 			"created_at": "Mon Sep 03 11:51:27 +0000 2007",
-			"favourites_count": 249675,
+			"favourites_count": 250001,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 336207,
+			"statuses_count": 336521,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -422,12 +746,12 @@ Grailbird.data.tweets_2022_03 =
 			"friends_count": 163,
 			"listed_count": 88,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9848,
+			"favourites_count": 9849,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15346,
+			"statuses_count": 15347,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -620,16 +944,16 @@ Grailbird.data.tweets_2022_03 =
 					}
 				},
 				"protected": false,
-				"followers_count": 4952,
-				"friends_count": 6041,
+				"followers_count": 4953,
+				"friends_count": 6040,
 				"listed_count": 40,
 				"created_at": "Fri May 29 04:16:24 +0000 2015",
-				"favourites_count": 3274,
+				"favourites_count": 3287,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": true,
-				"statuses_count": 2495,
+				"statuses_count": 2499,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -660,8 +984,8 @@ Grailbird.data.tweets_2022_03 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 1111,
-			"favorite_count": 9081,
+			"retweet_count": 1112,
+			"favorite_count": 9082,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
@@ -838,16 +1162,16 @@ Grailbird.data.tweets_2022_03 =
 				}
 			},
 			"protected": false,
-			"followers_count": 14620,
-			"friends_count": 1080,
+			"followers_count": 14639,
+			"friends_count": 1081,
 			"listed_count": 61,
 			"created_at": "Fri Sep 13 11:27:14 +0000 2013",
-			"favourites_count": 93756,
+			"favourites_count": 93760,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13612,
+			"statuses_count": 13613,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -879,7 +1203,7 @@ Grailbird.data.tweets_2022_03 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 291,
-		"favorite_count": 1885,
+		"favorite_count": 1884,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
