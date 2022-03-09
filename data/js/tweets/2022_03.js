@@ -1,6 +1,381 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Mon Mar 07 02:02:12 +0000 2022",
+		"id": 1500653009621368800,
+		"id_str": "1500653009621368833",
+		"full_text": "Cmon. Now the fire service is being roped into flood rescue. How long until politicians do something about climate change? https://t.co/uUWNLl2lhJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uUWNLl2lhJ",
+					"expanded_url": "https://twitter.com/NSWRFS/status/1500267416114196481",
+					"display_url": "twitter.com/NSWRFS/status/…",
+					"indices": [
+						123,
+						146
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Adelaide, South Australia",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
+			"url": "https://t.co/uC0c3me6KE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uC0c3me6KE",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 824,
+			"friends_count": 163,
+			"listed_count": 88,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 9854,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15348,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1500267416114196500,
+		"quoted_status_id_str": "1500267416114196481",
+		"quoted_status_permalink": {
+			"url": "https://t.co/uUWNLl2lhJ",
+			"expanded": "https://twitter.com/NSWRFS/status/1500267416114196481",
+			"display": "twitter.com/NSWRFS/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Mar 06 00:30:00 +0000 2022",
+			"id": 1500267416114196500,
+			"id_str": "1500267416114196481",
+			"full_text": "With so many #NSWRFS firefighters helping the flood response on the north coast, they need somewhere to eat and sleep. This base camp near Lismore includes accommodation, toilets and showers, and even daily COVID tests to keep everyone safe. A huge logistical effort. #nswfloods https://t.co/6X2fnhUWwL",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				278
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "NSWRFS",
+						"indices": [
+							13,
+							20
+						]
+					},
+					{
+						"text": "nswfloods",
+						"indices": [
+							268,
+							278
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1500263590611153000,
+						"id_str": "1500263590611152897",
+						"indices": [
+							279,
+							302
+						],
+						"media_url": "http://pbs.twimg.com/media/FNIByXPUcAEytdm.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FNIByXPUcAEytdm.jpg",
+						"url": "https://t.co/6X2fnhUWwL",
+						"display_url": "pic.twitter.com/6X2fnhUWwL",
+						"expanded_url": "https://twitter.com/NSWRFS/status/1500267416114196481/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 899,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2028,
+								"h": 1520,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1500263590611153000,
+						"id_str": "1500263590611152897",
+						"indices": [
+							279,
+							302
+						],
+						"media_url": "http://pbs.twimg.com/media/FNIByXPUcAEytdm.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FNIByXPUcAEytdm.jpg",
+						"url": "https://t.co/6X2fnhUWwL",
+						"display_url": "pic.twitter.com/6X2fnhUWwL",
+						"expanded_url": "https://twitter.com/NSWRFS/status/1500267416114196481/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 899,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2028,
+								"h": 1520,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1500263619312840700,
+						"id_str": "1500263619312840706",
+						"indices": [
+							279,
+							302
+						],
+						"media_url": "http://pbs.twimg.com/media/FNIB0CKVcAIKfjz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FNIB0CKVcAIKfjz.jpg",
+						"url": "https://t.co/6X2fnhUWwL",
+						"display_url": "pic.twitter.com/6X2fnhUWwL",
+						"expanded_url": "https://twitter.com/NSWRFS/status/1500267416114196481/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2028,
+								"h": 1520,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 899,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1500263620076208000,
+						"id_str": "1500263620076208131",
+						"indices": [
+							279,
+							302
+						],
+						"media_url": "http://pbs.twimg.com/media/FNIB0FAVgAMRoxa.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FNIB0FAVgAMRoxa.jpg",
+						"url": "https://t.co/6X2fnhUWwL",
+						"display_url": "pic.twitter.com/6X2fnhUWwL",
+						"expanded_url": "https://twitter.com/NSWRFS/status/1500267416114196481/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 899,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2028,
+								"h": 1520,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://twitter.com\" rel=\"nofollow\">TweetDeck Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 10926872,
+				"id_str": "10926872",
+				"name": "NSW RFS",
+				"screen_name": "NSWRFS",
+				"location": "New South Wales, Australia",
+				"description": "The NSW Rural Fire Service, the world's largest fire service. Our 74,000 volunteer members provide emergency services to more than 95 percent of NSW.",
+				"url": "https://t.co/IAa7S2qtxv",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/IAa7S2qtxv",
+								"expanded_url": "http://www.rfs.nsw.gov.au",
+								"display_url": "rfs.nsw.gov.au",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 195528,
+				"friends_count": 121,
+				"listed_count": 1423,
+				"created_at": "Fri Dec 07 04:57:55 +0000 2007",
+				"favourites_count": 2122,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 14877,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1150678663265832960/ujqrCyuu_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1150678663265832960/ujqrCyuu_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/10926872/1634957653",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 42,
+			"favorite_count": 196,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Cmon. Now the fire service is being roped into flood rescue. How long until politicians do something about climate change? https://t.co/uUWNLl2lhJ"
+	},
+	{
 		"created_at": "Sun Mar 06 10:17:27 +0000 2022",
 		"id": 1500350052593995800,
 		"id_str": "1500415255335165952",
@@ -59,16 +434,16 @@ Grailbird.data.tweets_2022_03 =
 				}
 			},
 			"protected": false,
-			"followers_count": 3311,
-			"friends_count": 2027,
+			"followers_count": 3315,
+			"friends_count": 2032,
 			"listed_count": 74,
 			"created_at": "Sat Aug 21 23:47:26 +0000 2010",
-			"favourites_count": 37503,
+			"favourites_count": 37574,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 9386,
+			"statuses_count": 9491,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -269,16 +644,16 @@ Grailbird.data.tweets_2022_03 =
 					}
 				},
 				"protected": false,
-				"followers_count": 906,
-				"friends_count": 471,
+				"followers_count": 930,
+				"friends_count": 477,
 				"listed_count": 13,
 				"created_at": "Wed Jun 16 07:52:47 +0000 2010",
-				"favourites_count": 517,
+				"favourites_count": 522,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": true,
-				"statuses_count": 248,
+				"statuses_count": 251,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -309,8 +684,8 @@ Grailbird.data.tweets_2022_03 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 1960,
-			"favorite_count": 5697,
+			"retweet_count": 2011,
+			"favorite_count": 5817,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
@@ -492,16 +867,16 @@ Grailbird.data.tweets_2022_03 =
 				}
 			},
 			"protected": false,
-			"followers_count": 2301,
-			"friends_count": 2149,
-			"listed_count": 75,
+			"followers_count": 2311,
+			"friends_count": 2153,
+			"listed_count": 76,
 			"created_at": "Wed Nov 19 04:04:56 +0000 2008",
-			"favourites_count": 10548,
+			"favourites_count": 10644,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 122605,
+			"statuses_count": 122819,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -531,8 +906,8 @@ Grailbird.data.tweets_2022_03 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 944,
-		"favorite_count": 1814,
+		"retweet_count": 977,
+		"favorite_count": 1862,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -628,16 +1003,16 @@ Grailbird.data.tweets_2022_03 =
 				}
 			},
 			"protected": false,
-			"followers_count": 88744,
-			"friends_count": 3402,
-			"listed_count": 2722,
+			"followers_count": 88819,
+			"friends_count": 3410,
+			"listed_count": 2725,
 			"created_at": "Mon Sep 03 11:51:27 +0000 2007",
-			"favourites_count": 250001,
+			"favourites_count": 250768,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 336521,
+			"statuses_count": 337240,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -746,12 +1121,12 @@ Grailbird.data.tweets_2022_03 =
 			"friends_count": 163,
 			"listed_count": 88,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9849,
+			"favourites_count": 9854,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15347,
+			"statuses_count": 15348,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -944,16 +1319,16 @@ Grailbird.data.tweets_2022_03 =
 					}
 				},
 				"protected": false,
-				"followers_count": 4953,
-				"friends_count": 6040,
+				"followers_count": 4966,
+				"friends_count": 6069,
 				"listed_count": 40,
 				"created_at": "Fri May 29 04:16:24 +0000 2015",
-				"favourites_count": 3287,
+				"favourites_count": 3297,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": true,
-				"statuses_count": 2499,
+				"statuses_count": 2500,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -984,8 +1359,8 @@ Grailbird.data.tweets_2022_03 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 1112,
-			"favorite_count": 9082,
+			"retweet_count": 1115,
+			"favorite_count": 9093,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
@@ -1162,16 +1537,16 @@ Grailbird.data.tweets_2022_03 =
 				}
 			},
 			"protected": false,
-			"followers_count": 14639,
-			"friends_count": 1081,
+			"followers_count": 14643,
+			"friends_count": 1082,
 			"listed_count": 61,
 			"created_at": "Fri Sep 13 11:27:14 +0000 2013",
-			"favourites_count": 93760,
+			"favourites_count": 93830,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 13613,
+			"statuses_count": 13640,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1203,7 +1578,7 @@ Grailbird.data.tweets_2022_03 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 291,
-		"favorite_count": 1884,
+		"favorite_count": 1882,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
