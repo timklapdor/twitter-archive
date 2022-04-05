@@ -1,6 +1,573 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Mon Apr 04 07:02:38 +0000 2022",
+		"id": 1510439999367393300,
+		"id_str": "1510875473500569602",
+		"full_text": "Well @AlanKohler just blew my mind: Global house prices have increased 68% since 1980, and Australian house prices have increased by 568% !",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AlanKohler",
+					"name": "Alan Kohler",
+					"id": 23666107,
+					"id_str": "23666107",
+					"indices": [
+						5,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 12021112,
+			"id_str": "12021112",
+			"name": "Steve Sammartino",
+			"screen_name": "sammartino",
+			"location": "",
+			"description": "TV host @theReboundTV 📺  on Channel 9 - Australia's Leading Futurist 🛰️ Keynote Speaker 🎙️ Innovator⚡️Surfer 🌊",
+			"url": "https://t.co/dmP5Kmbn5m",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dmP5Kmbn5m",
+							"expanded_url": "http://www.stevesammartino.com",
+							"display_url": "stevesammartino.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8188,
+			"friends_count": 295,
+			"listed_count": 403,
+			"created_at": "Wed Jan 09 10:52:42 +0000 2008",
+			"favourites_count": 11969,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 40832,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/865722028245962752/YyAEk5aB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/865722028245962752/YyAEk5aB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/12021112/1555330536",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "D9D9CE",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1260,
+		"favorite_count": 3675,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Well @AlanKohler just blew my mind: Global house prices have increased 68% since 1980, and Australian house prices have increased by 568% !"
+	},
+	{
+		"created_at": "Mon Apr 04 00:27:04 +0000 2022",
+		"id": 1510775925583261700,
+		"id_str": "1510775925583261696",
+		"full_text": "@djplaner Yes! Despite things being digital, the sheer intensive was of the labour involved in moving content between systems and file types is insane - and then you scale it up to an institutional level.",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			204
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "djplaner",
+					"name": "David Jones",
+					"id": 16282582,
+					"id_str": "16282582",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1510768916334751700,
+		"in_reply_to_status_id_str": "1510768916334751748",
+		"in_reply_to_user_id": 16282582,
+		"in_reply_to_user_id_str": "16282582",
+		"in_reply_to_screen_name": "djplaner",
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Adelaide, South Australia",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
+			"url": "https://t.co/uC0c3me6KE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uC0c3me6KE",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 825,
+			"friends_count": 162,
+			"listed_count": 88,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 9937,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15381,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@djplaner Yes! Despite things being digital, the sheer intensive was of the labour involved in moving content between systems and file types is insane - and then you scale it up to an institutional level."
+	},
+	{
+		"created_at": "Sun Apr 03 23:33:36 +0000 2022",
+		"id": 1510740859658117000,
+		"id_str": "1510762470667071491",
+		"full_text": "As part of our sponsorship, we asked @McLarenF1 a simple question. What can a logo on a car actually accomplish? Help us support @DeadlyScience and let’s make this matter. #SponsorX  https://t.co/HuTdHxQxQE https://t.co/1ykkqAdGWi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			206
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SponsorX",
+					"indices": [
+						172,
+						181
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "McLarenF1",
+					"name": "McLaren",
+					"id": 24871896,
+					"id_str": "24871896",
+					"indices": [
+						37,
+						47
+					]
+				},
+				{
+					"screen_name": "DeadlyScience",
+					"name": "DeadlyScience",
+					"id": 1127358323051749400,
+					"id_str": "1127358323051749378",
+					"indices": [
+						129,
+						143
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/HuTdHxQxQE",
+					"expanded_url": "https://bit.ly/38cEJjt",
+					"display_url": "bit.ly/38cEJjt",
+					"indices": [
+						183,
+						206
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1510740644033085400,
+					"id_str": "1510740644033085443",
+					"indices": [
+						207,
+						230
+					],
+					"media_url": "http://pbs.twimg.com/media/FPc6zR1XwAo66BJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPc6zR1XwAo66BJ.jpg",
+					"url": "https://t.co/1ykkqAdGWi",
+					"display_url": "pic.twitter.com/1ykkqAdGWi",
+					"expanded_url": "https://twitter.com/Smartsheet/status/1510740859658117120/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1510740644033085400,
+					"id_str": "1510740644033085443",
+					"indices": [
+						207,
+						230
+					],
+					"media_url": "http://pbs.twimg.com/media/FPc6zR1XwAo66BJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPc6zR1XwAo66BJ.jpg",
+					"url": "https://t.co/1ykkqAdGWi",
+					"display_url": "pic.twitter.com/1ykkqAdGWi",
+					"expanded_url": "https://twitter.com/Smartsheet/status/1510740859658117120/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 171800,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1510740644033085443/vid/480x270/Wp1NXs990-dJrcGp.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1510740644033085443/vid/1280x720/WluN_jj3oh9nOofr.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1510740644033085443/pl/PIiIui7rA4zClxPQ.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1510740644033085443/vid/640x360/iX4IjvwoLaC_N0a2.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "This is Sponsor X: Meet DeadlyScience",
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16221374,
+			"id_str": "16221374",
+			"name": "Smartsheet",
+			"screen_name": "Smartsheet",
+			"location": "Seattle",
+			"description": "Built for dynamic work, we empower people, teams, and organizations to drive innovation and achieve more. #CanDo",
+			"url": "https://t.co/pV9pXYqcuz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pV9pXYqcuz",
+							"expanded_url": "http://www.smartsheet.com",
+							"display_url": "smartsheet.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 28163,
+			"friends_count": 2467,
+			"listed_count": 852,
+			"created_at": "Wed Sep 10 14:27:32 +0000 2008",
+			"favourites_count": 8918,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 20696,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "386595",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1169389893744676865/172Rpj-E_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1169389893744676865/172Rpj-E_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16221374/1634754679",
+			"profile_link_color": "5190B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 100,
+		"favorite_count": 397,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "As part of our sponsorship, we asked @McLarenF1 a simple question. What can a logo on a car actually accomplish? Help us support @DeadlyScience and let’s make this matter. #SponsorX  https://t.co/HuTdHxQxQE https://t.co/1ykkqAdGWi"
+	},
+	{
+		"created_at": "Sun Apr 03 05:47:51 +0000 2022",
+		"id": 1510494264987304000,
+		"id_str": "1510494264987303942",
+		"full_text": "Working without tools https://t.co/F3GkPsvtEA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/F3GkPsvtEA",
+					"expanded_url": "https://timklapdor.wordpress.com/2022/04/03/working-without-tools/",
+					"display_url": "timklapdor.wordpress.com/2022/04/03/wor…",
+					"indices": [
+						22,
+						45
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Adelaide, South Australia",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
+			"url": "https://t.co/uC0c3me6KE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uC0c3me6KE",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 825,
+			"friends_count": 162,
+			"listed_count": 88,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 9937,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15381,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Working without tools https://t.co/F3GkPsvtEA"
+	},
+	{
 		"created_at": "Sun Apr 03 00:11:29 +0000 2022",
 		"id": 1510406730961854500,
 		"id_str": "1510409617511444480",
@@ -187,16 +754,16 @@ Grailbird.data.tweets_2022_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 138764,
+			"followers_count": 138951,
 			"friends_count": 641,
-			"listed_count": 822,
+			"listed_count": 820,
 			"created_at": "Wed Jan 23 03:33:46 +0000 2013",
 			"favourites_count": 326,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 11741,
+			"statuses_count": 11742,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -227,8 +794,8 @@ Grailbird.data.tweets_2022_04 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 52,
-		"favorite_count": 109,
+		"retweet_count": 153,
+		"favorite_count": 380,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -428,16 +995,16 @@ Grailbird.data.tweets_2022_04 =
 								}
 							},
 							"protected": false,
-							"followers_count": 69820,
-							"friends_count": 11500,
-							"listed_count": 672,
+							"followers_count": 70156,
+							"friends_count": 11507,
+							"listed_count": 673,
 							"created_at": "Sun Jul 13 12:33:17 +0000 2008",
-							"favourites_count": 77898,
+							"favourites_count": 78060,
 							"utc_offset": null,
 							"time_zone": null,
 							"geo_enabled": true,
 							"verified": true,
-							"statuses_count": 20887,
+							"statuses_count": 21057,
 							"lang": null,
 							"contributors_enabled": false,
 							"is_translator": false,
@@ -500,16 +1067,16 @@ Grailbird.data.tweets_2022_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 3952,
-			"friends_count": 1993,
-			"listed_count": 15,
+			"followers_count": 4250,
+			"friends_count": 2055,
+			"listed_count": 16,
 			"created_at": "Fri Jan 21 00:22:09 +0000 2022",
-			"favourites_count": 137,
+			"favourites_count": 141,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 308,
+			"statuses_count": 323,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -540,8 +1107,8 @@ Grailbird.data.tweets_2022_04 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 2118,
-		"favorite_count": 4402,
+		"retweet_count": 2344,
+		"favorite_count": 4843,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -670,16 +1237,16 @@ Grailbird.data.tweets_2022_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 6235,
-			"friends_count": 5003,
-			"listed_count": 57,
+			"followers_count": 6236,
+			"friends_count": 5023,
+			"listed_count": 0,
 			"created_at": "Mon Feb 04 01:31:46 +0000 2013",
-			"favourites_count": 12352,
+			"favourites_count": 12356,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 28728,
+			"statuses_count": 28736,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -710,8 +1277,8 @@ Grailbird.data.tweets_2022_04 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 610,
-		"favorite_count": 1394,
+		"retweet_count": 624,
+		"favorite_count": 1447,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -767,16 +1334,16 @@ Grailbird.data.tweets_2022_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 4828,
-			"friends_count": 707,
-			"listed_count": 249,
+			"followers_count": 4829,
+			"friends_count": 709,
+			"listed_count": 0,
 			"created_at": "Sat Sep 24 09:18:58 +0000 2011",
-			"favourites_count": 28124,
+			"favourites_count": 28152,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 38519,
+			"statuses_count": 38528,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
