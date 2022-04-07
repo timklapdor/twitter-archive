@@ -1,6 +1,733 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Wed Apr 06 22:19:26 +0000 2022",
+		"id": 1511802032692203500,
+		"id_str": "1511830970668036097",
+		"full_text": "Sydney will today pass its average annual rainfall .. around 1200mm now .. only just past 3 months into the year https://t.co/atJzV8d4vM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1511802026199376000,
+					"id_str": "1511802026199375872",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/FPr_7tZUYAA6gGE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPr_7tZUYAA6gGE.jpg",
+					"url": "https://t.co/atJzV8d4vM",
+					"display_url": "pic.twitter.com/atJzV8d4vM",
+					"expanded_url": "https://twitter.com/JoeDoesNews/status/1511802032692203523/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 445,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 785,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1925,
+							"h": 1259,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1511802026199376000,
+					"id_str": "1511802026199375872",
+					"indices": [
+						113,
+						136
+					],
+					"media_url": "http://pbs.twimg.com/media/FPr_7tZUYAA6gGE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPr_7tZUYAA6gGE.jpg",
+					"url": "https://t.co/atJzV8d4vM",
+					"display_url": "pic.twitter.com/atJzV8d4vM",
+					"expanded_url": "https://twitter.com/JoeDoesNews/status/1511802032692203523/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 445,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 785,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1925,
+							"h": 1259,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 337382401,
+			"id_str": "337382401",
+			"name": "Joe O'Brien",
+			"screen_name": "JoeDoesNews",
+			"location": "Australia",
+			"description": "News coverage .. primarily Australia Other bits and pieces Quotes from key players not my views",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 42299,
+			"friends_count": 898,
+			"listed_count": 392,
+			"created_at": "Sun Jul 17 23:13:24 +0000 2011",
+			"favourites_count": 8833,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 29683,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1500201730428260352/BXkxwr7O_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1500201730428260352/BXkxwr7O_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/337382401/1640465031",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "A8C7F7",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 122,
+		"favorite_count": 468,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Sydney will today pass its average annual rainfall .. around 1200mm now .. only just past 3 months into the year https://t.co/atJzV8d4vM"
+	},
+	{
+		"created_at": "Wed Apr 06 07:16:38 +0000 2022",
+		"id": 1511603774024196000,
+		"id_str": "1511603774024196102",
+		"full_text": "@djplaner @travisaholland And that means paying staff to change — to actually do the work and be directly compensated for it. Without that there's little hope it will happen or result in anything except on the edges.",
+		"truncated": false,
+		"display_text_range": [
+			26,
+			216
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "djplaner",
+					"name": "David Jones",
+					"id": 16282582,
+					"id_str": "16282582",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "travisaholland",
+					"name": "Travis Holland",
+					"id": 22888086,
+					"id_str": "22888086",
+					"indices": [
+						10,
+						25
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1511550840674427000,
+		"in_reply_to_status_id_str": "1511550840674426884",
+		"in_reply_to_user_id": 16282582,
+		"in_reply_to_user_id_str": "16282582",
+		"in_reply_to_screen_name": "djplaner",
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Adelaide, South Australia",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
+			"url": "https://t.co/uC0c3me6KE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uC0c3me6KE",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 826,
+			"friends_count": 162,
+			"listed_count": 88,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 9936,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15389,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@djplaner @travisaholland And that means paying staff to change — to actually do the work and be directly compensated for it. Without that there's little hope it will happen or result in anything except on the edges."
+	},
+	{
+		"created_at": "Wed Apr 06 07:15:33 +0000 2022",
+		"id": 1511603500459135000,
+		"id_str": "1511603500459134976",
+		"full_text": "@djplaner @travisaholland One is certainly having a direct hand in change the other is more influential - providing was and motivation but without real directed intervention. In those circumstances the idea or value of change isn't enough - institutions need to directly support and invest in it.",
+		"truncated": false,
+		"display_text_range": [
+			26,
+			296
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "djplaner",
+					"name": "David Jones",
+					"id": 16282582,
+					"id_str": "16282582",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "travisaholland",
+					"name": "Travis Holland",
+					"id": 22888086,
+					"id_str": "22888086",
+					"indices": [
+						10,
+						25
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1511550840674427000,
+		"in_reply_to_status_id_str": "1511550840674426884",
+		"in_reply_to_user_id": 16282582,
+		"in_reply_to_user_id_str": "16282582",
+		"in_reply_to_screen_name": "djplaner",
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Adelaide, South Australia",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
+			"url": "https://t.co/uC0c3me6KE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uC0c3me6KE",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 826,
+			"friends_count": 162,
+			"listed_count": 88,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 9936,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15389,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@djplaner @travisaholland One is certainly having a direct hand in change the other is more influential - providing was and motivation but without real directed intervention. In those circumstances the idea or value of change isn't enough - institutions need to directly support and invest in it."
+	},
+	{
+		"created_at": "Wed Apr 06 07:13:25 +0000 2022",
+		"id": 1511602963134894000,
+		"id_str": "1511602963134894080",
+		"full_text": "@djplaner @travisaholland That challenge of where you work - new or existing - is really hard. I am \"lucky\" to be working on new courses/programs. I was on the periphery of existing course uplift with developing \"strategies\" for improving online learning. But didn't work on implementation.",
+		"truncated": false,
+		"display_text_range": [
+			26,
+			290
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "djplaner",
+					"name": "David Jones",
+					"id": 16282582,
+					"id_str": "16282582",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "travisaholland",
+					"name": "Travis Holland",
+					"id": 22888086,
+					"id_str": "22888086",
+					"indices": [
+						10,
+						25
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1511550840674427000,
+		"in_reply_to_status_id_str": "1511550840674426884",
+		"in_reply_to_user_id": 16282582,
+		"in_reply_to_user_id_str": "16282582",
+		"in_reply_to_screen_name": "djplaner",
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Adelaide, South Australia",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
+			"url": "https://t.co/uC0c3me6KE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uC0c3me6KE",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 826,
+			"friends_count": 162,
+			"listed_count": 88,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 9936,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15389,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@djplaner @travisaholland That challenge of where you work - new or existing - is really hard. I am \"lucky\" to be working on new courses/programs. I was on the periphery of existing course uplift with developing \"strategies\" for improving online learning. But didn't work on implementation."
+	},
+	{
+		"created_at": "Wed Apr 06 01:18:29 +0000 2022",
+		"id": 1511513642814312400,
+		"id_str": "1511513642814312448",
+		"full_text": "@travisaholland I did try to get something like this up and running at CSU, more production focused but couldn’t get any buy in. A lot of resistance to change.",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "travisaholland",
+					"name": "Travis Holland",
+					"id": 22888086,
+					"id_str": "22888086",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1511510402726654000,
+		"in_reply_to_status_id_str": "1511510402726653952",
+		"in_reply_to_user_id": 22888086,
+		"in_reply_to_user_id_str": "22888086",
+		"in_reply_to_screen_name": "travisaholland",
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Adelaide, South Australia",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
+			"url": "https://t.co/uC0c3me6KE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uC0c3me6KE",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 826,
+			"friends_count": 162,
+			"listed_count": 88,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 9936,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15389,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@travisaholland I did try to get something like this up and running at CSU, more production focused but couldn’t get any buy in. A lot of resistance to change."
+	},
+	{
+		"created_at": "Wed Apr 06 01:02:13 +0000 2022",
+		"id": 1511509549198737400,
+		"id_str": "1511509549198737409",
+		"full_text": "@catspyjamasnz I love that you love it!",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			39
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "catspyjamasnz",
+					"name": "👩🏻‍💻Joyce Seitzinger #staysafe #getvaccinated",
+					"id": 10451462,
+					"id_str": "10451462",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1511500597849063400,
+		"in_reply_to_status_id_str": "1511500597849063425",
+		"in_reply_to_user_id": 10451462,
+		"in_reply_to_user_id_str": "10451462",
+		"in_reply_to_screen_name": "catspyjamasnz",
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Adelaide, South Australia",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
+			"url": "https://t.co/uC0c3me6KE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uC0c3me6KE",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 826,
+			"friends_count": 162,
+			"listed_count": 88,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 9936,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15389,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@catspyjamasnz I love that you love it!"
+	},
+	{
 		"created_at": "Wed Apr 06 00:06:41 +0000 2022",
 		"id": 1511495573152620500,
 		"id_str": "1511495573152620549",
@@ -59,16 +786,16 @@ Grailbird.data.tweets_2022_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 825,
+			"followers_count": 826,
 			"friends_count": 162,
 			"listed_count": 88,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9938,
+			"favourites_count": 9936,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15383,
+			"statuses_count": 15389,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -100,7 +827,7 @@ Grailbird.data.tweets_2022_04 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 0,
+		"favorite_count": 5,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
@@ -166,16 +893,16 @@ Grailbird.data.tweets_2022_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 825,
+			"followers_count": 826,
 			"friends_count": 162,
 			"listed_count": 88,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9938,
+			"favourites_count": 9936,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15383,
+			"statuses_count": 15389,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -274,16 +1001,16 @@ Grailbird.data.tweets_2022_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8188,
+			"followers_count": 8191,
 			"friends_count": 295,
 			"listed_count": 403,
 			"created_at": "Wed Jan 09 10:52:42 +0000 2008",
-			"favourites_count": 11970,
+			"favourites_count": 11972,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 40835,
+			"statuses_count": 40837,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -314,8 +1041,8 @@ Grailbird.data.tweets_2022_04 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 1298,
-		"favorite_count": 3797,
+		"retweet_count": 1311,
+		"favorite_count": 3814,
 		"favorited": false,
 		"retweeted": true,
 		"lang": "en",
@@ -381,16 +1108,16 @@ Grailbird.data.tweets_2022_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 825,
+			"followers_count": 826,
 			"friends_count": 162,
 			"listed_count": 88,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9938,
+			"favourites_count": 9936,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15383,
+			"statuses_count": 15389,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -626,16 +1353,16 @@ Grailbird.data.tweets_2022_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 28166,
-			"friends_count": 2466,
+			"followers_count": 28175,
+			"friends_count": 2465,
 			"listed_count": 853,
 			"created_at": "Wed Sep 10 14:27:32 +0000 2008",
-			"favourites_count": 8860,
+			"favourites_count": 8861,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 20695,
+			"statuses_count": 20698,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -666,8 +1393,8 @@ Grailbird.data.tweets_2022_04 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 118,
-		"favorite_count": 526,
+		"retweet_count": 151,
+		"favorite_count": 691,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -733,16 +1460,16 @@ Grailbird.data.tweets_2022_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 825,
+			"followers_count": 826,
 			"friends_count": 162,
 			"listed_count": 88,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 9938,
+			"favourites_count": 9936,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15383,
+			"statuses_count": 15389,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -968,8 +1695,8 @@ Grailbird.data.tweets_2022_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 138975,
-			"friends_count": 639,
+			"followers_count": 139019,
+			"friends_count": 638,
 			"listed_count": 820,
 			"created_at": "Wed Jan 23 03:33:46 +0000 2013",
 			"favourites_count": 326,
@@ -977,7 +1704,7 @@ Grailbird.data.tweets_2022_04 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 11742,
+			"statuses_count": 11745,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1209,16 +1936,16 @@ Grailbird.data.tweets_2022_04 =
 								}
 							},
 							"protected": false,
-							"followers_count": 70192,
+							"followers_count": 70224,
 							"friends_count": 11509,
 							"listed_count": 673,
 							"created_at": "Sun Jul 13 12:33:17 +0000 2008",
-							"favourites_count": 78115,
+							"favourites_count": 78159,
 							"utc_offset": null,
 							"time_zone": null,
 							"geo_enabled": true,
 							"verified": true,
-							"statuses_count": 21127,
+							"statuses_count": 21167,
 							"lang": null,
 							"contributors_enabled": false,
 							"is_translator": false,
@@ -1281,16 +2008,16 @@ Grailbird.data.tweets_2022_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 4299,
-			"friends_count": 2061,
+			"followers_count": 4326,
+			"friends_count": 2064,
 			"listed_count": 16,
 			"created_at": "Fri Jan 21 00:22:09 +0000 2022",
-			"favourites_count": 144,
+			"favourites_count": 145,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 331,
+			"statuses_count": 333,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1321,8 +2048,8 @@ Grailbird.data.tweets_2022_04 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 2423,
-		"favorite_count": 5018,
+		"retweet_count": 2455,
+		"favorite_count": 5093,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -1451,11 +2178,11 @@ Grailbird.data.tweets_2022_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 6236,
-			"friends_count": 5022,
+			"followers_count": 6237,
+			"friends_count": 5023,
 			"listed_count": 57,
 			"created_at": "Mon Feb 04 01:31:46 +0000 2013",
-			"favourites_count": 12357,
+			"favourites_count": 12358,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
@@ -1491,8 +2218,8 @@ Grailbird.data.tweets_2022_04 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 623,
-		"favorite_count": 1451,
+		"retweet_count": 624,
+		"favorite_count": 1452,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -1549,15 +2276,15 @@ Grailbird.data.tweets_2022_04 =
 			},
 			"protected": false,
 			"followers_count": 4829,
-			"friends_count": 710,
+			"friends_count": 711,
 			"listed_count": 249,
 			"created_at": "Sat Sep 24 09:18:58 +0000 2011",
-			"favourites_count": 28167,
+			"favourites_count": 28181,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 38530,
+			"statuses_count": 38544,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
