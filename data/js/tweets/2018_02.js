@@ -70,16 +70,16 @@ Grailbird.data.tweets_2018_02 =
 				}
 			},
 			"protected": false,
-			"followers_count": 825,
+			"followers_count": 824,
 			"friends_count": 162,
 			"listed_count": 87,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10002,
+			"favourites_count": 10008,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15417,
+			"statuses_count": 15418,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -174,16 +174,16 @@ Grailbird.data.tweets_2018_02 =
 				}
 			},
 			"protected": false,
-			"followers_count": 825,
+			"followers_count": 824,
 			"friends_count": 162,
 			"listed_count": 87,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10002,
+			"favourites_count": 10008,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15417,
+			"statuses_count": 15418,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -314,16 +314,16 @@ Grailbird.data.tweets_2018_02 =
 				}
 			},
 			"protected": false,
-			"followers_count": 825,
+			"followers_count": 824,
 			"friends_count": 162,
 			"listed_count": 87,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10002,
+			"favourites_count": 10008,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15417,
+			"statuses_count": 15418,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -454,16 +454,16 @@ Grailbird.data.tweets_2018_02 =
 				}
 			},
 			"protected": false,
-			"followers_count": 825,
+			"followers_count": 824,
 			"friends_count": 162,
 			"listed_count": 87,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10002,
+			"favourites_count": 10008,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15417,
+			"statuses_count": 15418,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -591,16 +591,16 @@ Grailbird.data.tweets_2018_02 =
 				}
 			},
 			"protected": false,
-			"followers_count": 825,
+			"followers_count": 824,
 			"friends_count": 162,
 			"listed_count": 87,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10002,
+			"favourites_count": 10008,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15417,
+			"statuses_count": 15418,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -739,16 +739,16 @@ Grailbird.data.tweets_2018_02 =
 				}
 			},
 			"protected": false,
-			"followers_count": 825,
+			"followers_count": 824,
 			"friends_count": 162,
 			"listed_count": 87,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10002,
+			"favourites_count": 10008,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15417,
+			"statuses_count": 15418,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -876,16 +876,16 @@ Grailbird.data.tweets_2018_02 =
 				}
 			},
 			"protected": false,
-			"followers_count": 825,
+			"followers_count": 824,
 			"friends_count": 162,
 			"listed_count": 87,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10002,
+			"favourites_count": 10008,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15417,
+			"statuses_count": 15418,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -994,7 +994,7 @@ Grailbird.data.tweets_2018_02 =
 			"protected": false,
 			"followers_count": 481,
 			"friends_count": 377,
-			"listed_count": 0,
+			"listed_count": 2,
 			"created_at": "Mon Apr 03 08:22:00 +0000 2017",
 			"favourites_count": 4710,
 			"utc_offset": null,
@@ -1106,7 +1106,7 @@ Grailbird.data.tweets_2018_02 =
 				}
 			},
 			"protected": false,
-			"followers_count": 80034,
+			"followers_count": 80061,
 			"friends_count": 85,
 			"listed_count": 625,
 			"created_at": "Sun Dec 21 22:51:35 +0000 2008",
@@ -1115,7 +1115,7 @@ Grailbird.data.tweets_2018_02 =
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 34630,
+			"statuses_count": 34633,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1153,301 +1153,5 @@ Grailbird.data.tweets_2018_02 =
 		"possibly_sensitive": false,
 		"lang": "en",
 		"text": "#BREAKING: Former Kiwi Barnaby Joyce will step down as Australia's Deputy PM next week https://t.co/ajpIktcbeA"
-	},
-	{
-		"created_at": "Fri Feb 23 13:02:39 +0000 2018",
-		"id": 966803177033969700,
-		"id_str": "967021890345684997",
-		"full_text": "You know what the higher ed sector needs? Another inquiry. https://t.co/Lglwfyvhf3",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			58
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": [
-				{
-					"url": "https://t.co/Lglwfyvhf3",
-					"expanded_url": "https://twitter.com/political_alert/status/966802924398522368",
-					"display_url": "twitter.com/political_aler…",
-					"indices": [
-						59,
-						82
-					]
-				}
-			]
-		},
-		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 46828208,
-			"id_str": "46828208",
-			"name": "Shalailah Medhora",
-			"screen_name": "shalailah",
-			"location": "Canberra",
-			"description": "Political Reporter @triplejhack. Currently on maternity leave. \nCome for political analysis, stay for food / reality TV chat. Views are mine, not ABC's",
-			"url": "https://t.co/5JNQxu48fp",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/5JNQxu48fp",
-							"expanded_url": "http://www.abc.net.au/triplej/programs/hack",
-							"display_url": "abc.net.au/triplej/progra…",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 27899,
-			"friends_count": 4089,
-			"listed_count": 366,
-			"created_at": "Sat Jun 13 04:45:19 +0000 2009",
-			"favourites_count": 7429,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": false,
-			"verified": true,
-			"statuses_count": 71185,
-			"lang": null,
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "000000",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
-			"profile_background_tile": true,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1377902685983105026/VY988Mn3_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1377902685983105026/VY988Mn3_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/46828208/1444882588",
-			"profile_link_color": "3B94D9",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "000000",
-			"profile_text_color": "000000",
-			"profile_use_background_image": false,
-			"has_extended_profile": false,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": true,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none",
-			"withheld_in_countries": []
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": true,
-		"quoted_status_id": 966802924398522400,
-		"quoted_status_id_str": "966802924398522368",
-		"quoted_status_permalink": {
-			"url": "https://t.co/Lglwfyvhf3",
-			"expanded": "https://twitter.com/political_alert/status/966802924398522368",
-			"display": "twitter.com/political_aler…"
-		},
-		"quoted_status": {
-			"created_at": "Thu Feb 22 22:32:34 +0000 2018",
-			"id": 966802924398522400,
-			"id_str": "966802924398522368",
-			"full_text": "Media release: Labor announces shake-up of TAFE and unis. \n\n\"today we’ve announced a once in generation National Inquiry into Post-Secondary Education that will look at every aspect of the vocational and higher education systems\" #auspol https://t.co/C3lq1umPbd",
-			"truncated": false,
-			"display_text_range": [
-				0,
-				237
-			],
-			"entities": {
-				"hashtags": [
-					{
-						"text": "auspol",
-						"indices": [
-							230,
-							237
-						]
-					}
-				],
-				"symbols": [],
-				"user_mentions": [],
-				"urls": [],
-				"media": [
-					{
-						"id": 966802529420951600,
-						"id_str": "966802529420951552",
-						"indices": [
-							238,
-							261
-						],
-						"media_url": "http://pbs.twimg.com/media/DWrFxzYVwAAtLhl.jpg",
-						"media_url_https": "https://pbs.twimg.com/media/DWrFxzYVwAAtLhl.jpg",
-						"url": "https://t.co/C3lq1umPbd",
-						"display_url": "pic.twitter.com/C3lq1umPbd",
-						"expanded_url": "https://twitter.com/political_alert/status/966802924398522368/photo/1",
-						"type": "photo",
-						"sizes": {
-							"thumb": {
-								"w": 150,
-								"h": 150,
-								"resize": "crop"
-							},
-							"large": {
-								"w": 1359,
-								"h": 892,
-								"resize": "fit"
-							},
-							"small": {
-								"w": 680,
-								"h": 446,
-								"resize": "fit"
-							},
-							"medium": {
-								"w": 1200,
-								"h": 788,
-								"resize": "fit"
-							}
-						}
-					}
-				]
-			},
-			"extended_entities": {
-				"media": [
-					{
-						"id": 966802529420951600,
-						"id_str": "966802529420951552",
-						"indices": [
-							238,
-							261
-						],
-						"media_url": "http://pbs.twimg.com/media/DWrFxzYVwAAtLhl.jpg",
-						"media_url_https": "https://pbs.twimg.com/media/DWrFxzYVwAAtLhl.jpg",
-						"url": "https://t.co/C3lq1umPbd",
-						"display_url": "pic.twitter.com/C3lq1umPbd",
-						"expanded_url": "https://twitter.com/political_alert/status/966802924398522368/photo/1",
-						"type": "photo",
-						"sizes": {
-							"thumb": {
-								"w": 150,
-								"h": 150,
-								"resize": "crop"
-							},
-							"large": {
-								"w": 1359,
-								"h": 892,
-								"resize": "fit"
-							},
-							"small": {
-								"w": 680,
-								"h": 446,
-								"resize": "fit"
-							},
-							"medium": {
-								"w": 1200,
-								"h": 788,
-								"resize": "fit"
-							}
-						}
-					}
-				]
-			},
-			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-			"in_reply_to_status_id": null,
-			"in_reply_to_status_id_str": null,
-			"in_reply_to_user_id": null,
-			"in_reply_to_user_id_str": null,
-			"in_reply_to_screen_name": null,
-			"user": {
-				"id": 1514752100,
-				"id_str": "1514752100",
-				"name": "Political Alert",
-				"screen_name": "political_alert",
-				"location": "Parliament House, Canberra",
-				"description": "Your partner in Parliament. CCH Political Alert provides immediate and unbiased political monitoring. Follow us for regular updates from Parliament House.",
-				"url": "https://t.co/465t4pM5eR",
-				"entities": {
-					"url": {
-						"urls": [
-							{
-								"url": "https://t.co/465t4pM5eR",
-								"expanded_url": "http://www.wolterskluwer.com.au/cch-parliament",
-								"display_url": "wolterskluwer.com.au/cch-parliament",
-								"indices": [
-									0,
-									23
-								]
-							}
-						]
-					},
-					"description": {
-						"urls": []
-					}
-				},
-				"protected": false,
-				"followers_count": 28375,
-				"friends_count": 1763,
-				"listed_count": 489,
-				"created_at": "Thu Jun 13 23:36:53 +0000 2013",
-				"favourites_count": 1247,
-				"utc_offset": null,
-				"time_zone": null,
-				"geo_enabled": true,
-				"verified": false,
-				"statuses_count": 76634,
-				"lang": null,
-				"contributors_enabled": false,
-				"is_translator": false,
-				"is_translation_enabled": false,
-				"profile_background_color": "FFFFFF",
-				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-				"profile_background_tile": false,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/521645396997599235/UphxcCY5_normal.jpeg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/521645396997599235/UphxcCY5_normal.jpeg",
-				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1514752100/1489107368",
-				"profile_link_color": "0493C7",
-				"profile_sidebar_border_color": "FFFFFF",
-				"profile_sidebar_fill_color": "DDEEF6",
-				"profile_text_color": "333333",
-				"profile_use_background_image": true,
-				"has_extended_profile": false,
-				"default_profile": false,
-				"default_profile_image": false,
-				"following": false,
-				"follow_request_sent": false,
-				"notifications": false,
-				"translator_type": "none",
-				"withheld_in_countries": []
-			},
-			"geo": null,
-			"coordinates": null,
-			"place": null,
-			"contributors": null,
-			"is_quote_status": false,
-			"retweet_count": 7,
-			"favorite_count": 3,
-			"favorited": false,
-			"retweeted": false,
-			"possibly_sensitive": false,
-			"lang": "en"
-		},
-		"retweet_count": 1,
-		"favorite_count": 4,
-		"favorited": false,
-		"retweeted": false,
-		"possibly_sensitive": false,
-		"lang": "en",
-		"text": "You know what the higher ed sector needs? Another inquiry. https://t.co/Lglwfyvhf3"
 	}
 ]
