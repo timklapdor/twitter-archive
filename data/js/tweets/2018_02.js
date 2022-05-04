@@ -70,16 +70,16 @@ Grailbird.data.tweets_2018_02 =
 				}
 			},
 			"protected": false,
-			"followers_count": 824,
+			"followers_count": 822,
 			"friends_count": 162,
 			"listed_count": 87,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10013,
+			"favourites_count": 10023,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15419,
+			"statuses_count": 15422,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -174,16 +174,16 @@ Grailbird.data.tweets_2018_02 =
 				}
 			},
 			"protected": false,
-			"followers_count": 824,
+			"followers_count": 822,
 			"friends_count": 162,
 			"listed_count": 87,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10013,
+			"favourites_count": 10023,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15419,
+			"statuses_count": 15422,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -314,16 +314,16 @@ Grailbird.data.tweets_2018_02 =
 				}
 			},
 			"protected": false,
-			"followers_count": 824,
+			"followers_count": 822,
 			"friends_count": 162,
 			"listed_count": 87,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10013,
+			"favourites_count": 10023,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15419,
+			"statuses_count": 15422,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -454,16 +454,16 @@ Grailbird.data.tweets_2018_02 =
 				}
 			},
 			"protected": false,
-			"followers_count": 824,
+			"followers_count": 822,
 			"friends_count": 162,
 			"listed_count": 87,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10013,
+			"favourites_count": 10023,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15419,
+			"statuses_count": 15422,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -533,510 +533,5 @@ Grailbird.data.tweets_2018_02 =
 		"retweeted": false,
 		"lang": "en",
 		"text": "@wadekelly Anything complex? For basic stuff I write in Markdown - any good editor has a “Copy as HTML” option… good clean HTML to past in."
-	},
-	{
-		"created_at": "Mon Feb 26 23:31:27 +0000 2018",
-		"id": 968267296404746200,
-		"id_str": "968267296404746240",
-		"full_text": "Solo parent day success. Woke up and on time for school. Fed and watered. Walked and homeworked. Asleep at a reasonable hour. #twenty18 /55",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			139
-		],
-		"entities": {
-			"hashtags": [
-				{
-					"text": "twenty18",
-					"indices": [
-						126,
-						135
-					]
-				}
-			],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": []
-		},
-		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 174124175,
-			"id_str": "174124175",
-			"name": "Tim Klapdor",
-			"screen_name": "timklapdor",
-			"location": "Adelaide, South Australia",
-			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "https://t.co/uC0c3me6KE",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/uC0c3me6KE",
-							"expanded_url": "http://timklapdor.com",
-							"display_url": "timklapdor.com",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 824,
-			"friends_count": 162,
-			"listed_count": 87,
-			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10013,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 15419,
-			"lang": null,
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "C0DEED",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
-			"profile_link_color": "5FA832",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "DDEEF6",
-			"profile_text_color": "333333",
-			"profile_use_background_image": true,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none",
-			"withheld_in_countries": []
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": {
-			"id": "00de77a74e8155fa",
-			"url": "https://api.twitter.com/1.1/geo/id/00de77a74e8155fa.json",
-			"place_type": "city",
-			"name": "Estella",
-			"full_name": "Estella, New South Wales",
-			"country_code": "AU",
-			"country": "Australia",
-			"contained_within": [],
-			"bounding_box": {
-				"type": "Polygon",
-				"coordinates": [
-					[
-						[
-							147.342861344,
-							-35.0844753575
-						],
-						[
-							147.363966496,
-							-35.0844753575
-						],
-						[
-							147.363966496,
-							-35.046804418
-						],
-						[
-							147.342861344,
-							-35.046804418
-						]
-					]
-				]
-			},
-			"attributes": {}
-		},
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 2,
-		"favorited": false,
-		"retweeted": false,
-		"lang": "en",
-		"text": "Solo parent day success. Woke up and on time for school. Fed and watered. Walked and homeworked. Asleep at a reasonable hour. #twenty18 /55"
-	},
-	{
-		"created_at": "Mon Feb 26 23:30:16 +0000 2018",
-		"id": 968266998093291500,
-		"id_str": "968266998093291521",
-		"full_text": "Cleaning and sorting. New presentation for @KelpieApp too. Prepping for solo parenting! #twenty18 /55",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			101
-		],
-		"entities": {
-			"hashtags": [
-				{
-					"text": "twenty18",
-					"indices": [
-						88,
-						97
-					]
-				}
-			],
-			"symbols": [],
-			"user_mentions": [
-				{
-					"screen_name": "KelpieApp",
-					"name": "Kelpie App",
-					"id": 894010772337999900,
-					"id_str": "894010772337999872",
-					"indices": [
-						43,
-						53
-					]
-				}
-			],
-			"urls": []
-		},
-		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 174124175,
-			"id_str": "174124175",
-			"name": "Tim Klapdor",
-			"screen_name": "timklapdor",
-			"location": "Adelaide, South Australia",
-			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "https://t.co/uC0c3me6KE",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/uC0c3me6KE",
-							"expanded_url": "http://timklapdor.com",
-							"display_url": "timklapdor.com",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 824,
-			"friends_count": 162,
-			"listed_count": 87,
-			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10013,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 15419,
-			"lang": null,
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "C0DEED",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
-			"profile_link_color": "5FA832",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "DDEEF6",
-			"profile_text_color": "333333",
-			"profile_use_background_image": true,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none",
-			"withheld_in_countries": []
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": {
-			"id": "00de77a74e8155fa",
-			"url": "https://api.twitter.com/1.1/geo/id/00de77a74e8155fa.json",
-			"place_type": "city",
-			"name": "Estella",
-			"full_name": "Estella, New South Wales",
-			"country_code": "AU",
-			"country": "Australia",
-			"contained_within": [],
-			"bounding_box": {
-				"type": "Polygon",
-				"coordinates": [
-					[
-						[
-							147.342861344,
-							-35.0844753575
-						],
-						[
-							147.363966496,
-							-35.0844753575
-						],
-						[
-							147.363966496,
-							-35.046804418
-						],
-						[
-							147.342861344,
-							-35.046804418
-						]
-					]
-				]
-			},
-			"attributes": {}
-		},
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 0,
-		"favorited": false,
-		"retweeted": false,
-		"lang": "en",
-		"text": "Cleaning and sorting. New presentation for @KelpieApp too. Prepping for solo parenting! #twenty18 /55"
-	},
-	{
-		"created_at": "Mon Feb 26 23:28:36 +0000 2018",
-		"id": 968266578688012300,
-		"id_str": "968266578688012288",
-		"full_text": "Recovery day. Time with the family recharging. Pictionary and dinner with friends. #twenty18 /54",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			96
-		],
-		"entities": {
-			"hashtags": [
-				{
-					"text": "twenty18",
-					"indices": [
-						83,
-						92
-					]
-				}
-			],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": []
-		},
-		"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 174124175,
-			"id_str": "174124175",
-			"name": "Tim Klapdor",
-			"screen_name": "timklapdor",
-			"location": "Adelaide, South Australia",
-			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "https://t.co/uC0c3me6KE",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/uC0c3me6KE",
-							"expanded_url": "http://timklapdor.com",
-							"display_url": "timklapdor.com",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 824,
-			"friends_count": 162,
-			"listed_count": 87,
-			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10013,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 15419,
-			"lang": null,
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "C0DEED",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
-			"profile_link_color": "5FA832",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "DDEEF6",
-			"profile_text_color": "333333",
-			"profile_use_background_image": true,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none",
-			"withheld_in_countries": []
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": {
-			"id": "00de77a74e8155fa",
-			"url": "https://api.twitter.com/1.1/geo/id/00de77a74e8155fa.json",
-			"place_type": "city",
-			"name": "Estella",
-			"full_name": "Estella, New South Wales",
-			"country_code": "AU",
-			"country": "Australia",
-			"contained_within": [],
-			"bounding_box": {
-				"type": "Polygon",
-				"coordinates": [
-					[
-						[
-							147.342861344,
-							-35.0844753575
-						],
-						[
-							147.363966496,
-							-35.0844753575
-						],
-						[
-							147.363966496,
-							-35.046804418
-						],
-						[
-							147.342861344,
-							-35.046804418
-						]
-					]
-				]
-			},
-			"attributes": {}
-		},
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 1,
-		"favorited": false,
-		"retweeted": false,
-		"lang": "en",
-		"text": "Recovery day. Time with the family recharging. Pictionary and dinner with friends. #twenty18 /54"
-	},
-	{
-		"created_at": "Sat Feb 24 03:58:46 +0000 2018",
-		"id": 966663128736940000,
-		"id_str": "967247404201263104",
-		"full_text": "After every massacre, there’s inevitable talk about Australian gun laws post-1996 and how successful they’ve been at reducing gun violence, homicides and suicides. Also a lot of misinformation about ‘bans’ and such. \n\nHere’s what actually happened and what it means today:",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			272
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": []
-		},
-		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 848812815628599300,
-			"id_str": "848812815628599296",
-			"name": "Άλογο À gogo",
-			"screen_name": "AlogoAgogo",
-			"location": "Up in the air or Wanaka NZ",
-			"description": "Aussie guy | Pilot | AA Avn (Ret) | BD-700-1A10, AW109SP prev CL-604, EC130, AS350, S-70A-9 Cyclist, hack golfer & hobby farmer",
-			"url": null,
-			"entities": {
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 481,
-			"friends_count": 377,
-			"listed_count": 2,
-			"created_at": "Mon Apr 03 08:22:00 +0000 2017",
-			"favourites_count": 4710,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": false,
-			"verified": false,
-			"statuses_count": 4858,
-			"lang": null,
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "F5F8FA",
-			"profile_background_image_url": null,
-			"profile_background_image_url_https": null,
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1356503431247134720/l10DqLpr_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1356503431247134720/l10DqLpr_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/848812815628599296/1612250596",
-			"profile_link_color": "1DA1F2",
-			"profile_sidebar_border_color": "C0DEED",
-			"profile_sidebar_fill_color": "DDEEF6",
-			"profile_text_color": "333333",
-			"profile_use_background_image": true,
-			"has_extended_profile": true,
-			"default_profile": true,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none",
-			"withheld_in_countries": []
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 10780,
-		"favorite_count": 16587,
-		"favorited": false,
-		"retweeted": false,
-		"lang": "en",
-		"text": "After every massacre, there’s inevitable talk about Australian gun laws post-1996 and how successful they’ve been at reducing gun violence, homicides and suicides. Also a lot of misinformation about ‘bans’ and such. \n\nHere’s what actually happened and what it means today:"
 	}
 ]
