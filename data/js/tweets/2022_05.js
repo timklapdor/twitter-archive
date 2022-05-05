@@ -1,6 +1,222 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Wed May 04 02:11:29 +0000 2022",
+		"id": 1521478089305256000,
+		"id_str": "1521673840690032641",
+		"full_text": "Tiktok on point. https://t.co/26vC6ELW1P",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			16
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1521477986079314000,
+					"id_str": "1521477986079313920",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1521477986079313920/pu/img/Z621MqBuBxbtYQBH.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1521477986079313920/pu/img/Z621MqBuBxbtYQBH.jpg",
+					"url": "https://t.co/26vC6ELW1P",
+					"display_url": "pic.twitter.com/26vC6ELW1P",
+					"expanded_url": "https://twitter.com/woollogirl/status/1521478089305255936/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1521477986079314000,
+					"id_str": "1521477986079313920",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1521477986079313920/pu/img/Z621MqBuBxbtYQBH.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1521477986079313920/pu/img/Z621MqBuBxbtYQBH.jpg",
+					"url": "https://t.co/26vC6ELW1P",
+					"display_url": "pic.twitter.com/26vC6ELW1P",
+					"expanded_url": "https://twitter.com/woollogirl/status/1521478089305255936/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 122233,
+						"variants": [
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1521477986079313920/pu/vid/480x852/COuSJfLx2Szr4KhE.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1521477986079313920/pu/vid/320x568/x6lcAdaJiGdXUGrq.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1521477986079313920/pu/vid/576x1024/o1KkNWmB1B3AV8xD.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1521477986079313920/pu/pl/frqVdtViuIz39HZ7.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 58710767,
+			"id_str": "58710767",
+			"name": "Elizabeth Wymarra",
+			"screen_name": "woollogirl",
+			"location": "Woolloomooloo 2011",
+			"description": "Sovereign,Author,Film Maker,Comedy, Writer,Actor,Media & Unashamed Dyslexic! I wk for my people 🐊 https://t.co/FRAoycjJC9 ✊🏾 #SovereigntyNeverCeded🔥",
+			"url": "https://t.co/0a1vsz9I74",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0a1vsz9I74",
+							"expanded_url": "http://www.treaty-council.com",
+							"display_url": "treaty-council.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/FRAoycjJC9",
+							"expanded_url": "http://wymarradesignsonline.com",
+							"display_url": "wymarradesignsonline.com",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7346,
+			"friends_count": 5104,
+			"listed_count": 96,
+			"created_at": "Tue Jul 21 05:04:10 +0000 2009",
+			"favourites_count": 55382,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 67488,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1521684427004203008/FA0c4Vp0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1521684427004203008/FA0c4Vp0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/58710767/1560335400",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2524,
+		"favorite_count": 6408,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Tiktok on point. https://t.co/26vC6ELW1P"
+	},
+	{
 		"created_at": "Tue May 03 05:10:29 +0000 2022",
 		"id": 1521317409424130000,
 		"id_str": "1521356500509556736",
@@ -59,16 +275,16 @@ Grailbird.data.tweets_2022_05 =
 				}
 			},
 			"protected": false,
-			"followers_count": 420601,
-			"friends_count": 4856,
-			"listed_count": 2961,
+			"followers_count": 422176,
+			"friends_count": 4859,
+			"listed_count": 2969,
 			"created_at": "Fri May 15 22:47:11 +0000 2009",
-			"favourites_count": 78845,
+			"favourites_count": 78977,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 51333,
+			"statuses_count": 51405,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -233,16 +449,16 @@ Grailbird.data.tweets_2022_05 =
 					}
 				},
 				"protected": false,
-				"followers_count": 2091,
-				"friends_count": 529,
-				"listed_count": 19,
+				"followers_count": 2127,
+				"friends_count": 542,
+				"listed_count": 18,
 				"created_at": "Sun Sep 13 21:15:30 +0000 2015",
-				"favourites_count": 3285,
+				"favourites_count": 3286,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": true,
-				"statuses_count": 2819,
+				"statuses_count": 2828,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -273,15 +489,15 @@ Grailbird.data.tweets_2022_05 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 19443,
-			"favorite_count": 63226,
+			"retweet_count": 19514,
+			"favorite_count": 63940,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
 			"lang": "en"
 		},
-		"retweet_count": 1740,
-		"favorite_count": 5669,
+		"retweet_count": 1752,
+		"favorite_count": 5739,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -351,12 +567,12 @@ Grailbird.data.tweets_2022_05 =
 			"friends_count": 162,
 			"listed_count": 87,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10023,
+			"favourites_count": 10027,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15422,
+			"statuses_count": 15423,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -443,16 +659,16 @@ Grailbird.data.tweets_2022_05 =
 					}
 				},
 				"protected": false,
-				"followers_count": 1980,
-				"friends_count": 1705,
+				"followers_count": 1985,
+				"friends_count": 1711,
 				"listed_count": 32,
 				"created_at": "Mon Jun 23 08:15:01 +0000 2008",
-				"favourites_count": 25778,
+				"favourites_count": 25806,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": false,
-				"statuses_count": 6875,
+				"statuses_count": 6896,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -555,15 +771,15 @@ Grailbird.data.tweets_2022_05 =
 			},
 			"protected": false,
 			"followers_count": 92,
-			"friends_count": 274,
+			"friends_count": 277,
 			"listed_count": 0,
 			"created_at": "Wed Mar 11 18:03:48 +0000 2009",
-			"favourites_count": 5866,
+			"favourites_count": 5885,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 4385,
+			"statuses_count": 4400,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
