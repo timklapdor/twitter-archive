@@ -1,6 +1,373 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Fri May 06 05:54:03 +0000 2022",
+		"id": 1522385582839963600,
+		"id_str": "1522454627886632960",
+		"full_text": "If you only watch one election ad... https://t.co/Gg67tiq28U",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			36
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Gg67tiq28U",
+					"expanded_url": "https://twitter.com/_ItsNotaRace/status/1522079041330851840",
+					"display_url": "twitter.com/_ItsNotaRace/s…",
+					"indices": [
+						37,
+						60
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94004565,
+			"id_str": "94004565",
+			"name": "Tony Martin",
+			"screen_name": "mrtonymartin",
+			"location": "Melbourne, Australia",
+			"description": "Mayor of SIZZLETOWN https://t.co/Dzcny2qqfD ASSORTED RECORDINGS at https://t.co/WXU3p30dzp Web series SHUT UP almost done.",
+			"url": "https://t.co/FXuqoAZz6d",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FXuqoAZz6d",
+							"expanded_url": "https://www.youtube.com/c/TonyMartinsSIZZLETOWN",
+							"display_url": "youtube.com/c/TonyMartinsS…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Dzcny2qqfD",
+							"expanded_url": "http://sizzletownpodcast.com",
+							"display_url": "sizzletownpodcast.com",
+							"indices": [
+								20,
+								43
+							]
+						},
+						{
+							"url": "https://t.co/WXU3p30dzp",
+							"expanded_url": "http://mrtonymartin.bandcamp.com",
+							"display_url": "mrtonymartin.bandcamp.com",
+							"indices": [
+								67,
+								90
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 87138,
+			"friends_count": 338,
+			"listed_count": 694,
+			"created_at": "Wed Dec 02 02:46:11 +0000 2009",
+			"favourites_count": 100,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 25516,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000580537921/7b0cc472d4a36416dd392f3f21ee5d0a_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000580537921/7b0cc472d4a36416dd392f3f21ee5d0a_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94004565/1618724646",
+			"profile_link_color": "F15B24",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E3E1CA",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1522079041330851800,
+		"quoted_status_id_str": "1522079041330851840",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Gg67tiq28U",
+			"expanded": "https://twitter.com/_ItsNotaRace/status/1522079041330851840",
+			"display": "twitter.com/_ItsNotaRace/s…"
+		},
+		"quoted_status": {
+			"created_at": "Thu May 05 05:01:36 +0000 2022",
+			"id": 1522079041330851800,
+			"id_str": "1522079041330851840",
+			"full_text": "Have you heard the $31 million lie? 💸\n\n#auspol #AusVotes #AusVotes2022 #climateactionnow https://t.co/TayNPa8qHB",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				88
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "auspol",
+						"indices": [
+							39,
+							46
+						]
+					},
+					{
+						"text": "AusVotes",
+						"indices": [
+							47,
+							56
+						]
+					},
+					{
+						"text": "AusVotes2022",
+						"indices": [
+							57,
+							70
+						]
+					},
+					{
+						"text": "climateactionnow",
+						"indices": [
+							71,
+							88
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1522078826116927500,
+						"id_str": "1522078826116927490",
+						"indices": [
+							89,
+							112
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1522078826116927490/pu/img/gK1ntykxaPK0IjyN.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1522078826116927490/pu/img/gK1ntykxaPK0IjyN.jpg",
+						"url": "https://t.co/TayNPa8qHB",
+						"display_url": "pic.twitter.com/TayNPa8qHB",
+						"expanded_url": "https://twitter.com/_ItsNotaRace/status/1522079041330851840/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1522078826116927500,
+						"id_str": "1522078826116927490",
+						"indices": [
+							89,
+							112
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1522078826116927490/pu/img/gK1ntykxaPK0IjyN.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1522078826116927490/pu/img/gK1ntykxaPK0IjyN.jpg",
+						"url": "https://t.co/TayNPa8qHB",
+						"display_url": "pic.twitter.com/TayNPa8qHB",
+						"expanded_url": "https://twitter.com/_ItsNotaRace/status/1522079041330851840/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 90345,
+							"variants": [
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1522078826116927490/pu/vid/480x270/p-HPEMwJvcHR8yYk.mp4?tag=12"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1522078826116927490/pu/vid/640x360/8Xjphqk_FqN7De0F.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1522078826116927490/pu/pl/CCF9SWYxsQ7qqqIy.m3u8?tag=12&container=fmp4"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1522078826116927490/pu/vid/1280x720/4kqdMexKPzJaUl7w.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.loomly.com/\" rel=\"nofollow\">Loomly</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1484309498458443800,
+				"id_str": "1484309498458443776",
+				"name": "It's Not a Race",
+				"screen_name": "_ItsNotaRace",
+				"location": "",
+				"description": "The election is heating up, and so are our hot takes 😈🔥🙏\n.\nAuthorised by D.Ilic, It’s Not A Race, Manly.",
+				"url": "https://t.co/ClNqsqwOT2",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ClNqsqwOT2",
+								"expanded_url": "https://its-not-a-race.raisely.com/",
+								"display_url": "its-not-a-race.raisely.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5897,
+				"friends_count": 2314,
+				"listed_count": 21,
+				"created_at": "Fri Jan 21 00:22:09 +0000 2022",
+				"favourites_count": 231,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 451,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1485458639439933443/T9jkbea1_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1485458639439933443/T9jkbea1_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1484309498458443776/1643003631",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 542,
+			"favorite_count": 919,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 40,
+		"favorite_count": 151,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If you only watch one election ad... https://t.co/Gg67tiq28U"
+	},
+	{
 		"created_at": "Wed May 04 02:11:29 +0000 2022",
 		"id": 1521478089305256000,
 		"id_str": "1521673840690032641",
@@ -168,16 +535,16 @@ Grailbird.data.tweets_2022_05 =
 				}
 			},
 			"protected": false,
-			"followers_count": 7374,
-			"friends_count": 5109,
+			"followers_count": 7378,
+			"friends_count": 5120,
 			"listed_count": 96,
 			"created_at": "Tue Jul 21 05:04:10 +0000 2009",
-			"favourites_count": 55378,
+			"favourites_count": 55449,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 67416,
+			"statuses_count": 67464,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -208,8 +575,8 @@ Grailbird.data.tweets_2022_05 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 2677,
-		"favorite_count": 6869,
+		"retweet_count": 2705,
+		"favorite_count": 6936,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -275,16 +642,16 @@ Grailbird.data.tweets_2022_05 =
 				}
 			},
 			"protected": false,
-			"followers_count": 423173,
+			"followers_count": 423781,
 			"friends_count": 4862,
-			"listed_count": 2968,
+			"listed_count": 2971,
 			"created_at": "Fri May 15 22:47:11 +0000 2009",
-			"favourites_count": 79033,
+			"favourites_count": 79130,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 51477,
+			"statuses_count": 51516,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -449,16 +816,16 @@ Grailbird.data.tweets_2022_05 =
 					}
 				},
 				"protected": false,
-				"followers_count": 2138,
-				"friends_count": 543,
-				"listed_count": 17,
+				"followers_count": 2142,
+				"friends_count": 544,
+				"listed_count": 18,
 				"created_at": "Sun Sep 13 21:15:30 +0000 2015",
-				"favourites_count": 3288,
+				"favourites_count": 3289,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": true,
-				"statuses_count": 2832,
+				"statuses_count": 2831,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -489,15 +856,15 @@ Grailbird.data.tweets_2022_05 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 19507,
-			"favorite_count": 63970,
+			"retweet_count": 19502,
+			"favorite_count": 63966,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
 			"lang": "en"
 		},
-		"retweet_count": 1752,
-		"favorite_count": 5742,
+		"retweet_count": 1751,
+		"favorite_count": 5748,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -563,16 +930,16 @@ Grailbird.data.tweets_2022_05 =
 				}
 			},
 			"protected": false,
-			"followers_count": 822,
+			"followers_count": 823,
 			"friends_count": 163,
 			"listed_count": 87,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10031,
+			"favourites_count": 10032,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15423,
+			"statuses_count": 15424,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -659,16 +1026,16 @@ Grailbird.data.tweets_2022_05 =
 					}
 				},
 				"protected": false,
-				"followers_count": 2021,
-				"friends_count": 1719,
+				"followers_count": 2025,
+				"friends_count": 1723,
 				"listed_count": 32,
 				"created_at": "Mon Jun 23 08:15:01 +0000 2008",
-				"favourites_count": 25883,
+				"favourites_count": 25944,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": false,
-				"statuses_count": 6900,
+				"statuses_count": 6913,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -770,16 +1137,16 @@ Grailbird.data.tweets_2022_05 =
 				}
 			},
 			"protected": false,
-			"followers_count": 92,
+			"followers_count": 93,
 			"friends_count": 277,
 			"listed_count": 0,
 			"created_at": "Wed Mar 11 18:03:48 +0000 2009",
-			"favourites_count": 5912,
+			"favourites_count": 5915,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 4421,
+			"statuses_count": 4422,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
