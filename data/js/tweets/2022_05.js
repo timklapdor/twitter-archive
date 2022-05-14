@@ -1,6 +1,695 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Fri May 13 21:54:22 +0000 2022",
+		"id": 1525209378114228200,
+		"id_str": "1525233012585418752",
+		"full_text": "You will have heard thousands of different opinions over the years about Israel and Palestine. But much of the video from the last few days speaks for itself. This is life under apartheid ⬇️ https://t.co/BpwFL66yPD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BpwFL66yPD",
+					"expanded_url": "https://twitter.com/malonebarry/status/1525111238077841410",
+					"display_url": "twitter.com/malonebarry/st…",
+					"indices": [
+						191,
+						214
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 31957479,
+			"id_str": "31957479",
+			"name": "Sophie McNeill",
+			"screen_name": "Sophiemcneill",
+			"location": "Walyalup/Freo, West Australia",
+			"description": "Journalist, Australia Researcher Human Rights Watch @hrw, Author ‘We Can’t Say We Didn’t Know,’ Freo Dockers tragic, Signal +61419190187",
+			"url": "https://t.co/17iep5t1o3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/17iep5t1o3",
+							"expanded_url": "https://www.hrw.org/about/people/sophie-mcneill",
+							"display_url": "hrw.org/about/people/s…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 61928,
+			"friends_count": 7992,
+			"listed_count": 1010,
+			"created_at": "Thu Apr 16 16:33:57 +0000 2009",
+			"favourites_count": 35385,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 33505,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1409524736472666115/STUaHs4r_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1409524736472666115/STUaHs4r_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/31957479/1597843971",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1525111238077841400,
+		"quoted_status_id_str": "1525111238077841410",
+		"quoted_status_permalink": {
+			"url": "https://t.co/BpwFL66yPD",
+			"expanded": "https://twitter.com/malonebarry/status/1525111238077841410",
+			"display": "twitter.com/malonebarry/st…"
+		},
+		"quoted_status": {
+			"created_at": "Fri May 13 13:50:29 +0000 2022",
+			"id": 1525111238077841400,
+			"id_str": "1525111238077841410",
+			"full_text": "Israeli forces pulling Palestinian flags off Shireen Abu Akleh's hearse. https://t.co/8qTX9uCPV1",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				96
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1525077015296151600,
+						"id_str": "1525077015296151552",
+						"indices": [
+							73,
+							96
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1525077015296151552/pu/img/x-6z4fKee7LTw33S.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1525077015296151552/pu/img/x-6z4fKee7LTw33S.jpg",
+						"url": "https://t.co/8qTX9uCPV1",
+						"display_url": "pic.twitter.com/8qTX9uCPV1",
+						"expanded_url": "https://twitter.com/Lachjerusalem/status/1525077567346200577/video/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1272,
+								"h": 720,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 679,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 385,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1525077567346200600,
+						"source_status_id_str": "1525077567346200577",
+						"source_user_id": 868587645701697500,
+						"source_user_id_str": "868587645701697536"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1525077015296151600,
+						"id_str": "1525077015296151552",
+						"indices": [
+							73,
+							96
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1525077015296151552/pu/img/x-6z4fKee7LTw33S.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1525077015296151552/pu/img/x-6z4fKee7LTw33S.jpg",
+						"url": "https://t.co/8qTX9uCPV1",
+						"display_url": "pic.twitter.com/8qTX9uCPV1",
+						"expanded_url": "https://twitter.com/Lachjerusalem/status/1525077567346200577/video/1",
+						"type": "video",
+						"sizes": {
+							"large": {
+								"w": 1272,
+								"h": 720,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 679,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 385,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1525077567346200600,
+						"source_status_id_str": "1525077567346200577",
+						"source_user_id": 868587645701697500,
+						"source_user_id_str": "868587645701697536",
+						"video_info": {
+							"aspect_ratio": [
+								53,
+								30
+							],
+							"duration_millis": 46321,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1525077015296151552/pu/vid/636x360/eafLVy-L9k34X9Xb.mp4?tag=12"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1525077015296151552/pu/vid/476x270/sDAHz1BGKykSkmLm.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1525077015296151552/pu/pl/nVURVasFFDBW2xwA.m3u8?tag=12&container=fmp4"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1525077015296151552/pu/vid/1272x720/3X6kNcmvjxK4vq6N.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 868587645701697500,
+								"id_str": "868587645701697536",
+								"name": "מאור צמח-לך ירושלים",
+								"screen_name": "Lachjerusalem",
+								"location": "ירושלים",
+								"description": "יור ארגון לך ירושלים",
+								"url": null,
+								"entities": {
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 1194,
+								"friends_count": 1264,
+								"listed_count": 7,
+								"created_at": "Sat May 27 22:00:07 +0000 2017",
+								"favourites_count": 5638,
+								"utc_offset": null,
+								"time_zone": null,
+								"geo_enabled": true,
+								"verified": false,
+								"statuses_count": 2515,
+								"lang": null,
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "F5F8FA",
+								"profile_background_image_url": null,
+								"profile_background_image_url_https": null,
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/956180372445978627/x1-4cqsz_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/956180372445978627/x1-4cqsz_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/868587645701697536/1602784094",
+								"profile_link_color": "1DA1F2",
+								"profile_sidebar_border_color": "C0DEED",
+								"profile_sidebar_fill_color": "DDEEF6",
+								"profile_text_color": "333333",
+								"profile_use_background_image": true,
+								"has_extended_profile": true,
+								"default_profile": true,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none",
+								"withheld_in_countries": []
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18753586,
+				"id_str": "18753586",
+				"name": "Barry Malone",
+				"screen_name": "malonebarry",
+				"location": "London",
+				"description": "Deputy Editor in Chief, @TRF_Stories. Past: EP @AJStream / Digital Editor @AJEnglish / @Reuters in Africa and Middle East. Expect news and nonsense.",
+				"url": "https://t.co/0LO5VSMDjz",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/0LO5VSMDjz",
+								"expanded_url": "https://proximities.substack.com/",
+								"display_url": "proximities.substack.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 39946,
+				"friends_count": 2943,
+				"listed_count": 733,
+				"created_at": "Thu Jan 08 04:27:43 +0000 2009",
+				"favourites_count": 60818,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 45690,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F7F7F7",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1369333967414038533/1zmvPofh_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1369333967414038533/1zmvPofh_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18753586/1403688026",
+				"profile_link_color": "2878B5",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E3E2DE",
+				"profile_text_color": "634047",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2225,
+			"favorite_count": 3243,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 100,
+		"favorite_count": 334,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "You will have heard thousands of different opinions over the years about Israel and Palestine. But much of the video from the last few days speaks for itself. This is life under apartheid ⬇️ https://t.co/BpwFL66yPD"
+	},
+	{
+		"created_at": "Fri May 13 21:46:48 +0000 2022",
+		"id": 1525231108870111200,
+		"id_str": "1525231108870111232",
+		"full_text": "The web starts on page four | Christian Heilmann https://t.co/RWal5yIC3z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RWal5yIC3z",
+					"expanded_url": "https://christianheilmann.com/2021/12/20/the-web-starts-on-page-four/",
+					"display_url": "christianheilmann.com/2021/12/20/the…",
+					"indices": [
+						49,
+						72
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Adelaide, South Australia",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
+			"url": "https://t.co/uC0c3me6KE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uC0c3me6KE",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 823,
+			"friends_count": 163,
+			"listed_count": 87,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 10026,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15424,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The web starts on page four | Christian Heilmann https://t.co/RWal5yIC3z"
+	},
+	{
+		"created_at": "Fri May 13 13:13:01 +0000 2022",
+		"id": 1525071210589077500,
+		"id_str": "1525101811937722368",
+		"full_text": "Horrible scenes as Israeli security forces beat the funeral procession for slain journalist Shireen Abu Akleh and the crowd momentarily lose control of her casket https://t.co/DEJF5Ty9tZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1525071080343339000,
+					"id_str": "1525071080343339009",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1525071080343339009/pu/img/_kLJspFCZKl9gbGp.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1525071080343339009/pu/img/_kLJspFCZKl9gbGp.jpg",
+					"url": "https://t.co/DEJF5Ty9tZ",
+					"display_url": "pic.twitter.com/DEJF5Ty9tZ",
+					"expanded_url": "https://twitter.com/EmirNader/status/1525071210589077504/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 555,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 315,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 592,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1525071080343339000,
+					"id_str": "1525071080343339009",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1525071080343339009/pu/img/_kLJspFCZKl9gbGp.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1525071080343339009/pu/img/_kLJspFCZKl9gbGp.jpg",
+					"url": "https://t.co/DEJF5Ty9tZ",
+					"display_url": "pic.twitter.com/DEJF5Ty9tZ",
+					"expanded_url": "https://twitter.com/EmirNader/status/1525071210589077504/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 555,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 315,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 592,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							80,
+							37
+						],
+						"duration_millis": 49280,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1525071080343339009/pu/vid/1280x592/SpTPKTFXEM1t0i1i.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1525071080343339009/pu/vid/778x360/v9-t2jIoCwR1AJrH.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1525071080343339009/pu/pl/oB8XJDv96zqUv1mz.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1525071080343339009/pu/vid/582x270/m61ihYd5_z30Wbx9.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 62831879,
+			"id_str": "62831879",
+			"name": "Emir Nader",
+			"screen_name": "EmirNader",
+			"location": "London, Cairo, Darlington",
+			"description": "Correspondent and investigations @BBCNews UK, Middle East, N Africa, Myanmar, Uyghurs. @BBCArabic docs, @BBCNewsnight 🇬🇧🇪🇬 emir.nader@bbc.co.uk",
+			"url": "https://t.co/XMMv8TvtIk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XMMv8TvtIk",
+							"expanded_url": "http://youtube.com/playlist?list=PL439F79F627C5A421",
+							"display_url": "youtube.com/playlist?list=…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4789,
+			"friends_count": 3253,
+			"listed_count": 89,
+			"created_at": "Tue Aug 04 14:30:46 +0000 2009",
+			"favourites_count": 1930,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 8625,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1387059365790760960/PwN6aEnH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1387059365790760960/PwN6aEnH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/62831879/1436102810",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17110,
+		"favorite_count": 35900,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Horrible scenes as Israeli security forces beat the funeral procession for slain journalist Shireen Abu Akleh and the crowd momentarily lose control of her casket https://t.co/DEJF5Ty9tZ"
+	},
+	{
 		"created_at": "Wed May 11 13:03:20 +0000 2022",
 		"id": 1524362722779222000,
 		"id_str": "1524374600498692097",
@@ -57,16 +746,16 @@ Grailbird.data.tweets_2022_05 =
 				}
 			},
 			"protected": false,
-			"followers_count": 76904,
-			"friends_count": 7992,
-			"listed_count": 625,
+			"followers_count": 76969,
+			"friends_count": 7994,
+			"listed_count": 626,
 			"created_at": "Sat Jan 15 14:03:07 +0000 2011",
-			"favourites_count": 55882,
+			"favourites_count": 55933,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 81865,
+			"statuses_count": 81888,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -97,8 +786,8 @@ Grailbird.data.tweets_2022_05 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 199,
-		"favorite_count": 660,
+		"retweet_count": 201,
+		"favorite_count": 671,
 		"favorited": false,
 		"retweeted": true,
 		"lang": "en",
@@ -163,16 +852,16 @@ Grailbird.data.tweets_2022_05 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1630,
+			"followers_count": 1631,
 			"friends_count": 881,
 			"listed_count": 78,
 			"created_at": "Fri Feb 22 01:56:56 +0000 2008",
-			"favourites_count": 1011,
+			"favourites_count": 1012,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 118,
+			"statuses_count": 120,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -279,16 +968,16 @@ Grailbird.data.tweets_2022_05 =
 					}
 				},
 				"protected": false,
-				"followers_count": 52964314,
-				"friends_count": 877,
-				"listed_count": 215314,
+				"followers_count": 52977252,
+				"friends_count": 876,
+				"listed_count": 215342,
 				"created_at": "Fri Mar 02 20:41:42 +0000 2007",
 				"favourites_count": 18880,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": true,
-				"statuses_count": 471704,
+				"statuses_count": 471801,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -319,8 +1008,8 @@ Grailbird.data.tweets_2022_05 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 925,
-			"favorite_count": 4258,
+			"retweet_count": 927,
+			"favorite_count": 4281,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
@@ -521,7 +1210,7 @@ Grailbird.data.tweets_2022_05 =
 				}
 			},
 			"protected": false,
-			"followers_count": 140977,
+			"followers_count": 141087,
 			"friends_count": 636,
 			"listed_count": 832,
 			"created_at": "Wed Jan 23 03:33:46 +0000 2013",
@@ -562,7 +1251,7 @@ Grailbird.data.tweets_2022_05 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 139,
-		"favorite_count": 463,
+		"favorite_count": 465,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -622,12 +1311,12 @@ Grailbird.data.tweets_2022_05 =
 			"friends_count": 163,
 			"listed_count": 87,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10022,
+			"favourites_count": 10026,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15421,
+			"statuses_count": 15424,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -718,12 +1407,12 @@ Grailbird.data.tweets_2022_05 =
 			"friends_count": 163,
 			"listed_count": 87,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10022,
+			"favourites_count": 10026,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15421,
+			"statuses_count": 15424,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -835,12 +1524,12 @@ Grailbird.data.tweets_2022_05 =
 			"friends_count": 163,
 			"listed_count": 87,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10022,
+			"favourites_count": 10026,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15421,
+			"statuses_count": 15424,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -917,7 +1606,7 @@ Grailbird.data.tweets_2022_05 =
 			"name": "Tony Martin",
 			"screen_name": "mrtonymartin",
 			"location": "Melbourne, Australia",
-			"description": "Mayor of SIZZLETOWN https://t.co/Dzcny2qqfD ASSORTED RECORDINGS at https://t.co/WXU3p30dzp Web series SHUT UP almost done.",
+			"description": "Mayor of SIZZLETOWN https://t.co/Dzcny2qqfD ASSORTED RECORDINGS at https://t.co/WXU3p30dzp Web series SHUT UP almost here.",
 			"url": "https://t.co/FXuqoAZz6d",
 			"entities": {
 				"url": {
@@ -957,7 +1646,7 @@ Grailbird.data.tweets_2022_05 =
 				}
 			},
 			"protected": false,
-			"followers_count": 87299,
+			"followers_count": 87355,
 			"friends_count": 338,
 			"listed_count": 693,
 			"created_at": "Wed Dec 02 02:46:11 +0000 2009",
@@ -966,7 +1655,7 @@ Grailbird.data.tweets_2022_05 =
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 25587,
+			"statuses_count": 25594,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1191,16 +1880,16 @@ Grailbird.data.tweets_2022_05 =
 					}
 				},
 				"protected": false,
-				"followers_count": 6113,
-				"friends_count": 2377,
-				"listed_count": 0,
+				"followers_count": 6177,
+				"friends_count": 2379,
+				"listed_count": 21,
 				"created_at": "Fri Jan 21 00:22:09 +0000 2022",
-				"favourites_count": 242,
+				"favourites_count": 250,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": false,
-				"statuses_count": 496,
+				"statuses_count": 515,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -1231,8 +1920,8 @@ Grailbird.data.tweets_2022_05 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 682,
-			"favorite_count": 1176,
+			"retweet_count": 683,
+			"favorite_count": 1180,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
@@ -1414,16 +2103,16 @@ Grailbird.data.tweets_2022_05 =
 				}
 			},
 			"protected": false,
-			"followers_count": 7372,
-			"friends_count": 5144,
+			"followers_count": 7374,
+			"friends_count": 5153,
 			"listed_count": 95,
 			"created_at": "Tue Jul 21 05:04:10 +0000 2009",
-			"favourites_count": 55735,
+			"favourites_count": 55774,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 67661,
+			"statuses_count": 67702,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1454,8 +2143,8 @@ Grailbird.data.tweets_2022_05 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 2798,
-		"favorite_count": 7098,
+		"retweet_count": 2820,
+		"favorite_count": 7137,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -1521,16 +2210,16 @@ Grailbird.data.tweets_2022_05 =
 				}
 			},
 			"protected": false,
-			"followers_count": 426352,
-			"friends_count": 4875,
-			"listed_count": 2977,
+			"followers_count": 426783,
+			"friends_count": 4886,
+			"listed_count": 2979,
 			"created_at": "Fri May 15 22:47:11 +0000 2009",
-			"favourites_count": 79329,
+			"favourites_count": 79447,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 51665,
+			"statuses_count": 51694,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1695,16 +2384,16 @@ Grailbird.data.tweets_2022_05 =
 					}
 				},
 				"protected": false,
-				"followers_count": 2132,
-				"friends_count": 549,
+				"followers_count": 2128,
+				"friends_count": 551,
 				"listed_count": 13,
 				"created_at": "Sun Sep 13 21:15:30 +0000 2015",
-				"favourites_count": 3289,
+				"favourites_count": 3290,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": true,
-				"statuses_count": 2836,
+				"statuses_count": 2837,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -1735,8 +2424,8 @@ Grailbird.data.tweets_2022_05 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 19419,
-			"favorite_count": 63861,
+			"retweet_count": 19410,
+			"favorite_count": 63833,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
@@ -1813,12 +2502,12 @@ Grailbird.data.tweets_2022_05 =
 			"friends_count": 163,
 			"listed_count": 87,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10022,
+			"favourites_count": 10026,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15421,
+			"statuses_count": 15424,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1905,16 +2594,16 @@ Grailbird.data.tweets_2022_05 =
 					}
 				},
 				"protected": false,
-				"followers_count": 2034,
-				"friends_count": 1730,
+				"followers_count": 2035,
+				"friends_count": 1733,
 				"listed_count": 32,
 				"created_at": "Mon Jun 23 08:15:01 +0000 2008",
-				"favourites_count": 26174,
+				"favourites_count": 26223,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": false,
-				"statuses_count": 6950,
+				"statuses_count": 6955,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -2020,12 +2709,12 @@ Grailbird.data.tweets_2022_05 =
 			"friends_count": 277,
 			"listed_count": 0,
 			"created_at": "Wed Mar 11 18:03:48 +0000 2009",
-			"favourites_count": 5989,
+			"favourites_count": 6001,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 4494,
+			"statuses_count": 4498,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
