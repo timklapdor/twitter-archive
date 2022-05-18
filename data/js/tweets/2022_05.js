@@ -1,6 +1,1057 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Tue May 17 21:50:43 +0000 2022",
+		"id": 1526677959276302300,
+		"id_str": "1526681647978270720",
+		"full_text": "lol \"that's quite a long list you've been able to put together\" - imagine being out smarted by ACA, even dodgy builders put up more of a fight https://t.co/Sg5GWzrd4c",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Sg5GWzrd4c",
+					"expanded_url": "https://twitter.com/ACurrentAffair9/status/1526462975426838528",
+					"display_url": "twitter.com/ACurrentAffair…",
+					"indices": [
+						143,
+						166
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 718713,
+			"id_str": "718713",
+			"name": "decryption",
+			"screen_name": "decryption",
+			"location": "Victoria, Australia",
+			"description": "Author of The Sizzle, a daily tech email newsletter. North Melbourne Kangaroos supporter. Recreational systems administrator.",
+			"url": "https://t.co/Z2iUMEdeZV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z2iUMEdeZV",
+							"expanded_url": "http://thesizzle.com.au",
+							"display_url": "thesizzle.com.au",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4230,
+			"friends_count": 307,
+			"listed_count": 264,
+			"created_at": "Sun Jan 28 08:28:45 +0000 2007",
+			"favourites_count": 22592,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1285,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1429294966283505666/s_O3OxhP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1429294966283505666/s_O3OxhP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/718713/1618787812",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1526462975426838500,
+		"quoted_status_id_str": "1526462975426838528",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Sg5GWzrd4c",
+			"expanded": "https://twitter.com/ACurrentAffair9/status/1526462975426838528",
+			"display": "twitter.com/ACurrentAffair…"
+		},
+		"quoted_status": {
+			"created_at": "Tue May 17 07:21:48 +0000 2022",
+			"id": 1526462975426838500,
+			"id_str": "1526462975426838528",
+			"full_text": "\"Do you think maybe you slightly over-egged the part about 'I saved the country'?\"\n \nTonight on A Current Affair, Tracy Grimshaw goes head-to-head with Scott Morrison.\n \nHear the prime minister's response TONIGHT at 7pm.\n \n#AusVotes #9ACA https://t.co/dffbV3oBbd",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				238
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "AusVotes",
+						"indices": [
+							223,
+							232
+						]
+					},
+					{
+						"text": "9ACA",
+						"indices": [
+							233,
+							238
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1526461161189032000,
+						"id_str": "1526461161189031936",
+						"indices": [
+							239,
+							262
+						],
+						"media_url": "http://pbs.twimg.com/media/FS8V7SEaAAA-CPQ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FS8V7SEaAAA-CPQ.jpg",
+						"url": "https://t.co/dffbV3oBbd",
+						"display_url": "pic.twitter.com/dffbV3oBbd",
+						"expanded_url": "https://twitter.com/ACurrentAffair9/status/1526462975426838528/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1526461161189032000,
+						"id_str": "1526461161189031936",
+						"indices": [
+							239,
+							262
+						],
+						"media_url": "http://pbs.twimg.com/media/FS8V7SEaAAA-CPQ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FS8V7SEaAAA-CPQ.jpg",
+						"url": "https://t.co/dffbV3oBbd",
+						"display_url": "pic.twitter.com/dffbV3oBbd",
+						"expanded_url": "https://twitter.com/ACurrentAffair9/status/1526462975426838528/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 40200,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1526461161189031936/vid/1280x720/p3hvGLX-I9PpNxrP.mp4?tag=14"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1526461161189031936/pl/_vouz7LZCr7_Zn3W.m3u8?tag=14&container=fmp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1526461161189031936/vid/640x360/f7RIqDLvQXNjOCoz.mp4?tag=14"
+								},
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1526461161189031936/vid/480x270/7DXgTlD0Oibs74dd.mp4?tag=14"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "Tonight at 7pm: Tracy Grimshaw goes head-to-head with PM",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 287603080,
+				"id_str": "287603080",
+				"name": "A Current Affair",
+				"screen_name": "ACurrentAffair9",
+				"location": "Australia",
+				"description": "A Current Affair | 7.00pm weeknights and Saturdays on @Channel9. \nJoin the conversation #9ACA \nGot a story? aca@nine.com.au",
+				"url": "http://t.co/XOTsEsUrIJ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/XOTsEsUrIJ",
+								"expanded_url": "http://www.facebook.com/ACurrentAffair9",
+								"display_url": "facebook.com/ACurrentAffair9",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 67441,
+				"friends_count": 3367,
+				"listed_count": 402,
+				"created_at": "Mon Apr 25 09:44:31 +0000 2011",
+				"favourites_count": 3972,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 44751,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000071868333/57bc1f49418e9279f082dadd66217cac_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000071868333/57bc1f49418e9279f082dadd66217cac_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/287603080/1615341257",
+				"profile_link_color": "B40404",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1846,
+			"favorite_count": 7036,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "lol \"that's quite a long list you've been able to put together\" - imagine being out smarted by ACA, even dodgy builders put up more of a fight https://t.co/Sg5GWzrd4c"
+	},
+	{
+		"created_at": "Tue May 17 12:48:09 +0000 2022",
+		"id": 1526503971719889000,
+		"id_str": "1526545102906470401",
+		"full_text": "The final dance in Dirty Dancing, but they’re dancing to The Muppet Show theme tune. https://t.co/ldfjmm5JoQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1526503931211395000,
+					"id_str": "1526503931211395072",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1526503931211395072/pu/img/gCGLukC00EtUOwb7.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1526503931211395072/pu/img/gCGLukC00EtUOwb7.jpg",
+					"url": "https://t.co/ldfjmm5JoQ",
+					"display_url": "pic.twitter.com/ldfjmm5JoQ",
+					"expanded_url": "https://twitter.com/Pandamoanimum/status/1526503971719888898/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 848,
+							"h": 480,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 385,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1526503931211395000,
+					"id_str": "1526503931211395072",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1526503931211395072/pu/img/gCGLukC00EtUOwb7.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1526503931211395072/pu/img/gCGLukC00EtUOwb7.jpg",
+					"url": "https://t.co/ldfjmm5JoQ",
+					"display_url": "pic.twitter.com/ldfjmm5JoQ",
+					"expanded_url": "https://twitter.com/Pandamoanimum/status/1526503971719888898/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 848,
+							"h": 480,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 385,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							53,
+							30
+						],
+						"duration_millis": 64364,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1526503931211395072/pu/vid/848x480/_CxPD2UBaji2eLWV.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1526503931211395072/pu/pl/eWB8BqpTvp1Y8Njd.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1526503931211395072/pu/vid/476x270/-fpbsqloIPms2L3j.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1526503931211395072/pu/vid/636x360/fsHcM6r-6YqA8OIq.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19582310,
+			"id_str": "19582310",
+			"name": "Amanda",
+			"screen_name": "Pandamoanimum",
+			"location": "Kent, UK",
+			"description": "Welcome to my head. Please excuse the mess. If you like my stupid brain nonsense, you can buy me a coffee here: https://t.co/nHqykmDilU",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/nHqykmDilU",
+							"expanded_url": "http://ko-fi.com/pandamoanimum",
+							"display_url": "ko-fi.com/pandamoanimum",
+							"indices": [
+								112,
+								135
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 88561,
+			"friends_count": 883,
+			"listed_count": 700,
+			"created_at": "Tue Jan 27 08:06:53 +0000 2009",
+			"favourites_count": 54137,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 156934,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "D82CBE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1479497530727702528/0-pHXjlK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1479497530727702528/0-pHXjlK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19582310/1388503627",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EE7AE2",
+			"profile_text_color": "3D1957",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21016,
+		"favorite_count": 81025,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The final dance in Dirty Dancing, but they’re dancing to The Muppet Show theme tune. https://t.co/ldfjmm5JoQ"
+	},
+	{
+		"created_at": "Tue May 17 08:20:43 +0000 2022",
+		"id": 1526424386085220400,
+		"id_str": "1526477802941272064",
+		"full_text": "SWIPE RIGHT  ▶️▶️▶️  FOR THE FULL HEADLINE: https://t.co/VKuSftlDku https://t.co/jYqDKrJvgC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VKuSftlDku",
+					"expanded_url": "http://www.betootaadvocate.com/headlines/pm-who-went-to-hawaii-for-a-two-week-beach-holiday-in-the-middle-of-record-breaking-bushfires-and-then-lied-to-the-media-by-denying-hed-ever-left-the-country-until-he-was-caught-out-lying-because/",
+					"display_url": "betootaadvocate.com/headlines/pm-w…",
+					"indices": [
+						44,
+						67
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1526424379386908700,
+					"id_str": "1526424379386908672",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/FS7y4r3aUAAHuql.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FS7y4r3aUAAHuql.jpg",
+					"url": "https://t.co/jYqDKrJvgC",
+					"display_url": "pic.twitter.com/jYqDKrJvgC",
+					"expanded_url": "https://twitter.com/BetootaAdvocate/status/1526424386085220352/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 631,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1358,
+							"h": 1463,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1114,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1526424379386908700,
+					"id_str": "1526424379386908672",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/FS7y4r3aUAAHuql.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FS7y4r3aUAAHuql.jpg",
+					"url": "https://t.co/jYqDKrJvgC",
+					"display_url": "pic.twitter.com/jYqDKrJvgC",
+					"expanded_url": "https://twitter.com/BetootaAdvocate/status/1526424386085220352/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 631,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1358,
+							"h": 1463,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1114,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1526424379374321700,
+					"id_str": "1526424379374321665",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/FS7y4r0aQAEk-xC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FS7y4r0aQAEk-xC.jpg",
+					"url": "https://t.co/jYqDKrJvgC",
+					"display_url": "pic.twitter.com/jYqDKrJvgC",
+					"expanded_url": "https://twitter.com/BetootaAdvocate/status/1526424386085220352/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 631,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1551,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1114,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1526424379386916900,
+					"id_str": "1526424379386916866",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/FS7y4r3acAI4z9J.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FS7y4r3acAI4z9J.jpg",
+					"url": "https://t.co/jYqDKrJvgC",
+					"display_url": "pic.twitter.com/jYqDKrJvgC",
+					"expanded_url": "https://twitter.com/BetootaAdvocate/status/1526424386085220352/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 631,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1114,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1551,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1526424379487551500,
+					"id_str": "1526424379487551489",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/FS7y4sPaAAEBXwU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FS7y4sPaAAEBXwU.jpg",
+					"url": "https://t.co/jYqDKrJvgC",
+					"display_url": "pic.twitter.com/jYqDKrJvgC",
+					"expanded_url": "https://twitter.com/BetootaAdvocate/status/1526424386085220352/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1412,
+							"h": 1521,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1114,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 631,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2878895652,
+			"id_str": "2878895652",
+			"name": "The Betoota Advocate",
+			"screen_name": "BetootaAdvocate",
+			"location": "Betoota, QLD",
+			"description": "Australia's oldest newspaper.",
+			"url": "https://t.co/qD7dYyT9I8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qD7dYyT9I8",
+							"expanded_url": "http://eepurl.com/cnbKy9",
+							"display_url": "eepurl.com/cnbKy9",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 112048,
+			"friends_count": 1575,
+			"listed_count": 303,
+			"created_at": "Mon Oct 27 02:08:57 +0000 2014",
+			"favourites_count": 868,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3535,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1157072808167399425/R93JPg1U_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1157072808167399425/R93JPg1U_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2878895652/1499368530",
+			"profile_link_color": "FF0202",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 253,
+		"favorite_count": 754,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "SWIPE RIGHT  ▶️▶️▶️  FOR THE FULL HEADLINE: https://t.co/VKuSftlDku https://t.co/jYqDKrJvgC"
+	},
+	{
+		"created_at": "Tue May 17 03:59:41 +0000 2022",
+		"id": 1526330073569034200,
+		"id_str": "1526412112376913920",
+		"full_text": "The Australian public is paying the fossil fuel industry to destroy the planet.\n\n\"five of the gas industry’s most prominent companies have paid no income tax for at least the past seven years, despite a combined income from their Australian operations of $138 billion\" https://t.co/5HtKswxPRG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			268
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5HtKswxPRG",
+					"expanded_url": "https://twitter.com/MarkOgge/status/1526328580648869888",
+					"display_url": "twitter.com/MarkOgge/statu…",
+					"indices": [
+						269,
+						292
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 799617770,
+			"id_str": "799617770",
+			"name": "Daniel Bleakley",
+			"screen_name": "DanielBleakley",
+			"location": "Wurundjeri land (Melbourne)",
+			"description": "Climate Activist. Engineer. \n\n@MinersInTeslas\n\n@AccessDisrupt\n\nClimate/Energy/EVs with @TheAusInstitute\n\nCivilisation exists in a biosphere.",
+			"url": "https://t.co/Lpz9H2D5yC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Lpz9H2D5yC",
+							"expanded_url": "https://www.instagram.com/danielbleakley/",
+							"display_url": "instagram.com/danielbleakley/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21011,
+			"friends_count": 16119,
+			"listed_count": 108,
+			"created_at": "Mon Sep 03 04:29:19 +0000 2012",
+			"favourites_count": 74998,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 47690,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1356377252900917248/m1QajkuY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1356377252900917248/m1QajkuY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/799617770/1627982187",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1526328580648870000,
+		"quoted_status_id_str": "1526328580648869888",
+		"quoted_status_permalink": {
+			"url": "https://t.co/5HtKswxPRG",
+			"expanded": "https://twitter.com/MarkOgge/status/1526328580648869888",
+			"display": "twitter.com/MarkOgge/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Mon May 16 22:27:46 +0000 2022",
+			"id": 1526328580648870000,
+			"id_str": "1526328580648869888",
+			"full_text": "New Australia Institute analysis of ATO shows that key @APPEA members, gas giants Exxon, Santos, Senex, Arrow and APLNG, , paid no income tax over last 7 years on $138 billion income.\n\nSantos paid just $6 million on $27.8 billion income.\n\nMore in thread \nhttps://t.co/eexb0hnia5",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				278
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Appea",
+						"name": "Nana Akua",
+						"id": 20275880,
+						"id_str": "20275880",
+						"indices": [
+							55,
+							61
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/eexb0hnia5",
+						"expanded_url": "https://www.nationaltribune.com.au/appea-members-pay-no-income-tax-on-income-of-138-billion/",
+						"display_url": "nationaltribune.com.au/appea-members-…",
+						"indices": [
+							255,
+							278
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1267300532319711200,
+				"id_str": "1267300532319711234",
+				"name": "Mark Ogge",
+				"screen_name": "MarkOgge",
+				"location": "",
+				"description": "Climate and energy @theausinstitute",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1242,
+				"friends_count": 265,
+				"listed_count": 15,
+				"created_at": "Mon Jun 01 03:43:17 +0000 2020",
+				"favourites_count": 386,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 897,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1499168739694362625/8xYAvK9S_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1499168739694362625/8xYAvK9S_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1267300532319711234/1646264657",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 384,
+			"favorite_count": 472,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 72,
+		"favorite_count": 153,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The Australian public is paying the fossil fuel industry to destroy the planet.\n\n\"five of the gas industry’s most prominent companies have paid no income tax for at least the past seven years, despite a combined income from their Australian operations of $138 billion\" https://t.co/5HtKswxPRG"
+	},
+	{
 		"created_at": "Sun May 15 10:41:00 +0000 2022",
 		"id": 1525731475664289800,
 		"id_str": "1525788330226397184",
@@ -137,16 +1188,16 @@ Grailbird.data.tweets_2022_05 =
 				}
 			},
 			"protected": false,
-			"followers_count": 3594,
-			"friends_count": 4988,
+			"followers_count": 3596,
+			"friends_count": 4989,
 			"listed_count": 93,
 			"created_at": "Tue Jan 18 03:17:55 +0000 2011",
-			"favourites_count": 16466,
+			"favourites_count": 16480,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 18305,
+			"statuses_count": 18319,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -178,7 +1229,7 @@ Grailbird.data.tweets_2022_05 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 40,
-		"favorite_count": 26,
+		"favorite_count": 27,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -216,8 +1267,8 @@ Grailbird.data.tweets_2022_05 =
 						147,
 						170
 					],
-					"media_url": "http://pbs.twimg.com/media/FS6TpOuacAAFZRM.jpg",
-					"media_url_https": "https://pbs.twimg.com/media/FS6TpOuacAAFZRM.jpg",
+					"media_url": "http://pbs.twimg.com/media/FS_NIcZaIAEnTDY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FS_NIcZaIAEnTDY.jpg",
 					"url": "https://t.co/vrpsCoWlnp",
 					"display_url": "pic.twitter.com/vrpsCoWlnp",
 					"expanded_url": "https://twitter.com/thejuicemedia/status/1525712656224878593/video/1",
@@ -256,8 +1307,8 @@ Grailbird.data.tweets_2022_05 =
 						147,
 						170
 					],
-					"media_url": "http://pbs.twimg.com/media/FS6TpOuacAAFZRM.jpg",
-					"media_url_https": "https://pbs.twimg.com/media/FS6TpOuacAAFZRM.jpg",
+					"media_url": "http://pbs.twimg.com/media/FS_NIcZaIAEnTDY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FS_NIcZaIAEnTDY.jpg",
 					"url": "https://t.co/vrpsCoWlnp",
 					"display_url": "pic.twitter.com/vrpsCoWlnp",
 					"expanded_url": "https://twitter.com/thejuicemedia/status/1525712656224878593/video/1",
@@ -387,16 +1438,16 @@ Grailbird.data.tweets_2022_05 =
 				}
 			},
 			"protected": false,
-			"followers_count": 113683,
+			"followers_count": 113835,
 			"friends_count": 2160,
 			"listed_count": 1116,
 			"created_at": "Sat Jul 10 03:38:50 +0000 2010",
-			"favourites_count": 22813,
+			"favourites_count": 22822,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 11499,
+			"statuses_count": 11501,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -427,8 +1478,8 @@ Grailbird.data.tweets_2022_05 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 2013,
-		"favorite_count": 4334,
+		"retweet_count": 2059,
+		"favorite_count": 4407,
 		"favorited": true,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -472,15 +1523,15 @@ Grailbird.data.tweets_2022_05 =
 			},
 			"protected": false,
 			"followers_count": 3265,
-			"friends_count": 1124,
+			"friends_count": 1126,
 			"listed_count": 94,
 			"created_at": "Fri Feb 06 07:26:56 +0000 2009",
-			"favourites_count": 38772,
+			"favourites_count": 38803,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 80501,
+			"statuses_count": 80510,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -511,8 +1562,8 @@ Grailbird.data.tweets_2022_05 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 963,
-		"favorite_count": 6429,
+		"retweet_count": 970,
+		"favorite_count": 6516,
 		"favorited": false,
 		"retweeted": true,
 		"lang": "en",
@@ -577,16 +1628,16 @@ Grailbird.data.tweets_2022_05 =
 				}
 			},
 			"protected": false,
-			"followers_count": 62129,
-			"friends_count": 7998,
-			"listed_count": 1010,
+			"followers_count": 62139,
+			"friends_count": 8000,
+			"listed_count": 1009,
 			"created_at": "Thu Apr 16 16:33:57 +0000 2009",
-			"favourites_count": 35446,
+			"favourites_count": 35451,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 33526,
+			"statuses_count": 33537,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -767,11 +1818,11 @@ Grailbird.data.tweets_2022_05 =
 									}
 								},
 								"protected": false,
-								"followers_count": 1213,
-								"friends_count": 1266,
+								"followers_count": 1218,
+								"friends_count": 1267,
 								"listed_count": 7,
 								"created_at": "Sat May 27 22:00:07 +0000 2017",
-								"favourites_count": 5650,
+								"favourites_count": 5653,
 								"utc_offset": null,
 								"time_zone": null,
 								"geo_enabled": true,
@@ -839,16 +1890,16 @@ Grailbird.data.tweets_2022_05 =
 					}
 				},
 				"protected": false,
-				"followers_count": 40290,
-				"friends_count": 2946,
-				"listed_count": 737,
+				"followers_count": 40308,
+				"friends_count": 2948,
+				"listed_count": 738,
 				"created_at": "Thu Jan 08 04:27:43 +0000 2009",
-				"favourites_count": 60818,
+				"favourites_count": 60851,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": true,
-				"statuses_count": 45709,
+				"statuses_count": 45727,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -879,15 +1930,15 @@ Grailbird.data.tweets_2022_05 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 8237,
-			"favorite_count": 13559,
+			"retweet_count": 8616,
+			"favorite_count": 14039,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
 			"lang": "en"
 		},
-		"retweet_count": 717,
-		"favorite_count": 1873,
+		"retweet_count": 719,
+		"favorite_count": 1881,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -957,12 +2008,12 @@ Grailbird.data.tweets_2022_05 =
 			"friends_count": 163,
 			"listed_count": 87,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10032,
+			"favourites_count": 10037,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15427,
+			"statuses_count": 15431,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1159,11 +2210,11 @@ Grailbird.data.tweets_2022_05 =
 				}
 			},
 			"protected": false,
-			"followers_count": 5414,
+			"followers_count": 5424,
 			"friends_count": 3257,
 			"listed_count": 94,
 			"created_at": "Tue Aug 04 14:30:46 +0000 2009",
-			"favourites_count": 1932,
+			"favourites_count": 1933,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
@@ -1199,8 +2250,8 @@ Grailbird.data.tweets_2022_05 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 20312,
-		"favorite_count": 43677,
+		"retweet_count": 20332,
+		"favorite_count": 43715,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -1264,16 +2315,16 @@ Grailbird.data.tweets_2022_05 =
 				}
 			},
 			"protected": false,
-			"followers_count": 77064,
+			"followers_count": 77088,
 			"friends_count": 7997,
 			"listed_count": 631,
 			"created_at": "Sat Jan 15 14:03:07 +0000 2011",
-			"favourites_count": 55917,
+			"favourites_count": 55922,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 81915,
+			"statuses_count": 81932,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1305,7 +2356,7 @@ Grailbird.data.tweets_2022_05 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 201,
-		"favorite_count": 674,
+		"favorite_count": 672,
 		"favorited": false,
 		"retweeted": true,
 		"lang": "en",
@@ -1374,12 +2425,12 @@ Grailbird.data.tweets_2022_05 =
 			"friends_count": 881,
 			"listed_count": 78,
 			"created_at": "Fri Feb 22 01:56:56 +0000 2008",
-			"favourites_count": 1012,
+			"favourites_count": 1013,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 121,
+			"statuses_count": 120,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1486,16 +2537,16 @@ Grailbird.data.tweets_2022_05 =
 					}
 				},
 				"protected": false,
-				"followers_count": 53015465,
+				"followers_count": 53025888,
 				"friends_count": 876,
-				"listed_count": 215410,
+				"listed_count": 215426,
 				"created_at": "Fri Mar 02 20:41:42 +0000 2007",
 				"favourites_count": 18897,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": true,
-				"statuses_count": 472059,
+				"statuses_count": 472176,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -1526,8 +2577,8 @@ Grailbird.data.tweets_2022_05 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 924,
-			"favorite_count": 4311,
+			"retweet_count": 923,
+			"favorite_count": 4313,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
@@ -1728,7 +2779,7 @@ Grailbird.data.tweets_2022_05 =
 				}
 			},
 			"protected": false,
-			"followers_count": 141355,
+			"followers_count": 141414,
 			"friends_count": 636,
 			"listed_count": 833,
 			"created_at": "Wed Jan 23 03:33:46 +0000 2013",
@@ -1829,12 +2880,12 @@ Grailbird.data.tweets_2022_05 =
 			"friends_count": 163,
 			"listed_count": 87,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10032,
+			"favourites_count": 10037,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15427,
+			"statuses_count": 15431,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1925,12 +2976,12 @@ Grailbird.data.tweets_2022_05 =
 			"friends_count": 163,
 			"listed_count": 87,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10032,
+			"favourites_count": 10037,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15427,
+			"statuses_count": 15431,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2042,12 +3093,12 @@ Grailbird.data.tweets_2022_05 =
 			"friends_count": 163,
 			"listed_count": 87,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10032,
+			"favourites_count": 10037,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15427,
+			"statuses_count": 15431,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2164,7 +3215,7 @@ Grailbird.data.tweets_2022_05 =
 				}
 			},
 			"protected": false,
-			"followers_count": 87392,
+			"followers_count": 87400,
 			"friends_count": 339,
 			"listed_count": 693,
 			"created_at": "Wed Dec 02 02:46:11 +0000 2009",
@@ -2173,7 +3224,7 @@ Grailbird.data.tweets_2022_05 =
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 25615,
+			"statuses_count": 25616,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2398,16 +3449,16 @@ Grailbird.data.tweets_2022_05 =
 					}
 				},
 				"protected": false,
-				"followers_count": 7328,
-				"friends_count": 2379,
-				"listed_count": 25,
+				"followers_count": 7364,
+				"friends_count": 2382,
+				"listed_count": 26,
 				"created_at": "Fri Jan 21 00:22:09 +0000 2022",
-				"favourites_count": 296,
+				"favourites_count": 305,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": false,
-				"statuses_count": 576,
+				"statuses_count": 590,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -2438,8 +3489,8 @@ Grailbird.data.tweets_2022_05 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 850,
-			"favorite_count": 1537,
+			"retweet_count": 932,
+			"favorite_count": 1702,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
@@ -2621,16 +3672,16 @@ Grailbird.data.tweets_2022_05 =
 				}
 			},
 			"protected": false,
-			"followers_count": 7378,
-			"friends_count": 5155,
+			"followers_count": 7379,
+			"friends_count": 5161,
 			"listed_count": 95,
 			"created_at": "Tue Jul 21 05:04:10 +0000 2009",
-			"favourites_count": 55825,
+			"favourites_count": 55860,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 67736,
+			"statuses_count": 67763,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2661,8 +3712,8 @@ Grailbird.data.tweets_2022_05 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 2836,
-		"favorite_count": 7176,
+		"retweet_count": 2838,
+		"favorite_count": 7177,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -2728,11 +3779,11 @@ Grailbird.data.tweets_2022_05 =
 				}
 			},
 			"protected": false,
-			"followers_count": 429015,
+			"followers_count": 429217,
 			"friends_count": 4900,
-			"listed_count": 2996,
+			"listed_count": 3000,
 			"created_at": "Fri May 15 22:47:11 +0000 2009",
-			"favourites_count": 79651,
+			"favourites_count": 79652,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
@@ -2902,7 +3953,7 @@ Grailbird.data.tweets_2022_05 =
 					}
 				},
 				"protected": false,
-				"followers_count": 2130,
+				"followers_count": 2131,
 				"friends_count": 554,
 				"listed_count": 14,
 				"created_at": "Sun Sep 13 21:15:30 +0000 2015",
@@ -2911,7 +3962,7 @@ Grailbird.data.tweets_2022_05 =
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": true,
-				"statuses_count": 2842,
+				"statuses_count": 2841,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -2942,15 +3993,15 @@ Grailbird.data.tweets_2022_05 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 19400,
-			"favorite_count": 63777,
+			"retweet_count": 19391,
+			"favorite_count": 63749,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
 			"lang": "en"
 		},
-		"retweet_count": 1750,
-		"favorite_count": 5743,
+		"retweet_count": 1748,
+		"favorite_count": 5738,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -3020,12 +4071,12 @@ Grailbird.data.tweets_2022_05 =
 			"friends_count": 163,
 			"listed_count": 87,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10032,
+			"favourites_count": 10037,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15427,
+			"statuses_count": 15431,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -3112,16 +4163,16 @@ Grailbird.data.tweets_2022_05 =
 					}
 				},
 				"protected": false,
-				"followers_count": 2038,
-				"friends_count": 1737,
+				"followers_count": 2041,
+				"friends_count": 1740,
 				"listed_count": 32,
 				"created_at": "Mon Jun 23 08:15:01 +0000 2008",
-				"favourites_count": 26343,
+				"favourites_count": 26376,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": false,
-				"statuses_count": 6983,
+				"statuses_count": 6987,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -3223,16 +4274,16 @@ Grailbird.data.tweets_2022_05 =
 				}
 			},
 			"protected": false,
-			"followers_count": 95,
+			"followers_count": 96,
 			"friends_count": 277,
 			"listed_count": 0,
 			"created_at": "Wed Mar 11 18:03:48 +0000 2009",
-			"favourites_count": 6044,
+			"favourites_count": 6067,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 4521,
+			"statuses_count": 4542,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
