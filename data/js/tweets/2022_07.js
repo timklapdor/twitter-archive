@@ -1,6 +1,770 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Thu Jul 07 14:05:57 +0000 2022",
+		"id": 1545020237359333400,
+		"id_str": "1545046466653491201",
+		"full_text": "Bye Bye Boris:\nhttps://t.co/iqoXllXXWO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			38
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/iqoXllXXWO",
+					"expanded_url": "https://www.youtube.com/watch?v=lKrLBPmRsrM",
+					"display_url": "youtube.com/watch?v=lKrLBP…",
+					"indices": [
+						15,
+						38
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3948308435,
+			"id_str": "3948308435",
+			"name": "Jonathan Pie",
+			"screen_name": "JonathanPieNews",
+			"location": "London, England",
+			"description": "Jonathan Pie is a news reporter https://t.co/0AQ0lNiSvD…\n WEBSITE: https://t.co/ete9uc4BML\nEnquiries to info@JonathanPie.com",
+			"url": "https://t.co/pkzSgAwchI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pkzSgAwchI",
+							"expanded_url": "http://www.youtube.com/jonathanpie",
+							"display_url": "youtube.com/jonathanpie",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/0AQ0lNiSvD",
+							"expanded_url": "http://facebook.com/JonathanPieRep",
+							"display_url": "facebook.com/JonathanPieRep",
+							"indices": [
+								32,
+								55
+							]
+						},
+						{
+							"url": "https://t.co/ete9uc4BML",
+							"expanded_url": "http://jonathanpie.com",
+							"display_url": "jonathanpie.com",
+							"indices": [
+								67,
+								90
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 411065,
+			"friends_count": 2184,
+			"listed_count": 1197,
+			"created_at": "Tue Oct 13 17:18:49 +0000 2015",
+			"favourites_count": 3791,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 18033,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1403343938740752384/0xYsQlS2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1403343938740752384/0xYsQlS2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3948308435/1645803927",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2903,
+		"favorite_count": 7757,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ht",
+		"text": "Bye Bye Boris:\nhttps://t.co/iqoXllXXWO"
+	},
+	{
+		"created_at": "Thu Jul 07 08:37:39 +0000 2022",
+		"id": 1544903517978038300,
+		"id_str": "1544963844208234496",
+		"full_text": "I'm actually super fed up with Vice Chancellors making bland pronouncements and acting like they're trying to bring recalcitrant staff along with their vision. https://t.co/KdbpKCtLGH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KdbpKCtLGH",
+					"expanded_url": "https://twitter.com/MerlinCrossley/status/1544518593596952576",
+					"display_url": "twitter.com/MerlinCrossley…",
+					"indices": [
+						160,
+						183
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 22888086,
+			"id_str": "22888086",
+			"name": "Travis Holland",
+			"screen_name": "travisaholland",
+			"location": "Wiradjuri country, Australia",
+			"description": "Snr Lecturer in Communication at @CharlesSturtUni.\n\nPodcasting as research @FossilsFiction. \n\nTweets abt dinos 🦕, space 🚀, universities 🎓, videogames 🎮",
+			"url": "https://t.co/7N3M38bFzq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7N3M38bFzq",
+							"expanded_url": "http://travish.co",
+							"display_url": "travish.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2066,
+			"friends_count": 3415,
+			"listed_count": 77,
+			"created_at": "Thu Mar 05 06:03:28 +0000 2009",
+			"favourites_count": 1231,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 23072,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1510869978269900801/B3mAM5mW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1510869978269900801/B3mAM5mW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/22888086/1644273888",
+			"profile_link_color": "72B9BF",
+			"profile_sidebar_border_color": "A0EEF5",
+			"profile_sidebar_fill_color": "1A3F57",
+			"profile_text_color": "9DDD95",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1544518593596952600,
+		"quoted_status_id_str": "1544518593596952576",
+		"quoted_status_permalink": {
+			"url": "https://t.co/KdbpKCtLGH",
+			"expanded": "https://twitter.com/MerlinCrossley/status/1544518593596952576",
+			"display": "twitter.com/MerlinCrossley…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jul 06 03:08:23 +0000 2022",
+			"id": 1544518593596952600,
+			"id_str": "1544518593596952576",
+			"full_text": "⁦@johnnodvc⁩ suggests after 2000 years it may be worth reviewing whether face to face lectures are best - in the middle of his wonderful face to face lecture ⁦@PressClubAust⁩ ⁦@uniaus⁩ https://t.co/MoS0hPLJyq",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				184
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "johnnodvc",
+						"name": "John Dewar",
+						"id": 1118150840,
+						"id_str": "1118150840",
+						"indices": [
+							1,
+							11
+						]
+					},
+					{
+						"screen_name": "PressClubAust",
+						"name": "National Press Club",
+						"id": 22439643,
+						"id_str": "22439643",
+						"indices": [
+							159,
+							173
+						]
+					},
+					{
+						"screen_name": "uniaus",
+						"name": "Universities Australia",
+						"id": 83358795,
+						"id_str": "83358795",
+						"indices": [
+							176,
+							183
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1544518576165748700,
+						"id_str": "1544518576165748737",
+						"indices": [
+							185,
+							208
+						],
+						"media_url": "http://pbs.twimg.com/media/FW87djlaAAEB_Kd.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FW87djlaAAEB_Kd.jpg",
+						"url": "https://t.co/MoS0hPLJyq",
+						"display_url": "pic.twitter.com/MoS0hPLJyq",
+						"expanded_url": "https://twitter.com/MerlinCrossley/status/1544518593596952576/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2016,
+								"h": 1512,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1544518576165748700,
+						"id_str": "1544518576165748737",
+						"indices": [
+							185,
+							208
+						],
+						"media_url": "http://pbs.twimg.com/media/FW87djlaAAEB_Kd.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FW87djlaAAEB_Kd.jpg",
+						"url": "https://t.co/MoS0hPLJyq",
+						"display_url": "pic.twitter.com/MoS0hPLJyq",
+						"expanded_url": "https://twitter.com/MerlinCrossley/status/1544518593596952576/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2016,
+								"h": 1512,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 440391087,
+				"id_str": "440391087",
+				"name": "Merlin Crossley",
+				"screen_name": "MerlinCrossley",
+				"location": "Sydney, New South Wales",
+				"description": "Deputy Vice-Chancellor Academic at UNSW Sydney, researcher and teacher in molecular biology, CRISPR-gene editing, epigenetics, etc. RTs not endorsement.",
+				"url": "https://t.co/idXXE38SeP",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/idXXE38SeP",
+								"expanded_url": "http://crossleylab.wordpress.com",
+								"display_url": "crossleylab.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2985,
+				"friends_count": 1396,
+				"listed_count": 44,
+				"created_at": "Sun Dec 18 23:06:24 +0000 2011",
+				"favourites_count": 7529,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 6681,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000369026702/bfd107261a5d882c7680be93919eff48_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000369026702/bfd107261a5d882c7680be93919eff48_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/440391087/1516180907",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 54,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I'm actually super fed up with Vice Chancellors making bland pronouncements and acting like they're trying to bring recalcitrant staff along with their vision. https://t.co/KdbpKCtLGH"
+	},
+	{
+		"created_at": "Thu Jul 07 08:37:36 +0000 2022",
+		"id": 1544879107099742200,
+		"id_str": "1544963831117787137",
+		"full_text": "Yesterday a guy making close to a million dollars a year stood underneath a massive chandelier and made a speech ostensibly about higher education🧵 https://t.co/3avpGt5qtj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3avpGt5qtj",
+					"expanded_url": "https://twitter.com/MerlinCrossley/status/1544518593596952576",
+					"display_url": "twitter.com/MerlinCrossley…",
+					"indices": [
+						148,
+						171
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 757056751589990400,
+			"id_str": "757056751589990400",
+			"name": "Anastasia Kanjere",
+			"screen_name": "a_kanjere",
+			"location": "Narrm",
+			"description": "Casual worker, unionist. Campaigning for union renewal with @ANewNTEU. Democracy, participation and trust - our power is together. White settler; she/her.",
+			"url": "https://t.co/IYxlQd4GS6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/IYxlQd4GS6",
+							"expanded_url": "http://www.anewNTEU.com",
+							"display_url": "anewNTEU.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1709,
+			"friends_count": 1780,
+			"listed_count": 10,
+			"created_at": "Sun Jul 24 03:36:09 +0000 2016",
+			"favourites_count": 24403,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7571,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1536569351599722496/EXNsy8TG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1536569351599722496/EXNsy8TG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/757056751589990400/1656588029",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1544518593596952600,
+		"quoted_status_id_str": "1544518593596952576",
+		"quoted_status_permalink": {
+			"url": "https://t.co/3avpGt5qtj",
+			"expanded": "https://twitter.com/MerlinCrossley/status/1544518593596952576",
+			"display": "twitter.com/MerlinCrossley…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jul 06 03:08:23 +0000 2022",
+			"id": 1544518593596952600,
+			"id_str": "1544518593596952576",
+			"full_text": "⁦@johnnodvc⁩ suggests after 2000 years it may be worth reviewing whether face to face lectures are best - in the middle of his wonderful face to face lecture ⁦@PressClubAust⁩ ⁦@uniaus⁩ https://t.co/MoS0hPLJyq",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				184
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "johnnodvc",
+						"name": "John Dewar",
+						"id": 1118150840,
+						"id_str": "1118150840",
+						"indices": [
+							1,
+							11
+						]
+					},
+					{
+						"screen_name": "PressClubAust",
+						"name": "National Press Club",
+						"id": 22439643,
+						"id_str": "22439643",
+						"indices": [
+							159,
+							173
+						]
+					},
+					{
+						"screen_name": "uniaus",
+						"name": "Universities Australia",
+						"id": 83358795,
+						"id_str": "83358795",
+						"indices": [
+							176,
+							183
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1544518576165748700,
+						"id_str": "1544518576165748737",
+						"indices": [
+							185,
+							208
+						],
+						"media_url": "http://pbs.twimg.com/media/FW87djlaAAEB_Kd.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FW87djlaAAEB_Kd.jpg",
+						"url": "https://t.co/MoS0hPLJyq",
+						"display_url": "pic.twitter.com/MoS0hPLJyq",
+						"expanded_url": "https://twitter.com/MerlinCrossley/status/1544518593596952576/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2016,
+								"h": 1512,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1544518576165748700,
+						"id_str": "1544518576165748737",
+						"indices": [
+							185,
+							208
+						],
+						"media_url": "http://pbs.twimg.com/media/FW87djlaAAEB_Kd.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FW87djlaAAEB_Kd.jpg",
+						"url": "https://t.co/MoS0hPLJyq",
+						"display_url": "pic.twitter.com/MoS0hPLJyq",
+						"expanded_url": "https://twitter.com/MerlinCrossley/status/1544518593596952576/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2016,
+								"h": 1512,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 440391087,
+				"id_str": "440391087",
+				"name": "Merlin Crossley",
+				"screen_name": "MerlinCrossley",
+				"location": "Sydney, New South Wales",
+				"description": "Deputy Vice-Chancellor Academic at UNSW Sydney, researcher and teacher in molecular biology, CRISPR-gene editing, epigenetics, etc. RTs not endorsement.",
+				"url": "https://t.co/idXXE38SeP",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/idXXE38SeP",
+								"expanded_url": "http://crossleylab.wordpress.com",
+								"display_url": "crossleylab.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2985,
+				"friends_count": 1396,
+				"listed_count": 44,
+				"created_at": "Sun Dec 18 23:06:24 +0000 2011",
+				"favourites_count": 7529,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 6681,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000369026702/bfd107261a5d882c7680be93919eff48_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000369026702/bfd107261a5d882c7680be93919eff48_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/440391087/1516180907",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 54,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 62,
+		"favorite_count": 212,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Yesterday a guy making close to a million dollars a year stood underneath a massive chandelier and made a speech ostensibly about higher education🧵 https://t.co/3avpGt5qtj"
+	},
+	{
 		"created_at": "Mon Jul 04 21:52:11 +0000 2022",
 		"id": 1543903173814927400,
 		"id_str": "1544076632314458113",
@@ -192,16 +956,16 @@ Grailbird.data.tweets_2022_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 11478,
+			"followers_count": 11480,
 			"friends_count": 1686,
 			"listed_count": 434,
 			"created_at": "Fri May 23 16:13:17 +0000 2008",
-			"favourites_count": 5215,
+			"favourites_count": 5216,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 17154,
+			"statuses_count": 17159,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -324,12 +1088,12 @@ Grailbird.data.tweets_2022_07 =
 			"friends_count": 164,
 			"listed_count": 88,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10200,
+			"favourites_count": 10209,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15461,
+			"statuses_count": 15464,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
