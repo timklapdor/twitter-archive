@@ -1,6 +1,181 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Fri Jul 15 09:24:05 +0000 2022",
+		"id": 1547655294976548900,
+		"id_str": "1547874632849506305",
+		"full_text": "Tell me you're shit at sex without saying you're shit at sex https://t.co/6tXuv5LBX6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			60
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1547655292325744600,
+					"id_str": "1547655292325744646",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/media/FXpgSd3UUAY7zjP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXpgSd3UUAY7zjP.jpg",
+					"url": "https://t.co/6tXuv5LBX6",
+					"display_url": "pic.twitter.com/6tXuv5LBX6",
+					"expanded_url": "https://twitter.com/WeeMelter/status/1547655294976548867/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 641,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 605,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 641,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1547655292325744600,
+					"id_str": "1547655292325744646",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/media/FXpgSd3UUAY7zjP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXpgSd3UUAY7zjP.jpg",
+					"url": "https://t.co/6tXuv5LBX6",
+					"display_url": "pic.twitter.com/6tXuv5LBX6",
+					"expanded_url": "https://twitter.com/WeeMelter/status/1547655294976548867/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 641,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 605,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 641,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1288845614592274400,
+			"id_str": "1288845614592274436",
+			"name": "Lee Hurley",
+			"screen_name": "WeeMelter",
+			"location": "",
+			"description": "@hleehurley's alt as Twitter appeal pends after right-wing pile on. Writer. Trans. Feminist. Media critic. He/him. Owner @DailyCannon Co-founder @Trans_Writes",
+			"url": "https://t.co/RTKrP5hyzZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RTKrP5hyzZ",
+							"expanded_url": "https://transwrites.world",
+							"display_url": "transwrites.world",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 393,
+			"friends_count": 201,
+			"listed_count": 0,
+			"created_at": "Thu Jul 30 14:35:28 +0000 2020",
+			"favourites_count": 2385,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1349,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1534998886611308546/ZeSMDZTC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1534998886611308546/ZeSMDZTC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1288845614592274436/1654807299",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 851,
+		"favorite_count": 7545,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Tell me you're shit at sex without saying you're shit at sex https://t.co/6tXuv5LBX6"
+	},
+	{
 		"created_at": "Thu Jul 14 01:04:10 +0000 2022",
 		"id": 1546847869071724500,
 		"id_str": "1547386438680948736",
@@ -53,12 +228,12 @@ Grailbird.data.tweets_2022_07 =
 			"friends_count": 1237,
 			"listed_count": 14,
 			"created_at": "Thu Apr 05 20:04:12 +0000 2018",
-			"favourites_count": 6099,
+			"favourites_count": 6106,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 3468,
+			"statuses_count": 3469,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -89,8 +264,8 @@ Grailbird.data.tweets_2022_07 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 308,
-		"favorite_count": 3432,
+		"retweet_count": 313,
+		"favorite_count": 3462,
 		"favorited": false,
 		"retweeted": true,
 		"lang": "en",
@@ -164,16 +339,16 @@ Grailbird.data.tweets_2022_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 481932,
-			"friends_count": 4497,
-			"listed_count": 1230,
+			"followers_count": 482996,
+			"friends_count": 4499,
+			"listed_count": 1224,
 			"created_at": "Tue Jan 10 18:51:47 +0000 2017",
-			"favourites_count": 380809,
+			"favourites_count": 381031,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 138330,
+			"statuses_count": 138376,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -204,8 +379,8 @@ Grailbird.data.tweets_2022_07 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 9915,
-		"favorite_count": 134331,
+		"retweet_count": 9910,
+		"favorite_count": 134366,
 		"favorited": false,
 		"retweeted": true,
 		"lang": "en",
@@ -289,16 +464,16 @@ Grailbird.data.tweets_2022_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 430652,
-			"friends_count": 2193,
+			"followers_count": 431376,
+			"friends_count": 2192,
 			"listed_count": 1247,
 			"created_at": "Tue Oct 13 17:18:49 +0000 2015",
-			"favourites_count": 3796,
+			"favourites_count": 3797,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 18074,
+			"statuses_count": 18078,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -329,8 +504,8 @@ Grailbird.data.tweets_2022_07 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 3801,
-		"favorite_count": 10484,
+		"retweet_count": 3796,
+		"favorite_count": 10482,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -396,16 +571,16 @@ Grailbird.data.tweets_2022_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 2072,
-			"friends_count": 3421,
+			"followers_count": 2073,
+			"friends_count": 3422,
 			"listed_count": 77,
 			"created_at": "Thu Mar 05 06:03:28 +0000 2009",
-			"favourites_count": 1273,
+			"favourites_count": 1275,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 23152,
+			"statuses_count": 23158,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -601,16 +776,16 @@ Grailbird.data.tweets_2022_07 =
 					}
 				},
 				"protected": false,
-				"followers_count": 2998,
+				"followers_count": 2999,
 				"friends_count": 1405,
 				"listed_count": 44,
 				"created_at": "Sun Dec 18 23:06:24 +0000 2011",
-				"favourites_count": 7527,
+				"favourites_count": 7530,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": false,
-				"statuses_count": 6701,
+				"statuses_count": 6703,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -715,7 +890,7 @@ Grailbird.data.tweets_2022_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1730,
+			"followers_count": 1731,
 			"friends_count": 1790,
 			"listed_count": 10,
 			"created_at": "Sun Jul 24 03:36:09 +0000 2016",
@@ -724,7 +899,7 @@ Grailbird.data.tweets_2022_07 =
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 7650,
+			"statuses_count": 7652,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -920,16 +1095,16 @@ Grailbird.data.tweets_2022_07 =
 					}
 				},
 				"protected": false,
-				"followers_count": 2998,
+				"followers_count": 2999,
 				"friends_count": 1405,
 				"listed_count": 44,
 				"created_at": "Sun Dec 18 23:06:24 +0000 2011",
-				"favourites_count": 7527,
+				"favourites_count": 7530,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": false,
-				"statuses_count": 6701,
+				"statuses_count": 6703,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -1167,7 +1342,7 @@ Grailbird.data.tweets_2022_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 11484,
+			"followers_count": 11487,
 			"friends_count": 1687,
 			"listed_count": 433,
 			"created_at": "Fri May 23 16:13:17 +0000 2008",
@@ -1176,7 +1351,7 @@ Grailbird.data.tweets_2022_07 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 17161,
+			"statuses_count": 17163,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1295,16 +1470,16 @@ Grailbird.data.tweets_2022_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 821,
+			"followers_count": 822,
 			"friends_count": 163,
 			"listed_count": 88,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10230,
+			"favourites_count": 10238,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15463,
+			"statuses_count": 15464,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
