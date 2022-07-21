@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Wed Jul 20 08:55:19 +0000 2022",
+		"id": 1549654385101250600,
+		"id_str": "1549679335640281088",
+		"full_text": "Websockets has has enough of your bullshit https://t.co/MbzCrrfCwa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1549654374468690000,
+					"id_str": "1549654374468689922",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/FYF6cXLWIAIIafK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYF6cXLWIAIIafK.jpg",
+					"url": "https://t.co/MbzCrrfCwa",
+					"display_url": "pic.twitter.com/MbzCrrfCwa",
+					"expanded_url": "https://twitter.com/davidgerard/status/1549654385101250561/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1205,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 400,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 706,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1549654374468690000,
+					"id_str": "1549654374468689922",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/FYF6cXLWIAIIafK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYF6cXLWIAIIafK.jpg",
+					"url": "https://t.co/MbzCrrfCwa",
+					"display_url": "pic.twitter.com/MbzCrrfCwa",
+					"expanded_url": "https://twitter.com/davidgerard/status/1549654385101250561/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1205,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 400,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 706,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14723614,
+			"id_str": "14723614",
+			"name": "your #1 source for absurdist true crime 🐍👑 🌷",
+			"screen_name": "davidgerard",
+			"location": "London, UK",
+			"description": "Author \"Libra Shrugged: How Facebook Tried to Take Over the Money\", \"Attack of the 50 Foot Blockchain\" Music https://t.co/TZeWkiRZwi DMs open dgerard@gmail.com he/him",
+			"url": "https://t.co/d7ymMYmzZF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/d7ymMYmzZF",
+							"expanded_url": "https://davidgerard.co.uk/blockchain/",
+							"display_url": "davidgerard.co.uk/blockchain/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/TZeWkiRZwi",
+							"expanded_url": "http://rocknerd.co.uk",
+							"display_url": "rocknerd.co.uk",
+							"indices": [
+								109,
+								132
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 23177,
+			"friends_count": 1855,
+			"listed_count": 620,
+			"created_at": "Sat May 10 10:53:12 +0000 2008",
+			"favourites_count": 377008,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 186772,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1509946632049238019/XJIIi7GR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1509946632049238019/XJIIi7GR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14723614/1604194280",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1226,
+		"favorite_count": 5323,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Websockets has has enough of your bullshit https://t.co/MbzCrrfCwa"
+	},
+	{
 		"created_at": "Fri Jul 15 09:24:05 +0000 2022",
 		"id": 1547655294976548900,
 		"id_str": "1547874632849506305",
@@ -127,16 +312,16 @@ Grailbird.data.tweets_2022_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 402,
-			"friends_count": 205,
+			"followers_count": 401,
+			"friends_count": 208,
 			"listed_count": 0,
 			"created_at": "Thu Jul 30 14:35:28 +0000 2020",
-			"favourites_count": 2502,
+			"favourites_count": 2569,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 1395,
+			"statuses_count": 1434,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -167,8 +352,8 @@ Grailbird.data.tweets_2022_07 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 1481,
-		"favorite_count": 14139,
+		"retweet_count": 1482,
+		"favorite_count": 14140,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -225,15 +410,15 @@ Grailbird.data.tweets_2022_07 =
 			},
 			"protected": false,
 			"followers_count": 1586,
-			"friends_count": 1237,
+			"friends_count": 1238,
 			"listed_count": 14,
 			"created_at": "Thu Apr 05 20:04:12 +0000 2018",
-			"favourites_count": 6118,
+			"favourites_count": 6125,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 3474,
+			"statuses_count": 3476,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -339,16 +524,16 @@ Grailbird.data.tweets_2022_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 487433,
-			"friends_count": 4504,
-			"listed_count": 1230,
+			"followers_count": 490058,
+			"friends_count": 4508,
+			"listed_count": 1244,
 			"created_at": "Tue Jan 10 18:51:47 +0000 2017",
-			"favourites_count": 381883,
+			"favourites_count": 382122,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 138515,
+			"statuses_count": 138577,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -379,8 +564,8 @@ Grailbird.data.tweets_2022_07 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 9893,
-		"favorite_count": 134322,
+		"retweet_count": 9889,
+		"favorite_count": 134311,
 		"favorited": false,
 		"retweeted": true,
 		"lang": "en",
@@ -464,16 +649,16 @@ Grailbird.data.tweets_2022_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 433206,
-			"friends_count": 2192,
-			"listed_count": 1250,
+			"followers_count": 434860,
+			"friends_count": 2191,
+			"listed_count": 1252,
 			"created_at": "Tue Oct 13 17:18:49 +0000 2015",
 			"favourites_count": 3798,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 18090,
+			"statuses_count": 18100,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -505,7 +690,7 @@ Grailbird.data.tweets_2022_07 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 3788,
-		"favorite_count": 10475,
+		"favorite_count": 10477,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -571,16 +756,16 @@ Grailbird.data.tweets_2022_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 2076,
-			"friends_count": 3428,
+			"followers_count": 2077,
+			"friends_count": 3432,
 			"listed_count": 77,
 			"created_at": "Thu Mar 05 06:03:28 +0000 2009",
-			"favourites_count": 1277,
+			"favourites_count": 1278,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 23201,
+			"statuses_count": 23209,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -776,16 +961,16 @@ Grailbird.data.tweets_2022_07 =
 					}
 				},
 				"protected": false,
-				"followers_count": 3001,
-				"friends_count": 1404,
+				"followers_count": 3005,
+				"friends_count": 1406,
 				"listed_count": 44,
 				"created_at": "Sun Dec 18 23:06:24 +0000 2011",
-				"favourites_count": 7539,
+				"favourites_count": 7544,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": false,
-				"statuses_count": 6710,
+				"statuses_count": 6713,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -890,11 +1075,11 @@ Grailbird.data.tweets_2022_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1740,
+			"followers_count": 1741,
 			"friends_count": 1794,
 			"listed_count": 10,
 			"created_at": "Sun Jul 24 03:36:09 +0000 2016",
-			"favourites_count": 24499,
+			"favourites_count": 24498,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
@@ -1095,16 +1280,16 @@ Grailbird.data.tweets_2022_07 =
 					}
 				},
 				"protected": false,
-				"followers_count": 3001,
-				"friends_count": 1404,
+				"followers_count": 3005,
+				"friends_count": 1406,
 				"listed_count": 44,
 				"created_at": "Sun Dec 18 23:06:24 +0000 2011",
-				"favourites_count": 7539,
+				"favourites_count": 7544,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": false,
-				"statuses_count": 6710,
+				"statuses_count": 6713,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -1346,12 +1531,12 @@ Grailbird.data.tweets_2022_07 =
 			"friends_count": 1687,
 			"listed_count": 433,
 			"created_at": "Fri May 23 16:13:17 +0000 2008",
-			"favourites_count": 5211,
+			"favourites_count": 5213,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 17161,
+			"statuses_count": 17162,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1474,12 +1659,12 @@ Grailbird.data.tweets_2022_07 =
 			"friends_count": 163,
 			"listed_count": 88,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10239,
+			"favourites_count": 10243,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15463,
+			"statuses_count": 15464,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
