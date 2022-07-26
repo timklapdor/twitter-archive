@@ -1,6 +1,241 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Mon Jul 25 07:55:22 +0000 2022",
+		"id": 1551387508834857000,
+		"id_str": "1551476185762516993",
+		"full_text": "The gas industry lobby group APPEA have put some ads on social media boasting about how much tax and royalties the gas industry pay. \n\nHere's what they don't tell you. \n\nClimate &amp; Energy Principal Advisor @MarkOgge explains.  #auspol https://t.co/6WFafdobkZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			237
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "auspol",
+					"indices": [
+						230,
+						237
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MarkOgge",
+					"name": "Mark Ogge",
+					"id": 1267300532319711200,
+					"id_str": "1267300532319711234",
+					"indices": [
+						209,
+						218
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1551386414150889500,
+					"id_str": "1551386414150889472",
+					"indices": [
+						238,
+						261
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1551386414150889472/pu/img/c2jFKAICrxglXKYY.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1551386414150889472/pu/img/c2jFKAICrxglXKYY.jpg",
+					"url": "https://t.co/6WFafdobkZ",
+					"display_url": "pic.twitter.com/6WFafdobkZ",
+					"expanded_url": "https://twitter.com/TheAusInstitute/status/1551387508834856961/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1551386414150889500,
+					"id_str": "1551386414150889472",
+					"indices": [
+						238,
+						261
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1551386414150889472/pu/img/c2jFKAICrxglXKYY.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1551386414150889472/pu/img/c2jFKAICrxglXKYY.jpg",
+					"url": "https://t.co/6WFafdobkZ",
+					"display_url": "pic.twitter.com/6WFafdobkZ",
+					"expanded_url": "https://twitter.com/TheAusInstitute/status/1551387508834856961/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 109840,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1551386414150889472/pu/vid/320x320/e8Sh4XZnfkob94xW.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1551386414150889472/pu/vid/540x540/B_CGvNwwgX-Lr74P.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1551386414150889472/pu/vid/720x720/M7T1XQWiIqucUXzB.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1551386414150889472/pu/pl/wJyo_UIoppf0SjRf.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 346304908,
+			"id_str": "346304908",
+			"name": "Australia Institute",
+			"screen_name": "TheAusInstitute",
+			"location": "Ngunnawal Ngambri Country CBR",
+			"description": "The Australia Institute is an independent think-tank based in Canberra https://t.co/GDuUqQIvka | Authorised by E Bennett, The Australia Institute, Canberra 2603",
+			"url": "https://t.co/j9X47WAzOT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/j9X47WAzOT",
+							"expanded_url": "http://australiainstitute.org.au",
+							"display_url": "australiainstitute.org.au",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/GDuUqQIvka",
+							"expanded_url": "http://australiainstitute.tv",
+							"display_url": "australiainstitute.tv",
+							"indices": [
+								71,
+								94
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 42252,
+			"friends_count": 2846,
+			"listed_count": 474,
+			"created_at": "Mon Aug 01 02:01:57 +0000 2011",
+			"favourites_count": 3286,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 23466,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1352494475956740097/n_LcyTlQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1352494475956740097/n_LcyTlQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/346304908/1602131202",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 593,
+		"favorite_count": 881,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The gas industry lobby group APPEA have put some ads on social media boasting about how much tax and royalties the gas industry pay. \n\nHere's what they don't tell you. \n\nClimate &amp; Energy Principal Advisor @MarkOgge explains.  #auspol https://t.co/6WFafdobkZ"
+	},
+	{
 		"created_at": "Sun Jul 24 10:09:50 +0000 2022",
 		"id": 1551147639864828000,
 		"id_str": "1551147639864827904",
@@ -64,7 +299,7 @@ Grailbird.data.tweets_2022_07 =
 			"friends_count": 163,
 			"listed_count": 88,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10244,
+			"favourites_count": 10249,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
@@ -170,7 +405,7 @@ Grailbird.data.tweets_2022_07 =
 			"friends_count": 163,
 			"listed_count": 88,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10244,
+			"favourites_count": 10249,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
@@ -277,7 +512,7 @@ Grailbird.data.tweets_2022_07 =
 			"friends_count": 163,
 			"listed_count": 88,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10244,
+			"favourites_count": 10249,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
@@ -314,7 +549,7 @@ Grailbird.data.tweets_2022_07 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 1,
+		"favorite_count": 2,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
@@ -385,7 +620,7 @@ Grailbird.data.tweets_2022_07 =
 			"friends_count": 163,
 			"listed_count": 88,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10244,
+			"favourites_count": 10249,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
@@ -492,7 +727,7 @@ Grailbird.data.tweets_2022_07 =
 			"friends_count": 163,
 			"listed_count": 88,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10244,
+			"favourites_count": 10249,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
@@ -599,7 +834,7 @@ Grailbird.data.tweets_2022_07 =
 			"friends_count": 163,
 			"listed_count": 88,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10244,
+			"favourites_count": 10249,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
@@ -881,7 +1116,7 @@ Grailbird.data.tweets_2022_07 =
 			"friends_count": 163,
 			"listed_count": 88,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10244,
+			"favourites_count": 10249,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
@@ -918,7 +1153,7 @@ Grailbird.data.tweets_2022_07 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 0,
-		"favorite_count": 7,
+		"favorite_count": 8,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
@@ -990,16 +1225,16 @@ Grailbird.data.tweets_2022_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 94949,
+			"followers_count": 94968,
 			"friends_count": 2104,
 			"listed_count": 644,
 			"created_at": "Tue Sep 09 23:21:07 +0000 2008",
-			"favourites_count": 2875,
+			"favourites_count": 2877,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 52405,
+			"statuses_count": 52414,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1175,16 +1410,16 @@ Grailbird.data.tweets_2022_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 23256,
+			"followers_count": 23258,
 			"friends_count": 1855,
-			"listed_count": 625,
+			"listed_count": 623,
 			"created_at": "Sat May 10 10:53:12 +0000 2008",
-			"favourites_count": 377871,
+			"favourites_count": 378051,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 187170,
+			"statuses_count": 187261,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1215,8 +1450,8 @@ Grailbird.data.tweets_2022_07 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 1817,
-		"favorite_count": 8433,
+		"retweet_count": 1822,
+		"favorite_count": 8441,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -1350,16 +1585,16 @@ Grailbird.data.tweets_2022_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 403,
+			"followers_count": 406,
 			"friends_count": 210,
-			"listed_count": 0,
+			"listed_count": 1,
 			"created_at": "Thu Jul 30 14:35:28 +0000 2020",
-			"favourites_count": 2773,
+			"favourites_count": 2860,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 1483,
+			"statuses_count": 1555,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1390,8 +1625,8 @@ Grailbird.data.tweets_2022_07 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 1479,
-		"favorite_count": 14112,
+		"retweet_count": 1480,
+		"favorite_count": 14111,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -1448,15 +1683,15 @@ Grailbird.data.tweets_2022_07 =
 			},
 			"protected": false,
 			"followers_count": 1585,
-			"friends_count": 1241,
+			"friends_count": 1242,
 			"listed_count": 14,
 			"created_at": "Thu Apr 05 20:04:12 +0000 2018",
-			"favourites_count": 6147,
+			"favourites_count": 6154,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 3485,
+			"statuses_count": 3489,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1488,7 +1723,7 @@ Grailbird.data.tweets_2022_07 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 310,
-		"favorite_count": 3472,
+		"favorite_count": 3474,
 		"favorited": false,
 		"retweeted": true,
 		"lang": "en",
@@ -1562,16 +1797,16 @@ Grailbird.data.tweets_2022_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 499840,
-			"friends_count": 4512,
-			"listed_count": 1261,
+			"followers_count": 502529,
+			"friends_count": 4516,
+			"listed_count": 1265,
 			"created_at": "Tue Jan 10 18:51:47 +0000 2017",
-			"favourites_count": 383952,
+			"favourites_count": 384211,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 138855,
+			"statuses_count": 138911,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1602,8 +1837,8 @@ Grailbird.data.tweets_2022_07 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 9885,
-		"favorite_count": 134232,
+		"retweet_count": 9878,
+		"favorite_count": 134204,
 		"favorited": false,
 		"retweeted": true,
 		"lang": "en",
@@ -1687,16 +1922,16 @@ Grailbird.data.tweets_2022_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 437396,
+			"followers_count": 437778,
 			"friends_count": 2193,
-			"listed_count": 1251,
+			"listed_count": 1252,
 			"created_at": "Tue Oct 13 17:18:49 +0000 2015",
 			"favourites_count": 3800,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 18108,
+			"statuses_count": 18109,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1727,8 +1962,8 @@ Grailbird.data.tweets_2022_07 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 3785,
-		"favorite_count": 10470,
+		"retweet_count": 3783,
+		"favorite_count": 10468,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -1795,10 +2030,10 @@ Grailbird.data.tweets_2022_07 =
 			},
 			"protected": false,
 			"followers_count": 2078,
-			"friends_count": 3433,
+			"friends_count": 3434,
 			"listed_count": 77,
 			"created_at": "Thu Mar 05 06:03:28 +0000 2009",
-			"favourites_count": 1276,
+			"favourites_count": 1278,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
@@ -1999,11 +2234,11 @@ Grailbird.data.tweets_2022_07 =
 					}
 				},
 				"protected": false,
-				"followers_count": 3008,
-				"friends_count": 1408,
+				"followers_count": 3007,
+				"friends_count": 1407,
 				"listed_count": 44,
 				"created_at": "Sun Dec 18 23:06:24 +0000 2011",
-				"favourites_count": 7566,
+				"favourites_count": 7568,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
@@ -2113,16 +2348,16 @@ Grailbird.data.tweets_2022_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1747,
-			"friends_count": 1795,
+			"followers_count": 1752,
+			"friends_count": 1800,
 			"listed_count": 10,
 			"created_at": "Sun Jul 24 03:36:09 +0000 2016",
-			"favourites_count": 24560,
+			"favourites_count": 24593,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 7690,
+			"statuses_count": 7712,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2318,11 +2553,11 @@ Grailbird.data.tweets_2022_07 =
 					}
 				},
 				"protected": false,
-				"followers_count": 3008,
-				"friends_count": 1408,
+				"followers_count": 3007,
+				"friends_count": 1407,
 				"listed_count": 44,
 				"created_at": "Sun Dec 18 23:06:24 +0000 2011",
-				"favourites_count": 7566,
+				"favourites_count": 7568,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
@@ -2565,16 +2800,16 @@ Grailbird.data.tweets_2022_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 11488,
+			"followers_count": 11487,
 			"friends_count": 1687,
 			"listed_count": 433,
 			"created_at": "Fri May 23 16:13:17 +0000 2008",
-			"favourites_count": 5220,
+			"favourites_count": 5221,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 17171,
+			"statuses_count": 17172,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2697,7 +2932,7 @@ Grailbird.data.tweets_2022_07 =
 			"friends_count": 163,
 			"listed_count": 88,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10244,
+			"favourites_count": 10249,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
