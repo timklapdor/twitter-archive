@@ -1,6 +1,302 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Wed Aug 10 11:43:41 +0000 2022",
+		"id": 1557331850498285600,
+		"id_str": "1557331850498285575",
+		"full_text": "What you could have done with $21 million! Absolute clusterfuck of a solution that never even addressed a problem. https://t.co/xIQEGbaNr2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xIQEGbaNr2",
+					"expanded_url": "https://twitter.com/michael_read_/status/1557195008423260160",
+					"display_url": "twitter.com/michael_read_/…",
+					"indices": [
+						115,
+						138
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Adelaide, South Australia",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
+			"url": "https://t.co/uC0c3me6KE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uC0c3me6KE",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 819,
+			"friends_count": 164,
+			"listed_count": 88,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 10216,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15447,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1557195008423260200,
+		"quoted_status_id_str": "1557195008423260160",
+		"quoted_status_permalink": {
+			"url": "https://t.co/xIQEGbaNr2",
+			"expanded": "https://twitter.com/michael_read_/status/1557195008423260160",
+			"display": "twitter.com/michael_read_/…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Aug 10 02:39:55 +0000 2022",
+			"id": 1557195008423260200,
+			"id_str": "1557195008423260160",
+			"full_text": "Health Minister Mark Butler says the COVIDSafe App cost $21 million and identified two positive COVID-19 cases who were missed by manual contact tracers #auspol https://t.co/mNqlpQWtHI",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				160
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "auspol",
+						"indices": [
+							153,
+							160
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1557194859995283500,
+						"id_str": "1557194859995283457",
+						"indices": [
+							161,
+							184
+						],
+						"media_url": "http://pbs.twimg.com/media/FZxEeYwVQAEmwM9.png",
+						"media_url_https": "https://pbs.twimg.com/media/FZxEeYwVQAEmwM9.png",
+						"url": "https://t.co/mNqlpQWtHI",
+						"display_url": "pic.twitter.com/mNqlpQWtHI",
+						"expanded_url": "https://twitter.com/michael_read_/status/1557195008423260160/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 479,
+								"h": 414,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 479,
+								"h": 414,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 479,
+								"h": 414,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1557194859995283500,
+						"id_str": "1557194859995283457",
+						"indices": [
+							161,
+							184
+						],
+						"media_url": "http://pbs.twimg.com/media/FZxEeYwVQAEmwM9.png",
+						"media_url_https": "https://pbs.twimg.com/media/FZxEeYwVQAEmwM9.png",
+						"url": "https://t.co/mNqlpQWtHI",
+						"display_url": "pic.twitter.com/mNqlpQWtHI",
+						"expanded_url": "https://twitter.com/michael_read_/status/1557195008423260160/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 479,
+								"h": 414,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 479,
+								"h": 414,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 479,
+								"h": 414,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 43272548,
+				"id_str": "43272548",
+				"name": "Michael Read",
+				"screen_name": "michael_read_",
+				"location": "Parliament House, Canberra",
+				"description": "👔 Reporter at the @FinancialReview 📧 michael.read@afr.com 📈 RBA economist in a former life",
+				"url": "https://t.co/n7aA3Tz8pu",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/n7aA3Tz8pu",
+								"expanded_url": "https://www.afr.com/by/michael-read-p4yw7h",
+								"display_url": "afr.com/by/michael-rea…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1485,
+				"friends_count": 1748,
+				"listed_count": 27,
+				"created_at": "Fri May 29 04:32:10 +0000 2009",
+				"favourites_count": 2344,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 1251,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1390504593868550147/xZJORNE2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1390504593868550147/xZJORNE2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/43272548/1626045855",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 246,
+			"favorite_count": 672,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "What you could have done with $21 million! Absolute clusterfuck of a solution that never even addressed a problem. https://t.co/xIQEGbaNr2"
+	},
+	{
 		"created_at": "Sat Aug 06 04:28:16 +0000 2022",
 		"id": 1555772722411901000,
 		"id_str": "1555772722411900933",
@@ -60,11 +356,11 @@ Grailbird.data.tweets_2022_08 =
 				}
 			},
 			"protected": false,
-			"followers_count": 818,
+			"followers_count": 819,
 			"friends_count": 164,
 			"listed_count": 88,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10205,
+			"favourites_count": 10216,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
@@ -156,11 +452,11 @@ Grailbird.data.tweets_2022_08 =
 				}
 			},
 			"protected": false,
-			"followers_count": 818,
+			"followers_count": 819,
 			"friends_count": 164,
 			"listed_count": 88,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10205,
+			"favourites_count": 10216,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
@@ -361,16 +657,16 @@ Grailbird.data.tweets_2022_08 =
 				}
 			},
 			"protected": false,
-			"followers_count": 539727,
+			"followers_count": 539769,
 			"friends_count": 5,
-			"listed_count": 1334,
+			"listed_count": 1335,
 			"created_at": "Fri Sep 07 12:47:50 +0000 2012",
-			"favourites_count": 2673,
+			"favourites_count": 2674,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 3510,
+			"statuses_count": 3516,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -401,8 +697,8 @@ Grailbird.data.tweets_2022_08 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 2989,
-		"favorite_count": 9026,
+		"retweet_count": 3016,
+		"favorite_count": 9098,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -544,11 +840,11 @@ Grailbird.data.tweets_2022_08 =
 				}
 			},
 			"protected": false,
-			"followers_count": 818,
+			"followers_count": 819,
 			"friends_count": 164,
 			"listed_count": 88,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10205,
+			"favourites_count": 10216,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
@@ -659,7 +955,7 @@ Grailbird.data.tweets_2022_08 =
 				}
 			},
 			"protected": false,
-			"followers_count": 6211,
+			"followers_count": 6210,
 			"friends_count": 0,
 			"listed_count": 487,
 			"created_at": "Fri Dec 11 14:48:48 +0000 2009",
