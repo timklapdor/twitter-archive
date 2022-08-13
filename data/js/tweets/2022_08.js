@@ -1,6 +1,331 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Fri Aug 12 12:31:37 +0000 2022",
+		"id": 1558068690335150000,
+		"id_str": "1558068690335150080",
+		"full_text": "How do we pay for climate action, a covid proper response and a myriad of other schemes that would benefit society? (I hear we apparently need a ton of nurses and teachers) \n\nIt’s choosing to *spend* money differently. https://t.co/iiMMy4qj8t",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			218
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/iiMMy4qj8t",
+					"expanded_url": "https://twitter.com/michael_read_/status/1558017025007824896",
+					"display_url": "twitter.com/michael_read_/…",
+					"indices": [
+						219,
+						242
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Adelaide, South Australia",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
+			"url": "https://t.co/uC0c3me6KE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uC0c3me6KE",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 820,
+			"friends_count": 164,
+			"listed_count": 88,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 10223,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15449,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1558017025007825000,
+		"quoted_status_id_str": "1558017025007824896",
+		"quoted_status_permalink": {
+			"url": "https://t.co/iiMMy4qj8t",
+			"expanded": "https://twitter.com/michael_read_/status/1558017025007824896",
+			"display": "twitter.com/michael_read_/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Aug 12 09:06:19 +0000 2022",
+			"id": 1558017025007825000,
+			"id_str": "1558017025007824896",
+			"full_text": "Almost 80,000 have $2m in super, costing the budget billions https://t.co/1aAJJySXKW w/ @TomMcIlroy",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				99
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "TomMcIlroy",
+						"name": "Tom McIlroy",
+						"id": 48927175,
+						"id_str": "48927175",
+						"indices": [
+							88,
+							99
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/1aAJJySXKW",
+						"expanded_url": "https://www.afr.com/policy/tax-and-super/almost-80-000-aussies-have-2m-in-super-costing-the-budget-billions-20220812-p5b9ae",
+						"display_url": "afr.com/policy/tax-and…",
+						"indices": [
+							61,
+							84
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 43272548,
+				"id_str": "43272548",
+				"name": "Michael Read",
+				"screen_name": "michael_read_",
+				"location": "Parliament House, Canberra",
+				"description": "👔 Reporter at the @FinancialReview 📧 michael.read@afr.com 📈 RBA economist in a former life",
+				"url": "https://t.co/n7aA3Tz8pu",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/n7aA3Tz8pu",
+								"expanded_url": "https://www.afr.com/by/michael-read-p4yw7h",
+								"display_url": "afr.com/by/michael-rea…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1490,
+				"friends_count": 1748,
+				"listed_count": 27,
+				"created_at": "Fri May 29 04:32:10 +0000 2009",
+				"favourites_count": 2357,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 1257,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1390504593868550147/xZJORNE2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1390504593868550147/xZJORNE2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/43272548/1626045855",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "How do we pay for climate action, a covid proper response and a myriad of other schemes that would benefit society? (I hear we apparently need a ton of nurses and teachers) \n\nIt’s choosing to *spend* money differently. https://t.co/iiMMy4qj8t"
+	},
+	{
+		"created_at": "Fri Aug 12 12:27:05 +0000 2022",
+		"id": 1557391430527639600,
+		"id_str": "1558067548758781952",
+		"full_text": "\"Forward-thinking universities may find that they need to start offering star non-faculty educators (IDs) the same recognition and incentives that have long been necessary to recruit and retain star tenure-line faculty.\" https://t.co/3Ip8fgdm1p",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			244
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3Ip8fgdm1p",
+					"expanded_url": "https://www.insidehighered.com/blogs/learning-innovation/chloe-7-present-and-future-instructional-design-capacity#.YvPRTpxVgCI.twitter",
+					"display_url": "insidehighered.com/blogs/learning…",
+					"indices": [
+						221,
+						244
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 11997452,
+			"id_str": "11997452",
+			"name": "Greg Ketcham",
+			"screen_name": "Greg_Ketcham",
+			"location": "Upstate NY",
+			"description": "Assistant Dean, Extended Learning.\nDoctoral Pilgrim. Pragmatist. Humanist.  Sometime Zymurgist. Ideologically Promiscuous.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 826,
+			"friends_count": 861,
+			"listed_count": 45,
+			"created_at": "Tue Jan 08 19:49:01 +0000 2008",
+			"favourites_count": 2998,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5281,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1270411892973060097/qqI1Z3-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1270411892973060097/qqI1Z3-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/11997452/1476804511",
+			"profile_link_color": "0059FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "080808",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 49,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"Forward-thinking universities may find that they need to start offering star non-faculty educators (IDs) the same recognition and incentives that have long been necessary to recruit and retain star tenure-line faculty.\" https://t.co/3Ip8fgdm1p"
+	},
+	{
 		"created_at": "Wed Aug 10 11:43:41 +0000 2022",
 		"id": 1557331850498285600,
 		"id_str": "1557331850498285575",
@@ -59,16 +384,16 @@ Grailbird.data.tweets_2022_08 =
 				}
 			},
 			"protected": false,
-			"followers_count": 819,
+			"followers_count": 820,
 			"friends_count": 164,
 			"listed_count": 88,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10219,
+			"favourites_count": 10223,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15447,
+			"statuses_count": 15449,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -241,16 +566,16 @@ Grailbird.data.tweets_2022_08 =
 					}
 				},
 				"protected": false,
-				"followers_count": 1485,
+				"followers_count": 1490,
 				"friends_count": 1748,
 				"listed_count": 27,
 				"created_at": "Fri May 29 04:32:10 +0000 2009",
-				"favourites_count": 2348,
+				"favourites_count": 2357,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": true,
-				"statuses_count": 1252,
+				"statuses_count": 1257,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -282,7 +607,7 @@ Grailbird.data.tweets_2022_08 =
 			"contributors": null,
 			"is_quote_status": false,
 			"retweet_count": 250,
-			"favorite_count": 689,
+			"favorite_count": 690,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
@@ -356,16 +681,16 @@ Grailbird.data.tweets_2022_08 =
 				}
 			},
 			"protected": false,
-			"followers_count": 819,
+			"followers_count": 820,
 			"friends_count": 164,
 			"listed_count": 88,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10219,
+			"favourites_count": 10223,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15447,
+			"statuses_count": 15449,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -452,16 +777,16 @@ Grailbird.data.tweets_2022_08 =
 				}
 			},
 			"protected": false,
-			"followers_count": 819,
+			"followers_count": 820,
 			"friends_count": 164,
 			"listed_count": 88,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10219,
+			"favourites_count": 10223,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15447,
+			"statuses_count": 15449,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -657,16 +982,16 @@ Grailbird.data.tweets_2022_08 =
 				}
 			},
 			"protected": false,
-			"followers_count": 539958,
+			"followers_count": 540270,
 			"friends_count": 5,
-			"listed_count": 1336,
+			"listed_count": 1343,
 			"created_at": "Fri Sep 07 12:47:50 +0000 2012",
 			"favourites_count": 2674,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 3527,
+			"statuses_count": 3529,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -697,8 +1022,8 @@ Grailbird.data.tweets_2022_08 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 3026,
-		"favorite_count": 9129,
+		"retweet_count": 3029,
+		"favorite_count": 9145,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -840,16 +1165,16 @@ Grailbird.data.tweets_2022_08 =
 				}
 			},
 			"protected": false,
-			"followers_count": 819,
+			"followers_count": 820,
 			"friends_count": 164,
 			"listed_count": 88,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10219,
+			"favourites_count": 10223,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15447,
+			"statuses_count": 15449,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -955,7 +1280,7 @@ Grailbird.data.tweets_2022_08 =
 				}
 			},
 			"protected": false,
-			"followers_count": 6210,
+			"followers_count": 6211,
 			"friends_count": 0,
 			"listed_count": 487,
 			"created_at": "Fri Dec 11 14:48:48 +0000 2009",
