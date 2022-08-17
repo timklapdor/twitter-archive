@@ -1,6 +1,269 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Tue Aug 16 12:54:57 +0000 2022",
+		"id": 1559509557621055500,
+		"id_str": "1559524113789898754",
+		"full_text": "Satirists! Fill yer boots… https://t.co/FoUCzF4F1P",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1559469856088805400,
+					"id_str": "1559469856088805376",
+					"indices": [
+						27,
+						50
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1559469856088805376/pu/img/3Ryo3xyu4io8Q4wi.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1559469856088805376/pu/img/3Ryo3xyu4io8Q4wi.jpg",
+					"url": "https://t.co/FoUCzF4F1P",
+					"display_url": "pic.twitter.com/FoUCzF4F1P",
+					"expanded_url": "https://twitter.com/DagDubbo/status/1559469947876933632/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1559469947876933600,
+					"source_status_id_str": "1559469947876933632",
+					"source_user_id": 1072056492105199600,
+					"source_user_id_str": "1072056492105199617"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1559469856088805400,
+					"id_str": "1559469856088805376",
+					"indices": [
+						27,
+						50
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1559469856088805376/pu/img/3Ryo3xyu4io8Q4wi.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1559469856088805376/pu/img/3Ryo3xyu4io8Q4wi.jpg",
+					"url": "https://t.co/FoUCzF4F1P",
+					"display_url": "pic.twitter.com/FoUCzF4F1P",
+					"expanded_url": "https://twitter.com/DagDubbo/status/1559469947876933632/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1559469947876933600,
+					"source_status_id_str": "1559469947876933632",
+					"source_user_id": 1072056492105199600,
+					"source_user_id_str": "1072056492105199617",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 95666,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1559469856088805376/pu/vid/480x270/UGTXJfL5aKPgbd3M.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1559469856088805376/pu/vid/1280x720/l-AMcyJCgn-pfFKF.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1559469856088805376/pu/vid/640x360/Cpd8ycQJWE9ghENq.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1559469856088805376/pu/pl/ds7ltMvokuap3uoj.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 1072056492105199600,
+							"id_str": "1072056492105199617",
+							"name": "💧🌱 Dubbo (((Dag))) 🏳️‍🌈✊🏽",
+							"screen_name": "DagDubbo",
+							"location": "Wiradjuri Country",
+							"description": "random depths #78er #CreativeAssemblyDubbo #ChangeIsTheOnlyCertainty #AlwaysWasAlwaysWillBe #VoiceTreatyTruth #March4Justice #EnoughIsEnough #UnitedWeShine",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 1022,
+							"friends_count": 1213,
+							"listed_count": 2,
+							"created_at": "Mon Dec 10 09:12:40 +0000 2018",
+							"favourites_count": 165496,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": false,
+							"statuses_count": 37063,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "F5F8FA",
+							"profile_background_image_url": null,
+							"profile_background_image_url_https": null,
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1487230497671757826/JtcTA6hN_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1487230497671757826/JtcTA6hN_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/1072056492105199617/1659863829",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none",
+							"withheld_in_countries": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18965916,
+			"id_str": "18965916",
+			"name": "Hugh Riminton",
+			"screen_name": "hughriminton",
+			"location": "Sydney, Australia",
+			"description": "National Affairs Editor @10NewsFirst “The Professor & The Hack” podcast. @soldieronAust @Cres_Institute, @johnmacfound Lesser half to @marylloyd4",
+			"url": "https://t.co/m4KGZz2M8W",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/m4KGZz2M8W",
+							"expanded_url": "http://tendaily.com.au",
+							"display_url": "tendaily.com.au",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 119618,
+			"friends_count": 11025,
+			"listed_count": 1167,
+			"created_at": "Wed Jan 14 03:47:23 +0000 2009",
+			"favourites_count": 24753,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 52707,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "352726",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1426707119399604230/TiAtPHiq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1426707119399604230/TiAtPHiq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18965916/1506306364",
+			"profile_link_color": "D02B55",
+			"profile_sidebar_border_color": "829D5E",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1811,
+		"favorite_count": 7012,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Satirists! Fill yer boots… https://t.co/FoUCzF4F1P"
+	},
+	{
 		"created_at": "Sun Aug 14 00:43:28 +0000 2022",
 		"id": 1558615251662188500,
 		"id_str": "1558615251662188544",
@@ -66,7 +329,7 @@ Grailbird.data.tweets_2022_08 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15450,
+			"statuses_count": 15451,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -172,7 +435,7 @@ Grailbird.data.tweets_2022_08 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15450,
+			"statuses_count": 15451,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -280,16 +543,16 @@ Grailbird.data.tweets_2022_08 =
 					}
 				},
 				"protected": false,
-				"followers_count": 1489,
+				"followers_count": 1516,
 				"friends_count": 1749,
-				"listed_count": 27,
+				"listed_count": 28,
 				"created_at": "Fri May 29 04:32:10 +0000 2009",
-				"favourites_count": 2365,
+				"favourites_count": 2369,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": true,
-				"statuses_count": 1266,
+				"statuses_count": 1270,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -382,15 +645,15 @@ Grailbird.data.tweets_2022_08 =
 			},
 			"protected": false,
 			"followers_count": 826,
-			"friends_count": 862,
-			"listed_count": 0,
+			"friends_count": 863,
+			"listed_count": 45,
 			"created_at": "Tue Jan 08 19:49:01 +0000 2008",
-			"favourites_count": 2998,
+			"favourites_count": 3005,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 5281,
+			"statuses_count": 5283,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -422,7 +685,7 @@ Grailbird.data.tweets_2022_08 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 17,
-		"favorite_count": 53,
+		"favorite_count": 54,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -497,7 +760,7 @@ Grailbird.data.tweets_2022_08 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15450,
+			"statuses_count": 15451,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -670,16 +933,16 @@ Grailbird.data.tweets_2022_08 =
 					}
 				},
 				"protected": false,
-				"followers_count": 1489,
+				"followers_count": 1516,
 				"friends_count": 1749,
-				"listed_count": 27,
+				"listed_count": 28,
 				"created_at": "Fri May 29 04:32:10 +0000 2009",
-				"favourites_count": 2365,
+				"favourites_count": 2369,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": true,
-				"statuses_count": 1266,
+				"statuses_count": 1270,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -794,7 +1057,7 @@ Grailbird.data.tweets_2022_08 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15450,
+			"statuses_count": 15451,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -890,7 +1153,7 @@ Grailbird.data.tweets_2022_08 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15450,
+			"statuses_count": 15451,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1090,12 +1353,12 @@ Grailbird.data.tweets_2022_08 =
 			"friends_count": 5,
 			"listed_count": 1349,
 			"created_at": "Fri Sep 07 12:47:50 +0000 2012",
-			"favourites_count": 2672,
+			"favourites_count": 2671,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 3537,
+			"statuses_count": 3538,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1126,8 +1389,8 @@ Grailbird.data.tweets_2022_08 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 3051,
-		"favorite_count": 9218,
+		"retweet_count": 3054,
+		"favorite_count": 9219,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -1278,7 +1541,7 @@ Grailbird.data.tweets_2022_08 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15450,
+			"statuses_count": 15451,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
