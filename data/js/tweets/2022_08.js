@@ -1,6 +1,181 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Wed Aug 17 10:41:35 +0000 2022",
+		"id": 1559819258372178000,
+		"id_str": "1559852935131017217",
+		"full_text": "can't really explain why but I love how shit the Metaverse looks. every screenshot and clip brings me genuine joy. billions and billions poured into it and this is the result. The Sims but worse, and with nothing below the torso. wonderful stuff https://t.co/PVSsevodad",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			245
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1559819082756661200,
+					"id_str": "1559819082756661249",
+					"indices": [
+						246,
+						269
+					],
+					"media_url": "http://pbs.twimg.com/media/FaWXMQWWIAEf8-c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaWXMQWWIAEf8-c.jpg",
+					"url": "https://t.co/PVSsevodad",
+					"display_url": "pic.twitter.com/PVSsevodad",
+					"expanded_url": "https://twitter.com/stefmowords/status/1559819258372177920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1559819082756661200,
+					"id_str": "1559819082756661249",
+					"indices": [
+						246,
+						269
+					],
+					"media_url": "http://pbs.twimg.com/media/FaWXMQWWIAEf8-c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FaWXMQWWIAEf8-c.jpg",
+					"url": "https://t.co/PVSsevodad",
+					"display_url": "pic.twitter.com/PVSsevodad",
+					"expanded_url": "https://twitter.com/stefmowords/status/1559819258372177920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2491352304,
+			"id_str": "2491352304",
+			"name": "Stefan Mohamed",
+			"screen_name": "stefmowords",
+			"location": "youtube.com/bigdumbvoid",
+			"description": "Words, videos, talking. New poetry collection out 09/22 with Verve, novels with Salt. He / him. \"Polite and turns up on time\" - Tom Sastry",
+			"url": "https://t.co/OKgFmB0u4Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OKgFmB0u4Y",
+							"expanded_url": "http://patreon.com/stefanmohamed",
+							"display_url": "patreon.com/stefanmohamed",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4115,
+			"friends_count": 2663,
+			"listed_count": 38,
+			"created_at": "Mon May 12 12:13:34 +0000 2014",
+			"favourites_count": 153923,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13540,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1559166110213279748/iXg7h29L_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1559166110213279748/iXg7h29L_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2491352304/1659018744",
+			"profile_link_color": "CF1313",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3605,
+		"favorite_count": 46273,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "can't really explain why but I love how shit the Metaverse looks. every screenshot and clip brings me genuine joy. billions and billions poured into it and this is the result. The Sims but worse, and with nothing below the torso. wonderful stuff https://t.co/PVSsevodad"
+	},
+	{
 		"created_at": "Tue Aug 16 12:54:57 +0000 2022",
 		"id": 1559509557621055500,
 		"id_str": "1559524113789898754",
@@ -143,16 +318,16 @@ Grailbird.data.tweets_2022_08 =
 								}
 							},
 							"protected": false,
-							"followers_count": 1022,
+							"followers_count": 1067,
 							"friends_count": 1213,
 							"listed_count": 2,
 							"created_at": "Mon Dec 10 09:12:40 +0000 2018",
-							"favourites_count": 165496,
+							"favourites_count": 165561,
 							"utc_offset": null,
 							"time_zone": null,
 							"geo_enabled": true,
 							"verified": false,
-							"statuses_count": 37063,
+							"statuses_count": 37074,
 							"lang": null,
 							"contributors_enabled": false,
 							"is_translator": false,
@@ -215,16 +390,16 @@ Grailbird.data.tweets_2022_08 =
 				}
 			},
 			"protected": false,
-			"followers_count": 119618,
-			"friends_count": 11025,
-			"listed_count": 1167,
+			"followers_count": 119816,
+			"friends_count": 11029,
+			"listed_count": 1168,
 			"created_at": "Wed Jan 14 03:47:23 +0000 2009",
-			"favourites_count": 24753,
+			"favourites_count": 24760,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 52707,
+			"statuses_count": 52730,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -255,8 +430,8 @@ Grailbird.data.tweets_2022_08 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 1811,
-		"favorite_count": 7012,
+		"retweet_count": 2886,
+		"favorite_count": 11255,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -329,7 +504,7 @@ Grailbird.data.tweets_2022_08 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15451,
+			"statuses_count": 15452,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -435,7 +610,7 @@ Grailbird.data.tweets_2022_08 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15451,
+			"statuses_count": 15452,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -543,16 +718,16 @@ Grailbird.data.tweets_2022_08 =
 					}
 				},
 				"protected": false,
-				"followers_count": 1516,
-				"friends_count": 1749,
+				"followers_count": 1530,
+				"friends_count": 1748,
 				"listed_count": 28,
 				"created_at": "Fri May 29 04:32:10 +0000 2009",
-				"favourites_count": 2369,
+				"favourites_count": 2370,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": true,
-				"statuses_count": 1270,
+				"statuses_count": 1273,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -644,16 +819,16 @@ Grailbird.data.tweets_2022_08 =
 				}
 			},
 			"protected": false,
-			"followers_count": 826,
-			"friends_count": 863,
+			"followers_count": 825,
+			"friends_count": 864,
 			"listed_count": 45,
 			"created_at": "Tue Jan 08 19:49:01 +0000 2008",
-			"favourites_count": 3005,
+			"favourites_count": 3011,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 5283,
+			"statuses_count": 5284,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -760,7 +935,7 @@ Grailbird.data.tweets_2022_08 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15451,
+			"statuses_count": 15452,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -933,16 +1108,16 @@ Grailbird.data.tweets_2022_08 =
 					}
 				},
 				"protected": false,
-				"followers_count": 1516,
-				"friends_count": 1749,
+				"followers_count": 1530,
+				"friends_count": 1748,
 				"listed_count": 28,
 				"created_at": "Fri May 29 04:32:10 +0000 2009",
-				"favourites_count": 2369,
+				"favourites_count": 2370,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": true,
-				"statuses_count": 1270,
+				"statuses_count": 1273,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -1057,7 +1232,7 @@ Grailbird.data.tweets_2022_08 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15451,
+			"statuses_count": 15452,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1153,7 +1328,7 @@ Grailbird.data.tweets_2022_08 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15451,
+			"statuses_count": 15452,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1349,16 +1524,16 @@ Grailbird.data.tweets_2022_08 =
 				}
 			},
 			"protected": false,
-			"followers_count": 540548,
+			"followers_count": 540701,
 			"friends_count": 5,
-			"listed_count": 1349,
+			"listed_count": 1348,
 			"created_at": "Fri Sep 07 12:47:50 +0000 2012",
 			"favourites_count": 2671,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 3538,
+			"statuses_count": 3539,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1389,8 +1564,8 @@ Grailbird.data.tweets_2022_08 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 3054,
-		"favorite_count": 9219,
+		"retweet_count": 3055,
+		"favorite_count": 9224,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -1541,7 +1716,7 @@ Grailbird.data.tweets_2022_08 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15451,
+			"statuses_count": 15452,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1647,7 +1822,7 @@ Grailbird.data.tweets_2022_08 =
 				}
 			},
 			"protected": false,
-			"followers_count": 6210,
+			"followers_count": 6211,
 			"friends_count": 0,
 			"listed_count": 487,
 			"created_at": "Fri Dec 11 14:48:48 +0000 2009",
