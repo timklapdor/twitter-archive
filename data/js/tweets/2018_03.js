@@ -81,7 +81,7 @@ Grailbird.data.tweets_2018_03 =
 				}
 			},
 			"protected": false,
-			"followers_count": 139,
+			"followers_count": 138,
 			"friends_count": 60,
 			"listed_count": 1,
 			"created_at": "Tue Sep 02 04:53:20 +0000 2014",
@@ -269,16 +269,16 @@ Grailbird.data.tweets_2018_03 =
 				}
 			},
 			"protected": false,
-			"followers_count": 2302,
+			"followers_count": 2303,
 			"friends_count": 3263,
-			"listed_count": 171,
+			"listed_count": 172,
 			"created_at": "Thu Nov 08 19:58:25 +0000 2007",
 			"favourites_count": 4010,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 22078,
+			"statuses_count": 22079,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -457,16 +457,16 @@ Grailbird.data.tweets_2018_03 =
 				}
 			},
 			"protected": false,
-			"followers_count": 2302,
+			"followers_count": 2303,
 			"friends_count": 3263,
-			"listed_count": 171,
+			"listed_count": 172,
 			"created_at": "Thu Nov 08 19:58:25 +0000 2007",
 			"favourites_count": 4010,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 22078,
+			"statuses_count": 22079,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -632,16 +632,16 @@ Grailbird.data.tweets_2018_03 =
 				}
 			},
 			"protected": false,
-			"followers_count": 31678,
-			"friends_count": 7453,
+			"followers_count": 31679,
+			"friends_count": 7454,
 			"listed_count": 993,
 			"created_at": "Tue May 06 12:48:04 +0000 2008",
-			"favourites_count": 39422,
+			"favourites_count": 39430,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 119955,
+			"statuses_count": 119964,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1059,7 +1059,7 @@ Grailbird.data.tweets_2018_03 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 159728,
+			"statuses_count": 159779,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1162,11 +1162,11 @@ Grailbird.data.tweets_2018_03 =
 				}
 			},
 			"protected": false,
-			"followers_count": 819,
+			"followers_count": 818,
 			"friends_count": 164,
 			"listed_count": 87,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10283,
+			"favourites_count": 10284,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
@@ -1266,11 +1266,11 @@ Grailbird.data.tweets_2018_03 =
 				}
 			},
 			"protected": false,
-			"followers_count": 819,
+			"followers_count": 818,
 			"friends_count": 164,
 			"listed_count": 87,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10283,
+			"favourites_count": 10284,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
@@ -1370,11 +1370,11 @@ Grailbird.data.tweets_2018_03 =
 				}
 			},
 			"protected": false,
-			"followers_count": 819,
+			"followers_count": 818,
 			"friends_count": 164,
 			"listed_count": 87,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10283,
+			"favourites_count": 10284,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
@@ -1474,11 +1474,11 @@ Grailbird.data.tweets_2018_03 =
 				}
 			},
 			"protected": false,
-			"followers_count": 819,
+			"followers_count": 818,
 			"friends_count": 164,
 			"listed_count": 87,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10283,
+			"favourites_count": 10284,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
@@ -1589,11 +1589,11 @@ Grailbird.data.tweets_2018_03 =
 				}
 			},
 			"protected": false,
-			"followers_count": 819,
+			"followers_count": 818,
 			"friends_count": 164,
 			"listed_count": 87,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10283,
+			"favourites_count": 10284,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
@@ -1703,11 +1703,11 @@ Grailbird.data.tweets_2018_03 =
 				}
 			},
 			"protected": false,
-			"followers_count": 819,
+			"followers_count": 818,
 			"friends_count": 164,
 			"listed_count": 87,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10283,
+			"favourites_count": 10284,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
@@ -1808,11 +1808,11 @@ Grailbird.data.tweets_2018_03 =
 				}
 			},
 			"protected": false,
-			"followers_count": 819,
+			"followers_count": 818,
 			"friends_count": 164,
 			"listed_count": 87,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10283,
+			"favourites_count": 10284,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
@@ -1923,11 +1923,11 @@ Grailbird.data.tweets_2018_03 =
 				}
 			},
 			"protected": false,
-			"followers_count": 819,
+			"followers_count": 818,
 			"friends_count": 164,
 			"listed_count": 87,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10283,
+			"favourites_count": 10284,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
@@ -2027,11 +2027,11 @@ Grailbird.data.tweets_2018_03 =
 				}
 			},
 			"protected": false,
-			"followers_count": 819,
+			"followers_count": 818,
 			"friends_count": 164,
 			"listed_count": 87,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10283,
+			"favourites_count": 10284,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
@@ -2131,11 +2131,11 @@ Grailbird.data.tweets_2018_03 =
 				}
 			},
 			"protected": false,
-			"followers_count": 819,
+			"followers_count": 818,
 			"friends_count": 164,
 			"listed_count": 87,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10283,
+			"favourites_count": 10284,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
@@ -2313,11 +2313,11 @@ Grailbird.data.tweets_2018_03 =
 				}
 			},
 			"protected": false,
-			"followers_count": 819,
+			"followers_count": 818,
 			"friends_count": 164,
 			"listed_count": 87,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10283,
+			"favourites_count": 10284,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
@@ -2496,11 +2496,11 @@ Grailbird.data.tweets_2018_03 =
 				}
 			},
 			"protected": false,
-			"followers_count": 819,
+			"followers_count": 818,
 			"friends_count": 164,
 			"listed_count": 87,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10283,
+			"favourites_count": 10284,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
@@ -2601,11 +2601,11 @@ Grailbird.data.tweets_2018_03 =
 				}
 			},
 			"protected": false,
-			"followers_count": 819,
+			"followers_count": 818,
 			"friends_count": 164,
 			"listed_count": 87,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10283,
+			"favourites_count": 10284,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
@@ -2647,188 +2647,5 @@ Grailbird.data.tweets_2018_03 =
 		"retweeted": false,
 		"lang": "en",
 		"text": "First up Katrina and Virtual Muster #agritechC218"
-	},
-	{
-		"created_at": "Mon Mar 26 08:01:02 +0000 2018",
-		"id": 978180009188667400,
-		"id_str": "978180009188667393",
-		"full_text": "John Mawson getting things underway #agritechC218 https://t.co/gjg2hmvldU",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			49
-		],
-		"entities": {
-			"hashtags": [
-				{
-					"text": "agritechC218",
-					"indices": [
-						36,
-						49
-					]
-				}
-			],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": [],
-			"media": [
-				{
-					"id": 978179994869317600,
-					"id_str": "978179994869317632",
-					"indices": [
-						50,
-						73
-					],
-					"media_url": "http://pbs.twimg.com/media/DZMxhdCUQAAe9BQ.jpg",
-					"media_url_https": "https://pbs.twimg.com/media/DZMxhdCUQAAe9BQ.jpg",
-					"url": "https://t.co/gjg2hmvldU",
-					"display_url": "pic.twitter.com/gjg2hmvldU",
-					"expanded_url": "https://twitter.com/timklapdor/status/978180009188667393/photo/1",
-					"type": "photo",
-					"sizes": {
-						"large": {
-							"w": 1024,
-							"h": 768,
-							"resize": "fit"
-						},
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"small": {
-							"w": 680,
-							"h": 510,
-							"resize": "fit"
-						},
-						"medium": {
-							"w": 1024,
-							"h": 768,
-							"resize": "fit"
-						}
-					}
-				}
-			]
-		},
-		"extended_entities": {
-			"media": [
-				{
-					"id": 978179994869317600,
-					"id_str": "978179994869317632",
-					"indices": [
-						50,
-						73
-					],
-					"media_url": "http://pbs.twimg.com/media/DZMxhdCUQAAe9BQ.jpg",
-					"media_url_https": "https://pbs.twimg.com/media/DZMxhdCUQAAe9BQ.jpg",
-					"url": "https://t.co/gjg2hmvldU",
-					"display_url": "pic.twitter.com/gjg2hmvldU",
-					"expanded_url": "https://twitter.com/timklapdor/status/978180009188667393/photo/1",
-					"type": "photo",
-					"sizes": {
-						"large": {
-							"w": 1024,
-							"h": 768,
-							"resize": "fit"
-						},
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"small": {
-							"w": 680,
-							"h": 510,
-							"resize": "fit"
-						},
-						"medium": {
-							"w": 1024,
-							"h": 768,
-							"resize": "fit"
-						}
-					}
-				}
-			]
-		},
-		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 174124175,
-			"id_str": "174124175",
-			"name": "Tim Klapdor",
-			"screen_name": "timklapdor",
-			"location": "Adelaide, South Australia",
-			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "https://t.co/uC0c3me6KE",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/uC0c3me6KE",
-							"expanded_url": "http://timklapdor.com",
-							"display_url": "timklapdor.com",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 819,
-			"friends_count": 164,
-			"listed_count": 87,
-			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10283,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 15461,
-			"lang": null,
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "C0DEED",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
-			"profile_link_color": "5FA832",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "DDEEF6",
-			"profile_text_color": "333333",
-			"profile_use_background_image": true,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none",
-			"withheld_in_countries": []
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 2,
-		"favorited": false,
-		"retweeted": false,
-		"possibly_sensitive": false,
-		"lang": "en",
-		"text": "John Mawson getting things underway #agritechC218 https://t.co/gjg2hmvldU"
 	}
 ]
