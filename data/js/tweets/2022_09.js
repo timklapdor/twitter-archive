@@ -70,9 +70,9 @@ Grailbird.data.tweets_2022_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 817,
+			"followers_count": 818,
 			"friends_count": 164,
-			"listed_count": 87,
+			"listed_count": 0,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
 			"favourites_count": 10284,
 			"utc_offset": null,
@@ -166,9 +166,9 @@ Grailbird.data.tweets_2022_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 817,
+			"followers_count": 818,
 			"friends_count": 164,
-			"listed_count": 87,
+			"listed_count": 0,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
 			"favourites_count": 10284,
 			"utc_offset": null,
