@@ -270,7 +270,7 @@ Grailbird.data.tweets_2018_03 =
 			},
 			"protected": false,
 			"followers_count": 2305,
-			"friends_count": 3266,
+			"friends_count": 3267,
 			"listed_count": 172,
 			"created_at": "Thu Nov 08 19:58:25 +0000 2007",
 			"favourites_count": 4012,
@@ -458,7 +458,7 @@ Grailbird.data.tweets_2018_03 =
 			},
 			"protected": false,
 			"followers_count": 2305,
-			"friends_count": 3266,
+			"friends_count": 3267,
 			"listed_count": 172,
 			"created_at": "Thu Nov 08 19:58:25 +0000 2007",
 			"favourites_count": 4012,
@@ -632,16 +632,16 @@ Grailbird.data.tweets_2018_03 =
 				}
 			},
 			"protected": false,
-			"followers_count": 31677,
-			"friends_count": 7457,
+			"followers_count": 31678,
+			"friends_count": 7458,
 			"listed_count": 993,
 			"created_at": "Tue May 06 12:48:04 +0000 2008",
-			"favourites_count": 39011,
+			"favourites_count": 38997,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 120001,
+			"statuses_count": 120016,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -672,7 +672,7 @@ Grailbird.data.tweets_2018_03 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 4599,
+		"retweet_count": 4598,
 		"favorite_count": 7585,
 		"favorited": false,
 		"retweeted": false,
@@ -1051,7 +1051,7 @@ Grailbird.data.tweets_2018_03 =
 			},
 			"protected": false,
 			"followers_count": 1510,
-			"friends_count": 303,
+			"friends_count": 304,
 			"listed_count": 301,
 			"created_at": "Sat May 08 04:59:40 +0000 2010",
 			"favourites_count": 1,
@@ -1059,7 +1059,7 @@ Grailbird.data.tweets_2018_03 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 159920,
+			"statuses_count": 159949,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1166,12 +1166,12 @@ Grailbird.data.tweets_2018_03 =
 			"friends_count": 164,
 			"listed_count": 87,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10289,
+			"favourites_count": 10290,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15461,
+			"statuses_count": 15463,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1270,12 +1270,12 @@ Grailbird.data.tweets_2018_03 =
 			"friends_count": 164,
 			"listed_count": 87,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10289,
+			"favourites_count": 10290,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15461,
+			"statuses_count": 15463,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1374,12 +1374,12 @@ Grailbird.data.tweets_2018_03 =
 			"friends_count": 164,
 			"listed_count": 87,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10289,
+			"favourites_count": 10290,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15461,
+			"statuses_count": 15463,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1478,12 +1478,12 @@ Grailbird.data.tweets_2018_03 =
 			"friends_count": 164,
 			"listed_count": 87,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10289,
+			"favourites_count": 10290,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15461,
+			"statuses_count": 15463,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1593,12 +1593,12 @@ Grailbird.data.tweets_2018_03 =
 			"friends_count": 164,
 			"listed_count": 87,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10289,
+			"favourites_count": 10290,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15461,
+			"statuses_count": 15463,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1707,12 +1707,12 @@ Grailbird.data.tweets_2018_03 =
 			"friends_count": 164,
 			"listed_count": 87,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10289,
+			"favourites_count": 10290,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15461,
+			"statuses_count": 15463,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1812,12 +1812,12 @@ Grailbird.data.tweets_2018_03 =
 			"friends_count": 164,
 			"listed_count": 87,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10289,
+			"favourites_count": 10290,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15461,
+			"statuses_count": 15463,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1927,12 +1927,12 @@ Grailbird.data.tweets_2018_03 =
 			"friends_count": 164,
 			"listed_count": 87,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10289,
+			"favourites_count": 10290,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15461,
+			"statuses_count": 15463,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2031,12 +2031,12 @@ Grailbird.data.tweets_2018_03 =
 			"friends_count": 164,
 			"listed_count": 87,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10289,
+			"favourites_count": 10290,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15461,
+			"statuses_count": 15463,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2135,12 +2135,12 @@ Grailbird.data.tweets_2018_03 =
 			"friends_count": 164,
 			"listed_count": 87,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10289,
+			"favourites_count": 10290,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15461,
+			"statuses_count": 15463,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2177,371 +2177,5 @@ Grailbird.data.tweets_2018_03 =
 		"retweeted": false,
 		"lang": "en",
 		"text": "Love the idea of using waste to grow her mushrooms! And two hour turn around from farm to plate #agritechC218"
-	},
-	{
-		"created_at": "Mon Mar 26 08:18:14 +0000 2018",
-		"id": 978184338578616300,
-		"id_str": "978184338578616320",
-		"full_text": "Louise from High Field Farms pitching diversifying her lamb sales with Mushrooms #agritechC218 https://t.co/2jeDWx9SDe",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			94
-		],
-		"entities": {
-			"hashtags": [
-				{
-					"text": "agritechC218",
-					"indices": [
-						81,
-						94
-					]
-				}
-			],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": [],
-			"media": [
-				{
-					"id": 978184328101339100,
-					"id_str": "978184328101339136",
-					"indices": [
-						95,
-						118
-					],
-					"media_url": "http://pbs.twimg.com/media/DZM1drlVoAA2b0R.jpg",
-					"media_url_https": "https://pbs.twimg.com/media/DZM1drlVoAA2b0R.jpg",
-					"url": "https://t.co/2jeDWx9SDe",
-					"display_url": "pic.twitter.com/2jeDWx9SDe",
-					"expanded_url": "https://twitter.com/timklapdor/status/978184338578616320/photo/1",
-					"type": "photo",
-					"sizes": {
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"medium": {
-							"w": 768,
-							"h": 1024,
-							"resize": "fit"
-						},
-						"large": {
-							"w": 768,
-							"h": 1024,
-							"resize": "fit"
-						},
-						"small": {
-							"w": 510,
-							"h": 680,
-							"resize": "fit"
-						}
-					}
-				}
-			]
-		},
-		"extended_entities": {
-			"media": [
-				{
-					"id": 978184328101339100,
-					"id_str": "978184328101339136",
-					"indices": [
-						95,
-						118
-					],
-					"media_url": "http://pbs.twimg.com/media/DZM1drlVoAA2b0R.jpg",
-					"media_url_https": "https://pbs.twimg.com/media/DZM1drlVoAA2b0R.jpg",
-					"url": "https://t.co/2jeDWx9SDe",
-					"display_url": "pic.twitter.com/2jeDWx9SDe",
-					"expanded_url": "https://twitter.com/timklapdor/status/978184338578616320/photo/1",
-					"type": "photo",
-					"sizes": {
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"medium": {
-							"w": 768,
-							"h": 1024,
-							"resize": "fit"
-						},
-						"large": {
-							"w": 768,
-							"h": 1024,
-							"resize": "fit"
-						},
-						"small": {
-							"w": 510,
-							"h": 680,
-							"resize": "fit"
-						}
-					}
-				}
-			]
-		},
-		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 174124175,
-			"id_str": "174124175",
-			"name": "Tim Klapdor",
-			"screen_name": "timklapdor",
-			"location": "Adelaide, South Australia",
-			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "https://t.co/uC0c3me6KE",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/uC0c3me6KE",
-							"expanded_url": "http://timklapdor.com",
-							"display_url": "timklapdor.com",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 818,
-			"friends_count": 164,
-			"listed_count": 87,
-			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10289,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 15461,
-			"lang": null,
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "C0DEED",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
-			"profile_link_color": "5FA832",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "DDEEF6",
-			"profile_text_color": "333333",
-			"profile_use_background_image": true,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none",
-			"withheld_in_countries": []
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 2,
-		"favorited": false,
-		"retweeted": false,
-		"possibly_sensitive": false,
-		"lang": "en",
-		"text": "Louise from High Field Farms pitching diversifying her lamb sales with Mushrooms #agritechC218 https://t.co/2jeDWx9SDe"
-	},
-	{
-		"created_at": "Mon Mar 26 08:08:34 +0000 2018",
-		"id": 978181904389189600,
-		"id_str": "978181904389189632",
-		"full_text": "A social network to drive and facilitate sales by connecting producers. #agritechC218 https://t.co/bzVummqeov",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			85
-		],
-		"entities": {
-			"hashtags": [
-				{
-					"text": "agritechC218",
-					"indices": [
-						72,
-						85
-					]
-				}
-			],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": [],
-			"media": [
-				{
-					"id": 978181895774072800,
-					"id_str": "978181895774072832",
-					"indices": [
-						86,
-						109
-					],
-					"media_url": "http://pbs.twimg.com/media/DZMzQGdU8AAqJxH.jpg",
-					"media_url_https": "https://pbs.twimg.com/media/DZMzQGdU8AAqJxH.jpg",
-					"url": "https://t.co/bzVummqeov",
-					"display_url": "pic.twitter.com/bzVummqeov",
-					"expanded_url": "https://twitter.com/timklapdor/status/978181904389189632/photo/1",
-					"type": "photo",
-					"sizes": {
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"small": {
-							"w": 510,
-							"h": 680,
-							"resize": "fit"
-						},
-						"large": {
-							"w": 768,
-							"h": 1024,
-							"resize": "fit"
-						},
-						"medium": {
-							"w": 768,
-							"h": 1024,
-							"resize": "fit"
-						}
-					}
-				}
-			]
-		},
-		"extended_entities": {
-			"media": [
-				{
-					"id": 978181895774072800,
-					"id_str": "978181895774072832",
-					"indices": [
-						86,
-						109
-					],
-					"media_url": "http://pbs.twimg.com/media/DZMzQGdU8AAqJxH.jpg",
-					"media_url_https": "https://pbs.twimg.com/media/DZMzQGdU8AAqJxH.jpg",
-					"url": "https://t.co/bzVummqeov",
-					"display_url": "pic.twitter.com/bzVummqeov",
-					"expanded_url": "https://twitter.com/timklapdor/status/978181904389189632/photo/1",
-					"type": "photo",
-					"sizes": {
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"small": {
-							"w": 510,
-							"h": 680,
-							"resize": "fit"
-						},
-						"large": {
-							"w": 768,
-							"h": 1024,
-							"resize": "fit"
-						},
-						"medium": {
-							"w": 768,
-							"h": 1024,
-							"resize": "fit"
-						}
-					}
-				}
-			]
-		},
-		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 174124175,
-			"id_str": "174124175",
-			"name": "Tim Klapdor",
-			"screen_name": "timklapdor",
-			"location": "Adelaide, South Australia",
-			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "https://t.co/uC0c3me6KE",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/uC0c3me6KE",
-							"expanded_url": "http://timklapdor.com",
-							"display_url": "timklapdor.com",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 818,
-			"friends_count": 164,
-			"listed_count": 87,
-			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10289,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 15461,
-			"lang": null,
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "C0DEED",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
-			"profile_link_color": "5FA832",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "DDEEF6",
-			"profile_text_color": "333333",
-			"profile_use_background_image": true,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none",
-			"withheld_in_countries": []
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 0,
-		"favorited": false,
-		"retweeted": false,
-		"possibly_sensitive": false,
-		"lang": "en",
-		"text": "A social network to drive and facilitate sales by connecting producers. #agritechC218 https://t.co/bzVummqeov"
 	}
 ]
