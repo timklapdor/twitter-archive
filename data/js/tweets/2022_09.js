@@ -1,6 +1,554 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Tue Sep 13 22:44:04 +0000 2022",
+		"id": 1569263190868955100,
+		"id_str": "1569819229444259840",
+		"full_text": "This is breathtaking writing. https://t.co/JIpYt5j39w",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			29
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1569263184288092200,
+					"id_str": "1569263184288092161",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/FcckjUKXEAEqASM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcckjUKXEAEqASM.jpg",
+					"url": "https://t.co/JIpYt5j39w",
+					"display_url": "pic.twitter.com/JIpYt5j39w",
+					"expanded_url": "https://twitter.com/OwsWills/status/1569263190868955136/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1074,
+							"h": 1220,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1056,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 599,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1569263184288092200,
+					"id_str": "1569263184288092161",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/media/FcckjUKXEAEqASM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcckjUKXEAEqASM.jpg",
+					"url": "https://t.co/JIpYt5j39w",
+					"display_url": "pic.twitter.com/JIpYt5j39w",
+					"expanded_url": "https://twitter.com/OwsWills/status/1569263190868955136/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1074,
+							"h": 1220,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1056,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 599,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 420468181,
+			"id_str": "420468181",
+			"name": "Owen Williams 🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+			"screen_name": "OwsWills",
+			"location": "Gweriniaeth Cymru",
+			"description": "cymro digwilydd / professionally welsh #GwladGwlad",
+			"url": "https://t.co/gX8G0wbJm2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gX8G0wbJm2",
+							"expanded_url": "http://linkedin.com/in/owswills",
+							"display_url": "linkedin.com/in/owswills",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 29674,
+			"friends_count": 4330,
+			"listed_count": 188,
+			"created_at": "Thu Nov 24 17:27:03 +0000 2011",
+			"favourites_count": 54734,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 103381,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1559661200681697283/4B5cUEwN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1559661200681697283/4B5cUEwN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/420468181/1659563380",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1657,
+		"favorite_count": 6172,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is breathtaking writing. https://t.co/JIpYt5j39w"
+	},
+	{
+		"created_at": "Tue Sep 13 03:08:39 +0000 2022",
+		"id": 1569035006559015000,
+		"id_str": "1569523425152212994",
+		"full_text": "https://t.co/BI0q9EhATo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1569034996106629000,
+					"id_str": "1569034996106629122",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FcZVBA8XkAI5FlT.png",
+					"media_url_https": "https://pbs.twimg.com/media/FcZVBA8XkAI5FlT.png",
+					"url": "https://t.co/BI0q9EhATo",
+					"display_url": "pic.twitter.com/BI0q9EhATo",
+					"expanded_url": "https://twitter.com/soapachu/status/1569035006559014912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 600,
+							"h": 531,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 531,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 531,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1569034996106629000,
+					"id_str": "1569034996106629122",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FcZVBA8XkAI5FlT.png",
+					"media_url_https": "https://pbs.twimg.com/media/FcZVBA8XkAI5FlT.png",
+					"url": "https://t.co/BI0q9EhATo",
+					"display_url": "pic.twitter.com/BI0q9EhATo",
+					"expanded_url": "https://twitter.com/soapachu/status/1569035006559014912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 600,
+							"h": 531,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 531,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 531,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21118184,
+			"id_str": "21118184",
+			"name": "badly-drawn bee 🐝",
+			"screen_name": "soapachu",
+			"location": "London & Liverpool",
+			"description": "'The worst person on earth' - Guido Fawkes.  \n - cats/foxes/scuba/rugby - ocd-cis-queer-adhd - she/her. \nIG: soapachu\n#BLM 🐝🌏🏳️‍⚧️🏳️‍🌈",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 22693,
+			"friends_count": 8941,
+			"listed_count": 149,
+			"created_at": "Tue Feb 17 19:05:52 +0000 2009",
+			"favourites_count": 85870,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 190511,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1569438278264279043/rhO_Mudc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1569438278264279043/rhO_Mudc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21118184/1661502713",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17924,
+		"favorite_count": 116106,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "zxx",
+		"text": "https://t.co/BI0q9EhATo"
+	},
+	{
+		"created_at": "Tue Sep 13 01:50:19 +0000 2022",
+		"id": 1569503712107991000,
+		"id_str": "1569503712107991040",
+		"full_text": "Facebooks ads and recommendations have always been weird for me. But what are these? Why is Facebook “suggesting” random women to me? There’s no ad, no connection – so why? https://t.co/nlk7xCKDUo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1569503695976677400,
+					"id_str": "1569503695976677376",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/Fcf_S8BaQAANG0-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fcf_S8BaQAANG0-.jpg",
+					"url": "https://t.co/nlk7xCKDUo",
+					"display_url": "pic.twitter.com/nlk7xCKDUo",
+					"expanded_url": "https://twitter.com/timklapdor/status/1569503712107991040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 451,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1169,
+							"h": 1763,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 796,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1569503695976677400,
+					"id_str": "1569503695976677376",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/Fcf_S8BaQAANG0-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fcf_S8BaQAANG0-.jpg",
+					"url": "https://t.co/nlk7xCKDUo",
+					"display_url": "pic.twitter.com/nlk7xCKDUo",
+					"expanded_url": "https://twitter.com/timklapdor/status/1569503712107991040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 451,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1169,
+							"h": 1763,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 796,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1569503696903618600,
+					"id_str": "1569503696903618560",
+					"indices": [
+						173,
+						196
+					],
+					"media_url": "http://pbs.twimg.com/media/Fcf_S_eaQAAdKeG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fcf_S_eaQAAdKeG.jpg",
+					"url": "https://t.co/nlk7xCKDUo",
+					"display_url": "pic.twitter.com/nlk7xCKDUo",
+					"expanded_url": "https://twitter.com/timklapdor/status/1569503712107991040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1169,
+							"h": 1654,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Adelaide, South Australia",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
+			"url": "https://t.co/uC0c3me6KE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uC0c3me6KE",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 819,
+			"friends_count": 164,
+			"listed_count": 87,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 10294,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15462,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Facebooks ads and recommendations have always been weird for me. But what are these? Why is Facebook “suggesting” random women to me? There’s no ad, no connection – so why? https://t.co/nlk7xCKDUo"
+	},
+	{
 		"created_at": "Sat Sep 10 22:15:50 +0000 2022",
 		"id": 1568724957567545300,
 		"id_str": "1568724957567545345",
@@ -63,12 +611,12 @@ Grailbird.data.tweets_2022_09 =
 			"friends_count": 164,
 			"listed_count": 87,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10293,
+			"favourites_count": 10294,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15459,
+			"statuses_count": 15462,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -160,12 +708,12 @@ Grailbird.data.tweets_2022_09 =
 			"friends_count": 164,
 			"listed_count": 87,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10293,
+			"favourites_count": 10294,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15459,
+			"statuses_count": 15462,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -256,12 +804,12 @@ Grailbird.data.tweets_2022_09 =
 			"friends_count": 164,
 			"listed_count": 87,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10293,
+			"favourites_count": 10294,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15459,
+			"statuses_count": 15462,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -348,16 +896,16 @@ Grailbird.data.tweets_2022_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 12154,
-			"friends_count": 2221,
+			"followers_count": 12164,
+			"friends_count": 2220,
 			"listed_count": 168,
 			"created_at": "Fri Jan 23 00:24:10 +0000 2009",
-			"favourites_count": 108976,
+			"favourites_count": 109053,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 212876,
+			"statuses_count": 212907,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -388,8 +936,8 @@ Grailbird.data.tweets_2022_09 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 93236,
-		"favorite_count": 848600,
+		"retweet_count": 93277,
+		"favorite_count": 848970,
 		"favorited": false,
 		"retweeted": true,
 		"lang": "en",
@@ -469,12 +1017,12 @@ Grailbird.data.tweets_2022_09 =
 			"friends_count": 164,
 			"listed_count": 87,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10293,
+			"favourites_count": 10294,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15459,
+			"statuses_count": 15462,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -565,12 +1113,12 @@ Grailbird.data.tweets_2022_09 =
 			"friends_count": 164,
 			"listed_count": 87,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10293,
+			"favourites_count": 10294,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15459,
+			"statuses_count": 15462,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,

@@ -83,7 +83,7 @@ Grailbird.data.tweets_2018_03 =
 			"protected": false,
 			"followers_count": 139,
 			"friends_count": 60,
-			"listed_count": 0,
+			"listed_count": 1,
 			"created_at": "Tue Sep 02 04:53:20 +0000 2014",
 			"favourites_count": 15,
 			"utc_offset": null,
@@ -269,16 +269,16 @@ Grailbird.data.tweets_2018_03 =
 				}
 			},
 			"protected": false,
-			"followers_count": 2305,
-			"friends_count": 3267,
+			"followers_count": 2306,
+			"friends_count": 3270,
 			"listed_count": 172,
 			"created_at": "Thu Nov 08 19:58:25 +0000 2007",
-			"favourites_count": 4011,
+			"favourites_count": 4013,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 22083,
+			"statuses_count": 22087,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -457,16 +457,16 @@ Grailbird.data.tweets_2018_03 =
 				}
 			},
 			"protected": false,
-			"followers_count": 2305,
-			"friends_count": 3267,
+			"followers_count": 2306,
+			"friends_count": 3270,
 			"listed_count": 172,
 			"created_at": "Thu Nov 08 19:58:25 +0000 2007",
-			"favourites_count": 4011,
+			"favourites_count": 4013,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 22083,
+			"statuses_count": 22087,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -610,14 +610,14 @@ Grailbird.data.tweets_2018_03 =
 			"id_str": "14672744",
 			"name": "dan barker",
 			"screen_name": "danbarker",
-			"location": "I live between Covent Garden, Sheffield, Newcastle, & Germany",
+			"location": "Covent Garden/Sheffield/Paris",
 			"description": "Worked for more than 100 companies doing various bits & bobs. Interested in marketing, ecommerce, media, data, politics, people, & more. Do follow & say hello.",
-			"url": "https://t.co/aiwtOXhGI9",
+			"url": "https://t.co/NtK3RSWmIC",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/aiwtOXhGI9",
+							"url": "https://t.co/NtK3RSWmIC",
 							"expanded_url": "http://www.barker.co.uk?utm_source=twbio",
 							"display_url": "barker.co.uk/?utm_source=tw…",
 							"indices": [
@@ -632,16 +632,16 @@ Grailbird.data.tweets_2018_03 =
 				}
 			},
 			"protected": false,
-			"followers_count": 31686,
-			"friends_count": 7464,
+			"followers_count": 31691,
+			"friends_count": 7462,
 			"listed_count": 993,
 			"created_at": "Tue May 06 12:48:04 +0000 2008",
-			"favourites_count": 39044,
+			"favourites_count": 39063,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 120053,
+			"statuses_count": 120065,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -673,7 +673,7 @@ Grailbird.data.tweets_2018_03 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 4598,
-		"favorite_count": 7586,
+		"favorite_count": 7581,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
@@ -731,7 +731,7 @@ Grailbird.data.tweets_2018_03 =
 			"protected": false,
 			"followers_count": 1261,
 			"friends_count": 1214,
-			"listed_count": 107,
+			"listed_count": 0,
 			"created_at": "Thu Feb 25 23:44:57 +0000 2010",
 			"favourites_count": 5740,
 			"utc_offset": null,
@@ -1050,7 +1050,7 @@ Grailbird.data.tweets_2018_03 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1511,
+			"followers_count": 1512,
 			"friends_count": 305,
 			"listed_count": 301,
 			"created_at": "Sat May 08 04:59:40 +0000 2010",
@@ -1059,7 +1059,7 @@ Grailbird.data.tweets_2018_03 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 160081,
+			"statuses_count": 160158,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1166,12 +1166,12 @@ Grailbird.data.tweets_2018_03 =
 			"friends_count": 164,
 			"listed_count": 87,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10290,
+			"favourites_count": 10294,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15459,
+			"statuses_count": 15462,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1270,12 +1270,12 @@ Grailbird.data.tweets_2018_03 =
 			"friends_count": 164,
 			"listed_count": 87,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10290,
+			"favourites_count": 10294,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15459,
+			"statuses_count": 15462,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1374,12 +1374,12 @@ Grailbird.data.tweets_2018_03 =
 			"friends_count": 164,
 			"listed_count": 87,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10290,
+			"favourites_count": 10294,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15459,
+			"statuses_count": 15462,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1478,12 +1478,12 @@ Grailbird.data.tweets_2018_03 =
 			"friends_count": 164,
 			"listed_count": 87,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10290,
+			"favourites_count": 10294,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15459,
+			"statuses_count": 15462,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1593,12 +1593,12 @@ Grailbird.data.tweets_2018_03 =
 			"friends_count": 164,
 			"listed_count": 87,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10290,
+			"favourites_count": 10294,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15459,
+			"statuses_count": 15462,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1707,12 +1707,12 @@ Grailbird.data.tweets_2018_03 =
 			"friends_count": 164,
 			"listed_count": 87,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10290,
+			"favourites_count": 10294,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15459,
+			"statuses_count": 15462,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1750,328 +1750,5 @@ Grailbird.data.tweets_2018_03 =
 		"possibly_sensitive": false,
 		"lang": "en",
 		"text": "Nice to see past success in a pitch https://t.co/u9hd3TauDt shows the change that happens when yoh bring a business online. #agritechC218"
-	},
-	{
-		"created_at": "Mon Mar 26 08:47:59 +0000 2018",
-		"id": 978191822286499800,
-		"id_str": "978191822286499840",
-		"full_text": "The Garden Table takes the floor #agritechC218",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			46
-		],
-		"entities": {
-			"hashtags": [
-				{
-					"text": "agritechC218",
-					"indices": [
-						33,
-						46
-					]
-				}
-			],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": []
-		},
-		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 174124175,
-			"id_str": "174124175",
-			"name": "Tim Klapdor",
-			"screen_name": "timklapdor",
-			"location": "Adelaide, South Australia",
-			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "https://t.co/uC0c3me6KE",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/uC0c3me6KE",
-							"expanded_url": "http://timklapdor.com",
-							"display_url": "timklapdor.com",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 819,
-			"friends_count": 164,
-			"listed_count": 87,
-			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10290,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 15459,
-			"lang": null,
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "C0DEED",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
-			"profile_link_color": "5FA832",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "DDEEF6",
-			"profile_text_color": "333333",
-			"profile_use_background_image": true,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none",
-			"withheld_in_countries": []
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 2,
-		"favorite_count": 2,
-		"favorited": false,
-		"retweeted": false,
-		"lang": "en",
-		"text": "The Garden Table takes the floor #agritechC218"
-	},
-	{
-		"created_at": "Mon Mar 26 08:39:32 +0000 2018",
-		"id": 978189696927875100,
-		"id_str": "978189696927875073",
-		"full_text": "Now up Jenny from @SproutEdAus at #agritechC218",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			47
-		],
-		"entities": {
-			"hashtags": [
-				{
-					"text": "agritechC218",
-					"indices": [
-						34,
-						47
-					]
-				}
-			],
-			"symbols": [],
-			"user_mentions": [
-				{
-					"screen_name": "SproutEdAus",
-					"name": "Sprout Education Group",
-					"id": 970648435027198000,
-					"id_str": "970648435027197954",
-					"indices": [
-						18,
-						30
-					]
-				}
-			],
-			"urls": []
-		},
-		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 174124175,
-			"id_str": "174124175",
-			"name": "Tim Klapdor",
-			"screen_name": "timklapdor",
-			"location": "Adelaide, South Australia",
-			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "https://t.co/uC0c3me6KE",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/uC0c3me6KE",
-							"expanded_url": "http://timklapdor.com",
-							"display_url": "timklapdor.com",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 819,
-			"friends_count": 164,
-			"listed_count": 87,
-			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10290,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 15459,
-			"lang": null,
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "C0DEED",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
-			"profile_link_color": "5FA832",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "DDEEF6",
-			"profile_text_color": "333333",
-			"profile_use_background_image": true,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none",
-			"withheld_in_countries": []
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 2,
-		"favorite_count": 3,
-		"favorited": false,
-		"retweeted": false,
-		"lang": "en",
-		"text": "Now up Jenny from @SproutEdAus at #agritechC218"
-	},
-	{
-		"created_at": "Mon Mar 26 08:27:34 +0000 2018",
-		"id": 978186686361301000,
-		"id_str": "978186686361300993",
-		"full_text": "Jonathon Medway demonstrating TerraPlanr spatial management system. #agritechC218",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			81
-		],
-		"entities": {
-			"hashtags": [
-				{
-					"text": "agritechC218",
-					"indices": [
-						68,
-						81
-					]
-				}
-			],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": []
-		},
-		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 174124175,
-			"id_str": "174124175",
-			"name": "Tim Klapdor",
-			"screen_name": "timklapdor",
-			"location": "Adelaide, South Australia",
-			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "https://t.co/uC0c3me6KE",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/uC0c3me6KE",
-							"expanded_url": "http://timklapdor.com",
-							"display_url": "timklapdor.com",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 819,
-			"friends_count": 164,
-			"listed_count": 87,
-			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10290,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 15459,
-			"lang": null,
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "C0DEED",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
-			"profile_link_color": "5FA832",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "DDEEF6",
-			"profile_text_color": "333333",
-			"profile_use_background_image": true,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none",
-			"withheld_in_countries": []
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 2,
-		"favorited": false,
-		"retweeted": false,
-		"lang": "en",
-		"text": "Jonathon Medway demonstrating TerraPlanr spatial management system. #agritechC218"
 	}
 ]
