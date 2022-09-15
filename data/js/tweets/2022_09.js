@@ -1,6 +1,259 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Wed Sep 14 21:19:17 +0000 2022",
+		"id": 1570067806028464000,
+		"id_str": "1570160279463530496",
+		"full_text": "Right, everyone. I need to be serious for a moment. Because the greatest thing that ever happened is happening right now.\n\nI don't particularly care either way about the Queen. But the queue? The Queue is a triumph of Britishness. It's incredible.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			247
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14837950,
+			"id_str": "14837950",
+			"name": "❓🦎",
+			"screen_name": "curiousiguana",
+			"location": "A riverbank",
+			"description": "Thought-leader, role-model, icon.\n\nThe Posh and Becks of Twitter, with @chickenprincess (though not sure which is which).",
+			"url": "https://t.co/9LnYDbRjEc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9LnYDbRjEc",
+							"expanded_url": "http://curiousiguanapics.wordpress.com",
+							"display_url": "curiousiguanapics.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3453,
+			"friends_count": 607,
+			"listed_count": 56,
+			"created_at": "Mon May 19 21:47:21 +0000 2008",
+			"favourites_count": 433,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 99927,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531706569985077248/7sDnjNvV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531706569985077248/7sDnjNvV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14837950/1601999222",
+			"profile_link_color": "D9188A",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12519,
+		"favorite_count": 52447,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Right, everyone. I need to be serious for a moment. Because the greatest thing that ever happened is happening right now.\n\nI don't particularly care either way about the Queen. But the queue? The Queue is a triumph of Britishness. It's incredible."
+	},
+	{
+		"created_at": "Wed Sep 14 10:58:43 +0000 2022",
+		"id": 1570004110619086800,
+		"id_str": "1570004110619086854",
+		"full_text": "@helgztech @thesiswhisperer @jasondowns @fortelabs @evernote And if you make the leap @obsdmd is your go to app. Best thing I’ve used in a long time - and it’s just files in a folder.",
+		"truncated": false,
+		"display_text_range": [
+			61,
+			183
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "helgztech",
+					"name": "Helen South",
+					"id": 1199121356505239600,
+					"id_str": "1199121356505239559",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "thesiswhisperer",
+					"name": "Prof Inger Mewburn",
+					"id": 38630406,
+					"id_str": "38630406",
+					"indices": [
+						11,
+						27
+					]
+				},
+				{
+					"screen_name": "jasondowns",
+					"name": "Dr. JD",
+					"id": 12098782,
+					"id_str": "12098782",
+					"indices": [
+						28,
+						39
+					]
+				},
+				{
+					"screen_name": "fortelabs",
+					"name": "Tiago Forte",
+					"id": 1909232666,
+					"id_str": "1909232666",
+					"indices": [
+						40,
+						50
+					]
+				},
+				{
+					"screen_name": "evernote",
+					"name": "Evernote",
+					"id": 13837292,
+					"id_str": "13837292",
+					"indices": [
+						51,
+						60
+					]
+				},
+				{
+					"screen_name": "obsdmd",
+					"name": "Obsidian",
+					"id": 1239876481951596500,
+					"id_str": "1239876481951596545",
+					"indices": [
+						86,
+						93
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1570000648506323000,
+		"in_reply_to_status_id_str": "1570000648506322945",
+		"in_reply_to_user_id": 1199121356505239600,
+		"in_reply_to_user_id_str": "1199121356505239559",
+		"in_reply_to_screen_name": "helgztech",
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Adelaide, South Australia",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
+			"url": "https://t.co/uC0c3me6KE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uC0c3me6KE",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 819,
+			"friends_count": 164,
+			"listed_count": 87,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 10294,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15464,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@helgztech @thesiswhisperer @jasondowns @fortelabs @evernote And if you make the leap @obsdmd is your go to app. Best thing I’ve used in a long time - and it’s just files in a folder."
+	},
+	{
 		"created_at": "Tue Sep 13 22:44:04 +0000 2022",
 		"id": 1569263190868955100,
 		"id_str": "1569819229444259840",
@@ -127,16 +380,16 @@ Grailbird.data.tweets_2022_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 29674,
+			"followers_count": 29731,
 			"friends_count": 4330,
 			"listed_count": 188,
 			"created_at": "Thu Nov 24 17:27:03 +0000 2011",
-			"favourites_count": 54734,
+			"favourites_count": 54791,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 103381,
+			"statuses_count": 103453,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -167,8 +420,8 @@ Grailbird.data.tweets_2022_09 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 1657,
-		"favorite_count": 6172,
+		"retweet_count": 1911,
+		"favorite_count": 7190,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -289,16 +542,16 @@ Grailbird.data.tweets_2022_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 22693,
-			"friends_count": 8941,
+			"followers_count": 22705,
+			"friends_count": 8940,
 			"listed_count": 149,
 			"created_at": "Tue Feb 17 19:05:52 +0000 2009",
-			"favourites_count": 85870,
+			"favourites_count": 85873,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 190511,
+			"statuses_count": 190525,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -329,8 +582,8 @@ Grailbird.data.tweets_2022_09 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 17924,
-		"favorite_count": 116106,
+		"retweet_count": 18307,
+		"favorite_count": 117669,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -509,7 +762,7 @@ Grailbird.data.tweets_2022_09 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15462,
+			"statuses_count": 15464,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -616,7 +869,7 @@ Grailbird.data.tweets_2022_09 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15462,
+			"statuses_count": 15464,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -713,7 +966,7 @@ Grailbird.data.tweets_2022_09 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15462,
+			"statuses_count": 15464,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -809,7 +1062,7 @@ Grailbird.data.tweets_2022_09 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15462,
+			"statuses_count": 15464,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -896,16 +1149,16 @@ Grailbird.data.tweets_2022_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 12164,
-			"friends_count": 2220,
+			"followers_count": 12182,
+			"friends_count": 2221,
 			"listed_count": 168,
 			"created_at": "Fri Jan 23 00:24:10 +0000 2009",
-			"favourites_count": 109053,
+			"favourites_count": 109199,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 212907,
+			"statuses_count": 212942,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -936,8 +1189,8 @@ Grailbird.data.tweets_2022_09 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 93277,
-		"favorite_count": 848970,
+		"retweet_count": 93302,
+		"favorite_count": 849165,
 		"favorited": false,
 		"retweeted": true,
 		"lang": "en",
@@ -1022,7 +1275,7 @@ Grailbird.data.tweets_2022_09 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15462,
+			"statuses_count": 15464,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1118,7 +1371,7 @@ Grailbird.data.tweets_2022_09 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15462,
+			"statuses_count": 15464,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
