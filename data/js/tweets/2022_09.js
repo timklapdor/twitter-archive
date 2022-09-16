@@ -1,6 +1,305 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Thu Sep 15 13:16:38 +0000 2022",
+		"id": 1570401205654003700,
+		"id_str": "1570401205654003714",
+		"full_text": "Refs are punishing rugby fans at the moment.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Adelaide, South Australia",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
+			"url": "https://t.co/uC0c3me6KE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uC0c3me6KE",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 819,
+			"friends_count": 164,
+			"listed_count": 87,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 10296,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15466,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Refs are punishing rugby fans at the moment."
+	},
+	{
+		"created_at": "Thu Sep 15 13:01:06 +0000 2022",
+		"id": 1570314755167998000,
+		"id_str": "1570397297078571009",
+		"full_text": "BBC reporting on DPRK (North Korea) overlaid on queen funeral procession https://t.co/9W7OPxrgRb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1570314684506509300,
+					"id_str": "1570314684506509312",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1570314684506509312/pu/img/Ts9H8ewvOyc6Mzy4.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1570314684506509312/pu/img/Ts9H8ewvOyc6Mzy4.jpg",
+					"url": "https://t.co/9W7OPxrgRb",
+					"display_url": "pic.twitter.com/9W7OPxrgRb",
+					"expanded_url": "https://twitter.com/Karl_Was_Right/status/1570314755167997952/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1570314684506509300,
+					"id_str": "1570314684506509312",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1570314684506509312/pu/img/Ts9H8ewvOyc6Mzy4.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1570314684506509312/pu/img/Ts9H8ewvOyc6Mzy4.jpg",
+					"url": "https://t.co/9W7OPxrgRb",
+					"display_url": "pic.twitter.com/9W7OPxrgRb",
+					"expanded_url": "https://twitter.com/Karl_Was_Right/status/1570314755167997952/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							427,
+							240
+						],
+						"duration_millis": 99467,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1570314684506509312/pu/vid/640x360/D7LFP-qmR1tJ-Zt_.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1570314684506509312/pu/vid/480x270/w168Q3UjtiLNWJ1b.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1570314684506509312/pu/vid/854x480/hWzH5UFxqKZXMOC-.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1570314684506509312/pu/pl/TLTL_By6t-dARW1C.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 266843515,
+			"id_str": "266843515",
+			"name": "Michael Parenti’s Stache 🚩☭",
+			"screen_name": "Karl_Was_Right",
+			"location": "",
+			"description": "Marxist-Leninist | Data Scientist | Currently reading: Children of Ruin | https://t.co/o2OryIanIp",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/o2OryIanIp",
+							"expanded_url": "http://youtu.be/npkeecCErQcbRxlOpVKmP6iSdwmloK3J",
+							"display_url": "youtu.be/npkeecCErQcbRx…",
+							"indices": [
+								74,
+								97
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 45901,
+			"friends_count": 1871,
+			"listed_count": 189,
+			"created_at": "Tue Mar 15 22:39:56 +0000 2011",
+			"favourites_count": 11684,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15872,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E09C17",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1521992020977348609/RrM3MB-G_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1521992020977348609/RrM3MB-G_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/266843515/1588312538",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FAEED8",
+			"profile_sidebar_fill_color": "ACC0C8",
+			"profile_text_color": "050300",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19954,
+		"favorite_count": 73623,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "BBC reporting on DPRK (North Korea) overlaid on queen funeral procession https://t.co/9W7OPxrgRb"
+	},
+	{
 		"created_at": "Wed Sep 14 21:19:17 +0000 2022",
 		"id": 1570067806028464000,
 		"id_str": "1570160279463530496",
@@ -49,16 +348,16 @@ Grailbird.data.tweets_2022_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 3453,
+			"followers_count": 5874,
 			"friends_count": 607,
-			"listed_count": 56,
+			"listed_count": 63,
 			"created_at": "Mon May 19 21:47:21 +0000 2008",
-			"favourites_count": 433,
+			"favourites_count": 435,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 99927,
+			"statuses_count": 99969,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -89,8 +388,8 @@ Grailbird.data.tweets_2022_09 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 12519,
-		"favorite_count": 52447,
+		"retweet_count": 21820,
+		"favorite_count": 100397,
 		"favorited": false,
 		"retweeted": true,
 		"lang": "en",
@@ -210,12 +509,12 @@ Grailbird.data.tweets_2022_09 =
 			"friends_count": 164,
 			"listed_count": 87,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10294,
+			"favourites_count": 10296,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15464,
+			"statuses_count": 15466,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -380,16 +679,16 @@ Grailbird.data.tweets_2022_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 29731,
-			"friends_count": 4330,
+			"followers_count": 29821,
+			"friends_count": 4332,
 			"listed_count": 188,
 			"created_at": "Thu Nov 24 17:27:03 +0000 2011",
-			"favourites_count": 54791,
+			"favourites_count": 54871,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 103453,
+			"statuses_count": 103512,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -420,8 +719,8 @@ Grailbird.data.tweets_2022_09 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 1911,
-		"favorite_count": 7190,
+		"retweet_count": 1925,
+		"favorite_count": 7245,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -542,16 +841,16 @@ Grailbird.data.tweets_2022_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 22705,
-			"friends_count": 8940,
+			"followers_count": 22709,
+			"friends_count": 8938,
 			"listed_count": 149,
 			"created_at": "Tue Feb 17 19:05:52 +0000 2009",
-			"favourites_count": 85873,
+			"favourites_count": 85914,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 190525,
+			"statuses_count": 190552,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -582,8 +881,8 @@ Grailbird.data.tweets_2022_09 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 18307,
-		"favorite_count": 117669,
+		"retweet_count": 18394,
+		"favorite_count": 117980,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -757,12 +1056,12 @@ Grailbird.data.tweets_2022_09 =
 			"friends_count": 164,
 			"listed_count": 87,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10294,
+			"favourites_count": 10296,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15464,
+			"statuses_count": 15466,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -864,12 +1163,12 @@ Grailbird.data.tweets_2022_09 =
 			"friends_count": 164,
 			"listed_count": 87,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10294,
+			"favourites_count": 10296,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15464,
+			"statuses_count": 15466,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -961,12 +1260,12 @@ Grailbird.data.tweets_2022_09 =
 			"friends_count": 164,
 			"listed_count": 87,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10294,
+			"favourites_count": 10296,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15464,
+			"statuses_count": 15466,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1057,12 +1356,12 @@ Grailbird.data.tweets_2022_09 =
 			"friends_count": 164,
 			"listed_count": 87,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10294,
+			"favourites_count": 10296,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15464,
+			"statuses_count": 15466,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1149,16 +1448,16 @@ Grailbird.data.tweets_2022_09 =
 				}
 			},
 			"protected": false,
-			"followers_count": 12182,
-			"friends_count": 2221,
+			"followers_count": 12194,
+			"friends_count": 2219,
 			"listed_count": 168,
 			"created_at": "Fri Jan 23 00:24:10 +0000 2009",
-			"favourites_count": 109199,
+			"favourites_count": 109313,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 212942,
+			"statuses_count": 212988,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1189,8 +1488,8 @@ Grailbird.data.tweets_2022_09 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 93302,
-		"favorite_count": 849165,
+		"retweet_count": 93331,
+		"favorite_count": 849410,
 		"favorited": false,
 		"retweeted": true,
 		"lang": "en",
@@ -1270,12 +1569,12 @@ Grailbird.data.tweets_2022_09 =
 			"friends_count": 164,
 			"listed_count": 87,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10294,
+			"favourites_count": 10296,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15464,
+			"statuses_count": 15466,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1366,12 +1665,12 @@ Grailbird.data.tweets_2022_09 =
 			"friends_count": 164,
 			"listed_count": 87,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10294,
+			"favourites_count": 10296,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15464,
+			"statuses_count": 15466,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
