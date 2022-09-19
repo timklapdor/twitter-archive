@@ -83,7 +83,7 @@ Grailbird.data.tweets_2018_03 =
 			"protected": false,
 			"followers_count": 139,
 			"friends_count": 60,
-			"listed_count": 0,
+			"listed_count": 1,
 			"created_at": "Tue Sep 02 04:53:20 +0000 2014",
 			"favourites_count": 15,
 			"utc_offset": null,
@@ -270,7 +270,7 @@ Grailbird.data.tweets_2018_03 =
 			},
 			"protected": false,
 			"followers_count": 2306,
-			"friends_count": 3271,
+			"friends_count": 3272,
 			"listed_count": 172,
 			"created_at": "Thu Nov 08 19:58:25 +0000 2007",
 			"favourites_count": 4013,
@@ -278,7 +278,7 @@ Grailbird.data.tweets_2018_03 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 22089,
+			"statuses_count": 22090,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -458,7 +458,7 @@ Grailbird.data.tweets_2018_03 =
 			},
 			"protected": false,
 			"followers_count": 2306,
-			"friends_count": 3271,
+			"friends_count": 3272,
 			"listed_count": 172,
 			"created_at": "Thu Nov 08 19:58:25 +0000 2007",
 			"favourites_count": 4013,
@@ -466,7 +466,7 @@ Grailbird.data.tweets_2018_03 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 22089,
+			"statuses_count": 22090,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -632,16 +632,16 @@ Grailbird.data.tweets_2018_03 =
 				}
 			},
 			"protected": false,
-			"followers_count": 31685,
+			"followers_count": 31687,
 			"friends_count": 7463,
 			"listed_count": 993,
 			"created_at": "Tue May 06 12:48:04 +0000 2008",
-			"favourites_count": 39089,
+			"favourites_count": 39093,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 120084,
+			"statuses_count": 120115,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -673,7 +673,7 @@ Grailbird.data.tweets_2018_03 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 4594,
-		"favorite_count": 7577,
+		"favorite_count": 7576,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
@@ -729,7 +729,7 @@ Grailbird.data.tweets_2018_03 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1261,
+			"followers_count": 1260,
 			"friends_count": 1214,
 			"listed_count": 107,
 			"created_at": "Thu Feb 25 23:44:57 +0000 2010",
@@ -775,210 +775,5 @@ Grailbird.data.tweets_2018_03 =
 		"retweeted": false,
 		"lang": "en",
 		"text": "Should \"Terms of Service\" just be renamed to \"How We Stay in Power with Inaccessible Text &amp; One Button?\" 🤔"
-	},
-	{
-		"created_at": "Tue Mar 27 11:03:16 +0000 2018",
-		"id": 978559639905169400,
-		"id_str": "978588255498076162",
-		"full_text": "Team Kelpie getting a feature in the latest @AgriFuturesAU newsletter! Read more about our @agrihackaus effort - ‘Chickon’ https://t.co/9pzAyIeMDB https://t.co/xe3z7vdcZs",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			146
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [
-				{
-					"screen_name": "AgriFuturesAU",
-					"name": "AgriFutures Australia",
-					"id": 825888262736666600,
-					"id_str": "825888262736666624",
-					"indices": [
-						44,
-						58
-					]
-				},
-				{
-					"screen_name": "agrihackaus",
-					"name": "Agrihack",
-					"id": 752421369296490500,
-					"id_str": "752421369296490496",
-					"indices": [
-						91,
-						103
-					]
-				}
-			],
-			"urls": [
-				{
-					"url": "https://t.co/9pzAyIeMDB",
-					"expanded_url": "http://www.agrifutures.com.au/news/hackers-develop-solution-in-48-hours-to-accurately-weigh-live-weight-in-meat-chickens/",
-					"display_url": "agrifutures.com.au/news/hackers-d…",
-					"indices": [
-						123,
-						146
-					]
-				}
-			],
-			"media": [
-				{
-					"id": 978559623203442700,
-					"id_str": "978559623203442688",
-					"indices": [
-						147,
-						170
-					],
-					"media_url": "http://pbs.twimg.com/media/DZSKyuyU0AAhSTR.jpg",
-					"media_url_https": "https://pbs.twimg.com/media/DZSKyuyU0AAhSTR.jpg",
-					"url": "https://t.co/xe3z7vdcZs",
-					"display_url": "pic.twitter.com/xe3z7vdcZs",
-					"expanded_url": "https://twitter.com/KelpieApp/status/978559639905169410/photo/1",
-					"type": "photo",
-					"sizes": {
-						"medium": {
-							"w": 750,
-							"h": 933,
-							"resize": "fit"
-						},
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"small": {
-							"w": 547,
-							"h": 680,
-							"resize": "fit"
-						},
-						"large": {
-							"w": 750,
-							"h": 933,
-							"resize": "fit"
-						}
-					}
-				}
-			]
-		},
-		"extended_entities": {
-			"media": [
-				{
-					"id": 978559623203442700,
-					"id_str": "978559623203442688",
-					"indices": [
-						147,
-						170
-					],
-					"media_url": "http://pbs.twimg.com/media/DZSKyuyU0AAhSTR.jpg",
-					"media_url_https": "https://pbs.twimg.com/media/DZSKyuyU0AAhSTR.jpg",
-					"url": "https://t.co/xe3z7vdcZs",
-					"display_url": "pic.twitter.com/xe3z7vdcZs",
-					"expanded_url": "https://twitter.com/KelpieApp/status/978559639905169410/photo/1",
-					"type": "photo",
-					"sizes": {
-						"medium": {
-							"w": 750,
-							"h": 933,
-							"resize": "fit"
-						},
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"small": {
-							"w": 547,
-							"h": 680,
-							"resize": "fit"
-						},
-						"large": {
-							"w": 750,
-							"h": 933,
-							"resize": "fit"
-						}
-					}
-				}
-			]
-		},
-		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 894010772337999900,
-			"id_str": "894010772337999872",
-			"name": "Kelpie App",
-			"screen_name": "KelpieApp",
-			"location": "Wagga Wagga, New South Wales",
-			"description": "The Digital Working Dog. Co-Founded by @timklapdor, @rockickarse & @clawsout",
-			"url": "https://t.co/DjdyJEJVht",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/DjdyJEJVht",
-							"expanded_url": "http://www.kelpieapp.com",
-							"display_url": "kelpieapp.com",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 166,
-			"friends_count": 177,
-			"listed_count": 1,
-			"created_at": "Sun Aug 06 01:42:32 +0000 2017",
-			"favourites_count": 187,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": false,
-			"verified": false,
-			"statuses_count": 159,
-			"lang": null,
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "000000",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1018866230067789825/O4F3ylJm_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1018866230067789825/O4F3ylJm_normal.jpg",
-			"profile_link_color": "081937",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "000000",
-			"profile_text_color": "000000",
-			"profile_use_background_image": false,
-			"has_extended_profile": false,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none",
-			"withheld_in_countries": []
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 5,
-		"favorite_count": 9,
-		"favorited": false,
-		"retweeted": false,
-		"possibly_sensitive": false,
-		"lang": "en",
-		"text": "Team Kelpie getting a feature in the latest @AgriFuturesAU newsletter! Read more about our @agrihackaus effort - ‘Chickon’ https://t.co/9pzAyIeMDB https://t.co/xe3z7vdcZs"
 	}
 ]
