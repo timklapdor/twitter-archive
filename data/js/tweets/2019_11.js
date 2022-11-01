@@ -106,13 +106,13 @@ Grailbird.data.tweets_2019_11 =
 			"name": "Tim Klapdor",
 			"screen_name": "timklapdor",
 			"location": "Adelaide, South Australia",
-			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "https://t.co/uC0c3me6KE",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology. Also find me @timklapdor@mastodon.social",
+			"url": "https://t.co/83ULNLDqhO",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/uC0c3me6KE",
+							"url": "https://t.co/83ULNLDqhO",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
@@ -131,12 +131,12 @@ Grailbird.data.tweets_2019_11 =
 			"friends_count": 169,
 			"listed_count": 87,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10444,
+			"favourites_count": 10445,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15503,
+			"statuses_count": 15504,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -275,13 +275,13 @@ Grailbird.data.tweets_2019_11 =
 			"name": "Tim Klapdor",
 			"screen_name": "timklapdor",
 			"location": "Adelaide, South Australia",
-			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "https://t.co/uC0c3me6KE",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology. Also find me @timklapdor@mastodon.social",
+			"url": "https://t.co/83ULNLDqhO",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/uC0c3me6KE",
+							"url": "https://t.co/83ULNLDqhO",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
@@ -300,12 +300,12 @@ Grailbird.data.tweets_2019_11 =
 			"friends_count": 169,
 			"listed_count": 87,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10444,
+			"favourites_count": 10445,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15503,
+			"statuses_count": 15504,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -393,13 +393,13 @@ Grailbird.data.tweets_2019_11 =
 			"name": "Tim Klapdor",
 			"screen_name": "timklapdor",
 			"location": "Adelaide, South Australia",
-			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "https://t.co/uC0c3me6KE",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology. Also find me @timklapdor@mastodon.social",
+			"url": "https://t.co/83ULNLDqhO",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/uC0c3me6KE",
+							"url": "https://t.co/83ULNLDqhO",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
@@ -418,12 +418,12 @@ Grailbird.data.tweets_2019_11 =
 			"friends_count": 169,
 			"listed_count": 87,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10444,
+			"favourites_count": 10445,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15503,
+			"statuses_count": 15504,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -611,13 +611,13 @@ Grailbird.data.tweets_2019_11 =
 			"name": "Tim Klapdor",
 			"screen_name": "timklapdor",
 			"location": "Adelaide, South Australia",
-			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "https://t.co/uC0c3me6KE",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology. Also find me @timklapdor@mastodon.social",
+			"url": "https://t.co/83ULNLDqhO",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/uC0c3me6KE",
+							"url": "https://t.co/83ULNLDqhO",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
@@ -636,12 +636,12 @@ Grailbird.data.tweets_2019_11 =
 			"friends_count": 169,
 			"listed_count": 87,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10444,
+			"favourites_count": 10445,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15503,
+			"statuses_count": 15504,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -759,16 +759,16 @@ Grailbird.data.tweets_2019_11 =
 				}
 			},
 			"protected": false,
-			"followers_count": 62984,
-			"friends_count": 426,
+			"followers_count": 62933,
+			"friends_count": 425,
 			"listed_count": 480,
 			"created_at": "Sun Dec 08 08:17:57 +0000 2013",
-			"favourites_count": 29943,
+			"favourites_count": 29956,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 37981,
+			"statuses_count": 37990,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -852,13 +852,13 @@ Grailbird.data.tweets_2019_11 =
 			"name": "Tim Klapdor",
 			"screen_name": "timklapdor",
 			"location": "Adelaide, South Australia",
-			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "https://t.co/uC0c3me6KE",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology. Also find me @timklapdor@mastodon.social",
+			"url": "https://t.co/83ULNLDqhO",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/uC0c3me6KE",
+							"url": "https://t.co/83ULNLDqhO",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
@@ -877,12 +877,12 @@ Grailbird.data.tweets_2019_11 =
 			"friends_count": 169,
 			"listed_count": 87,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10444,
+			"favourites_count": 10445,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15503,
+			"statuses_count": 15504,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -989,13 +989,13 @@ Grailbird.data.tweets_2019_11 =
 			"name": "Tim Klapdor",
 			"screen_name": "timklapdor",
 			"location": "Adelaide, South Australia",
-			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "https://t.co/uC0c3me6KE",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology. Also find me @timklapdor@mastodon.social",
+			"url": "https://t.co/83ULNLDqhO",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/uC0c3me6KE",
+							"url": "https://t.co/83ULNLDqhO",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
@@ -1014,12 +1014,12 @@ Grailbird.data.tweets_2019_11 =
 			"friends_count": 169,
 			"listed_count": 87,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10444,
+			"favourites_count": 10445,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15503,
+			"statuses_count": 15504,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1096,13 +1096,13 @@ Grailbird.data.tweets_2019_11 =
 			"name": "Tim Klapdor",
 			"screen_name": "timklapdor",
 			"location": "Adelaide, South Australia",
-			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "https://t.co/uC0c3me6KE",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology. Also find me @timklapdor@mastodon.social",
+			"url": "https://t.co/83ULNLDqhO",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/uC0c3me6KE",
+							"url": "https://t.co/83ULNLDqhO",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
@@ -1121,12 +1121,12 @@ Grailbird.data.tweets_2019_11 =
 			"friends_count": 169,
 			"listed_count": 87,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10444,
+			"favourites_count": 10445,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15503,
+			"statuses_count": 15504,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1203,13 +1203,13 @@ Grailbird.data.tweets_2019_11 =
 			"name": "Tim Klapdor",
 			"screen_name": "timklapdor",
 			"location": "Adelaide, South Australia",
-			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "https://t.co/uC0c3me6KE",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology. Also find me @timklapdor@mastodon.social",
+			"url": "https://t.co/83ULNLDqhO",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/uC0c3me6KE",
+							"url": "https://t.co/83ULNLDqhO",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
@@ -1228,12 +1228,12 @@ Grailbird.data.tweets_2019_11 =
 			"friends_count": 169,
 			"listed_count": 87,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10444,
+			"favourites_count": 10445,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15503,
+			"statuses_count": 15504,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1310,13 +1310,13 @@ Grailbird.data.tweets_2019_11 =
 			"name": "Tim Klapdor",
 			"screen_name": "timklapdor",
 			"location": "Adelaide, South Australia",
-			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "https://t.co/uC0c3me6KE",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology. Also find me @timklapdor@mastodon.social",
+			"url": "https://t.co/83ULNLDqhO",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/uC0c3me6KE",
+							"url": "https://t.co/83ULNLDqhO",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
@@ -1335,12 +1335,12 @@ Grailbird.data.tweets_2019_11 =
 			"friends_count": 169,
 			"listed_count": 87,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10444,
+			"favourites_count": 10445,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15503,
+			"statuses_count": 15504,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1566,13 +1566,13 @@ Grailbird.data.tweets_2019_11 =
 			"name": "Tim Klapdor",
 			"screen_name": "timklapdor",
 			"location": "Adelaide, South Australia",
-			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "https://t.co/uC0c3me6KE",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology. Also find me @timklapdor@mastodon.social",
+			"url": "https://t.co/83ULNLDqhO",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/uC0c3me6KE",
+							"url": "https://t.co/83ULNLDqhO",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
@@ -1591,12 +1591,12 @@ Grailbird.data.tweets_2019_11 =
 			"friends_count": 169,
 			"listed_count": 87,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10444,
+			"favourites_count": 10445,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15503,
+			"statuses_count": 15504,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1702,7 +1702,7 @@ Grailbird.data.tweets_2019_11 =
 			"user": {
 				"id": 334071222,
 				"id_str": "334071222",
-				"name": "Jon Lock (C19-C20 @ MCM London)",
+				"name": "Jon Lock",
 				"screen_name": "jonlockcomics",
 				"location": "Cheltenham, England",
 				"description": "Writer, editor and game designer | Creator of #AfterlifeInc | Co-founder of @BigPunchStudios | He/Him",
@@ -1730,12 +1730,12 @@ Grailbird.data.tweets_2019_11 =
 				"friends_count": 804,
 				"listed_count": 43,
 				"created_at": "Tue Jul 12 14:47:54 +0000 2011",
-				"favourites_count": 4979,
+				"favourites_count": 4985,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": false,
-				"statuses_count": 13712,
+				"statuses_count": 13719,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -1766,8 +1766,8 @@ Grailbird.data.tweets_2019_11 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 3554,
-			"favorite_count": 8257,
+			"retweet_count": 3553,
+			"favorite_count": 8254,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
@@ -1819,13 +1819,13 @@ Grailbird.data.tweets_2019_11 =
 			"name": "Tim Klapdor",
 			"screen_name": "timklapdor",
 			"location": "Adelaide, South Australia",
-			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "https://t.co/uC0c3me6KE",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology. Also find me @timklapdor@mastodon.social",
+			"url": "https://t.co/83ULNLDqhO",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/uC0c3me6KE",
+							"url": "https://t.co/83ULNLDqhO",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
@@ -1844,12 +1844,12 @@ Grailbird.data.tweets_2019_11 =
 			"friends_count": 169,
 			"listed_count": 87,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10444,
+			"favourites_count": 10445,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15503,
+			"statuses_count": 15504,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1946,16 +1946,16 @@ Grailbird.data.tweets_2019_11 =
 					}
 				},
 				"protected": false,
-				"followers_count": 12623,
-				"friends_count": 2383,
+				"followers_count": 12627,
+				"friends_count": 2385,
 				"listed_count": 153,
 				"created_at": "Mon Jul 26 11:54:01 +0000 2010",
-				"favourites_count": 34445,
+				"favourites_count": 34505,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": false,
-				"statuses_count": 37100,
+				"statuses_count": 37145,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -1994,7 +1994,7 @@ Grailbird.data.tweets_2019_11 =
 				"display": "twitter.com/samanthamaiden…"
 			},
 			"retweet_count": 776,
-			"favorite_count": 1210,
+			"favorite_count": 1209,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
@@ -2114,13 +2114,13 @@ Grailbird.data.tweets_2019_11 =
 			"name": "Tim Klapdor",
 			"screen_name": "timklapdor",
 			"location": "Adelaide, South Australia",
-			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "https://t.co/uC0c3me6KE",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology. Also find me @timklapdor@mastodon.social",
+			"url": "https://t.co/83ULNLDqhO",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/uC0c3me6KE",
+							"url": "https://t.co/83ULNLDqhO",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
@@ -2139,12 +2139,12 @@ Grailbird.data.tweets_2019_11 =
 			"friends_count": 169,
 			"listed_count": 87,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10444,
+			"favourites_count": 10445,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15503,
+			"statuses_count": 15504,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2368,13 +2368,13 @@ Grailbird.data.tweets_2019_11 =
 			"name": "Tim Klapdor",
 			"screen_name": "timklapdor",
 			"location": "Adelaide, South Australia",
-			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "https://t.co/uC0c3me6KE",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology. Also find me @timklapdor@mastodon.social",
+			"url": "https://t.co/83ULNLDqhO",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/uC0c3me6KE",
+							"url": "https://t.co/83ULNLDqhO",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
@@ -2393,12 +2393,12 @@ Grailbird.data.tweets_2019_11 =
 			"friends_count": 169,
 			"listed_count": 87,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10444,
+			"favourites_count": 10445,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15503,
+			"statuses_count": 15504,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2475,13 +2475,13 @@ Grailbird.data.tweets_2019_11 =
 			"name": "Tim Klapdor",
 			"screen_name": "timklapdor",
 			"location": "Adelaide, South Australia",
-			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "https://t.co/uC0c3me6KE",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology. Also find me @timklapdor@mastodon.social",
+			"url": "https://t.co/83ULNLDqhO",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/uC0c3me6KE",
+							"url": "https://t.co/83ULNLDqhO",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
@@ -2500,12 +2500,12 @@ Grailbird.data.tweets_2019_11 =
 			"friends_count": 169,
 			"listed_count": 87,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10444,
+			"favourites_count": 10445,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15503,
+			"statuses_count": 15504,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2635,16 +2635,16 @@ Grailbird.data.tweets_2019_11 =
 					}
 				},
 				"protected": false,
-				"followers_count": 596757,
-				"friends_count": 19022,
-				"listed_count": 3125,
+				"followers_count": 596694,
+				"friends_count": 18991,
+				"listed_count": 3129,
 				"created_at": "Thu Feb 03 19:32:59 +0000 2011",
-				"favourites_count": 276586,
+				"favourites_count": 276659,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": true,
-				"statuses_count": 167453,
+				"statuses_count": 167501,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -2676,7 +2676,7 @@ Grailbird.data.tweets_2019_11 =
 			"contributors": null,
 			"is_quote_status": false,
 			"retweet_count": 1399,
-			"favorite_count": 1746,
+			"favorite_count": 1737,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
@@ -2729,13 +2729,13 @@ Grailbird.data.tweets_2019_11 =
 			"name": "Tim Klapdor",
 			"screen_name": "timklapdor",
 			"location": "Adelaide, South Australia",
-			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "https://t.co/uC0c3me6KE",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology. Also find me @timklapdor@mastodon.social",
+			"url": "https://t.co/83ULNLDqhO",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/uC0c3me6KE",
+							"url": "https://t.co/83ULNLDqhO",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
@@ -2754,12 +2754,12 @@ Grailbird.data.tweets_2019_11 =
 			"friends_count": 169,
 			"listed_count": 87,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10444,
+			"favourites_count": 10445,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15503,
+			"statuses_count": 15504,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2869,13 +2869,13 @@ Grailbird.data.tweets_2019_11 =
 			"name": "Tim Klapdor",
 			"screen_name": "timklapdor",
 			"location": "Adelaide, South Australia",
-			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "https://t.co/uC0c3me6KE",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology. Also find me @timklapdor@mastodon.social",
+			"url": "https://t.co/83ULNLDqhO",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/uC0c3me6KE",
+							"url": "https://t.co/83ULNLDqhO",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
@@ -2894,12 +2894,12 @@ Grailbird.data.tweets_2019_11 =
 			"friends_count": 169,
 			"listed_count": 87,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10444,
+			"favourites_count": 10445,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15503,
+			"statuses_count": 15504,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -3006,16 +3006,16 @@ Grailbird.data.tweets_2019_11 =
 				}
 			},
 			"protected": false,
-			"followers_count": 12305,
-			"friends_count": 1884,
-			"listed_count": 712,
+			"followers_count": 12300,
+			"friends_count": 1883,
+			"listed_count": 0,
 			"created_at": "Thu Jun 28 09:14:11 +0000 2007",
-			"favourites_count": 9230,
+			"favourites_count": 9231,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 44902,
+			"statuses_count": 44901,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -3122,16 +3122,16 @@ Grailbird.data.tweets_2019_11 =
 					}
 				},
 				"protected": false,
-				"followers_count": 16368,
-				"friends_count": 7185,
+				"followers_count": 16369,
+				"friends_count": 7183,
 				"listed_count": 358,
 				"created_at": "Tue Nov 01 12:05:32 +0000 2011",
-				"favourites_count": 49436,
+				"favourites_count": 49440,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": true,
-				"statuses_count": 16078,
+				"statuses_count": 16083,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -3233,9 +3233,9 @@ Grailbird.data.tweets_2019_11 =
 				}
 			},
 			"protected": false,
-			"followers_count": 120848,
-			"friends_count": 1650,
-			"listed_count": 707,
+			"followers_count": 120786,
+			"friends_count": 1651,
+			"listed_count": 708,
 			"created_at": "Thu Apr 09 08:25:57 +0000 2009",
 			"favourites_count": 4600,
 			"utc_offset": null,
@@ -3274,7 +3274,7 @@ Grailbird.data.tweets_2019_11 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 722,
-		"favorite_count": 5249,
+		"favorite_count": 5246,
 		"favorited": false,
 		"retweeted": true,
 		"lang": "en",
@@ -3318,13 +3318,13 @@ Grailbird.data.tweets_2019_11 =
 			"name": "Tim Klapdor",
 			"screen_name": "timklapdor",
 			"location": "Adelaide, South Australia",
-			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "https://t.co/uC0c3me6KE",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology. Also find me @timklapdor@mastodon.social",
+			"url": "https://t.co/83ULNLDqhO",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/uC0c3me6KE",
+							"url": "https://t.co/83ULNLDqhO",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
@@ -3343,12 +3343,12 @@ Grailbird.data.tweets_2019_11 =
 			"friends_count": 169,
 			"listed_count": 87,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10444,
+			"favourites_count": 10445,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15503,
+			"statuses_count": 15504,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -3575,16 +3575,16 @@ Grailbird.data.tweets_2019_11 =
 					}
 				},
 				"protected": false,
-				"followers_count": 222442,
+				"followers_count": 222083,
 				"friends_count": 566,
-				"listed_count": 1193,
+				"listed_count": 1191,
 				"created_at": "Tue May 12 17:26:01 +0000 2009",
-				"favourites_count": 16181,
+				"favourites_count": 16190,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": true,
-				"statuses_count": 23088,
+				"statuses_count": 23101,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -3616,7 +3616,7 @@ Grailbird.data.tweets_2019_11 =
 			"contributors": null,
 			"is_quote_status": false,
 			"retweet_count": 142,
-			"favorite_count": 441,
+			"favorite_count": 439,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
@@ -3668,13 +3668,13 @@ Grailbird.data.tweets_2019_11 =
 			"name": "Tim Klapdor",
 			"screen_name": "timklapdor",
 			"location": "Adelaide, South Australia",
-			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "https://t.co/uC0c3me6KE",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology. Also find me @timklapdor@mastodon.social",
+			"url": "https://t.co/83ULNLDqhO",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/uC0c3me6KE",
+							"url": "https://t.co/83ULNLDqhO",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
@@ -3693,12 +3693,12 @@ Grailbird.data.tweets_2019_11 =
 			"friends_count": 169,
 			"listed_count": 87,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10444,
+			"favourites_count": 10445,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15503,
+			"statuses_count": 15504,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -3786,12 +3786,12 @@ Grailbird.data.tweets_2019_11 =
 				"friends_count": 1738,
 				"listed_count": 24,
 				"created_at": "Mon Sep 26 13:40:53 +0000 2011",
-				"favourites_count": 6732,
+				"favourites_count": 6734,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": false,
-				"statuses_count": 15907,
+				"statuses_count": 15912,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -3875,13 +3875,13 @@ Grailbird.data.tweets_2019_11 =
 			"name": "Tim Klapdor",
 			"screen_name": "timklapdor",
 			"location": "Adelaide, South Australia",
-			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "https://t.co/uC0c3me6KE",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology. Also find me @timklapdor@mastodon.social",
+			"url": "https://t.co/83ULNLDqhO",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/uC0c3me6KE",
+							"url": "https://t.co/83ULNLDqhO",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
@@ -3900,12 +3900,12 @@ Grailbird.data.tweets_2019_11 =
 			"friends_count": 169,
 			"listed_count": 87,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10444,
+			"favourites_count": 10445,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15503,
+			"statuses_count": 15504,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -3937,7 +3937,7 @@ Grailbird.data.tweets_2019_11 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 2,
-		"favorite_count": 7,
+		"favorite_count": 6,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
@@ -4102,16 +4102,16 @@ Grailbird.data.tweets_2019_11 =
 				}
 			},
 			"protected": false,
-			"followers_count": 22285,
-			"friends_count": 1452,
+			"followers_count": 22270,
+			"friends_count": 1451,
 			"listed_count": 59,
 			"created_at": "Fri Jul 24 23:52:51 +0000 2015",
-			"favourites_count": 12647,
+			"favourites_count": 12650,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 14050,
+			"statuses_count": 14051,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -4143,7 +4143,7 @@ Grailbird.data.tweets_2019_11 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 9252,
-		"favorite_count": 20279,
+		"favorite_count": 20267,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -4224,16 +4224,16 @@ Grailbird.data.tweets_2019_11 =
 				}
 			},
 			"protected": false,
-			"followers_count": 3063,
-			"friends_count": 4987,
+			"followers_count": 3064,
+			"friends_count": 4985,
 			"listed_count": 98,
 			"created_at": "Thu Mar 31 02:38:47 +0000 2011",
-			"favourites_count": 23396,
+			"favourites_count": 23399,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 25935,
+			"statuses_count": 25936,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -4398,13 +4398,13 @@ Grailbird.data.tweets_2019_11 =
 			"name": "Tim Klapdor",
 			"screen_name": "timklapdor",
 			"location": "Adelaide, South Australia",
-			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "https://t.co/uC0c3me6KE",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology. Also find me @timklapdor@mastodon.social",
+			"url": "https://t.co/83ULNLDqhO",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/uC0c3me6KE",
+							"url": "https://t.co/83ULNLDqhO",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
@@ -4423,12 +4423,12 @@ Grailbird.data.tweets_2019_11 =
 			"friends_count": 169,
 			"listed_count": 87,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10444,
+			"favourites_count": 10445,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15503,
+			"statuses_count": 15504,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -4527,15 +4527,15 @@ Grailbird.data.tweets_2019_11 =
 			},
 			"protected": false,
 			"followers_count": 15813,
-			"friends_count": 1798,
+			"friends_count": 1797,
 			"listed_count": 120,
 			"created_at": "Tue Sep 25 16:06:06 +0000 2012",
-			"favourites_count": 32672,
+			"favourites_count": 32692,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 22154,
+			"statuses_count": 22175,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -4617,16 +4617,16 @@ Grailbird.data.tweets_2019_11 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8225,
-			"friends_count": 5886,
+			"followers_count": 8236,
+			"friends_count": 5884,
 			"listed_count": 31,
 			"created_at": "Thu Aug 18 04:54:35 +0000 2016",
-			"favourites_count": 159798,
+			"favourites_count": 159917,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 99763,
+			"statuses_count": 99822,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -4658,192 +4658,59 @@ Grailbird.data.tweets_2019_11 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 935,
-		"favorite_count": 1484,
+		"favorite_count": 1479,
 		"favorited": false,
 		"retweeted": true,
 		"lang": "en",
 		"text": "Monday 11 November 2019. The first day without rain on mainland Australia since records began.\n\nBOM spokesperson: \"The meteorological team can't comprehensively identify one day in our records where there hasn't been rain somewhere on continental Australia\"."
 	},
 	{
-		"created_at": "Mon Nov 11 21:15:02 +0000 2019",
-		"id": 1193794319712321500,
-		"id_str": "1194000603573153792",
-		"full_text": "Repeat after us: \"Thoughts and Prayers.\"\n\n@alex_c_lee @VZerbst @Jennaown https://t.co/NVCX80jZRz",
+		"created_at": "Mon Nov 11 21:00:58 +0000 2019",
+		"id": 1193997067695222800,
+		"id_str": "1193997067695222784",
+		"full_text": "Nothing captures this government better https://t.co/fn5gqw2K0O",
 		"truncated": false,
 		"display_text_range": [
 			0,
-			72
+			39
 		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
-			"user_mentions": [
+			"user_mentions": [],
+			"urls": [
 				{
-					"screen_name": "alex_c_lee",
-					"name": "Alex Lee",
-					"id": 42838857,
-					"id_str": "42838857",
+					"url": "https://t.co/fn5gqw2K0O",
+					"expanded_url": "https://twitter.com/BetootaAdvocate/status/1193801668036452352",
+					"display_url": "twitter.com/BetootaAdvocat…",
 					"indices": [
-						42,
-						53
+						40,
+						63
 					]
-				},
-				{
-					"screen_name": "VZerbst",
-					"name": "vic zerbst",
-					"id": 2205841063,
-					"id_str": "2205841063",
-					"indices": [
-						54,
-						62
-					]
-				},
-				{
-					"screen_name": "jennaown",
-					"name": "Jenna Owen",
-					"id": 2338093177,
-					"id_str": "2338093177",
-					"indices": [
-						63,
-						72
-					]
-				}
-			],
-			"urls": [],
-			"media": [
-				{
-					"id": 1193792245381550000,
-					"id_str": "1193792245381550081",
-					"indices": [
-						73,
-						96
-					],
-					"media_url": "http://pbs.twimg.com/media/EJE1lSbU8AE3f_4.jpg",
-					"media_url_https": "https://pbs.twimg.com/media/EJE1lSbU8AE3f_4.jpg",
-					"url": "https://t.co/NVCX80jZRz",
-					"display_url": "pic.twitter.com/NVCX80jZRz",
-					"expanded_url": "https://twitter.com/TheFeedSBS/status/1193794319712321538/video/1",
-					"type": "photo",
-					"sizes": {
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"small": {
-							"w": 680,
-							"h": 680,
-							"resize": "fit"
-						},
-						"medium": {
-							"w": 720,
-							"h": 720,
-							"resize": "fit"
-						},
-						"large": {
-							"w": 720,
-							"h": 720,
-							"resize": "fit"
-						}
-					}
 				}
 			]
 		},
-		"extended_entities": {
-			"media": [
-				{
-					"id": 1193792245381550000,
-					"id_str": "1193792245381550081",
-					"indices": [
-						73,
-						96
-					],
-					"media_url": "http://pbs.twimg.com/media/EJE1lSbU8AE3f_4.jpg",
-					"media_url_https": "https://pbs.twimg.com/media/EJE1lSbU8AE3f_4.jpg",
-					"url": "https://t.co/NVCX80jZRz",
-					"display_url": "pic.twitter.com/NVCX80jZRz",
-					"expanded_url": "https://twitter.com/TheFeedSBS/status/1193794319712321538/video/1",
-					"type": "video",
-					"sizes": {
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"small": {
-							"w": 680,
-							"h": 680,
-							"resize": "fit"
-						},
-						"medium": {
-							"w": 720,
-							"h": 720,
-							"resize": "fit"
-						},
-						"large": {
-							"w": 720,
-							"h": 720,
-							"resize": "fit"
-						}
-					},
-					"video_info": {
-						"aspect_ratio": [
-							1,
-							1
-						],
-						"duration_millis": 130320,
-						"variants": [
-							{
-								"content_type": "application/x-mpegURL",
-								"url": "https://video.twimg.com/amplify_video/1193792245381550081/pl/1vmwvvIBO87H1SM7.m3u8?tag=13"
-							},
-							{
-								"bitrate": 432000,
-								"content_type": "video/mp4",
-								"url": "https://video.twimg.com/amplify_video/1193792245381550081/vid/320x320/j48jIBOd0Oyxg9d_.mp4?tag=13"
-							},
-							{
-								"bitrate": 1280000,
-								"content_type": "video/mp4",
-								"url": "https://video.twimg.com/amplify_video/1193792245381550081/vid/720x720/Xc1iw8_YtjURoNjI.mp4?tag=13"
-							},
-							{
-								"bitrate": 832000,
-								"content_type": "video/mp4",
-								"url": "https://video.twimg.com/amplify_video/1193792245381550081/vid/480x480/wL23g9FKqDe1PfgW.mp4?tag=13"
-							}
-						]
-					},
-					"additional_media_info": {
-						"title": "",
-						"description": "",
-						"embeddable": true,
-						"monetizable": false
-					}
-				}
-			]
-		},
-		"source": "<a href=\"https://ads.twitter.com\" rel=\"nofollow\">Twitter Ads</a>",
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
 		"in_reply_to_status_id": null,
 		"in_reply_to_status_id_str": null,
 		"in_reply_to_user_id": null,
 		"in_reply_to_user_id_str": null,
 		"in_reply_to_screen_name": null,
 		"user": {
-			"id": 1226701026,
-			"id_str": "1226701026",
-			"name": "The Feed SBS",
-			"screen_name": "TheFeedSBS",
-			"location": "Australia",
-			"description": "See Different. Know Better. Laugh Harder.\n\nSee website for T&C and privacy policy.",
-			"url": "https://t.co/snhapA0ggR",
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Adelaide, South Australia",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology. Also find me @timklapdor@mastodon.social",
+			"url": "https://t.co/83ULNLDqhO",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/snhapA0ggR",
-							"expanded_url": "http://www.sbs.com.au/thefeed",
-							"display_url": "sbs.com.au/thefeed",
+							"url": "https://t.co/83ULNLDqhO",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
 							"indices": [
 								0,
 								23
@@ -4856,33 +4723,33 @@ Grailbird.data.tweets_2019_11 =
 				}
 			},
 			"protected": false,
-			"followers_count": 39870,
-			"friends_count": 4672,
-			"listed_count": 396,
-			"created_at": "Thu Feb 28 05:00:45 +0000 2013",
-			"favourites_count": 9269,
+			"followers_count": 822,
+			"friends_count": 169,
+			"listed_count": 87,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 10445,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
-			"verified": true,
-			"statuses_count": 34809,
+			"verified": false,
+			"statuses_count": 15504,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
-			"profile_background_color": "02030A",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1415882905453162501/7P3aXlr8_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1415882905453162501/7P3aXlr8_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1226701026/1626300789",
-			"profile_link_color": "009999",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
 			"profile_sidebar_border_color": "000000",
 			"profile_sidebar_fill_color": "DDEEF6",
 			"profile_text_color": "333333",
 			"profile_use_background_image": true,
-			"has_extended_profile": false,
+			"has_extended_profile": true,
 			"default_profile": false,
 			"default_profile_image": false,
 			"following": false,
@@ -4893,16 +4760,240 @@ Grailbird.data.tweets_2019_11 =
 		},
 		"geo": null,
 		"coordinates": null,
-		"place": null,
+		"place": {
+			"id": "7b46944933d8137e",
+			"url": "https://api.twitter.com/1.1/geo/id/7b46944933d8137e.json",
+			"place_type": "neighborhood",
+			"name": "Norwood",
+			"full_name": "Norwood, Adelaide",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							138.62264616,
+							-34.92790299
+						],
+						[
+							138.64147308,
+							-34.92790299
+						],
+						[
+							138.64147308,
+							-34.91480097
+						],
+						[
+							138.62264616,
+							-34.91480097
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
 		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 1473,
-		"favorite_count": 2635,
+		"is_quote_status": true,
+		"quoted_status_id": 1193801668036452400,
+		"quoted_status_id_str": "1193801668036452352",
+		"quoted_status_permalink": {
+			"url": "https://t.co/fn5gqw2K0O",
+			"expanded": "https://twitter.com/BetootaAdvocate/status/1193801668036452352",
+			"display": "twitter.com/BetootaAdvocat…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Nov 11 08:04:32 +0000 2019",
+			"id": 1193801668036452400,
+			"id_str": "1193801668036452352",
+			"full_text": "“Now Is Not The Time To Discuss How We Ignored Decades Of Warnings That This Would Happen”\nhttps://t.co/ggpd8BMnIc https://t.co/WJpWtgBX8u",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				114
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ggpd8BMnIc",
+						"expanded_url": "http://www.betootaadvocate.com/breaking-news/now-is-not-the-time-to-discuss-how-we-ignored-decades-of-warnings-that-this-would-happen/",
+						"display_url": "betootaadvocate.com/breaking-news/…",
+						"indices": [
+							91,
+							114
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1193801663342997500,
+						"id_str": "1193801663342997504",
+						"indices": [
+							115,
+							138
+						],
+						"media_url": "http://pbs.twimg.com/media/EJE8SavUcAAkhXy.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EJE8SavUcAAkhXy.jpg",
+						"url": "https://t.co/WJpWtgBX8u",
+						"display_url": "pic.twitter.com/WJpWtgBX8u",
+						"expanded_url": "https://twitter.com/BetootaAdvocate/status/1193801668036452352/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 425,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 768,
+								"h": 480,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 768,
+								"h": 480,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1193801663342997500,
+						"id_str": "1193801663342997504",
+						"indices": [
+							115,
+							138
+						],
+						"media_url": "http://pbs.twimg.com/media/EJE8SavUcAAkhXy.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EJE8SavUcAAkhXy.jpg",
+						"url": "https://t.co/WJpWtgBX8u",
+						"display_url": "pic.twitter.com/WJpWtgBX8u",
+						"expanded_url": "https://twitter.com/BetootaAdvocate/status/1193801668036452352/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 425,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 768,
+								"h": 480,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 768,
+								"h": 480,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2878895652,
+				"id_str": "2878895652",
+				"name": "The Betoota Advocate",
+				"screen_name": "BetootaAdvocate",
+				"location": "Betoota, QLD",
+				"description": "Australia's oldest newspaper.",
+				"url": "https://t.co/v6W9jYZyOQ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/v6W9jYZyOQ",
+								"expanded_url": "http://eepurl.com/cnbKy9",
+								"display_url": "eepurl.com/cnbKy9",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 119927,
+				"friends_count": 1565,
+				"listed_count": 314,
+				"created_at": "Mon Oct 27 02:08:57 +0000 2014",
+				"favourites_count": 902,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 3621,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1157072808167399425/R93JPg1U_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1157072808167399425/R93JPg1U_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2878895652/1499368530",
+				"profile_link_color": "FF0202",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 496,
+			"favorite_count": 1244,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
 		"favorited": false,
-		"retweeted": true,
+		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "Repeat after us: \"Thoughts and Prayers.\"\n\n@alex_c_lee @VZerbst @Jennaown https://t.co/NVCX80jZRz"
+		"text": "Nothing captures this government better https://t.co/fn5gqw2K0O"
 	},
 	{
 		"created_at": "Mon Nov 11 13:37:48 +0000 2019",
@@ -5041,9 +5132,9 @@ Grailbird.data.tweets_2019_11 =
 				}
 			},
 			"protected": false,
-			"followers_count": 119967,
+			"followers_count": 119927,
 			"friends_count": 1565,
-			"listed_count": 316,
+			"listed_count": 314,
 			"created_at": "Mon Oct 27 02:08:57 +0000 2014",
 			"favourites_count": 902,
 			"utc_offset": null,
@@ -5082,7 +5173,7 @@ Grailbird.data.tweets_2019_11 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 377,
-		"favorite_count": 1081,
+		"favorite_count": 1077,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -5138,13 +5229,13 @@ Grailbird.data.tweets_2019_11 =
 			"name": "Tim Klapdor",
 			"screen_name": "timklapdor",
 			"location": "Adelaide, South Australia",
-			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "https://t.co/uC0c3me6KE",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology. Also find me @timklapdor@mastodon.social",
+			"url": "https://t.co/83ULNLDqhO",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/uC0c3me6KE",
+							"url": "https://t.co/83ULNLDqhO",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
@@ -5168,7 +5259,7 @@ Grailbird.data.tweets_2019_11 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15503,
+			"statuses_count": 15504,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -5319,16 +5410,16 @@ Grailbird.data.tweets_2019_11 =
 					}
 				},
 				"protected": false,
-				"followers_count": 38152,
-				"friends_count": 2910,
-				"listed_count": 350,
+				"followers_count": 38101,
+				"friends_count": 2911,
+				"listed_count": 351,
 				"created_at": "Tue Apr 28 14:13:07 +0000 2009",
-				"favourites_count": 53485,
+				"favourites_count": 53544,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": true,
-				"statuses_count": 79568,
+				"statuses_count": 79598,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -5360,7 +5451,7 @@ Grailbird.data.tweets_2019_11 =
 			"contributors": null,
 			"is_quote_status": false,
 			"retweet_count": 101,
-			"favorite_count": 224,
+			"favorite_count": 221,
 			"favorited": false,
 			"retweeted": false,
 			"lang": "en"
@@ -5411,13 +5502,13 @@ Grailbird.data.tweets_2019_11 =
 			"name": "Tim Klapdor",
 			"screen_name": "timklapdor",
 			"location": "Adelaide, South Australia",
-			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "https://t.co/uC0c3me6KE",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology. Also find me @timklapdor@mastodon.social",
+			"url": "https://t.co/83ULNLDqhO",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/uC0c3me6KE",
+							"url": "https://t.co/83ULNLDqhO",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
@@ -5441,7 +5532,7 @@ Grailbird.data.tweets_2019_11 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15503,
+			"statuses_count": 15504,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -5747,16 +5838,16 @@ Grailbird.data.tweets_2019_11 =
 					}
 				},
 				"protected": false,
-				"followers_count": 12550,
-				"friends_count": 1701,
+				"followers_count": 12547,
+				"friends_count": 1700,
 				"listed_count": 298,
 				"created_at": "Tue Apr 09 03:24:17 +0000 2013",
-				"favourites_count": 7103,
+				"favourites_count": 7110,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": false,
-				"statuses_count": 19094,
+				"statuses_count": 19099,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -5851,13 +5942,13 @@ Grailbird.data.tweets_2019_11 =
 			"name": "Tim Klapdor",
 			"screen_name": "timklapdor",
 			"location": "Adelaide, South Australia",
-			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "https://t.co/uC0c3me6KE",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology. Also find me @timklapdor@mastodon.social",
+			"url": "https://t.co/83ULNLDqhO",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/uC0c3me6KE",
+							"url": "https://t.co/83ULNLDqhO",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
@@ -5881,7 +5972,7 @@ Grailbird.data.tweets_2019_11 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15503,
+			"statuses_count": 15504,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -6010,13 +6101,13 @@ Grailbird.data.tweets_2019_11 =
 			"name": "Tim Klapdor",
 			"screen_name": "timklapdor",
 			"location": "Adelaide, South Australia",
-			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "https://t.co/uC0c3me6KE",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology. Also find me @timklapdor@mastodon.social",
+			"url": "https://t.co/83ULNLDqhO",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/uC0c3me6KE",
+							"url": "https://t.co/83ULNLDqhO",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
@@ -6040,7 +6131,7 @@ Grailbird.data.tweets_2019_11 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15503,
+			"statuses_count": 15504,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -6363,7 +6454,7 @@ Grailbird.data.tweets_2019_11 =
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": false,
-				"statuses_count": 6185,
+				"statuses_count": 6186,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -6437,13 +6528,13 @@ Grailbird.data.tweets_2019_11 =
 			"name": "Tim Klapdor",
 			"screen_name": "timklapdor",
 			"location": "Adelaide, South Australia",
-			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "https://t.co/uC0c3me6KE",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology. Also find me @timklapdor@mastodon.social",
+			"url": "https://t.co/83ULNLDqhO",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/uC0c3me6KE",
+							"url": "https://t.co/83ULNLDqhO",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
@@ -6467,7 +6558,7 @@ Grailbird.data.tweets_2019_11 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15503,
+			"statuses_count": 15504,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -6706,16 +6797,16 @@ Grailbird.data.tweets_2019_11 =
 				}
 			},
 			"protected": false,
-			"followers_count": 63824,
-			"friends_count": 9467,
-			"listed_count": 1149,
+			"followers_count": 63896,
+			"friends_count": 9471,
+			"listed_count": 1152,
 			"created_at": "Thu Nov 24 05:45:24 +0000 2011",
-			"favourites_count": 42718,
+			"favourites_count": 42748,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 204744,
+			"statuses_count": 204838,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -6746,8 +6837,8 @@ Grailbird.data.tweets_2019_11 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 932,
-		"favorite_count": 1382,
+		"retweet_count": 931,
+		"favorite_count": 1378,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -6790,7 +6881,7 @@ Grailbird.data.tweets_2019_11 =
 				}
 			},
 			"protected": false,
-			"followers_count": 917,
+			"followers_count": 916,
 			"friends_count": 488,
 			"listed_count": 2,
 			"created_at": "Tue Nov 20 07:48:46 +0000 2018",
@@ -6831,7 +6922,7 @@ Grailbird.data.tweets_2019_11 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 302,
-		"favorite_count": 873,
+		"favorite_count": 872,
 		"favorited": false,
 		"retweeted": true,
 		"lang": "en",
@@ -6886,8 +6977,8 @@ Grailbird.data.tweets_2019_11 =
 				}
 			},
 			"protected": false,
-			"followers_count": 27947,
-			"friends_count": 4130,
+			"followers_count": 27928,
+			"friends_count": 4129,
 			"listed_count": 368,
 			"created_at": "Sat Jun 13 04:45:19 +0000 2009",
 			"favourites_count": 7641,
@@ -6895,7 +6986,7 @@ Grailbird.data.tweets_2019_11 =
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 72296,
+			"statuses_count": 72314,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -6994,12 +7085,12 @@ Grailbird.data.tweets_2019_11 =
 			"friends_count": 1738,
 			"listed_count": 24,
 			"created_at": "Mon Sep 26 13:40:53 +0000 2011",
-			"favourites_count": 6732,
+			"favourites_count": 6734,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 15907,
+			"statuses_count": 15912,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -7077,13 +7168,13 @@ Grailbird.data.tweets_2019_11 =
 			"name": "Tim Klapdor",
 			"screen_name": "timklapdor",
 			"location": "Adelaide, South Australia",
-			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "https://t.co/uC0c3me6KE",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology. Also find me @timklapdor@mastodon.social",
+			"url": "https://t.co/83ULNLDqhO",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/uC0c3me6KE",
+							"url": "https://t.co/83ULNLDqhO",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
@@ -7107,7 +7198,7 @@ Grailbird.data.tweets_2019_11 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15503,
+			"statuses_count": 15504,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -7255,8 +7346,8 @@ Grailbird.data.tweets_2019_11 =
 				}
 			},
 			"protected": false,
-			"followers_count": 5455,
-			"friends_count": 2425,
+			"followers_count": 5452,
+			"friends_count": 2424,
 			"listed_count": 179,
 			"created_at": "Thu Dec 02 12:29:31 +0000 2010",
 			"favourites_count": 17491,
@@ -7296,7 +7387,7 @@ Grailbird.data.tweets_2019_11 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 1177,
-		"favorite_count": 2671,
+		"favorite_count": 2672,
 		"favorited": false,
 		"retweeted": true,
 		"lang": "en",
@@ -7341,13 +7432,13 @@ Grailbird.data.tweets_2019_11 =
 			"name": "Tim Klapdor",
 			"screen_name": "timklapdor",
 			"location": "Adelaide, South Australia",
-			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "https://t.co/uC0c3me6KE",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology. Also find me @timklapdor@mastodon.social",
+			"url": "https://t.co/83ULNLDqhO",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/uC0c3me6KE",
+							"url": "https://t.co/83ULNLDqhO",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
@@ -7371,7 +7462,7 @@ Grailbird.data.tweets_2019_11 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15503,
+			"statuses_count": 15504,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -7480,13 +7571,13 @@ Grailbird.data.tweets_2019_11 =
 			"name": "Tim Klapdor",
 			"screen_name": "timklapdor",
 			"location": "Adelaide, South Australia",
-			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "https://t.co/uC0c3me6KE",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology. Also find me @timklapdor@mastodon.social",
+			"url": "https://t.co/83ULNLDqhO",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/uC0c3me6KE",
+							"url": "https://t.co/83ULNLDqhO",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
@@ -7510,7 +7601,7 @@ Grailbird.data.tweets_2019_11 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15503,
+			"statuses_count": 15504,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -7719,16 +7810,16 @@ Grailbird.data.tweets_2019_11 =
 					}
 				},
 				"protected": false,
-				"followers_count": 6220,
-				"friends_count": 6217,
+				"followers_count": 6222,
+				"friends_count": 6216,
 				"listed_count": 182,
 				"created_at": "Sun Jul 10 10:22:42 +0000 2011",
-				"favourites_count": 22912,
+				"favourites_count": 22919,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": false,
-				"statuses_count": 26831,
+				"statuses_count": 26833,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -7811,13 +7902,13 @@ Grailbird.data.tweets_2019_11 =
 			"name": "Tim Klapdor",
 			"screen_name": "timklapdor",
 			"location": "Adelaide, South Australia",
-			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "https://t.co/uC0c3me6KE",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology. Also find me @timklapdor@mastodon.social",
+			"url": "https://t.co/83ULNLDqhO",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/uC0c3me6KE",
+							"url": "https://t.co/83ULNLDqhO",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
@@ -7841,7 +7932,7 @@ Grailbird.data.tweets_2019_11 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15503,
+			"statuses_count": 15504,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -7979,16 +8070,16 @@ Grailbird.data.tweets_2019_11 =
 					}
 				},
 				"protected": false,
-				"followers_count": 807784,
+				"followers_count": 807782,
 				"friends_count": 555,
-				"listed_count": 6120,
+				"listed_count": 6113,
 				"created_at": "Mon Oct 22 23:57:33 +0000 2007",
 				"favourites_count": 560,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": true,
-				"statuses_count": 266448,
+				"statuses_count": 266465,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -8111,16 +8202,16 @@ Grailbird.data.tweets_2019_11 =
 				}
 			},
 			"protected": false,
-			"followers_count": 35554,
+			"followers_count": 35539,
 			"friends_count": 2713,
 			"listed_count": 319,
 			"created_at": "Tue May 06 04:16:40 +0000 2014",
-			"favourites_count": 28563,
+			"favourites_count": 28575,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 22987,
+			"statuses_count": 22997,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -8151,8 +8242,8 @@ Grailbird.data.tweets_2019_11 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 1116,
-		"favorite_count": 3131,
+		"retweet_count": 1115,
+		"favorite_count": 3125,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -8208,13 +8299,13 @@ Grailbird.data.tweets_2019_11 =
 			"name": "Tim Klapdor",
 			"screen_name": "timklapdor",
 			"location": "Adelaide, South Australia",
-			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "https://t.co/uC0c3me6KE",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology. Also find me @timklapdor@mastodon.social",
+			"url": "https://t.co/83ULNLDqhO",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/uC0c3me6KE",
+							"url": "https://t.co/83ULNLDqhO",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
@@ -8238,7 +8329,7 @@ Grailbird.data.tweets_2019_11 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15503,
+			"statuses_count": 15504,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -8363,16 +8454,16 @@ Grailbird.data.tweets_2019_11 =
 				}
 			},
 			"protected": false,
-			"followers_count": 12179,
-			"friends_count": 12540,
+			"followers_count": 12169,
+			"friends_count": 12531,
 			"listed_count": 1125,
 			"created_at": "Wed Nov 21 21:14:58 +0000 2007",
-			"favourites_count": 154877,
+			"favourites_count": 154876,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 66998,
+			"statuses_count": 67002,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -8469,16 +8560,16 @@ Grailbird.data.tweets_2019_11 =
 					}
 				},
 				"protected": false,
-				"followers_count": 2151,
-				"friends_count": 2530,
+				"followers_count": 2150,
+				"friends_count": 2528,
 				"listed_count": 160,
 				"created_at": "Tue Mar 11 01:30:04 +0000 2008",
-				"favourites_count": 39463,
+				"favourites_count": 39462,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": false,
-				"statuses_count": 47605,
+				"statuses_count": 47601,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -8666,13 +8757,13 @@ Grailbird.data.tweets_2019_11 =
 			"name": "Tim Klapdor",
 			"screen_name": "timklapdor",
 			"location": "Adelaide, South Australia",
-			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "https://t.co/uC0c3me6KE",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology. Also find me @timklapdor@mastodon.social",
+			"url": "https://t.co/83ULNLDqhO",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/uC0c3me6KE",
+							"url": "https://t.co/83ULNLDqhO",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
@@ -8696,7 +8787,7 @@ Grailbird.data.tweets_2019_11 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15503,
+			"statuses_count": 15504,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -8842,16 +8933,16 @@ Grailbird.data.tweets_2019_11 =
 				}
 			},
 			"protected": false,
-			"followers_count": 5037553,
-			"friends_count": 2849,
-			"listed_count": 11891,
+			"followers_count": 5032804,
+			"friends_count": 2848,
+			"listed_count": 11890,
 			"created_at": "Tue Jun 12 06:14:23 +0000 2018",
 			"favourites_count": 18084,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 11647,
+			"statuses_count": 11649,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -8948,16 +9039,16 @@ Grailbird.data.tweets_2019_11 =
 					}
 				},
 				"protected": false,
-				"followers_count": 19961020,
-				"friends_count": 1717,
-				"listed_count": 108096,
+				"followers_count": 19960474,
+				"friends_count": 1716,
+				"listed_count": 108038,
 				"created_at": "Tue Mar 27 11:19:39 +0000 2007",
-				"favourites_count": 4161,
+				"favourites_count": 4160,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": true,
-				"statuses_count": 443227,
+				"statuses_count": 443317,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -8989,14 +9080,14 @@ Grailbird.data.tweets_2019_11 =
 			"contributors": null,
 			"is_quote_status": false,
 			"retweet_count": 546,
-			"favorite_count": 869,
+			"favorite_count": 864,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
 			"lang": "en"
 		},
 		"retweet_count": 8286,
-		"favorite_count": 47405,
+		"favorite_count": 47349,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -9052,13 +9143,13 @@ Grailbird.data.tweets_2019_11 =
 			"name": "Tim Klapdor",
 			"screen_name": "timklapdor",
 			"location": "Adelaide, South Australia",
-			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "https://t.co/uC0c3me6KE",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology. Also find me @timklapdor@mastodon.social",
+			"url": "https://t.co/83ULNLDqhO",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/uC0c3me6KE",
+							"url": "https://t.co/83ULNLDqhO",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
@@ -9082,7 +9173,7 @@ Grailbird.data.tweets_2019_11 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15503,
+			"statuses_count": 15504,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -9320,16 +9411,16 @@ Grailbird.data.tweets_2019_11 =
 					}
 				},
 				"protected": false,
-				"followers_count": 814545,
-				"friends_count": 246,
-				"listed_count": 3068,
+				"followers_count": 814756,
+				"friends_count": 247,
+				"listed_count": 3064,
 				"created_at": "Thu Mar 05 22:51:02 +0000 2009",
 				"favourites_count": 583,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": true,
-				"statuses_count": 340418,
+				"statuses_count": 340473,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -9361,7 +9452,7 @@ Grailbird.data.tweets_2019_11 =
 			"contributors": null,
 			"is_quote_status": false,
 			"retweet_count": 258,
-			"favorite_count": 334,
+			"favorite_count": 336,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
@@ -9572,8 +9663,8 @@ Grailbird.data.tweets_2019_11 =
 				}
 			},
 			"protected": false,
-			"followers_count": 147443,
-			"friends_count": 639,
+			"followers_count": 147474,
+			"friends_count": 638,
 			"listed_count": 874,
 			"created_at": "Wed Jan 23 03:33:46 +0000 2013",
 			"favourites_count": 259,
@@ -9613,7 +9704,7 @@ Grailbird.data.tweets_2019_11 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 498,
-		"favorite_count": 1291,
+		"favorite_count": 1287,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -9658,13 +9749,13 @@ Grailbird.data.tweets_2019_11 =
 			"name": "Tim Klapdor",
 			"screen_name": "timklapdor",
 			"location": "Adelaide, South Australia",
-			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "https://t.co/uC0c3me6KE",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology. Also find me @timklapdor@mastodon.social",
+			"url": "https://t.co/83ULNLDqhO",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/uC0c3me6KE",
+							"url": "https://t.co/83ULNLDqhO",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
@@ -9688,7 +9779,7 @@ Grailbird.data.tweets_2019_11 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15503,
+			"statuses_count": 15504,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -9795,13 +9886,13 @@ Grailbird.data.tweets_2019_11 =
 			"name": "Tim Klapdor",
 			"screen_name": "timklapdor",
 			"location": "Adelaide, South Australia",
-			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology.",
-			"url": "https://t.co/uC0c3me6KE",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology. Also find me @timklapdor@mastodon.social",
+			"url": "https://t.co/83ULNLDqhO",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/uC0c3me6KE",
+							"url": "https://t.co/83ULNLDqhO",
 							"expanded_url": "http://timklapdor.com",
 							"display_url": "timklapdor.com",
 							"indices": [
@@ -9825,7 +9916,7 @@ Grailbird.data.tweets_2019_11 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15503,
+			"statuses_count": 15504,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
