@@ -1,6 +1,598 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Wed Nov 09 08:04:43 +0000 2022",
+		"id": 1590254041493540900,
+		"id_str": "1590254041493540864",
+		"full_text": "@jimgroom @timmmmyboy @TaylorJadin @lightweight had got it up and running and might be able to give some pointers. Something about dockers and stuff you admin guys understand 😀",
+		"truncated": false,
+		"display_text_range": [
+			35,
+			176
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jimgroom",
+					"name": "Jim Groom",
+					"id": 3362981,
+					"id_str": "3362981",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "timmmmyboy",
+					"name": "timmmmyboy",
+					"id": 1025923491495903200,
+					"id_str": "1025923491495903232",
+					"indices": [
+						10,
+						21
+					]
+				},
+				{
+					"screen_name": "TaylorJadin",
+					"name": "Taylor Jadin",
+					"id": 14833310,
+					"id_str": "14833310",
+					"indices": [
+						22,
+						34
+					]
+				},
+				{
+					"screen_name": "lightweight",
+					"name": "Dave Lane",
+					"id": 10454472,
+					"id_str": "10454472",
+					"indices": [
+						35,
+						47
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1590246028778868700,
+		"in_reply_to_status_id_str": "1590246028778868736",
+		"in_reply_to_user_id": 3362981,
+		"in_reply_to_user_id_str": "3362981",
+		"in_reply_to_screen_name": "jimgroom",
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Adelaide, South Australia",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology. Also find me @timklapdor@mastodon.social",
+			"url": "https://t.co/83ULNLDqhO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/83ULNLDqhO",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 818,
+			"friends_count": 169,
+			"listed_count": 84,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 10462,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15515,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@jimgroom @timmmmyboy @TaylorJadin @lightweight had got it up and running and might be able to give some pointers. Something about dockers and stuff you admin guys understand 😀"
+	},
+	{
+		"created_at": "Wed Nov 09 01:12:09 +0000 2022",
+		"id": 1590150216510210000,
+		"id_str": "1590150216510210055",
+		"full_text": "@gamerlearner @cj13 They did build a separate keyboard that was like a piano with the idea of \"chording\" functions on the computer. Like playing the piano there was complexity involved but long-term potential to \"play\" the computer for efficiently.",
+		"truncated": false,
+		"display_text_range": [
+			20,
+			248
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gamerlearner",
+					"name": "Colin Simpson",
+					"id": 239649193,
+					"id_str": "239649193",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "cj13",
+					"name": "Chris Bigum",
+					"id": 14111827,
+					"id_str": "14111827",
+					"indices": [
+						14,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1590149905238356000,
+		"in_reply_to_status_id_str": "1590149905238355968",
+		"in_reply_to_user_id": 174124175,
+		"in_reply_to_user_id_str": "174124175",
+		"in_reply_to_screen_name": "timklapdor",
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Adelaide, South Australia",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology. Also find me @timklapdor@mastodon.social",
+			"url": "https://t.co/83ULNLDqhO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/83ULNLDqhO",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 818,
+			"friends_count": 169,
+			"listed_count": 84,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 10462,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15515,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@gamerlearner @cj13 They did build a separate keyboard that was like a piano with the idea of \"chording\" functions on the computer. Like playing the piano there was complexity involved but long-term potential to \"play\" the computer for efficiently."
+	},
+	{
+		"created_at": "Wed Nov 09 01:10:55 +0000 2022",
+		"id": 1590149905238356000,
+		"id_str": "1590149905238355968",
+		"full_text": "@gamerlearner @cj13 In that realm, I can see parallels to Douglas Engelbart.  He did a lot of foundational work on Human-Computer Interaction - the Mother of All Demos is crazy.",
+		"truncated": false,
+		"display_text_range": [
+			20,
+			177
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gamerlearner",
+					"name": "Colin Simpson",
+					"id": 239649193,
+					"id_str": "239649193",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "cj13",
+					"name": "Chris Bigum",
+					"id": 14111827,
+					"id_str": "14111827",
+					"indices": [
+						14,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1590148311327342600,
+		"in_reply_to_status_id_str": "1590148311327342592",
+		"in_reply_to_user_id": 239649193,
+		"in_reply_to_user_id_str": "239649193",
+		"in_reply_to_screen_name": "gamerlearner",
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Adelaide, South Australia",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology. Also find me @timklapdor@mastodon.social",
+			"url": "https://t.co/83ULNLDqhO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/83ULNLDqhO",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 818,
+			"friends_count": 169,
+			"listed_count": 84,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 10462,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15515,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@gamerlearner @cj13 In that realm, I can see parallels to Douglas Engelbart.  He did a lot of foundational work on Human-Computer Interaction - the Mother of All Demos is crazy."
+	},
+	{
+		"created_at": "Wed Nov 09 00:55:34 +0000 2022",
+		"id": 1590146042716369000,
+		"id_str": "1590146042716368896",
+		"full_text": "Hits close to home https://t.co/roz1Be5mw1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/roz1Be5mw1",
+					"expanded_url": "https://twitter.com/randileeharper/status/1590014482113523712",
+					"display_url": "twitter.com/randileeharper…",
+					"indices": [
+						19,
+						42
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Adelaide, South Australia",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology. Also find me @timklapdor@mastodon.social",
+			"url": "https://t.co/83ULNLDqhO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/83ULNLDqhO",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 818,
+			"friends_count": 169,
+			"listed_count": 84,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 10462,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15515,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1590014482113523700,
+		"quoted_status_id_str": "1590014482113523712",
+		"quoted_status_permalink": {
+			"url": "https://t.co/roz1Be5mw1",
+			"expanded": "https://twitter.com/randileeharper/status/1590014482113523712",
+			"display": "twitter.com/randileeharper…"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hits close to home https://t.co/roz1Be5mw1"
+	},
+	{
+		"created_at": "Wed Nov 09 00:29:24 +0000 2022",
+		"id": 1590139458665427000,
+		"id_str": "1590139458665426944",
+		"full_text": "@gamerlearner I’m not sure if you’ll get much academic research, but I would think outfits like Nielsen and their UI/UX papers might be along those lines. There must be some papers about A/B testing features that might land some valid conclusions.",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			247
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gamerlearner",
+					"name": "Colin Simpson",
+					"id": 239649193,
+					"id_str": "239649193",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1590112425403375600,
+		"in_reply_to_status_id_str": "1590112425403375616",
+		"in_reply_to_user_id": 239649193,
+		"in_reply_to_user_id_str": "239649193",
+		"in_reply_to_screen_name": "gamerlearner",
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Adelaide, South Australia",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology. Also find me @timklapdor@mastodon.social",
+			"url": "https://t.co/83ULNLDqhO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/83ULNLDqhO",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 818,
+			"friends_count": 169,
+			"listed_count": 84,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 10462,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15515,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@gamerlearner I’m not sure if you’ll get much academic research, but I would think outfits like Nielsen and their UI/UX papers might be along those lines. There must be some papers about A/B testing features that might land some valid conclusions."
+	},
+	{
 		"created_at": "Sat Nov 05 20:54:42 +0000 2022",
 		"id": 1588998262480142300,
 		"id_str": "1588998262480142336",
@@ -59,16 +651,16 @@ Grailbird.data.tweets_2022_11 =
 				}
 			},
 			"protected": false,
-			"followers_count": 817,
+			"followers_count": 818,
 			"friends_count": 169,
 			"listed_count": 84,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10458,
+			"favourites_count": 10462,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15510,
+			"statuses_count": 15515,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -100,7 +692,7 @@ Grailbird.data.tweets_2022_11 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 1,
-		"favorite_count": 3,
+		"favorite_count": 4,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
@@ -142,7 +734,7 @@ Grailbird.data.tweets_2022_11 =
 		"user": {
 			"id": 18202677,
 			"id_str": "18202677",
-			"name": "Prof Jean Burgess ➡️ @jeanburgess@mastodon.lol",
+			"name": "Jean Burgess ➡️ @jeanburgess@mastodon.lol",
 			"screen_name": "jeanburgess",
 			"location": "Brisbane/Sunshine Coast ",
 			"description": "Prof @qutdmrc, Associate Director @admscentre. Quiet quitting Twitter, but still here for work. For real life, see you in the fediverse.",
@@ -166,16 +758,16 @@ Grailbird.data.tweets_2022_11 =
 				}
 			},
 			"protected": false,
-			"followers_count": 11832,
+			"followers_count": 11836,
 			"friends_count": 1993,
 			"listed_count": 465,
 			"created_at": "Wed Dec 17 23:03:28 +0000 2008",
-			"favourites_count": 17583,
+			"favourites_count": 17594,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 32901,
+			"statuses_count": 32904,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -186,7 +778,7 @@ Grailbird.data.tweets_2022_11 =
 			"profile_background_tile": false,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/1589033276307427328/aFMRlkdA_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1589033276307427328/aFMRlkdA_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18202677/1667456272",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18202677/1667980747",
 			"profile_link_color": "0099B9",
 			"profile_sidebar_border_color": "FFFFFF",
 			"profile_sidebar_fill_color": "95E8EC",
@@ -349,15 +941,15 @@ Grailbird.data.tweets_2022_11 =
 				},
 				"protected": false,
 				"followers_count": 104,
-				"friends_count": 129,
+				"friends_count": 133,
 				"listed_count": 3,
 				"created_at": "Sat May 02 04:34:20 +0000 2009",
-				"favourites_count": 6418,
+				"favourites_count": 6434,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": false,
-				"statuses_count": 1537,
+				"statuses_count": 1544,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -463,16 +1055,16 @@ Grailbird.data.tweets_2022_11 =
 				}
 			},
 			"protected": false,
-			"followers_count": 817,
+			"followers_count": 818,
 			"friends_count": 169,
 			"listed_count": 84,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10458,
+			"favourites_count": 10462,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15510,
+			"statuses_count": 15515,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -580,16 +1172,16 @@ Grailbird.data.tweets_2022_11 =
 				}
 			},
 			"protected": false,
-			"followers_count": 817,
+			"followers_count": 818,
 			"friends_count": 169,
 			"listed_count": 84,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10458,
+			"favourites_count": 10462,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15510,
+			"statuses_count": 15515,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -766,16 +1358,16 @@ Grailbird.data.tweets_2022_11 =
 				}
 			},
 			"protected": false,
-			"followers_count": 817,
+			"followers_count": 818,
 			"friends_count": 169,
 			"listed_count": 84,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10458,
+			"favourites_count": 10462,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15510,
+			"statuses_count": 15515,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -840,7 +1432,7 @@ Grailbird.data.tweets_2022_11 =
 				},
 				{
 					"screen_name": "helgztech",
-					"name": "Helen South",
+					"name": "HS",
 					"id": 1199121356505239600,
 					"id_str": "1199121356505239559",
 					"indices": [
@@ -904,16 +1496,16 @@ Grailbird.data.tweets_2022_11 =
 				}
 			},
 			"protected": false,
-			"followers_count": 817,
+			"followers_count": 818,
 			"friends_count": 169,
 			"listed_count": 84,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10458,
+			"favourites_count": 10462,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15510,
+			"statuses_count": 15515,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1010,16 +1602,16 @@ Grailbird.data.tweets_2022_11 =
 				}
 			},
 			"protected": false,
-			"followers_count": 817,
+			"followers_count": 818,
 			"friends_count": 169,
 			"listed_count": 84,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10458,
+			"favourites_count": 10462,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15510,
+			"statuses_count": 15515,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1106,16 +1698,16 @@ Grailbird.data.tweets_2022_11 =
 					}
 				},
 				"protected": false,
-				"followers_count": 1478439,
+				"followers_count": 1478836,
 				"friends_count": 2140,
-				"listed_count": 16133,
+				"listed_count": 16137,
 				"created_at": "Fri May 04 10:32:22 +0000 2007",
-				"favourites_count": 126061,
+				"favourites_count": 126107,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": true,
-				"statuses_count": 167701,
+				"statuses_count": 167809,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -1230,16 +1822,16 @@ Grailbird.data.tweets_2022_11 =
 				}
 			},
 			"protected": false,
-			"followers_count": 817,
+			"followers_count": 818,
 			"friends_count": 169,
 			"listed_count": 84,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10458,
+			"favourites_count": 10462,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15510,
+			"statuses_count": 15515,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1347,16 +1939,16 @@ Grailbird.data.tweets_2022_11 =
 				}
 			},
 			"protected": false,
-			"followers_count": 817,
+			"followers_count": 818,
 			"friends_count": 169,
 			"listed_count": 84,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10458,
+			"favourites_count": 10462,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15510,
+			"statuses_count": 15515,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1644,8 +2236,8 @@ Grailbird.data.tweets_2022_11 =
 					}
 				},
 				"protected": false,
-				"followers_count": 631,
-				"friends_count": 653,
+				"followers_count": 632,
+				"friends_count": 654,
 				"listed_count": 6,
 				"created_at": "Tue Feb 26 04:57:08 +0000 2019",
 				"favourites_count": 391,
