@@ -1,6 +1,529 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Tue Dec 06 06:43:28 +0000 2022",
+		"id": 1600018065130803200,
+		"id_str": "1600018065130803200",
+		"full_text": "@asciliteconf has the bus forgotten the Adina crew?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "asciliteconf",
+					"name": "ASCILITE Conference",
+					"id": 794322654115180500,
+					"id_str": "794322654115180545",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 794322654115180500,
+		"in_reply_to_user_id_str": "794322654115180545",
+		"in_reply_to_screen_name": "asciliteconf",
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Adelaide, South Australia",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology. Also find me @timklapdor@mastodon.social",
+			"url": "https://t.co/83ULNLDqhO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/83ULNLDqhO",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 822,
+			"friends_count": 169,
+			"listed_count": 84,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 10420,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15491,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@asciliteconf has the bus forgotten the Adina crew?"
+	},
+	{
+		"created_at": "Tue Dec 06 04:23:57 +0000 2022",
+		"id": 1599982956868939800,
+		"id_str": "1599982956868939777",
+		"full_text": "@enm181 @clare_lloyd @steph_e_wilson @USYD_BCD Happy to chat and share!",
+		"truncated": false,
+		"display_text_range": [
+			47,
+			71
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "enm181",
+					"name": "Elaine Huber",
+					"id": 17432163,
+					"id_str": "17432163",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "clare_lloyd",
+					"name": "Dr Clare Lloyd",
+					"id": 119522732,
+					"id_str": "119522732",
+					"indices": [
+						8,
+						20
+					]
+				},
+				{
+					"screen_name": "steph_e_wilson",
+					"name": "Stephanie Wilson",
+					"id": 1118668921081516000,
+					"id_str": "1118668921081516032",
+					"indices": [
+						21,
+						36
+					]
+				},
+				{
+					"screen_name": "USYD_BCD",
+					"name": "Business Co-Design",
+					"id": 1232440524876836900,
+					"id_str": "1232440524876836864",
+					"indices": [
+						37,
+						46
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1599973575003607000,
+		"in_reply_to_status_id_str": "1599973575003607041",
+		"in_reply_to_user_id": 17432163,
+		"in_reply_to_user_id_str": "17432163",
+		"in_reply_to_screen_name": "enm181",
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Adelaide, South Australia",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology. Also find me @timklapdor@mastodon.social",
+			"url": "https://t.co/83ULNLDqhO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/83ULNLDqhO",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 822,
+			"friends_count": 169,
+			"listed_count": 84,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 10420,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15491,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@enm181 @clare_lloyd @steph_e_wilson @USYD_BCD Happy to chat and share!"
+	},
+	{
+		"created_at": "Tue Dec 06 03:38:03 +0000 2022",
+		"id": 1599971404770082800,
+		"id_str": "1599971404770082816",
+		"full_text": "Timelimits I'm good with - but the extra pressure of auto-forwarding slides makes Pecha Kucha stressful! Also trying to cram 2 years of work into 6:40 might not have been the smartest thing to do :-)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			199
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1599962567291834400,
+		"in_reply_to_status_id_str": "1599962567291834370",
+		"in_reply_to_user_id": 174124175,
+		"in_reply_to_user_id_str": "174124175",
+		"in_reply_to_screen_name": "timklapdor",
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Adelaide, South Australia",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology. Also find me @timklapdor@mastodon.social",
+			"url": "https://t.co/83ULNLDqhO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/83ULNLDqhO",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 822,
+			"friends_count": 169,
+			"listed_count": 84,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 10420,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15491,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Timelimits I'm good with - but the extra pressure of auto-forwarding slides makes Pecha Kucha stressful! Also trying to cram 2 years of work into 6:40 might not have been the smartest thing to do :-)"
+	},
+	{
+		"created_at": "Tue Dec 06 03:02:56 +0000 2022",
+		"id": 1599962567291834400,
+		"id_str": "1599962567291834370",
+		"full_text": "Jumping into presentation mode at #Ascilite22. Discussing how we have tried to tackle the scale up of Learning Design by developing a Design System. https://t.co/rnlbyBFPen",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Ascilite22",
+					"indices": [
+						34,
+						45
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1599962557770440700,
+					"id_str": "1599962557770440705",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/FjQ1eCXVIAED3L2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FjQ1eCXVIAED3L2.jpg",
+					"url": "https://t.co/rnlbyBFPen",
+					"display_url": "pic.twitter.com/rnlbyBFPen",
+					"expanded_url": "https://twitter.com/timklapdor/status/1599962567291834370/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1345,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 788,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 447,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1599962557770440700,
+					"id_str": "1599962557770440705",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/media/FjQ1eCXVIAED3L2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FjQ1eCXVIAED3L2.jpg",
+					"url": "https://t.co/rnlbyBFPen",
+					"display_url": "pic.twitter.com/rnlbyBFPen",
+					"expanded_url": "https://twitter.com/timklapdor/status/1599962567291834370/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1345,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 788,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 447,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Adelaide, South Australia",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology. Also find me @timklapdor@mastodon.social",
+			"url": "https://t.co/83ULNLDqhO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/83ULNLDqhO",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 822,
+			"friends_count": 169,
+			"listed_count": 84,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 10420,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15491,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 24,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Jumping into presentation mode at #Ascilite22. Discussing how we have tried to tackle the scale up of Learning Design by developing a Design System. https://t.co/rnlbyBFPen"
+	},
+	{
 		"created_at": "Sun Dec 04 00:07:16 +0000 2022",
 		"id": 1599193582510182400,
 		"id_str": "1599193582510182400",
@@ -68,7 +591,7 @@ Grailbird.data.tweets_2022_12 =
 				}
 			},
 			"protected": false,
-			"followers_count": 811,
+			"followers_count": 822,
 			"friends_count": 169,
 			"listed_count": 84,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
@@ -77,7 +600,7 @@ Grailbird.data.tweets_2022_12 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15489,
+			"statuses_count": 15491,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -175,7 +698,7 @@ Grailbird.data.tweets_2022_12 =
 				}
 			},
 			"protected": false,
-			"followers_count": 811,
+			"followers_count": 822,
 			"friends_count": 169,
 			"listed_count": 84,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
@@ -184,7 +707,7 @@ Grailbird.data.tweets_2022_12 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15489,
+			"statuses_count": 15491,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -349,16 +872,16 @@ Grailbird.data.tweets_2022_12 =
 				}
 			},
 			"protected": false,
-			"followers_count": 31154,
+			"followers_count": 31253,
 			"friends_count": 658,
-			"listed_count": 1004,
+			"listed_count": 1005,
 			"created_at": "Fri Oct 12 03:32:18 +0000 2007",
-			"favourites_count": 5164,
+			"favourites_count": 5166,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 91934,
+			"statuses_count": 91935,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -389,8 +912,8 @@ Grailbird.data.tweets_2022_12 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 10791,
-		"favorite_count": 74770,
+		"retweet_count": 11091,
+		"favorite_count": 75764,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -457,7 +980,7 @@ Grailbird.data.tweets_2022_12 =
 				}
 			},
 			"protected": false,
-			"followers_count": 811,
+			"followers_count": 822,
 			"friends_count": 169,
 			"listed_count": 84,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
@@ -466,7 +989,7 @@ Grailbird.data.tweets_2022_12 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15489,
+			"statuses_count": 15491,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -563,7 +1086,7 @@ Grailbird.data.tweets_2022_12 =
 				}
 			},
 			"protected": false,
-			"followers_count": 811,
+			"followers_count": 822,
 			"friends_count": 169,
 			"listed_count": 84,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
@@ -572,7 +1095,7 @@ Grailbird.data.tweets_2022_12 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15489,
+			"statuses_count": 15491,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -765,16 +1288,16 @@ Grailbird.data.tweets_2022_12 =
 					}
 				},
 				"protected": false,
-				"followers_count": 1337,
-				"friends_count": 1996,
+				"followers_count": 1339,
+				"friends_count": 2001,
 				"listed_count": 11,
 				"created_at": "Thu May 10 11:54:14 +0000 2012",
-				"favourites_count": 51068,
+				"favourites_count": 51094,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": false,
-				"statuses_count": 10092,
+				"statuses_count": 10097,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -806,7 +1329,7 @@ Grailbird.data.tweets_2022_12 =
 			"contributors": null,
 			"is_quote_status": false,
 			"retweet_count": 501,
-			"favorite_count": 5006,
+			"favorite_count": 5007,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
