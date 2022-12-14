@@ -694,72 +694,71 @@ Grailbird.data.tweets_2021_12 =
 		"text": "@helgztech @jamieoliver This is a good stovetop solution for Turkey and it’s the best way to cook it I’ve found. Guaranteed cooked and moist. https://t.co/Tq0uVvQi45"
 	},
 	{
-		"created_at": "Mon Dec 20 00:47:05 +0000 2021",
-		"id": 1472730238765305900,
-		"id_str": "1472730238765305857",
-		"full_text": "Something sweet about your laptop connecting to the cafe wifi automatically. #homecoming",
+		"created_at": "Sun Dec 19 11:47:48 +0000 2021",
+		"id": 1472367801583161300,
+		"id_str": "1472534125458313217",
+		"full_text": "This is how you do it:\n\n\"800 thousand Americans.  . . . This is a stupid conversation and I'm not going to continue it.\" https://t.co/xJZqa75JFt",
 		"truncated": false,
 		"display_text_range": [
 			0,
-			88
+			120
 		],
 		"entities": {
-			"hashtags": [
-				{
-					"text": "homecoming",
-					"indices": [
-						77,
-						88
-					]
-				}
-			],
+			"hashtags": [],
 			"symbols": [],
 			"user_mentions": [],
-			"urls": []
+			"urls": [
+				{
+					"url": "https://t.co/xJZqa75JFt",
+					"expanded_url": "https://twitter.com/g33kgurli/status/1472081064797491203",
+					"display_url": "twitter.com/g33kgurli/stat…",
+					"indices": [
+						121,
+						144
+					]
+				}
+			]
 		},
-		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
 		"in_reply_to_status_id": null,
 		"in_reply_to_status_id_str": null,
 		"in_reply_to_user_id": null,
 		"in_reply_to_user_id_str": null,
 		"in_reply_to_screen_name": null,
 		"user": {
-			"id": 174124175,
-			"id_str": "174124175",
-			"name": "Tim Klapdor",
-			"screen_name": "timklapdor",
-			"location": "Adelaide, South Australia",
-			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology. Also find me @timklapdor@mastodon.social",
-			"url": "https://t.co/83ULNLDqhO",
+			"id": 1045110787,
+			"id_str": "1045110787",
+			"name": "Mary L Trump",
+			"screen_name": "MaryLTrump",
+			"location": "New York",
+			"description": "Watch The Mary Trump Show on YouTube/Politcon\nSubscribe to my newsletter: https://t.co/rNGwSBzc81\n#blacklivesmatter, 🏳️‍🌈, she/her",
+			"url": null,
 			"entities": {
-				"url": {
+				"description": {
 					"urls": [
 						{
-							"url": "https://t.co/83ULNLDqhO",
-							"expanded_url": "http://timklapdor.com",
-							"display_url": "timklapdor.com",
+							"url": "https://t.co/rNGwSBzc81",
+							"expanded_url": "http://marytrump.substack.com",
+							"display_url": "marytrump.substack.com",
 							"indices": [
-								0,
-								23
+								74,
+								97
 							]
 						}
 					]
-				},
-				"description": {
-					"urls": []
 				}
 			},
 			"protected": false,
-			"followers_count": 826,
-			"friends_count": 169,
-			"listed_count": 84,
-			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10396,
+			"followers_count": 1589178,
+			"friends_count": 1299,
+			"listed_count": 4546,
+			"created_at": "Sat Dec 29 14:59:10 +0000 2012",
+			"favourites_count": 11420,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 15488,
+			"verified": true,
+			"statuses_count": 4159,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -768,16 +767,16 @@ Grailbird.data.tweets_2021_12 =
 			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
-			"profile_link_color": "5FA832",
-			"profile_sidebar_border_color": "000000",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3037615597/d4fd27be95cc3f4cbe6da12a333e8a5f_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3037615597/d4fd27be95cc3f4cbe6da12a333e8a5f_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1045110787/1592189467",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
 			"profile_sidebar_fill_color": "DDEEF6",
 			"profile_text_color": "333333",
 			"profile_use_background_image": true,
 			"has_extended_profile": true,
-			"default_profile": false,
+			"default_profile": true,
 			"default_profile_image": false,
 			"following": false,
 			"follow_request_sent": false,
@@ -789,13 +788,213 @@ Grailbird.data.tweets_2021_12 =
 		"coordinates": null,
 		"place": null,
 		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 2,
+		"is_quote_status": true,
+		"quoted_status_id": 1472081064797491200,
+		"quoted_status_id_str": "1472081064797491203",
+		"quoted_status_permalink": {
+			"url": "https://t.co/xJZqa75JFt",
+			"expanded": "https://twitter.com/g33kgurli/status/1472081064797491203",
+			"display": "twitter.com/g33kgurli/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Dec 18 05:47:30 +0000 2021",
+			"id": 1472081064797491200,
+			"id_str": "1472081064797491203",
+			"full_text": "Perhaps the best clap back to antivaxxers and antimaskers. https://t.co/jZWDP0p0Yt",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				58
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1472081026826391600,
+						"id_str": "1472081026826391552",
+						"indices": [
+							59,
+							82
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1472081026826391552/pu/img/Ke_PCadNdcXN2gHh.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1472081026826391552/pu/img/Ke_PCadNdcXN2gHh.jpg",
+						"url": "https://t.co/jZWDP0p0Yt",
+						"display_url": "pic.twitter.com/jZWDP0p0Yt",
+						"expanded_url": "https://twitter.com/g33kgurli/status/1472081064797491203/video/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1472081026826391600,
+						"id_str": "1472081026826391552",
+						"indices": [
+							59,
+							82
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1472081026826391552/pu/img/Ke_PCadNdcXN2gHh.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1472081026826391552/pu/img/Ke_PCadNdcXN2gHh.jpg",
+						"url": "https://t.co/jZWDP0p0Yt",
+						"display_url": "pic.twitter.com/jZWDP0p0Yt",
+						"expanded_url": "https://twitter.com/g33kgurli/status/1472081064797491203/video/1",
+						"type": "video",
+						"sizes": {
+							"medium": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 576,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 61952,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1472081026826391552/pu/vid/640x360/1DcAcpQYdVteJ2-i.mp4?tag=12"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1472081026826391552/pu/vid/480x270/5LqcouC4tlEK2JgY.mp4?tag=12"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1472081026826391552/pu/vid/1024x576/OBUrD1iRONP7yJME.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1472081026826391552/pu/pl/M3GAUnLwOhzxMC0i.m3u8?tag=12&container=fmp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 823708,
+				"id_str": "823708",
+				"name": "Nothing I Do Is For Men",
+				"screen_name": "g33kgurli",
+				"location": "Los Angeles, CA",
+				"description": "Paid Agitator\nLocal Antifa Union #106",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3982,
+				"friends_count": 3075,
+				"listed_count": 37,
+				"created_at": "Fri Mar 09 01:10:04 +0000 2007",
+				"favourites_count": 30665,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 28864,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "352726",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1533867170525876224/8mys1vMz_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1533867170525876224/8mys1vMz_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/823708/1657474783",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "829D5E",
+				"profile_sidebar_fill_color": "99CC33",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 41019,
+			"favorite_count": 116801,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 9157,
+		"favorite_count": 37060,
 		"favorited": false,
-		"retweeted": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "Something sweet about your laptop connecting to the cafe wifi automatically. #homecoming"
+		"text": "This is how you do it:\n\n\"800 thousand Americans.  . . . This is a stupid conversation and I'm not going to continue it.\" https://t.co/xJZqa75JFt"
 	},
 	{
 		"created_at": "Sat Dec 18 03:18:19 +0000 2021",
@@ -1465,7 +1664,7 @@ Grailbird.data.tweets_2021_12 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 649,
-		"favorite_count": 5106,
+		"favorite_count": 5102,
 		"favorited": false,
 		"retweeted": true,
 		"lang": "en",
@@ -1626,16 +1825,16 @@ Grailbird.data.tweets_2021_12 =
 				}
 			},
 			"protected": false,
-			"followers_count": 10830,
+			"followers_count": 10834,
 			"friends_count": 1102,
 			"listed_count": 120,
 			"created_at": "Fri Feb 25 22:57:23 +0000 2011",
-			"favourites_count": 21943,
+			"favourites_count": 21902,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 14091,
+			"statuses_count": 14087,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -1667,7 +1866,7 @@ Grailbird.data.tweets_2021_12 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 729,
-		"favorite_count": 5360,
+		"favorite_count": 5361,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -1817,7 +2016,7 @@ Grailbird.data.tweets_2021_12 =
 			"friends_count": 1070,
 			"listed_count": 0,
 			"created_at": "Wed Apr 29 06:41:21 +0000 2020",
-			"favourites_count": 9249,
+			"favourites_count": 9257,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
@@ -1854,7 +2053,7 @@ Grailbird.data.tweets_2021_12 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 785,
-		"favorite_count": 1868,
+		"favorite_count": 1866,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -2031,16 +2230,16 @@ Grailbird.data.tweets_2021_12 =
 								}
 							},
 							"protected": false,
-							"followers_count": 76134,
-							"friends_count": 11704,
+							"followers_count": 76172,
+							"friends_count": 11703,
 							"listed_count": 692,
 							"created_at": "Sun Jul 13 12:33:17 +0000 2008",
-							"favourites_count": 86876,
+							"favourites_count": 86885,
 							"utc_offset": null,
 							"time_zone": null,
 							"geo_enabled": true,
 							"verified": true,
-							"statuses_count": 28822,
+							"statuses_count": 28843,
 							"lang": null,
 							"contributors_enabled": false,
 							"is_translator": false,
@@ -2122,7 +2321,7 @@ Grailbird.data.tweets_2021_12 =
 				}
 			},
 			"protected": false,
-			"followers_count": 9160,
+			"followers_count": 9158,
 			"friends_count": 671,
 			"listed_count": 70,
 			"created_at": "Mon Feb 27 06:45:14 +0000 2012",
@@ -2538,7 +2737,7 @@ Grailbird.data.tweets_2021_12 =
 					}
 				},
 				"protected": false,
-				"followers_count": 13352,
+				"followers_count": 13347,
 				"friends_count": 1007,
 				"listed_count": 297,
 				"created_at": "Wed Nov 03 21:05:49 +0000 2010",
@@ -2707,16 +2906,16 @@ Grailbird.data.tweets_2021_12 =
 				}
 			},
 			"protected": false,
-			"followers_count": 3292,
-			"friends_count": 4959,
+			"followers_count": 3289,
+			"friends_count": 4955,
 			"listed_count": 40,
 			"created_at": "Sat Dec 26 03:06:18 +0000 2009",
-			"favourites_count": 231838,
+			"favourites_count": 231735,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 75674,
+			"statuses_count": 75671,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2970,16 +3169,16 @@ Grailbird.data.tweets_2021_12 =
 				}
 			},
 			"protected": false,
-			"followers_count": 27263,
+			"followers_count": 27256,
 			"friends_count": 3256,
 			"listed_count": 361,
 			"created_at": "Mon May 24 01:26:34 +0000 2010",
-			"favourites_count": 48832,
+			"favourites_count": 48836,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 88457,
+			"statuses_count": 88461,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -3184,16 +3383,16 @@ Grailbird.data.tweets_2021_12 =
 				}
 			},
 			"protected": false,
-			"followers_count": 5974,
-			"friends_count": 1022,
+			"followers_count": 5970,
+			"friends_count": 1021,
 			"listed_count": 100,
 			"created_at": "Mon Oct 14 08:23:57 +0000 2019",
-			"favourites_count": 3098,
+			"favourites_count": 3099,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 1217,
+			"statuses_count": 1218,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -3224,8 +3423,8 @@ Grailbird.data.tweets_2021_12 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 4508,
-		"favorite_count": 11119,
+		"retweet_count": 4505,
+		"favorite_count": 11110,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,

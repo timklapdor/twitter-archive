@@ -492,16 +492,16 @@ Grailbird.data.tweets_2019_07 =
 					}
 				},
 				"protected": false,
-				"followers_count": 35977,
+				"followers_count": 35973,
 				"friends_count": 90,
 				"listed_count": 334,
 				"created_at": "Fri Feb 22 05:06:11 +0000 2013",
-				"favourites_count": 2174,
+				"favourites_count": 2175,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": true,
-				"statuses_count": 26274,
+				"statuses_count": 26275,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -1136,16 +1136,16 @@ Grailbird.data.tweets_2019_07 =
 					}
 				},
 				"protected": false,
-				"followers_count": 3843,
-				"friends_count": 4921,
+				"followers_count": 3844,
+				"friends_count": 4920,
 				"listed_count": 92,
 				"created_at": "Tue Jan 18 03:17:55 +0000 2011",
-				"favourites_count": 18970,
+				"favourites_count": 18994,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": false,
-				"statuses_count": 20543,
+				"statuses_count": 20558,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -1694,11 +1694,11 @@ Grailbird.data.tweets_2019_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 135876,
+			"followers_count": 135824,
 			"friends_count": 2249,
 			"listed_count": 1200,
 			"created_at": "Sat Jul 10 03:38:50 +0000 2010",
-			"favourites_count": 23732,
+			"favourites_count": 23730,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
@@ -2149,8 +2149,8 @@ Grailbird.data.tweets_2019_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 31119,
-			"friends_count": 867,
+			"followers_count": 31110,
+			"friends_count": 866,
 			"listed_count": 2137,
 			"created_at": "Mon Mar 10 11:10:29 +0000 2008",
 			"favourites_count": 11199,
@@ -2741,16 +2741,16 @@ Grailbird.data.tweets_2019_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 197778,
-			"friends_count": 946,
+			"followers_count": 197746,
+			"friends_count": 945,
 			"listed_count": 2829,
 			"created_at": "Mon May 12 05:06:03 +0000 2008",
-			"favourites_count": 6845,
+			"favourites_count": 6848,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 72971,
+			"statuses_count": 73007,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2974,16 +2974,16 @@ Grailbird.data.tweets_2019_07 =
 					}
 				},
 				"protected": false,
-				"followers_count": 17727,
+				"followers_count": 17726,
 				"friends_count": 17511,
 				"listed_count": 207,
 				"created_at": "Fri Dec 07 08:02:04 +0000 2012",
-				"favourites_count": 478191,
+				"favourites_count": 478286,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": false,
-				"statuses_count": 557838,
+				"statuses_count": 557950,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -4023,16 +4023,16 @@ Grailbird.data.tweets_2019_07 =
 					}
 				},
 				"protected": false,
-				"followers_count": 27638,
+				"followers_count": 27636,
 				"friends_count": 4143,
 				"listed_count": 363,
 				"created_at": "Sat Jun 13 04:45:19 +0000 2009",
-				"favourites_count": 7664,
+				"favourites_count": 7665,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": true,
-				"statuses_count": 72653,
+				"statuses_count": 72665,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -4172,7 +4172,7 @@ Grailbird.data.tweets_2019_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 88710,
+			"followers_count": 88676,
 			"friends_count": 347,
 			"listed_count": 676,
 			"created_at": "Wed Dec 02 02:46:11 +0000 2009",
@@ -4181,7 +4181,7 @@ Grailbird.data.tweets_2019_07 =
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 27267,
+			"statuses_count": 27266,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -4213,7 +4213,7 @@ Grailbird.data.tweets_2019_07 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 121,
-		"favorite_count": 311,
+		"favorite_count": 310,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -4452,7 +4452,7 @@ Grailbird.data.tweets_2019_07 =
 				"friends_count": 1976,
 				"listed_count": 144,
 				"created_at": "Mon Dec 03 18:43:21 +0000 2007",
-				"favourites_count": 9085,
+				"favourites_count": 9084,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": false,
@@ -5201,8 +5201,8 @@ Grailbird.data.tweets_2019_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 250637,
-			"friends_count": 1782,
+			"followers_count": 250609,
+			"friends_count": 1780,
 			"listed_count": 1543,
 			"created_at": "Wed Aug 19 05:13:38 +0000 2009",
 			"favourites_count": 62,
@@ -5210,7 +5210,7 @@ Grailbird.data.tweets_2019_07 =
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 54543,
+			"statuses_count": 54545,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -5241,7 +5241,7 @@ Grailbird.data.tweets_2019_07 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 361,
+		"retweet_count": 360,
 		"favorite_count": 1070,
 		"favorited": false,
 		"retweeted": true,
@@ -5250,14 +5250,14 @@ Grailbird.data.tweets_2019_07 =
 		"text": "Michael Gordon always sits on my shoulder, but I’ve thought of Mick so very often this week. I had a little chat to him in my heart before I wrote today’s column. He counselled restraint, and I complied, apart from this, which really needs saying. https://t.co/4vKMiaMCqD"
 	},
 	{
-		"created_at": "Sun Jul 14 00:42:36 +0000 2019",
-		"id": 1150102489401716700,
-		"id_str": "1150203908544794626",
-		"full_text": "Facebook inserts tracking data on *all* pictures uploaded to its site. I believe they have been doing this for a while? It's one of those things that they probably consider normal operating procedure but few people outside the company have any idea this is going on. https://t.co/v4QNGu7YdC",
+		"created_at": "Fri Jul 12 01:16:16 +0000 2019",
+		"id": 1149487607014838300,
+		"id_str": "1149487607014838275",
+		"full_text": "Want to reduce congestion, housing costs and employment? Provide actual services in the regions. This illustrates the truly awful state of affairs for the largest inland city in NSW. Regions are being killed by the lack of services because all the money gets spent on Sydney. https://t.co/Rg52GUTc73",
 		"truncated": false,
 		"display_text_range": [
 			0,
-			266
+			275
 		],
 		"entities": {
 			"hashtags": [],
@@ -5265,37 +5265,37 @@ Grailbird.data.tweets_2019_07 =
 			"user_mentions": [],
 			"urls": [
 				{
-					"url": "https://t.co/v4QNGu7YdC",
-					"expanded_url": "https://twitter.com/oasace/status/1149181539000864769",
-					"display_url": "twitter.com/oasace/status/…",
+					"url": "https://t.co/Rg52GUTc73",
+					"expanded_url": "https://twitter.com/KateRWashington/status/1149471304585580545",
+					"display_url": "twitter.com/KateRWashingto…",
 					"indices": [
-						267,
-						290
+						276,
+						299
 					]
 				}
 			]
 		},
-		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
 		"in_reply_to_status_id": null,
 		"in_reply_to_status_id_str": null,
 		"in_reply_to_user_id": null,
 		"in_reply_to_user_id_str": null,
 		"in_reply_to_screen_name": null,
 		"user": {
-			"id": 65375759,
-			"id_str": "65375759",
-			"name": "zeynep tufekci",
-			"screen_name": "zeynep",
-			"location": "floating in a most peculiar way",
-			"description": "Complex systems, wicked problems. Society, technology, science and more. @Columbia professor. @NYTimes columnist. My newsletter  @insight https://t.co/6Ky01N9JwA",
-			"url": "https://t.co/yQ5FxeB04R",
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Adelaide, South Australia",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology. Also find me @timklapdor@mastodon.social",
+			"url": "https://t.co/83ULNLDqhO",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/yQ5FxeB04R",
-							"expanded_url": "https://www.theinsight.org/",
-							"display_url": "theinsight.org",
+							"url": "https://t.co/83ULNLDqhO",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
 							"indices": [
 								0,
 								23
@@ -5304,30 +5304,20 @@ Grailbird.data.tweets_2019_07 =
 					]
 				},
 				"description": {
-					"urls": [
-						{
-							"url": "https://t.co/6Ky01N9JwA",
-							"expanded_url": "http://theinsight.org",
-							"display_url": "theinsight.org",
-							"indices": [
-								138,
-								161
-							]
-						}
-					]
+					"urls": []
 				}
 			},
 			"protected": false,
-			"followers_count": 480966,
-			"friends_count": 780,
-			"listed_count": 7892,
-			"created_at": "Thu Aug 13 14:32:22 +0000 2009",
-			"favourites_count": 28111,
+			"followers_count": 826,
+			"friends_count": 169,
+			"listed_count": 84,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 10396,
 			"utc_offset": null,
 			"time_zone": null,
-			"geo_enabled": false,
-			"verified": true,
-			"statuses_count": 113678,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15488,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -5335,22 +5325,22 @@ Grailbird.data.tweets_2019_07 =
 			"profile_background_color": "C0DEED",
 			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": true,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1354239840305471491/qYoJiz8K_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1354239840305471491/qYoJiz8K_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/65375759/1491228723",
-			"profile_link_color": "0084B4",
-			"profile_sidebar_border_color": "FFFFFF",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
 			"profile_sidebar_fill_color": "DDEEF6",
 			"profile_text_color": "333333",
-			"profile_use_background_image": false,
-			"has_extended_profile": false,
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
 			"default_profile": false,
 			"default_profile_image": false,
 			"following": false,
 			"follow_request_sent": false,
 			"notifications": false,
-			"translator_type": "regular",
+			"translator_type": "none",
 			"withheld_in_countries": []
 		},
 		"geo": null,
@@ -5358,174 +5348,107 @@ Grailbird.data.tweets_2019_07 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": true,
-		"quoted_status_id": 1149181539000864800,
-		"quoted_status_id_str": "1149181539000864769",
+		"quoted_status_id": 1149471304585580500,
+		"quoted_status_id_str": "1149471304585580545",
 		"quoted_status_permalink": {
-			"url": "https://t.co/v4QNGu7YdC",
-			"expanded": "https://twitter.com/oasace/status/1149181539000864769",
-			"display": "twitter.com/oasace/status/…"
+			"url": "https://t.co/Rg52GUTc73",
+			"expanded": "https://twitter.com/KateRWashington/status/1149471304585580545",
+			"display": "twitter.com/KateRWashingto…"
 		},
 		"quoted_status": {
-			"created_at": "Thu Jul 11 05:00:04 +0000 2019",
-			"id": 1149181539000864800,
-			"id_str": "1149181539000864769",
-			"full_text": "#facebook is embedding tracking data inside photos you download.\n\nI noticed a structural abnormality when looking at a hex dump of an image file from an unknown origin only to discover it contained what I now understand is an IPTC special instruction. Shocking level of tracking.. https://t.co/WC1u7Zh5gN",
+			"created_at": "Fri Jul 12 00:11:29 +0000 2019",
+			"id": 1149471304585580500,
+			"id_str": "1149471304585580545",
+			"full_text": "Fears were raised with me this week in Wagga Wagga about women possibly facing a 500km round trip to the ACT to access an abortion. Those fears have become a reality #ruralhealth #womenshealth #nswpol \nhttps://t.co/5vA2mekABY",
 			"truncated": false,
 			"display_text_range": [
 				0,
-				280
+				225
 			],
 			"entities": {
 				"hashtags": [
 					{
-						"text": "facebook",
+						"text": "ruralhealth",
 						"indices": [
-							0,
-							9
+							166,
+							178
+						]
+					},
+					{
+						"text": "womenshealth",
+						"indices": [
+							179,
+							192
+						]
+					},
+					{
+						"text": "nswpol",
+						"indices": [
+							193,
+							200
 						]
 					}
 				],
 				"symbols": [],
 				"user_mentions": [],
-				"urls": [],
-				"media": [
+				"urls": [
 					{
-						"id": 1149177425319694300,
-						"id_str": "1149177425319694337",
+						"url": "https://t.co/5vA2mekABY",
+						"expanded_url": "https://www.buzzfeed.com/ginarushton/nsw-abortion-access-decriminalisation-victoria",
+						"display_url": "buzzfeed.com/ginarushton/ns…",
 						"indices": [
-							281,
-							304
-						],
-						"media_url": "http://pbs.twimg.com/media/D_Kyx5wUEAEanEg.jpg",
-						"media_url_https": "https://pbs.twimg.com/media/D_Kyx5wUEAEanEg.jpg",
-						"url": "https://t.co/WC1u7Zh5gN",
-						"display_url": "pic.twitter.com/WC1u7Zh5gN",
-						"expanded_url": "https://twitter.com/oasace/status/1149181539000864769/photo/1",
-						"type": "photo",
-						"sizes": {
-							"thumb": {
-								"w": 150,
-								"h": 150,
-								"resize": "crop"
-							},
-							"large": {
-								"w": 1415,
-								"h": 1264,
-								"resize": "fit"
-							},
-							"medium": {
-								"w": 1200,
-								"h": 1072,
-								"resize": "fit"
-							},
-							"small": {
-								"w": 680,
-								"h": 607,
-								"resize": "fit"
-							}
-						}
+							202,
+							225
+						]
 					}
 				]
 			},
-			"extended_entities": {
-				"media": [
-					{
-						"id": 1149177425319694300,
-						"id_str": "1149177425319694337",
-						"indices": [
-							281,
-							304
-						],
-						"media_url": "http://pbs.twimg.com/media/D_Kyx5wUEAEanEg.jpg",
-						"media_url_https": "https://pbs.twimg.com/media/D_Kyx5wUEAEanEg.jpg",
-						"url": "https://t.co/WC1u7Zh5gN",
-						"display_url": "pic.twitter.com/WC1u7Zh5gN",
-						"expanded_url": "https://twitter.com/oasace/status/1149181539000864769/photo/1",
-						"type": "photo",
-						"sizes": {
-							"thumb": {
-								"w": 150,
-								"h": 150,
-								"resize": "crop"
-							},
-							"large": {
-								"w": 1415,
-								"h": 1264,
-								"resize": "fit"
-							},
-							"medium": {
-								"w": 1200,
-								"h": 1072,
-								"resize": "fit"
-							},
-							"small": {
-								"w": 680,
-								"h": 607,
-								"resize": "fit"
-							}
-						}
-					}
-				]
-			},
-			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
 			"in_reply_to_status_id": null,
 			"in_reply_to_status_id_str": null,
 			"in_reply_to_user_id": null,
 			"in_reply_to_user_id_str": null,
 			"in_reply_to_screen_name": null,
 			"user": {
-				"id": 959583462163271700,
-				"id_str": "959583462163271683",
-				"name": "Edin Jusupovic",
-				"screen_name": "oasace",
-				"location": "Sydney (AU)",
-				"description": "Law (LLB) student at UNE with an interest in coding, blockchain & cybersecurity. CSIS certified. Featured in Forbes, The Australian, Financial Express.",
-				"url": "https://t.co/nG36I3hiGS",
+				"id": 2380223436,
+				"id_str": "2380223436",
+				"name": "Kate Washington MP",
+				"screen_name": "KateRWashington",
+				"location": "Port Stephens, NSW, Australia",
+				"description": "NSW Member for Port Stephens | Shadow Minister for Family & Community Services | Shadow Minister for Disability Inclusion | Mum",
+				"url": null,
 				"entities": {
-					"url": {
-						"urls": [
-							{
-								"url": "https://t.co/nG36I3hiGS",
-								"expanded_url": "http://jusupovic.com",
-								"display_url": "jusupovic.com",
-								"indices": [
-									0,
-									23
-								]
-							}
-						]
-					},
 					"description": {
 						"urls": []
 					}
 				},
 				"protected": false,
-				"followers_count": 9653,
-				"friends_count": 0,
-				"listed_count": 115,
-				"created_at": "Sat Feb 03 00:25:00 +0000 2018",
-				"favourites_count": 2287,
+				"followers_count": 5574,
+				"friends_count": 2458,
+				"listed_count": 65,
+				"created_at": "Sun Mar 09 09:56:53 +0000 2014",
+				"favourites_count": 24445,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
-				"verified": false,
-				"statuses_count": 2629,
+				"verified": true,
+				"statuses_count": 7482,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
 				"is_translation_enabled": false,
-				"profile_background_color": "000000",
+				"profile_background_color": "C0DEED",
 				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
 				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 				"profile_background_tile": false,
-				"profile_image_url": "http://pbs.twimg.com/profile_images/1373212915482849288/g3I1Z-oN_normal.jpg",
-				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1373212915482849288/g3I1Z-oN_normal.jpg",
-				"profile_banner_url": "https://pbs.twimg.com/profile_banners/959583462163271683/1631631363",
-				"profile_link_color": "ABB8C2",
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1066654362187968512/ppec5all_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066654362187968512/ppec5all_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2380223436/1589720669",
+				"profile_link_color": "0084B4",
 				"profile_sidebar_border_color": "000000",
-				"profile_sidebar_fill_color": "000000",
-				"profile_text_color": "000000",
-				"profile_use_background_image": false,
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
 				"has_extended_profile": false,
 				"default_profile": false,
 				"default_profile_image": false,
@@ -5540,20 +5463,20 @@ Grailbird.data.tweets_2019_07 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 14643,
-			"favorite_count": 19459,
+			"retweet_count": 18,
+			"favorite_count": 32,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
 			"lang": "en"
 		},
-		"retweet_count": 464,
-		"favorite_count": 471,
+		"retweet_count": 0,
+		"favorite_count": 0,
 		"favorited": false,
-		"retweeted": true,
+		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "Facebook inserts tracking data on *all* pictures uploaded to its site. I believe they have been doing this for a while? It's one of those things that they probably consider normal operating procedure but few people outside the company have any idea this is going on. https://t.co/v4QNGu7YdC"
+		"text": "Want to reduce congestion, housing costs and employment? Provide actual services in the regions. This illustrates the truly awful state of affairs for the largest inland city in NSW. Regions are being killed by the lack of services because all the money gets spent on Sydney. https://t.co/Rg52GUTc73"
 	},
 	{
 		"created_at": "Thu Jul 11 22:02:17 +0000 2019",
@@ -5758,16 +5681,16 @@ Grailbird.data.tweets_2019_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 979,
-			"friends_count": 5003,
+			"followers_count": 978,
+			"friends_count": 5002,
 			"listed_count": 18,
 			"created_at": "Mon Jul 07 10:36:27 +0000 2008",
-			"favourites_count": 38429,
+			"favourites_count": 38349,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 12581,
+			"statuses_count": 12582,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -6014,16 +5937,16 @@ Grailbird.data.tweets_2019_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 2913,
-			"friends_count": 3206,
+			"followers_count": 2915,
+			"friends_count": 3205,
 			"listed_count": 18,
 			"created_at": "Thu Dec 01 11:07:31 +0000 2016",
-			"favourites_count": 70966,
+			"favourites_count": 70948,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 41293,
+			"statuses_count": 41292,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -6055,7 +5978,7 @@ Grailbird.data.tweets_2019_07 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 368,
-		"favorite_count": 1349,
+		"favorite_count": 1348,
 		"favorited": false,
 		"retweeted": true,
 		"lang": "en",
@@ -6233,8 +6156,8 @@ Grailbird.data.tweets_2019_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8513,
-			"friends_count": 2098,
+			"followers_count": 8519,
+			"friends_count": 2097,
 			"listed_count": 344,
 			"created_at": "Tue Nov 25 08:25:53 +0000 2008",
 			"favourites_count": 479,
@@ -6242,7 +6165,7 @@ Grailbird.data.tweets_2019_07 =
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 322674,
+			"statuses_count": 322766,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -6838,7 +6761,7 @@ Grailbird.data.tweets_2019_07 =
 									}
 								},
 								"protected": false,
-								"followers_count": 1972996,
+								"followers_count": 1972908,
 								"friends_count": 1084,
 								"listed_count": 867,
 								"created_at": "Sun Feb 27 10:48:45 +0000 2011",
@@ -6847,7 +6770,7 @@ Grailbird.data.tweets_2019_07 =
 								"time_zone": null,
 								"geo_enabled": true,
 								"verified": true,
-								"statuses_count": 50072,
+								"statuses_count": 50079,
 								"lang": null,
 								"contributors_enabled": false,
 								"is_translator": false,
@@ -6910,16 +6833,16 @@ Grailbird.data.tweets_2019_07 =
 					}
 				},
 				"protected": false,
-				"followers_count": 1568331,
+				"followers_count": 1568069,
 				"friends_count": 8,
-				"listed_count": 14534,
+				"listed_count": 14528,
 				"created_at": "Fri Feb 27 00:19:20 +0000 2009",
-				"favourites_count": 446203,
+				"favourites_count": 446174,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": true,
-				"statuses_count": 68047,
+				"statuses_count": 68058,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -6951,7 +6874,7 @@ Grailbird.data.tweets_2019_07 =
 			"contributors": null,
 			"is_quote_status": false,
 			"retweet_count": 340,
-			"favorite_count": 2390,
+			"favorite_count": 2388,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
@@ -7120,16 +7043,16 @@ Grailbird.data.tweets_2019_07 =
 					}
 				},
 				"protected": false,
-				"followers_count": 27638,
+				"followers_count": 27636,
 				"friends_count": 4143,
 				"listed_count": 363,
 				"created_at": "Sat Jun 13 04:45:19 +0000 2009",
-				"favourites_count": 7664,
+				"favourites_count": 7665,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": true,
-				"statuses_count": 72653,
+				"statuses_count": 72665,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
