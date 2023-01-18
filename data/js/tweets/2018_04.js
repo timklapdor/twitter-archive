@@ -2354,11 +2354,11 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 16593,
+			"followers_count": 16590,
 			"friends_count": 6657,
 			"listed_count": 142,
 			"created_at": "Tue Feb 10 05:37:43 +0000 2009",
-			"favourites_count": 18727,
+			"favourites_count": 18726,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
@@ -2395,7 +2395,7 @@ Grailbird.data.tweets_2018_04 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 714,
-		"favorite_count": 762,
+		"favorite_count": 763,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
@@ -2662,16 +2662,16 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 95564,
-			"friends_count": 2359,
-			"listed_count": 567,
+			"followers_count": 95631,
+			"friends_count": 2360,
+			"listed_count": 569,
 			"created_at": "Wed Jan 30 03:28:18 +0000 2013",
-			"favourites_count": 25132,
+			"favourites_count": 25143,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 38735,
+			"statuses_count": 38757,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -3764,176 +3764,6 @@ Grailbird.data.tweets_2018_04 =
 		"text": "@jstew511 @KeeganSLW Hope you’re doing ok there brother from another mother! Thoughts and prayers being transmitted from Down Under."
 	},
 	{
-		"created_at": "Wed Apr 25 10:57:08 +0000 2018",
-		"id": 988913347230818300,
-		"id_str": "989095960767815682",
-		"full_text": "#LestWeForget https://t.co/MalvpjdbQN",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			13
-		],
-		"entities": {
-			"hashtags": [
-				{
-					"text": "LestWeForget",
-					"indices": [
-						0,
-						13
-					]
-				}
-			],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": [],
-			"media": [
-				{
-					"id": 988913339894911000,
-					"id_str": "988913339894910976",
-					"indices": [
-						14,
-						37
-					],
-					"media_url": "http://pbs.twimg.com/media/DblTcXIU0AAUp6-.jpg",
-					"media_url_https": "https://pbs.twimg.com/media/DblTcXIU0AAUp6-.jpg",
-					"url": "https://t.co/MalvpjdbQN",
-					"display_url": "pic.twitter.com/MalvpjdbQN",
-					"expanded_url": "https://twitter.com/caseyconway_/status/988913347230818305/photo/1",
-					"type": "photo",
-					"sizes": {
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"large": {
-							"w": 500,
-							"h": 294,
-							"resize": "fit"
-						},
-						"small": {
-							"w": 500,
-							"h": 294,
-							"resize": "fit"
-						},
-						"medium": {
-							"w": 500,
-							"h": 294,
-							"resize": "fit"
-						}
-					}
-				}
-			]
-		},
-		"extended_entities": {
-			"media": [
-				{
-					"id": 988913339894911000,
-					"id_str": "988913339894910976",
-					"indices": [
-						14,
-						37
-					],
-					"media_url": "http://pbs.twimg.com/media/DblTcXIU0AAUp6-.jpg",
-					"media_url_https": "https://pbs.twimg.com/media/DblTcXIU0AAUp6-.jpg",
-					"url": "https://t.co/MalvpjdbQN",
-					"display_url": "pic.twitter.com/MalvpjdbQN",
-					"expanded_url": "https://twitter.com/caseyconway_/status/988913347230818305/photo/1",
-					"type": "photo",
-					"sizes": {
-						"thumb": {
-							"w": 150,
-							"h": 150,
-							"resize": "crop"
-						},
-						"large": {
-							"w": 500,
-							"h": 294,
-							"resize": "fit"
-						},
-						"small": {
-							"w": 500,
-							"h": 294,
-							"resize": "fit"
-						},
-						"medium": {
-							"w": 500,
-							"h": 294,
-							"resize": "fit"
-						}
-					}
-				}
-			]
-		},
-		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 1043216442,
-			"id_str": "1043216442",
-			"name": "Casey Conway",
-			"screen_name": "caseyconway_",
-			"location": "Brisbane, Australia",
-			"description": "It's not a tan, I'm Aboriginal (Barada)👣 A gay one 🏳️‍🌈 he/him | Huge NRLW fan | IG: casey_conway | 100% my views etc ✌🏾",
-			"url": null,
-			"entities": {
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 17344,
-			"friends_count": 904,
-			"listed_count": 83,
-			"created_at": "Fri Dec 28 21:45:06 +0000 2012",
-			"favourites_count": 16776,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": true,
-			"statuses_count": 8731,
-			"lang": null,
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "000000",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1570598833499033600/xpe9jDsF_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1570598833499033600/xpe9jDsF_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1043216442/1668131907",
-			"profile_link_color": "ABB8C2",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "000000",
-			"profile_text_color": "000000",
-			"profile_use_background_image": false,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none",
-			"withheld_in_countries": []
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 238,
-		"favorite_count": 1110,
-		"favorited": false,
-		"retweeted": false,
-		"possibly_sensitive": false,
-		"lang": "qme",
-		"text": "#LestWeForget https://t.co/MalvpjdbQN"
-	},
-	{
 		"created_at": "Wed Apr 25 06:48:39 +0000 2018",
 		"id": 989033431035207700,
 		"id_str": "989033431035207681",
@@ -4069,12 +3899,12 @@ Grailbird.data.tweets_2018_04 =
 			"screen_name": "adweak",
 			"location": "United States",
 			"description": "Want us to help promote your brand, new campaign, or whatever? Let's do it.",
-			"url": "https://t.co/4VoxIeqzsB",
+			"url": "https://t.co/4VoxIeIIGJ",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/4VoxIeqzsB",
+							"url": "https://t.co/4VoxIeIIGJ",
 							"expanded_url": "http://adweakstudio.com",
 							"display_url": "adweakstudio.com",
 							"indices": [
@@ -4089,16 +3919,16 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 97550,
+			"followers_count": 97559,
 			"friends_count": 1,
 			"listed_count": 1081,
 			"created_at": "Fri May 01 18:42:37 +0000 2009",
-			"favourites_count": 3155,
+			"favourites_count": 3153,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 7985,
+			"statuses_count": 7988,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -4109,7 +3939,7 @@ Grailbird.data.tweets_2018_04 =
 			"profile_background_tile": true,
 			"profile_image_url": "http://pbs.twimg.com/profile_images/1030164750326411265/Zx6ar39Y_normal.jpg",
 			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1030164750326411265/Zx6ar39Y_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/37009612/1671215098",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/37009612/1673981638",
 			"profile_link_color": "FFFFFF",
 			"profile_sidebar_border_color": "BDDCAD",
 			"profile_sidebar_fill_color": "DDFFCC",
@@ -4299,16 +4129,16 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 65082,
+			"followers_count": 65084,
 			"friends_count": 262,
-			"listed_count": 0,
+			"listed_count": 1030,
 			"created_at": "Mon Jul 05 17:51:34 +0000 2010",
-			"favourites_count": 24734,
+			"favourites_count": 24499,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 82112,
+			"statuses_count": 82087,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -4395,16 +4225,16 @@ Grailbird.data.tweets_2018_04 =
 					}
 				},
 				"protected": false,
-				"followers_count": 3117,
+				"followers_count": 3116,
 				"friends_count": 384,
 				"listed_count": 150,
 				"created_at": "Wed Oct 14 23:00:54 +0000 2015",
-				"favourites_count": 2610,
+				"favourites_count": 2607,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": false,
-				"statuses_count": 5337,
+				"statuses_count": 5329,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -4435,13 +4265,13 @@ Grailbird.data.tweets_2018_04 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 302,
+			"retweet_count": 301,
 			"favorite_count": 833,
 			"favorited": false,
 			"retweeted": false,
 			"lang": "en"
 		},
-		"retweet_count": 1852,
+		"retweet_count": 1851,
 		"favorite_count": 6329,
 		"favorited": false,
 		"retweeted": false,
@@ -4634,7 +4464,7 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 129147,
+			"followers_count": 129139,
 			"friends_count": 1161,
 			"listed_count": 807,
 			"created_at": "Mon May 04 06:40:15 +0000 2009",
@@ -6176,11 +6006,11 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 6340,
+			"followers_count": 6342,
 			"friends_count": 1242,
-			"listed_count": 402,
+			"listed_count": 403,
 			"created_at": "Sat Apr 19 22:38:15 +0000 2008",
-			"favourites_count": 9586,
+			"favourites_count": 9584,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
