@@ -1,6 +1,335 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Wed Jan 25 11:43:06 +0000 2023",
+		"id": 1617940438215757800,
+		"id_str": "1618212866292879361",
+		"full_text": "Just when you thought you’d heard the worst “put it on the blockchain” idea… https://t.co/ukTWOKoVpJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ukTWOKoVpJ",
+					"expanded_url": "https://twitter.com/thebadstats/status/1617909778482860032",
+					"display_url": "twitter.com/thebadstats/st…",
+					"indices": [
+						77,
+						100
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7127162,
+			"id_str": "7127162",
+			"name": "Martin Weller - @Mweller@mastodon.social",
+			"screen_name": "mweller",
+			"location": "Tongwynlais, Cardiff",
+			"description": "Open University, @IETatOU Prof. Likes dogs, beer, vinyl, ice hockey. Book: Metaphors of Ed Tech https://t.co/tMfcieVA6i…",
+			"url": "https://t.co/vzpEDxV8B6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vzpEDxV8B6",
+							"expanded_url": "http://blog.edtechie.net/",
+							"display_url": "blog.edtechie.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/tMfcieVA6i",
+							"expanded_url": "http://aupress.ca/books/120309-m",
+							"display_url": "aupress.ca/books/120309-m",
+							"indices": [
+								96,
+								119
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 12225,
+			"friends_count": 1867,
+			"listed_count": 694,
+			"created_at": "Thu Jun 28 09:14:11 +0000 2007",
+			"favourites_count": 9225,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 45056,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "642D8B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1198930977675984896/STArUuIz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1198930977675984896/STArUuIz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7127162/1664185702",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "7AC3EE",
+			"profile_text_color": "3D1957",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1617909778482860000,
+		"quoted_status_id_str": "1617909778482860032",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ukTWOKoVpJ",
+			"expanded": "https://twitter.com/thebadstats/status/1617909778482860032",
+			"display": "twitter.com/thebadstats/st…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jan 24 15:38:45 +0000 2023",
+			"id": 1617909778482860000,
+			"id_str": "1617909778482860032",
+			"full_text": "Jordan Peterson reports that he is working on a project to put academic testing on the blockchain that \"can't be mucked about with by administrators\" https://t.co/ZHOUql2Kfq",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				149
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1617908258597109800,
+						"id_str": "1617908258597109760",
+						"indices": [
+							150,
+							173
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1617908258597109760/pu/img/UgoesDYNSQ6uboCA.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1617908258597109760/pu/img/UgoesDYNSQ6uboCA.jpg",
+						"url": "https://t.co/ZHOUql2Kfq",
+						"display_url": "pic.twitter.com/ZHOUql2Kfq",
+						"expanded_url": "https://twitter.com/thebadstats/status/1617909778482860032/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1617908258597109800,
+						"id_str": "1617908258597109760",
+						"indices": [
+							150,
+							173
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1617908258597109760/pu/img/UgoesDYNSQ6uboCA.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1617908258597109760/pu/img/UgoesDYNSQ6uboCA.jpg",
+						"url": "https://t.co/ZHOUql2Kfq",
+						"display_url": "pic.twitter.com/ZHOUql2Kfq",
+						"expanded_url": "https://twitter.com/thebadstats/status/1617909778482860032/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 94700,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1617908258597109760/pu/pl/ZYO97TRXoF68UM87.m3u8?tag=12&container=fmp4"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1617908258597109760/pu/vid/480x270/53XdPaIC0REkG-VZ.mp4?tag=12"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1617908258597109760/pu/vid/1280x720/8i3sYK2NAIvEAHh2.mp4?tag=12"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1617908258597109760/pu/vid/640x360/FR2n2GqM6RewRszb.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1291165350650712000,
+				"id_str": "1291165350650712064",
+				"name": "bad_stats 🕜💵🖨️🕣",
+				"screen_name": "thebadstats",
+				"location": "",
+				"description": "making IDW content accessible to those with average IQs and below",
+				"url": "https://t.co/ldwxHWLm1M",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ldwxHWLm1M",
+								"expanded_url": "http://youtube.com/c/dgilbert418",
+								"display_url": "youtube.com/c/dgilbert418",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 18185,
+				"friends_count": 280,
+				"listed_count": 99,
+				"created_at": "Thu Aug 06 00:13:21 +0000 2020",
+				"favourites_count": 14442,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 5069,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1609479498264899584/b9gkg3cp_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1609479498264899584/b9gkg3cp_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1291165350650712064/1596673862",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 424,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Just when you thought you’d heard the worst “put it on the blockchain” idea… https://t.co/ukTWOKoVpJ"
+	},
+	{
 		"created_at": "Sun Jan 15 09:47:07 +0000 2023",
 		"id": 1614549942810587100,
 		"id_str": "1614559797885702144",
@@ -40,7 +369,7 @@ Grailbird.data.tweets_2023_01 =
 			"friends_count": 383,
 			"listed_count": 29,
 			"created_at": "Sun Apr 05 06:57:39 +0000 2009",
-			"favourites_count": 37457,
+			"favourites_count": 37455,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
@@ -172,7 +501,7 @@ Grailbird.data.tweets_2023_01 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15480,
+			"statuses_count": 15481,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -278,7 +607,7 @@ Grailbird.data.tweets_2023_01 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15480,
+			"statuses_count": 15481,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -502,7 +831,7 @@ Grailbird.data.tweets_2023_01 =
 					}
 				},
 				"protected": false,
-				"followers_count": 71342,
+				"followers_count": 71343,
 				"friends_count": 16,
 				"listed_count": 512,
 				"created_at": "Wed Jan 06 20:18:07 +0000 2016",
@@ -543,7 +872,7 @@ Grailbird.data.tweets_2023_01 =
 			"contributors": null,
 			"is_quote_status": false,
 			"retweet_count": 444,
-			"favorite_count": 2618,
+			"favorite_count": 2619,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
@@ -625,7 +954,7 @@ Grailbird.data.tweets_2023_01 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15480,
+			"statuses_count": 15481,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
