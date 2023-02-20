@@ -199,8 +199,64 @@ var tweet_index = [
 		"file_name": "data/js/tweets/2020_10.js",
 		"year": 2020,
 		"var_name": "tweets_2020_10",
-		"tweet_count": 13,
+		"tweet_count": 49,
 		"month": 10
+	},
+	{
+		"file_name": "data/js/tweets/2020_09.js",
+		"year": 2020,
+		"var_name": "tweets_2020_09",
+		"tweet_count": 51,
+		"month": 9
+	},
+	{
+		"file_name": "data/js/tweets/2020_08.js",
+		"year": 2020,
+		"var_name": "tweets_2020_08",
+		"tweet_count": 45,
+		"month": 8
+	},
+	{
+		"file_name": "data/js/tweets/2020_07.js",
+		"year": 2020,
+		"var_name": "tweets_2020_07",
+		"tweet_count": 63,
+		"month": 7
+	},
+	{
+		"file_name": "data/js/tweets/2020_06.js",
+		"year": 2020,
+		"var_name": "tweets_2020_06",
+		"tweet_count": 49,
+		"month": 6
+	},
+	{
+		"file_name": "data/js/tweets/2020_05.js",
+		"year": 2020,
+		"var_name": "tweets_2020_05",
+		"tweet_count": 71,
+		"month": 5
+	},
+	{
+		"file_name": "data/js/tweets/2020_04.js",
+		"year": 2020,
+		"var_name": "tweets_2020_04",
+		"tweet_count": 64,
+		"month": 4
+	},
+	{
+		"file_name": "data/js/tweets/2020_03.js",
+		"year": 2020,
+		"var_name": "tweets_2020_03",
+		"tweet_count": 170,
+		"month": 3
+	},
+	{
+		"file_name": "data/js/tweets/2020_02.js",
+		"year": 2020,
+		"var_name": "tweets_2020_02",
+		"tweet_count": 36,
+		"month": 2
 	},
 	{
 		"file_name": "data/js/tweets/2016_08.js",
