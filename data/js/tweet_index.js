@@ -94,7 +94,7 @@ var tweet_index = [
 		"file_name": "data/js/tweets/2022_01.js",
 		"year": 2022,
 		"var_name": "tweets_2022_01",
-		"tweet_count": 66,
+		"tweet_count": 67,
 		"month": 1
 	},
 	{
@@ -255,8 +255,99 @@ var tweet_index = [
 		"file_name": "data/js/tweets/2020_02.js",
 		"year": 2020,
 		"var_name": "tweets_2020_02",
-		"tweet_count": 36,
+		"tweet_count": 57,
 		"month": 2
+	},
+	{
+		"file_name": "data/js/tweets/2020_01.js",
+		"year": 2020,
+		"var_name": "tweets_2020_01",
+		"tweet_count": 117,
+		"month": 1
+	},
+	{
+		"file_name": "data/js/tweets/2019_12.js",
+		"year": 2019,
+		"var_name": "tweets_2019_12",
+		"tweet_count": 58,
+		"month": 12
+	},
+	{
+		"file_name": "data/js/tweets/2019_11.js",
+		"year": 2019,
+		"var_name": "tweets_2019_11",
+		"tweet_count": 53,
+		"month": 11
+	},
+	{
+		"file_name": "data/js/tweets/2019_10.js",
+		"year": 2019,
+		"var_name": "tweets_2019_10",
+		"tweet_count": 28,
+		"month": 10
+	},
+	{
+		"file_name": "data/js/tweets/2019_09.js",
+		"year": 2019,
+		"var_name": "tweets_2019_09",
+		"tweet_count": 38,
+		"month": 9
+	},
+	{
+		"file_name": "data/js/tweets/2019_08.js",
+		"year": 2019,
+		"var_name": "tweets_2019_08",
+		"tweet_count": 46,
+		"month": 8
+	},
+	{
+		"file_name": "data/js/tweets/2019_07.js",
+		"year": 2019,
+		"var_name": "tweets_2019_07",
+		"tweet_count": 42,
+		"month": 7
+	},
+	{
+		"file_name": "data/js/tweets/2019_06.js",
+		"year": 2019,
+		"var_name": "tweets_2019_06",
+		"tweet_count": 48,
+		"month": 6
+	},
+	{
+		"file_name": "data/js/tweets/2019_05.js",
+		"year": 2019,
+		"var_name": "tweets_2019_05",
+		"tweet_count": 62,
+		"month": 5
+	},
+	{
+		"file_name": "data/js/tweets/2019_04.js",
+		"year": 2019,
+		"var_name": "tweets_2019_04",
+		"tweet_count": 49,
+		"month": 4
+	},
+	{
+		"file_name": "data/js/tweets/2019_03.js",
+		"year": 2019,
+		"var_name": "tweets_2019_03",
+		"tweet_count": 66,
+		"month": 3
+	},
+	{
+		"file_name": "data/js/tweets/2019_02.js",
+		"year": 2019,
+		"var_name": "tweets_2019_02",
+		"tweet_count": 71,
+		"month": 2
+	},
+	{
+		"file_name": "data/js/tweets/2019_01.js",
+		"year": 2019,
+		"var_name": "tweets_2019_01",
+		"tweet_count": 76,
+		"month": 1
 	},
 	{
 		"file_name": "data/js/tweets/2016_08.js",
