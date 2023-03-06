@@ -120,8 +120,8 @@ Grailbird.data.tweets_2023_02 =
 				}
 			},
 			"protected": false,
-			"followers_count": 821,
-			"friends_count": 164,
+			"followers_count": 822,
+			"friends_count": 165,
 			"listed_count": 85,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
 			"favourites_count": 10364,
@@ -227,8 +227,8 @@ Grailbird.data.tweets_2023_02 =
 				}
 			},
 			"protected": false,
-			"followers_count": 821,
-			"friends_count": 164,
+			"followers_count": 822,
+			"friends_count": 165,
 			"listed_count": 85,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
 			"favourites_count": 10364,
@@ -333,8 +333,8 @@ Grailbird.data.tweets_2023_02 =
 				}
 			},
 			"protected": false,
-			"followers_count": 821,
-			"friends_count": 164,
+			"followers_count": 822,
+			"friends_count": 165,
 			"listed_count": 85,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
 			"favourites_count": 10364,
