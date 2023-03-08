@@ -1,6 +1,231 @@
 Grailbird.data.tweets_2023_03 = 
 [
 	{
+		"created_at": "Tue Mar 07 00:58:23 +0000 2023",
+		"id": 1632842125804179500,
+		"id_str": "1632908517228290054",
+		"full_text": "So the @guardian  has discovered that OPMs exist. I can't believe they are making me defend them but imagine thinking that in the year 2023, the only valid mode of online teaching is to replicate the lectures and tutes model dating back to the 1100s. https://t.co/pBTbXlHocX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "guardian",
+					"name": "The Guardian",
+					"id": 87818409,
+					"id_str": "87818409",
+					"indices": [
+						7,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/pBTbXlHocX",
+					"expanded_url": "https://www.theguardian.com/australia-news/2023/mar/07/no-actual-teaching-alarm-bells-over-online-courses-outsourced-by-australian-universities",
+					"display_url": "theguardian.com/australia-news…",
+					"indices": [
+						251,
+						274
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 239649193,
+			"id_str": "239649193",
+			"name": "Colin Simpson",
+			"screen_name": "gamerlearner",
+			"location": "Melbourne, Victoria",
+			"description": "Monash Ed Techs team, convenor of @TELedvisors SIG, PhD candidate in education at Sydney University. He/Him Opinions are mine. aka @gamerlearner@aus.social",
+			"url": "https://t.co/KhwTxiJwWu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KhwTxiJwWu",
+							"expanded_url": "http://about.me/colin.simpson",
+							"display_url": "about.me/colin.simpson",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4030,
+			"friends_count": 4937,
+			"listed_count": 93,
+			"created_at": "Tue Jan 18 03:17:55 +0000 2011",
+			"favourites_count": 19722,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 21313,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1589749009513476098/mP8Dna_7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1589749009513476098/mP8Dna_7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/239649193/1656144505",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 59,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "So the @guardian  has discovered that OPMs exist. I can't believe they are making me defend them but imagine thinking that in the year 2023, the only valid mode of online teaching is to replicate the lectures and tutes model dating back to the 1100s. https://t.co/pBTbXlHocX"
+	},
+	{
+		"created_at": "Mon Mar 06 22:28:24 +0000 2023",
+		"id": 1632870773789433900,
+		"id_str": "1632870773789433859",
+		"full_text": "Hiers and Hierarchy https://t.co/MXiO9BylGZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			43
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MXiO9BylGZ",
+					"expanded_url": "https://timklapdor.wordpress.com/2023/03/07/hiers-and-hierarchy/",
+					"display_url": "timklapdor.wordpress.com/2023/03/07/hie…",
+					"indices": [
+						20,
+						43
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">Jetpack.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Adelaide, South Australia",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology. Also find me @timklapdor@mastodon.social",
+			"url": "https://t.co/83ULNLDqhO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/83ULNLDqhO",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 822,
+			"friends_count": 165,
+			"listed_count": 85,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 10364,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15479,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "Hiers and Hierarchy https://t.co/MXiO9BylGZ"
+	},
+	{
 		"created_at": "Sat Mar 04 06:32:15 +0000 2023",
 		"id": 1631905377423073300,
 		"id_str": "1631905377423073280",
@@ -207,7 +432,7 @@ Grailbird.data.tweets_2023_03 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15477,
+			"statuses_count": 15479,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
