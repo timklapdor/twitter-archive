@@ -279,12 +279,12 @@ Grailbird.data.tweets_2018_11 =
 			"friends_count": 2980,
 			"listed_count": 7,
 			"created_at": "Tue Sep 08 23:33:24 +0000 2015",
-			"favourites_count": 103338,
+			"favourites_count": 103346,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 76065,
+			"statuses_count": 76072,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -316,7 +316,7 @@ Grailbird.data.tweets_2018_11 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 1431,
-		"favorite_count": 7215,
+		"favorite_count": 7213,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
@@ -991,16 +991,16 @@ Grailbird.data.tweets_2018_11 =
 					}
 				},
 				"protected": false,
-				"followers_count": 2171,
+				"followers_count": 2172,
 				"friends_count": 3805,
 				"listed_count": 191,
 				"created_at": "Tue Jul 06 13:19:30 +0000 2010",
-				"favourites_count": 15052,
+				"favourites_count": 15054,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": false,
-				"statuses_count": 6319,
+				"statuses_count": 6321,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -1914,7 +1914,7 @@ Grailbird.data.tweets_2018_11 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1521,
+			"followers_count": 1520,
 			"friends_count": 1373,
 			"listed_count": 59,
 			"created_at": "Tue Mar 18 16:31:45 +0000 2008",
@@ -1955,7 +1955,7 @@ Grailbird.data.tweets_2018_11 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 2180,
-		"favorite_count": 5721,
+		"favorite_count": 5720,
 		"favorited": false,
 		"retweeted": false,
 		"lang": "en",
@@ -2493,16 +2493,16 @@ Grailbird.data.tweets_2018_11 =
 				}
 			},
 			"protected": false,
-			"followers_count": 216501,
+			"followers_count": 216497,
 			"friends_count": 747,
 			"listed_count": 4690,
 			"created_at": "Fri Dec 08 05:17:11 +0000 2006",
-			"favourites_count": 4737,
+			"favourites_count": 4741,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 27445,
+			"statuses_count": 27453,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2867,16 +2867,16 @@ Grailbird.data.tweets_2018_11 =
 				}
 			},
 			"protected": false,
-			"followers_count": 63028,
+			"followers_count": 63036,
 			"friends_count": 427,
 			"listed_count": 522,
 			"created_at": "Sun Dec 08 08:17:57 +0000 2013",
-			"favourites_count": 31308,
+			"favourites_count": 31329,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 39172,
+			"statuses_count": 39190,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -3253,16 +3253,16 @@ Grailbird.data.tweets_2018_11 =
 				}
 			},
 			"protected": false,
-			"followers_count": 146547,
-			"friends_count": 3955,
+			"followers_count": 146503,
+			"friends_count": 3954,
 			"listed_count": 881,
 			"created_at": "Tue May 19 10:00:55 +0000 2009",
-			"favourites_count": 146769,
+			"favourites_count": 146773,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 96859,
+			"statuses_count": 96860,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -3582,16 +3582,16 @@ Grailbird.data.tweets_2018_11 =
 					}
 				},
 				"protected": false,
-				"followers_count": 14784,
-				"friends_count": 13216,
+				"followers_count": 14781,
+				"friends_count": 13217,
 				"listed_count": 417,
 				"created_at": "Mon Sep 29 08:49:20 +0000 2008",
-				"favourites_count": 115604,
+				"favourites_count": 115610,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": false,
-				"statuses_count": 399133,
+				"statuses_count": 399139,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -3623,7 +3623,7 @@ Grailbird.data.tweets_2018_11 =
 			"contributors": null,
 			"is_quote_status": false,
 			"retweet_count": 1134,
-			"favorite_count": 2862,
+			"favorite_count": 2860,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
@@ -3774,8 +3774,8 @@ Grailbird.data.tweets_2018_11 =
 				}
 			},
 			"protected": false,
-			"followers_count": 120980,
-			"friends_count": 1557,
+			"followers_count": 120982,
+			"friends_count": 1558,
 			"listed_count": 323,
 			"created_at": "Mon Oct 27 02:08:57 +0000 2014",
 			"favourites_count": 925,
@@ -4260,7 +4260,7 @@ Grailbird.data.tweets_2018_11 =
 					}
 				},
 				"protected": false,
-				"followers_count": 21400,
+				"followers_count": 21398,
 				"friends_count": 6298,
 				"listed_count": 874,
 				"created_at": "Sat Nov 19 22:44:04 +0000 2011",
@@ -4308,7 +4308,7 @@ Grailbird.data.tweets_2018_11 =
 			"lang": "en"
 		},
 		"retweet_count": 0,
-		"favorite_count": 1,
+		"favorite_count": 0,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
@@ -4376,16 +4376,16 @@ Grailbird.data.tweets_2018_11 =
 				}
 			},
 			"protected": false,
-			"followers_count": 13702,
+			"followers_count": 13706,
 			"friends_count": 15061,
 			"listed_count": 458,
 			"created_at": "Mon Mar 21 14:07:43 +0000 2011",
-			"favourites_count": 329111,
+			"favourites_count": 329186,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 275901,
+			"statuses_count": 275952,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -4638,16 +4638,16 @@ Grailbird.data.tweets_2018_11 =
 					}
 				},
 				"protected": false,
-				"followers_count": 653953,
-				"friends_count": 14606,
-				"listed_count": 4858,
+				"followers_count": 654051,
+				"friends_count": 14603,
+				"listed_count": 4857,
 				"created_at": "Sat Oct 18 02:39:23 +0000 2008",
 				"favourites_count": 1603,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": true,
-				"statuses_count": 315172,
+				"statuses_count": 315314,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -4859,16 +4859,16 @@ Grailbird.data.tweets_2018_11 =
 					}
 				},
 				"protected": false,
-				"followers_count": 27640,
-				"friends_count": 4161,
+				"followers_count": 27628,
+				"friends_count": 4160,
 				"listed_count": 367,
 				"created_at": "Sat Jun 13 04:45:19 +0000 2009",
-				"favourites_count": 7596,
+				"favourites_count": 7597,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": true,
-				"statuses_count": 73212,
+				"statuses_count": 73226,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -5004,7 +5004,7 @@ Grailbird.data.tweets_2018_11 =
 			},
 			"protected": false,
 			"followers_count": 20616,
-			"friends_count": 1889,
+			"friends_count": 1892,
 			"listed_count": 449,
 			"created_at": "Thu Nov 28 14:36:26 +0000 2013",
 			"favourites_count": 3854,
@@ -5012,7 +5012,7 @@ Grailbird.data.tweets_2018_11 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 24419,
+			"statuses_count": 24422,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -5352,16 +5352,16 @@ Grailbird.data.tweets_2018_11 =
 					}
 				},
 				"protected": false,
-				"followers_count": 517404,
+				"followers_count": 517330,
 				"friends_count": 929,
-				"listed_count": 4255,
+				"listed_count": 4254,
 				"created_at": "Wed Aug 15 06:40:45 +0000 2007",
 				"favourites_count": 370,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": true,
-				"statuses_count": 168114,
+				"statuses_count": 168127,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -5822,8 +5822,8 @@ Grailbird.data.tweets_2018_11 =
 				}
 			},
 			"protected": false,
-			"followers_count": 35332,
-			"friends_count": 4802,
+			"followers_count": 35334,
+			"friends_count": 4801,
 			"listed_count": 280,
 			"created_at": "Sat Aug 30 16:29:26 +0000 2014",
 			"favourites_count": 26902,
@@ -6036,7 +6036,7 @@ Grailbird.data.tweets_2018_11 =
 				}
 			},
 			"protected": false,
-			"followers_count": 35805,
+			"followers_count": 35804,
 			"friends_count": 92,
 			"listed_count": 335,
 			"created_at": "Fri Feb 22 05:06:11 +0000 2013",
@@ -6045,7 +6045,7 @@ Grailbird.data.tweets_2018_11 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 26332,
+			"statuses_count": 26333,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -6083,175 +6083,6 @@ Grailbird.data.tweets_2018_11 =
 		"possibly_sensitive": false,
 		"lang": "en",
 		"text": "Ouch #qanda https://t.co/GcHBnuHFMG"
-	},
-	{
-		"created_at": "Wed Nov 07 11:39:32 +0000 2018",
-		"id": 1060100190453956600,
-		"id_str": "1060134653351288832",
-		"full_text": "Our team at Anomaly are on the lookout for new #software development engagements.\n\nWe build stuff on the cloud using #python and mobile using #swift and #java, also have capabilities in @unity3d \n\nPlease feel to reach out. RT and mentions appreciated.",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			251
-		],
-		"entities": {
-			"hashtags": [
-				{
-					"text": "software",
-					"indices": [
-						47,
-						56
-					]
-				},
-				{
-					"text": "python",
-					"indices": [
-						117,
-						124
-					]
-				},
-				{
-					"text": "swift",
-					"indices": [
-						142,
-						148
-					]
-				},
-				{
-					"text": "java",
-					"indices": [
-						153,
-						158
-					]
-				}
-			],
-			"symbols": [],
-			"user_mentions": [
-				{
-					"screen_name": "unity3d",
-					"name": "Unity3D (inactive)",
-					"id": 418898423,
-					"id_str": "418898423",
-					"indices": [
-						186,
-						194
-					]
-				}
-			],
-			"urls": []
-		},
-		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 15340674,
-			"id_str": "15340674",
-			"name": "Dev Mukherjee",
-			"screen_name": "mdevraj",
-			"location": "Canberra, Australia",
-			"description": "Journeyman.",
-			"url": "https://t.co/crp8JIU0cB",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/crp8JIU0cB",
-							"expanded_url": "http://www.anomaly.ltd",
-							"display_url": "anomaly.ltd",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 990,
-			"friends_count": 4978,
-			"listed_count": 17,
-			"created_at": "Mon Jul 07 10:36:27 +0000 2008",
-			"favourites_count": 38699,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 12708,
-			"lang": null,
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "C0DEED",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1557487755357466624/3hMJkW0-_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1557487755357466624/3hMJkW0-_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15340674/1633150039",
-			"profile_link_color": "5B5B5B",
-			"profile_sidebar_border_color": "C0DEED",
-			"profile_sidebar_fill_color": "DDEEF6",
-			"profile_text_color": "333333",
-			"profile_use_background_image": true,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": true,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none",
-			"withheld_in_countries": []
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": {
-			"id": "00fdc8497c0ca7b4",
-			"url": "https://api.twitter.com/1.1/geo/id/00fdc8497c0ca7b4.json",
-			"place_type": "city",
-			"name": "Wagga Wagga",
-			"full_name": "Wagga Wagga, New South Wales",
-			"country_code": "AU",
-			"country": "Australia",
-			"contained_within": [],
-			"bounding_box": {
-				"type": "Polygon",
-				"coordinates": [
-					[
-						[
-							147.304038624,
-							-35.187975032
-						],
-						[
-							147.424035232,
-							-35.187975032
-						],
-						[
-							147.424035232,
-							-35.0881893435
-						],
-						[
-							147.304038624,
-							-35.0881893435
-						]
-					]
-				]
-			},
-			"attributes": {}
-		},
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 3,
-		"favorite_count": 2,
-		"favorited": false,
-		"retweeted": false,
-		"lang": "en",
-		"text": "Our team at Anomaly are on the lookout for new #software development engagements.\n\nWe build stuff on the cloud using #python and mobile using #swift and #java, also have capabilities in @unity3d \n\nPlease feel to reach out. RT and mentions appreciated."
 	},
 	{
 		"created_at": "Wed Nov 07 01:41:46 +0000 2018",
@@ -6565,8 +6396,8 @@ Grailbird.data.tweets_2018_11 =
 					}
 				},
 				"protected": false,
-				"followers_count": 35332,
-				"friends_count": 4802,
+				"followers_count": 35334,
+				"friends_count": 4801,
 				"listed_count": 280,
 				"created_at": "Sat Aug 30 16:29:26 +0000 2014",
 				"favourites_count": 26902,
@@ -7606,13 +7437,13 @@ Grailbird.data.tweets_2018_11 =
 				"name": "Brad Frost",
 				"screen_name": "brad_frost",
 				"location": "Pittsburgh, PA",
-				"description": "Design system consultant, web designer, speaker, writer, & musician. Author of Atomic Design. Mastadon: https://t.co/sY2l3KowyR",
-				"url": "https://t.co/qCD2F5wnUK",
+				"description": "Design system consultant, web designer, speaker, writer, musician, & artist. Author of Atomic Design. Mastadon: https://t.co/SdBhD2fN89",
+				"url": "https://t.co/qCD2F5wVKi",
 				"entities": {
 					"url": {
 						"urls": [
 							{
-								"url": "https://t.co/qCD2F5wnUK",
+								"url": "https://t.co/qCD2F5wVKi",
 								"expanded_url": "http://bradfrost.com",
 								"display_url": "bradfrost.com",
 								"indices": [
@@ -7625,12 +7456,12 @@ Grailbird.data.tweets_2018_11 =
 					"description": {
 						"urls": [
 							{
-								"url": "https://t.co/sY2l3KowyR",
-								"expanded_url": "https://mastodon.social/@brad_frost",
+								"url": "https://t.co/SdBhD2fN89",
+								"expanded_url": "http://mastodon.social/@brad_frost",
 								"display_url": "mastodon.social/@brad_frost",
 								"indices": [
-									104,
-									127
+									112,
+									135
 								]
 							}
 						]
@@ -7639,14 +7470,14 @@ Grailbird.data.tweets_2018_11 =
 				"protected": false,
 				"followers_count": 122191,
 				"friends_count": 567,
-				"listed_count": 4772,
+				"listed_count": 4771,
 				"created_at": "Fri Jan 04 21:57:10 +0000 2008",
-				"favourites_count": 86722,
+				"favourites_count": 86728,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": false,
-				"statuses_count": 47878,
+				"statuses_count": 47886,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
