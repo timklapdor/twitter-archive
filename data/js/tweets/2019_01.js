@@ -320,7 +320,7 @@ Grailbird.data.tweets_2019_01 =
 				"friends_count": 2555,
 				"listed_count": 35,
 				"created_at": "Mon Oct 10 01:04:58 +0000 2016",
-				"favourites_count": 3740,
+				"favourites_count": 3739,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
@@ -754,9 +754,9 @@ Grailbird.data.tweets_2019_01 =
 					}
 				},
 				"protected": false,
-				"followers_count": 53098,
+				"followers_count": 53092,
 				"friends_count": 2999,
-				"listed_count": 1501,
+				"listed_count": 1503,
 				"created_at": "Tue May 13 01:31:28 +0000 2008",
 				"favourites_count": 10305,
 				"utc_offset": null,
@@ -795,7 +795,7 @@ Grailbird.data.tweets_2019_01 =
 			"contributors": null,
 			"is_quote_status": false,
 			"retweet_count": 1251,
-			"favorite_count": 2103,
+			"favorite_count": 2102,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
@@ -1136,7 +1136,7 @@ Grailbird.data.tweets_2019_01 =
 				"friends_count": 2555,
 				"listed_count": 35,
 				"created_at": "Mon Oct 10 01:04:58 +0000 2016",
-				"favourites_count": 3740,
+				"favourites_count": 3739,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
@@ -2244,7 +2244,7 @@ Grailbird.data.tweets_2019_01 =
 					}
 				},
 				"protected": false,
-				"followers_count": 17316,
+				"followers_count": 17320,
 				"friends_count": 1445,
 				"listed_count": 159,
 				"created_at": "Mon Feb 02 10:23:44 +0000 2009",
@@ -3852,7 +3852,7 @@ Grailbird.data.tweets_2019_01 =
 			"friends_count": 2555,
 			"listed_count": 35,
 			"created_at": "Mon Oct 10 01:04:58 +0000 2016",
-			"favourites_count": 3740,
+			"favourites_count": 3739,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
@@ -5024,12 +5024,12 @@ Grailbird.data.tweets_2019_01 =
 				"friends_count": 1992,
 				"listed_count": 381,
 				"created_at": "Sat Jun 20 04:32:02 +0000 2009",
-				"favourites_count": 33048,
+				"favourites_count": 33051,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": true,
-				"statuses_count": 79801,
+				"statuses_count": 79804,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -5571,7 +5571,7 @@ Grailbird.data.tweets_2019_01 =
 					}
 				},
 				"protected": false,
-				"followers_count": 33236,
+				"followers_count": 33235,
 				"friends_count": 34,
 				"listed_count": 164,
 				"created_at": "Tue Oct 19 00:50:06 +0000 2010",
@@ -5580,7 +5580,7 @@ Grailbird.data.tweets_2019_01 =
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": true,
-				"statuses_count": 67812,
+				"statuses_count": 67813,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -5871,16 +5871,16 @@ Grailbird.data.tweets_2019_01 =
 				}
 			},
 			"protected": false,
-			"followers_count": 67377,
-			"friends_count": 2159,
-			"listed_count": 496,
+			"followers_count": 67387,
+			"friends_count": 2157,
+			"listed_count": 497,
 			"created_at": "Mon Apr 27 00:56:14 +0000 2009",
-			"favourites_count": 43865,
+			"favourites_count": 43877,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 74503,
+			"statuses_count": 74507,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -5912,7 +5912,7 @@ Grailbird.data.tweets_2019_01 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 653,
-		"favorite_count": 1989,
+		"favorite_count": 1990,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
@@ -6371,16 +6371,16 @@ Grailbird.data.tweets_2019_01 =
 				}
 			},
 			"protected": false,
-			"followers_count": 4038,
+			"followers_count": 4039,
 			"friends_count": 845,
 			"listed_count": 131,
 			"created_at": "Thu Jul 24 06:58:21 +0000 2008",
-			"favourites_count": 15049,
+			"favourites_count": 15051,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 18775,
+			"statuses_count": 18778,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -7433,8 +7433,8 @@ Grailbird.data.tweets_2019_01 =
 					}
 				},
 				"protected": false,
-				"followers_count": 175208,
-				"friends_count": 1113,
+				"followers_count": 175190,
+				"friends_count": 1110,
 				"listed_count": 2000,
 				"created_at": "Sun Dec 06 20:16:11 +0000 2009",
 				"favourites_count": 2382,
@@ -7832,16 +7832,16 @@ Grailbird.data.tweets_2019_01 =
 					}
 				},
 				"protected": false,
-				"followers_count": 655286,
-				"friends_count": 14589,
-				"listed_count": 4854,
+				"followers_count": 655436,
+				"friends_count": 14590,
+				"listed_count": 4853,
 				"created_at": "Sat Oct 18 02:39:23 +0000 2008",
 				"favourites_count": 1604,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": true,
-				"statuses_count": 316497,
+				"statuses_count": 316581,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -8037,16 +8037,16 @@ Grailbird.data.tweets_2019_01 =
 				}
 			},
 			"protected": false,
-			"followers_count": 27599,
-			"friends_count": 4160,
-			"listed_count": 366,
+			"followers_count": 27594,
+			"friends_count": 4159,
+			"listed_count": 367,
 			"created_at": "Sat Jun 13 04:45:19 +0000 2009",
-			"favourites_count": 7603,
+			"favourites_count": 7604,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 73308,
+			"statuses_count": 73317,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -8447,16 +8447,16 @@ Grailbird.data.tweets_2019_01 =
 					}
 				},
 				"protected": false,
-				"followers_count": 3781,
-				"friends_count": 2112,
+				"followers_count": 3783,
+				"friends_count": 2113,
 				"listed_count": 208,
 				"created_at": "Fri Apr 06 22:54:21 +0000 2007",
-				"favourites_count": 68426,
+				"favourites_count": 68448,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": false,
-				"statuses_count": 299474,
+				"statuses_count": 299475,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -8953,8 +8953,8 @@ Grailbird.data.tweets_2019_01 =
 					}
 				},
 				"protected": false,
-				"followers_count": 19318,
-				"friends_count": 2296,
+				"followers_count": 19314,
+				"friends_count": 2295,
 				"listed_count": 320,
 				"created_at": "Mon Jun 29 09:44:59 +0000 2009",
 				"favourites_count": 4834,
@@ -8962,7 +8962,7 @@ Grailbird.data.tweets_2019_01 =
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": true,
-				"statuses_count": 27202,
+				"statuses_count": 27203,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -9145,7 +9145,7 @@ Grailbird.data.tweets_2019_01 =
 				}
 			},
 			"protected": false,
-			"followers_count": 25837,
+			"followers_count": 25834,
 			"friends_count": 0,
 			"listed_count": 695,
 			"created_at": "Thu Nov 12 16:08:21 +0000 2009",
@@ -9186,7 +9186,7 @@ Grailbird.data.tweets_2019_01 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 101,
-		"favorite_count": 176,
+		"favorite_count": 177,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
@@ -10955,8 +10955,8 @@ Grailbird.data.tweets_2019_01 =
 					}
 				},
 				"protected": false,
-				"followers_count": 35333,
-				"friends_count": 4803,
+				"followers_count": 35327,
+				"friends_count": 4801,
 				"listed_count": 279,
 				"created_at": "Sat Aug 30 16:29:26 +0000 2014",
 				"favourites_count": 26903,
@@ -13896,7 +13896,7 @@ Grailbird.data.tweets_2019_01 =
 					}
 				},
 				"protected": false,
-				"followers_count": 12226,
+				"followers_count": 12224,
 				"friends_count": 1863,
 				"listed_count": 693,
 				"created_at": "Thu Jun 28 09:14:11 +0000 2007",
@@ -14003,7 +14003,7 @@ Grailbird.data.tweets_2019_01 =
 			"friends_count": 618,
 			"listed_count": 36,
 			"created_at": "Mon Mar 02 22:36:06 +0000 2009",
-			"favourites_count": 6330,
+			"favourites_count": 6332,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
@@ -14226,16 +14226,16 @@ Grailbird.data.tweets_2019_01 =
 				}
 			},
 			"protected": false,
-			"followers_count": 990,
-			"friends_count": 909,
+			"followers_count": 991,
+			"friends_count": 911,
 			"listed_count": 12,
 			"created_at": "Fri May 01 23:15:49 +0000 2009",
-			"favourites_count": 4400,
+			"favourites_count": 4403,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 27870,
+			"statuses_count": 27894,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -14790,8 +14790,8 @@ Grailbird.data.tweets_2019_01 =
 								}
 							},
 							"protected": false,
-							"followers_count": 115863,
-							"friends_count": 537,
+							"followers_count": 115844,
+							"friends_count": 536,
 							"listed_count": 272,
 							"created_at": "Fri Jan 21 06:32:03 +0000 2011",
 							"favourites_count": 13311,
@@ -14862,16 +14862,16 @@ Grailbird.data.tweets_2019_01 =
 				}
 			},
 			"protected": false,
-			"followers_count": 375961,
+			"followers_count": 376008,
 			"friends_count": 3033,
-			"listed_count": 1902,
+			"listed_count": 1899,
 			"created_at": "Thu Mar 19 04:09:43 +0000 2009",
-			"favourites_count": 225235,
+			"favourites_count": 225298,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 187270,
+			"statuses_count": 187295,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -14909,296 +14909,5 @@ Grailbird.data.tweets_2019_01 =
 		"possibly_sensitive": false,
 		"lang": "en",
 		"text": "Sometimes it’s better not to explore your hidden talent 😆\n https://t.co/feqomKbKoU"
-	},
-	{
-		"created_at": "Tue Jan 01 13:58:25 +0000 2019",
-		"id": 1080100937530626000,
-		"id_str": "1080100937530626048",
-		"full_text": "So @cogdog is a pretty amazing chap - this kind of work is one of the reasons why - Reviving the 1990s EduWeb: Teaching &amp; Learning on WWW site https://t.co/Y0g9uVdJvl",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			170
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [
-				{
-					"screen_name": "cogdog",
-					"name": "Alan Levine",
-					"id": 740343,
-					"id_str": "740343",
-					"indices": [
-						3,
-						10
-					]
-				}
-			],
-			"urls": [
-				{
-					"url": "https://t.co/Y0g9uVdJvl",
-					"expanded_url": "https://cogdogblog.com/2018/12/reviving-990s-eduweb/",
-					"display_url": "cogdogblog.com/2018/12/revivi…",
-					"indices": [
-						147,
-						170
-					]
-				}
-			]
-		},
-		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 174124175,
-			"id_str": "174124175",
-			"name": "Tim Klapdor",
-			"screen_name": "timklapdor",
-			"location": "Adelaide, South Australia",
-			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology. Also find me @timklapdor@mastodon.social",
-			"url": "https://t.co/83ULNLDqhO",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/83ULNLDqhO",
-							"expanded_url": "http://timklapdor.com",
-							"display_url": "timklapdor.com",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 821,
-			"friends_count": 164,
-			"listed_count": 85,
-			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10354,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 15471,
-			"lang": null,
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "C0DEED",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
-			"profile_link_color": "5FA832",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "DDEEF6",
-			"profile_text_color": "333333",
-			"profile_use_background_image": true,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none",
-			"withheld_in_countries": []
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": {
-			"id": "00fdc8497c0ca7b4",
-			"url": "https://api.twitter.com/1.1/geo/id/00fdc8497c0ca7b4.json",
-			"place_type": "city",
-			"name": "Wagga Wagga",
-			"full_name": "Wagga Wagga, New South Wales",
-			"country_code": "AU",
-			"country": "Australia",
-			"contained_within": [],
-			"bounding_box": {
-				"type": "Polygon",
-				"coordinates": [
-					[
-						[
-							147.304038624,
-							-35.187975032
-						],
-						[
-							147.424035232,
-							-35.187975032
-						],
-						[
-							147.424035232,
-							-35.0881893435
-						],
-						[
-							147.304038624,
-							-35.0881893435
-						]
-					]
-				]
-			},
-			"attributes": {}
-		},
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 1,
-		"favorite_count": 1,
-		"favorited": false,
-		"retweeted": false,
-		"possibly_sensitive": false,
-		"lang": "en",
-		"text": "So @cogdog is a pretty amazing chap - this kind of work is one of the reasons why - Reviving the 1990s EduWeb: Teaching &amp; Learning on WWW site https://t.co/Y0g9uVdJvl"
-	},
-	{
-		"created_at": "Tue Jan 01 10:05:53 +0000 2019",
-		"id": 1080042418731286500,
-		"id_str": "1080042418731286534",
-		"full_text": "Great read: I Was A Cable Guy. I Saw The Worst Of America. https://t.co/RCiwh3Ji5z",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			82
-		],
-		"entities": {
-			"hashtags": [],
-			"symbols": [],
-			"user_mentions": [],
-			"urls": [
-				{
-					"url": "https://t.co/RCiwh3Ji5z",
-					"expanded_url": "https://www.huffingtonpost.com/entry/cable-tech-dick-cheney-sex-dungeon_us_5c0ea571e4b06484c9fd4c21",
-					"display_url": "huffingtonpost.com/entry/cable-te…",
-					"indices": [
-						59,
-						82
-					]
-				}
-			]
-		},
-		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 174124175,
-			"id_str": "174124175",
-			"name": "Tim Klapdor",
-			"screen_name": "timklapdor",
-			"location": "Adelaide, South Australia",
-			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology. Also find me @timklapdor@mastodon.social",
-			"url": "https://t.co/83ULNLDqhO",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/83ULNLDqhO",
-							"expanded_url": "http://timklapdor.com",
-							"display_url": "timklapdor.com",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 821,
-			"friends_count": 164,
-			"listed_count": 85,
-			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10354,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 15471,
-			"lang": null,
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "C0DEED",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
-			"profile_link_color": "5FA832",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "DDEEF6",
-			"profile_text_color": "333333",
-			"profile_use_background_image": true,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none",
-			"withheld_in_countries": []
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": {
-			"id": "00fdc8497c0ca7b4",
-			"url": "https://api.twitter.com/1.1/geo/id/00fdc8497c0ca7b4.json",
-			"place_type": "city",
-			"name": "Wagga Wagga",
-			"full_name": "Wagga Wagga, New South Wales",
-			"country_code": "AU",
-			"country": "Australia",
-			"contained_within": [],
-			"bounding_box": {
-				"type": "Polygon",
-				"coordinates": [
-					[
-						[
-							147.304038624,
-							-35.187975032
-						],
-						[
-							147.424035232,
-							-35.187975032
-						],
-						[
-							147.424035232,
-							-35.0881893435
-						],
-						[
-							147.304038624,
-							-35.0881893435
-						]
-					]
-				]
-			},
-			"attributes": {}
-		},
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 0,
-		"favorited": false,
-		"retweeted": false,
-		"possibly_sensitive": false,
-		"lang": "en",
-		"text": "Great read: I Was A Cable Guy. I Saw The Worst Of America. https://t.co/RCiwh3Ji5z"
 	}
 ]
