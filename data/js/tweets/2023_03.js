@@ -50,12 +50,12 @@ Grailbird.data.tweets_2023_03 =
 			"screen_name": "gamerlearner",
 			"location": "Melbourne, Victoria",
 			"description": "Monash Ed Techs team, convenor of @TELedvisors SIG, PhD candidate in education at Sydney University. He/Him Opinions are mine. aka @gamerlearner@aus.social",
-			"url": "https://t.co/KhwTxiJwWu",
+			"url": "https://t.co/KhwTxj1GaC",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/KhwTxiJwWu",
+							"url": "https://t.co/KhwTxj1GaC",
 							"expanded_url": "http://about.me/colin.simpson",
 							"display_url": "about.me/colin.simpson",
 							"indices": [
@@ -70,16 +70,16 @@ Grailbird.data.tweets_2023_03 =
 				}
 			},
 			"protected": false,
-			"followers_count": 4072,
-			"friends_count": 4948,
+			"followers_count": 4083,
+			"friends_count": 4953,
 			"listed_count": 93,
 			"created_at": "Tue Jan 18 03:17:55 +0000 2011",
-			"favourites_count": 20026,
+			"favourites_count": 20039,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 21547,
+			"statuses_count": 21553,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -96,7 +96,7 @@ Grailbird.data.tweets_2023_03 =
 			"profile_sidebar_fill_color": "DDEEF6",
 			"profile_text_color": "333333",
 			"profile_use_background_image": true,
-			"has_extended_profile": false,
+			"has_extended_profile": true,
 			"default_profile": true,
 			"default_profile_image": false,
 			"following": true,
@@ -177,7 +177,7 @@ Grailbird.data.tweets_2023_03 =
 				}
 			},
 			"protected": false,
-			"followers_count": 821,
+			"followers_count": 820,
 			"friends_count": 164,
 			"listed_count": 85,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
@@ -423,7 +423,7 @@ Grailbird.data.tweets_2023_03 =
 				}
 			},
 			"protected": false,
-			"followers_count": 821,
+			"followers_count": 820,
 			"friends_count": 164,
 			"listed_count": 85,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
