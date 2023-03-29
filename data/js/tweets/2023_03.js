@@ -71,7 +71,7 @@ Grailbird.data.tweets_2023_03 =
 			},
 			"protected": false,
 			"followers_count": 4083,
-			"friends_count": 4953,
+			"friends_count": 4949,
 			"listed_count": 93,
 			"created_at": "Tue Jan 18 03:17:55 +0000 2011",
 			"favourites_count": 20039,
