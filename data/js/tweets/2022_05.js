@@ -464,16 +464,16 @@ Grailbird.data.tweets_2022_05 =
 					}
 				},
 				"protected": false,
-				"followers_count": 38639,
+				"followers_count": 38646,
 				"friends_count": 2483,
 				"listed_count": 704,
 				"created_at": "Sat May 04 18:51:09 +0000 2013",
-				"favourites_count": 43320,
+				"favourites_count": 43334,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": true,
-				"statuses_count": 44791,
+				"statuses_count": 44806,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -504,8 +504,8 @@ Grailbird.data.tweets_2022_05 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 3831,
-			"favorite_count": 13596,
+			"retweet_count": 3832,
+			"favorite_count": 13595,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
@@ -1461,7 +1461,7 @@ Grailbird.data.tweets_2022_05 =
 				}
 			},
 			"protected": false,
-			"followers_count": 120838,
+			"followers_count": 120843,
 			"friends_count": 1555,
 			"listed_count": 322,
 			"created_at": "Mon Oct 27 02:08:57 +0000 2014",
@@ -1927,16 +1927,16 @@ Grailbird.data.tweets_2022_05 =
 				}
 			},
 			"protected": false,
-			"followers_count": 1600,
-			"friends_count": 1373,
+			"followers_count": 1598,
+			"friends_count": 1372,
 			"listed_count": 74,
 			"created_at": "Sun May 10 03:15:29 +0000 2009",
-			"favourites_count": 43849,
+			"favourites_count": 43838,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 22942,
+			"statuses_count": 22941,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2034,16 +2034,16 @@ Grailbird.data.tweets_2022_05 =
 				}
 			},
 			"protected": false,
-			"followers_count": 27592,
+			"followers_count": 27588,
 			"friends_count": 4159,
 			"listed_count": 366,
 			"created_at": "Sat Jun 13 04:45:19 +0000 2009",
-			"favourites_count": 7608,
+			"favourites_count": 7607,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": true,
-			"statuses_count": 73381,
+			"statuses_count": 73379,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2140,16 +2140,16 @@ Grailbird.data.tweets_2022_05 =
 					}
 				},
 				"protected": false,
-				"followers_count": 13471,
+				"followers_count": 13472,
 				"friends_count": 6858,
 				"listed_count": 563,
 				"created_at": "Thu Nov 27 02:15:38 +0000 2008",
-				"favourites_count": 2008,
+				"favourites_count": 2009,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": true,
-				"statuses_count": 17597,
+				"statuses_count": 17598,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -2181,7 +2181,7 @@ Grailbird.data.tweets_2022_05 =
 			"contributors": null,
 			"is_quote_status": false,
 			"retweet_count": 711,
-			"favorite_count": 4921,
+			"favorite_count": 4919,
 			"favorited": false,
 			"retweeted": false,
 			"lang": "en"
@@ -2451,16 +2451,16 @@ Grailbird.data.tweets_2022_05 =
 				}
 			},
 			"protected": false,
-			"followers_count": 30492,
-			"friends_count": 3509,
-			"listed_count": 660,
+			"followers_count": 30516,
+			"friends_count": 3511,
+			"listed_count": 662,
 			"created_at": "Fri Nov 18 20:39:41 +0000 2011",
-			"favourites_count": 80894,
+			"favourites_count": 80943,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 92343,
+			"statuses_count": 92364,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2491,8 +2491,8 @@ Grailbird.data.tweets_2022_05 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 4647,
-		"favorite_count": 27551,
+		"retweet_count": 4646,
+		"favorite_count": 27548,
 		"favorited": false,
 		"retweeted": true,
 		"lang": "en",
@@ -2653,16 +2653,16 @@ Grailbird.data.tweets_2022_05 =
 					}
 				},
 				"protected": false,
-				"followers_count": 30492,
-				"friends_count": 3509,
-				"listed_count": 660,
+				"followers_count": 30516,
+				"friends_count": 3511,
+				"listed_count": 662,
 				"created_at": "Fri Nov 18 20:39:41 +0000 2011",
-				"favourites_count": 80894,
+				"favourites_count": 80943,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": false,
-				"statuses_count": 92343,
+				"statuses_count": 92364,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -2693,8 +2693,8 @@ Grailbird.data.tweets_2022_05 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 24788,
-			"favorite_count": 90837,
+			"retweet_count": 24785,
+			"favorite_count": 90834,
 			"favorited": false,
 			"retweeted": false,
 			"lang": "en"
@@ -2883,16 +2883,16 @@ Grailbird.data.tweets_2022_05 =
 				}
 			},
 			"protected": false,
-			"followers_count": 25655,
-			"friends_count": 2230,
+			"followers_count": 25658,
+			"friends_count": 2232,
 			"listed_count": 221,
 			"created_at": "Fri Apr 10 09:03:18 +0000 2009",
-			"favourites_count": 141684,
+			"favourites_count": 141733,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 97420,
+			"statuses_count": 97435,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2924,7 +2924,7 @@ Grailbird.data.tweets_2022_05 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 1013,
-		"favorite_count": 4224,
+		"favorite_count": 4222,
 		"favorited": false,
 		"retweeted": true,
 		"lang": "en",
@@ -3107,16 +3107,16 @@ Grailbird.data.tweets_2022_05 =
 				}
 			},
 			"protected": false,
-			"followers_count": 103925,
+			"followers_count": 104382,
 			"friends_count": 845,
-			"listed_count": 753,
+			"listed_count": 757,
 			"created_at": "Tue Jan 27 08:06:53 +0000 2009",
-			"favourites_count": 56687,
+			"favourites_count": 56694,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": true,
-			"statuses_count": 160813,
+			"statuses_count": 160828,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -3147,12 +3147,3034 @@ Grailbird.data.tweets_2022_05 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 39249,
-		"favorite_count": 153064,
+		"retweet_count": 39252,
+		"favorite_count": 153047,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
 		"text": "The final dance in Dirty Dancing, but they’re dancing to The Muppet Show theme tune. https://t.co/ldfjmm5JoQ"
+	},
+	{
+		"created_at": "Tue May 17 03:59:41 +0000 2022",
+		"id": 1526330073569034200,
+		"id_str": "1526412112376913920",
+		"full_text": "The Australian public is paying the fossil fuel industry to destroy the planet.\n\n\"five of the gas industry’s most prominent companies have paid no income tax for at least the past seven years, despite a combined income from their Australian operations of $138 billion\" https://t.co/5HtKswxPRG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			268
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5HtKswxPRG",
+					"expanded_url": "https://twitter.com/MarkOgge/status/1526328580648869888",
+					"display_url": "twitter.com/MarkOgge/statu…",
+					"indices": [
+						269,
+						292
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 799617770,
+			"id_str": "799617770",
+			"name": "Daniel Bleakley",
+			"screen_name": "DanielBleakley",
+			"location": "Ngunnawal country (Canberra)",
+			"description": "Climate Activist. Engineer. \n\nLead reporter @TheDriven_io\n\nCivilisation exists in a biosphere.\n\n@MinersInTeslas \n@AccessDisrupt \n\nhttps://t.co/XpUENNjE3P",
+			"url": "https://t.co/Lpz9H2m2wC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Lpz9H2m2wC",
+							"expanded_url": "https://www.instagram.com/danielbleakley/",
+							"display_url": "instagram.com/danielbleakley/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/XpUENNjE3P",
+							"expanded_url": "http://linktr.ee/danielbleakley",
+							"display_url": "linktr.ee/danielbleakley",
+							"indices": [
+								130,
+								153
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 24028,
+			"friends_count": 16617,
+			"listed_count": 148,
+			"created_at": "Mon Sep 03 04:29:19 +0000 2012",
+			"favourites_count": 78363,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 50045,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1356377252900917248/m1QajkuY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1356377252900917248/m1QajkuY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/799617770/1659499831",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1526328580648870000,
+		"quoted_status_id_str": "1526328580648869888",
+		"quoted_status_permalink": {
+			"url": "https://t.co/5HtKswxPRG",
+			"expanded": "https://twitter.com/MarkOgge/status/1526328580648869888",
+			"display": "twitter.com/MarkOgge/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Mon May 16 22:27:46 +0000 2022",
+			"id": 1526328580648870000,
+			"id_str": "1526328580648869888",
+			"full_text": "New Australia Institute analysis of ATO shows that key @APPEA members, gas giants Exxon, Santos, Senex, Arrow and APLNG, , paid no income tax over last 7 years on $138 billion income.\n\nSantos paid just $6 million on $27.8 billion income.\n\nMore in thread \nhttps://t.co/eexb0hnia5",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				278
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Appea",
+						"name": "Nana Akua",
+						"id": 20275880,
+						"id_str": "20275880",
+						"indices": [
+							55,
+							61
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/eexb0hnia5",
+						"expanded_url": "https://www.nationaltribune.com.au/appea-members-pay-no-income-tax-on-income-of-138-billion/",
+						"display_url": "nationaltribune.com.au/appea-members-…",
+						"indices": [
+							255,
+							278
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1267300532319711200,
+				"id_str": "1267300532319711234",
+				"name": "Mark Ogge",
+				"screen_name": "MarkOgge",
+				"location": "",
+				"description": "My views expressed on Twitter are entirely my own, and do not represent those of my employer, Climate and energy @theausinstitute",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3172,
+				"friends_count": 1004,
+				"listed_count": 38,
+				"created_at": "Mon Jun 01 03:43:17 +0000 2020",
+				"favourites_count": 1489,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2402,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1499168739694362625/8xYAvK9S_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1499168739694362625/8xYAvK9S_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1267300532319711234/1646264657",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 494,
+			"favorite_count": 641,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 73,
+		"favorite_count": 159,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The Australian public is paying the fossil fuel industry to destroy the planet.\n\n\"five of the gas industry’s most prominent companies have paid no income tax for at least the past seven years, despite a combined income from their Australian operations of $138 billion\" https://t.co/5HtKswxPRG"
+	},
+	{
+		"created_at": "Sun May 15 10:41:00 +0000 2022",
+		"id": 1525731475664289800,
+		"id_str": "1525788330226397184",
+		"full_text": "Are you a learning designer at an Australian, New Zealand, Pacific Islands or South-East Asian university?\nPlease do this 15-20 min survey https://t.co/LkRqjaeKbD, which seeks to investigate the role, work and professional identity of university learning designers https://t.co/BHryyOr7Xs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			264
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LkRqjaeKbD",
+					"expanded_url": "https://survey.qut.edu.au/f/195537/7d47/",
+					"display_url": "survey.qut.edu.au/f/195537/7d47/",
+					"indices": [
+						139,
+						162
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1525731362392907800,
+					"id_str": "1525731362392907776",
+					"indices": [
+						265,
+						288
+					],
+					"media_url": "http://pbs.twimg.com/media/FSx8lyYaIAAIytk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSx8lyYaIAAIytk.jpg",
+					"url": "https://t.co/BHryyOr7Xs",
+					"display_url": "pic.twitter.com/BHryyOr7Xs",
+					"expanded_url": "https://twitter.com/gamerlearner/status/1525731475664289792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1224,
+							"h": 1864,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 447,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 788,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1525731362392907800,
+					"id_str": "1525731362392907776",
+					"indices": [
+						265,
+						288
+					],
+					"media_url": "http://pbs.twimg.com/media/FSx8lyYaIAAIytk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSx8lyYaIAAIytk.jpg",
+					"url": "https://t.co/BHryyOr7Xs",
+					"display_url": "pic.twitter.com/BHryyOr7Xs",
+					"expanded_url": "https://twitter.com/gamerlearner/status/1525731475664289792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1224,
+							"h": 1864,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 447,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 788,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 239649193,
+			"id_str": "239649193",
+			"name": "Colin Simpson",
+			"screen_name": "gamerlearner",
+			"location": "Melbourne, Victoria",
+			"description": "Monash Ed Techs team, convenor of @TELedvisors SIG, PhD candidate in education at Sydney University. He/Him Opinions are mine. aka @gamerlearner@aus.social",
+			"url": "https://t.co/KhwTxj1GaC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KhwTxj1GaC",
+							"expanded_url": "http://about.me/colin.simpson",
+							"display_url": "about.me/colin.simpson",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4091,
+			"friends_count": 4951,
+			"listed_count": 93,
+			"created_at": "Tue Jan 18 03:17:55 +0000 2011",
+			"favourites_count": 20064,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 21589,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1589749009513476098/mP8Dna_7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1589749009513476098/mP8Dna_7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/239649193/1656144505",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 36,
+		"favorite_count": 27,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Are you a learning designer at an Australian, New Zealand, Pacific Islands or South-East Asian university?\nPlease do this 15-20 min survey https://t.co/LkRqjaeKbD, which seeks to investigate the role, work and professional identity of university learning designers https://t.co/BHryyOr7Xs"
+	},
+	{
+		"created_at": "Sun May 15 09:33:15 +0000 2022",
+		"id": 1525712656224878600,
+		"id_str": "1525771281643479042",
+		"full_text": "The Australien Government has made an ad for the final week leading up to the election, and it's surprsingly honest and informative. #AusVotes2022 https://t.co/vrpsCoWlnp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AusVotes2022",
+					"indices": [
+						133,
+						146
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1525711105305493500,
+					"id_str": "1525711105305493504",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/FTPBXR_aQAAknIS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTPBXR_aQAAknIS.jpg",
+					"url": "https://t.co/vrpsCoWlnp",
+					"display_url": "pic.twitter.com/vrpsCoWlnp",
+					"expanded_url": "https://twitter.com/thejuicemedia/status/1525712656224878593/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1525711105305493500,
+					"id_str": "1525711105305493504",
+					"indices": [
+						147,
+						170
+					],
+					"media_url": "http://pbs.twimg.com/media/FTPBXR_aQAAknIS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTPBXR_aQAAknIS.jpg",
+					"url": "https://t.co/vrpsCoWlnp",
+					"display_url": "pic.twitter.com/vrpsCoWlnp",
+					"expanded_url": "https://twitter.com/thejuicemedia/status/1525712656224878593/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 129620,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1525711105305493504/vid/480x270/N2dqO7e52RyBWwnd.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1525711105305493504/vid/1280x720/-1p4h_9QVRm8uPnZ.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1525711105305493504/pl/7kGkUMxT_rks9dWB.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1525711105305493504/vid/640x360/SKyy_Cd10OM6zUg-.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "Honest Government Ad | 1 Week Left!",
+						"description": "The Australien Government made an ad for the final week leading up to the election, and it's surprsingly honest and informative. ",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://www.patreon.com/TheJuiceMedia"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 164929952,
+			"id_str": "164929952",
+			"name": "theJuiceMedia",
+			"screen_name": "thejuicemedia",
+			"location": "Wurundjeri land / Melbourne",
+			"description": "We make Honest Government Ads. You can support us on 🅿atreon: https://t.co/JOoJQtvKtE 🐘: https://t.co/ddWcNR9qur Est. 384ppm",
+			"url": "https://t.co/n9je8D3od0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/n9je8D3od0",
+							"expanded_url": "http://www.thejuicemedia.com",
+							"display_url": "thejuicemedia.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/JOoJQtvKtE",
+							"expanded_url": "http://patreon.com/thejuicemedia",
+							"display_url": "patreon.com/thejuicemedia",
+							"indices": [
+								62,
+								85
+							]
+						},
+						{
+							"url": "https://t.co/ddWcNR9qur",
+							"expanded_url": "http://mastodon.social/@thejuicemedia",
+							"display_url": "mastodon.social/@thejuicemedia",
+							"indices": [
+								89,
+								112
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 135000,
+			"friends_count": 2269,
+			"listed_count": 1203,
+			"created_at": "Sat Jul 10 03:38:50 +0000 2010",
+			"favourites_count": 23593,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11946,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182247391216324609/GWub83nk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182247391216324609/GWub83nk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/164929952/1634386291",
+			"profile_link_color": "005599",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1995,
+		"favorite_count": 4276,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The Australien Government has made an ad for the final week leading up to the election, and it's surprsingly honest and informative. #AusVotes2022 https://t.co/vrpsCoWlnp"
+	},
+	{
+		"created_at": "Sun May 15 09:29:20 +0000 2022",
+		"id": 1525684264934973400,
+		"id_str": "1525770296716046343",
+		"full_text": "Men will literally drain the retirement savings of young people instead of just ending negative bloody gearing.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20221582,
+			"id_str": "20221582",
+			"name": "Elly Baxter",
+			"screen_name": "ellybaxterpr",
+			"location": "Gadigal land",
+			"description": "Climate + comms 🌏🌊🌬️🌄\nMove your super to a fossil fuel free fund + ffs switch to renewable energy!\nShe/her",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3239,
+			"friends_count": 1138,
+			"listed_count": 94,
+			"created_at": "Fri Feb 06 07:26:56 +0000 2009",
+			"favourites_count": 40973,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 82493,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EE588A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1560841519913136129/ElDBEO4H_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1560841519913136129/ElDBEO4H_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20221582/1506848229",
+			"profile_link_color": "B40B43",
+			"profile_sidebar_border_color": "CC3366",
+			"profile_sidebar_fill_color": "E5507E",
+			"profile_text_color": "362720",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 915,
+		"favorite_count": 6142,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Men will literally drain the retirement savings of young people instead of just ending negative bloody gearing."
+	},
+	{
+		"created_at": "Fri May 13 21:54:22 +0000 2022",
+		"id": 1525209378114228200,
+		"id_str": "1525233012585418752",
+		"full_text": "You will have heard thousands of different opinions over the years about Israel and Palestine. But much of the video from the last few days speaks for itself. This is life under apartheid ⬇️ https://t.co/BpwFL66yPD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BpwFL66yPD",
+					"expanded_url": "https://twitter.com/malonebarry/status/1525111238077841410",
+					"display_url": "twitter.com/malonebarry/st…",
+					"indices": [
+						191,
+						214
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 31957479,
+			"id_str": "31957479",
+			"name": "Sophie McNeill",
+			"screen_name": "Sophiemcneill",
+			"location": "Walyalup/Freo, West Australia",
+			"description": "Journalist, Senior Australia Researcher @hrw Human Rights Watch, Author ‘We Can’t Say We Didn’t Know’ Instagram sophie_mcneill1 @SophieMcNeill@aus.social",
+			"url": "https://t.co/17iep5bYm3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/17iep5bYm3",
+							"expanded_url": "https://www.hrw.org/about/people/sophie-mcneill",
+							"display_url": "hrw.org/about/people/s…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 64338,
+			"friends_count": 8480,
+			"listed_count": 1021,
+			"created_at": "Thu Apr 16 16:33:57 +0000 2009",
+			"favourites_count": 41751,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 36689,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1409524736472666115/STUaHs4r_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1409524736472666115/STUaHs4r_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/31957479/1597843971",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1525111238077841400,
+		"quoted_status_id_str": "1525111238077841410",
+		"quoted_status_permalink": {
+			"url": "https://t.co/BpwFL66yPD",
+			"expanded": "https://twitter.com/malonebarry/status/1525111238077841410",
+			"display": "twitter.com/malonebarry/st…"
+		},
+		"quoted_status": {
+			"created_at": "Fri May 13 13:50:29 +0000 2022",
+			"id": 1525111238077841400,
+			"id_str": "1525111238077841410",
+			"full_text": "Israeli forces pulling Palestinian flags off Shireen Abu Akleh's hearse. https://t.co/8qTX9uCPV1",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				96
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1525077015296151600,
+						"id_str": "1525077015296151552",
+						"indices": [
+							73,
+							96
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1525077015296151552/pu/img/x-6z4fKee7LTw33S.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1525077015296151552/pu/img/x-6z4fKee7LTw33S.jpg",
+						"url": "https://t.co/8qTX9uCPV1",
+						"display_url": "pic.twitter.com/8qTX9uCPV1",
+						"expanded_url": "https://twitter.com/Lachjerusalem/status/1525077567346200577/video/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1272,
+								"h": 720,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 679,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 385,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1525077567346200600,
+						"source_status_id_str": "1525077567346200577",
+						"source_user_id": 868587645701697500,
+						"source_user_id_str": "868587645701697536"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1525077015296151600,
+						"id_str": "1525077015296151552",
+						"indices": [
+							73,
+							96
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1525077015296151552/pu/img/x-6z4fKee7LTw33S.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1525077015296151552/pu/img/x-6z4fKee7LTw33S.jpg",
+						"url": "https://t.co/8qTX9uCPV1",
+						"display_url": "pic.twitter.com/8qTX9uCPV1",
+						"expanded_url": "https://twitter.com/Lachjerusalem/status/1525077567346200577/video/1",
+						"type": "video",
+						"sizes": {
+							"large": {
+								"w": 1272,
+								"h": 720,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 679,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 385,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1525077567346200600,
+						"source_status_id_str": "1525077567346200577",
+						"source_user_id": 868587645701697500,
+						"source_user_id_str": "868587645701697536",
+						"video_info": {
+							"aspect_ratio": [
+								53,
+								30
+							],
+							"duration_millis": 46321,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1525077015296151552/pu/vid/636x360/eafLVy-L9k34X9Xb.mp4?tag=12"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1525077015296151552/pu/vid/476x270/sDAHz1BGKykSkmLm.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1525077015296151552/pu/pl/nVURVasFFDBW2xwA.m3u8?tag=12&container=fmp4"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1525077015296151552/pu/vid/1272x720/3X6kNcmvjxK4vq6N.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 868587645701697500,
+								"id_str": "868587645701697536",
+								"name": "מאור צמח-לך ירושלים",
+								"screen_name": "Lachjerusalem",
+								"location": "ירושלים",
+								"description": "יור ארגון לך ירושלים",
+								"url": null,
+								"entities": {
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 1386,
+								"friends_count": 1407,
+								"listed_count": 7,
+								"created_at": "Sat May 27 22:00:07 +0000 2017",
+								"favourites_count": 6440,
+								"utc_offset": null,
+								"time_zone": null,
+								"geo_enabled": true,
+								"verified": false,
+								"statuses_count": 3145,
+								"lang": null,
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "F5F8FA",
+								"profile_background_image_url": null,
+								"profile_background_image_url_https": null,
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/956180372445978627/x1-4cqsz_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/956180372445978627/x1-4cqsz_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/868587645701697536/1602784094",
+								"profile_link_color": "1DA1F2",
+								"profile_sidebar_border_color": "C0DEED",
+								"profile_sidebar_fill_color": "DDEEF6",
+								"profile_text_color": "333333",
+								"profile_use_background_image": true,
+								"has_extended_profile": true,
+								"default_profile": true,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none",
+								"withheld_in_countries": []
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18753586,
+				"id_str": "18753586",
+				"name": "Barry Malone",
+				"screen_name": "malonebarry",
+				"location": "London",
+				"description": "Deputy Editor-in-Chief, Thomson Reuters Foundation. Past: EP @AJStream / Digital Editor @AJEnglish / @Reuters in Africa and Middle East.",
+				"url": "https://t.co/0LO5VSMDjz",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/0LO5VSMDjz",
+								"expanded_url": "https://proximities.substack.com/",
+								"display_url": "proximities.substack.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 42074,
+				"friends_count": 2980,
+				"listed_count": 751,
+				"created_at": "Thu Jan 08 04:27:43 +0000 2009",
+				"favourites_count": 62585,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 48012,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F7F7F7",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1641749892224675840/DE5W5fp__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1641749892224675840/DE5W5fp__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18753586/1403688026",
+				"profile_link_color": "2878B5",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E3E2DE",
+				"profile_text_color": "634047",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8072,
+			"favorite_count": 13118,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 683,
+		"favorite_count": 1778,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "You will have heard thousands of different opinions over the years about Israel and Palestine. But much of the video from the last few days speaks for itself. This is life under apartheid ⬇️ https://t.co/BpwFL66yPD"
+	},
+	{
+		"created_at": "Fri May 13 21:46:48 +0000 2022",
+		"id": 1525231108870111200,
+		"id_str": "1525231108870111232",
+		"full_text": "The web starts on page four | Christian Heilmann https://t.co/RWal5yIC3z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RWal5yIC3z",
+					"expanded_url": "https://christianheilmann.com/2021/12/20/the-web-starts-on-page-four/",
+					"display_url": "christianheilmann.com/2021/12/20/the…",
+					"indices": [
+						49,
+						72
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Adelaide, South Australia",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology. Also find me @timklapdor@mastodon.social",
+			"url": "https://t.co/83ULNLDqhO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/83ULNLDqhO",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 820,
+			"friends_count": 164,
+			"listed_count": 85,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 10353,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15470,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The web starts on page four | Christian Heilmann https://t.co/RWal5yIC3z"
+	},
+	{
+		"created_at": "Fri May 13 13:13:01 +0000 2022",
+		"id": 1525071210589077500,
+		"id_str": "1525101811937722368",
+		"full_text": "Horrible scenes as Israeli security forces beat the funeral procession for slain journalist Shireen Abu Akleh and the crowd momentarily lose control of her casket https://t.co/DEJF5Ty9tZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1525071080343339000,
+					"id_str": "1525071080343339009",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1525071080343339009/pu/img/_kLJspFCZKl9gbGp.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1525071080343339009/pu/img/_kLJspFCZKl9gbGp.jpg",
+					"url": "https://t.co/DEJF5Ty9tZ",
+					"display_url": "pic.twitter.com/DEJF5Ty9tZ",
+					"expanded_url": "https://twitter.com/EmirNader/status/1525071210589077504/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 555,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 315,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 592,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1525071080343339000,
+					"id_str": "1525071080343339009",
+					"indices": [
+						163,
+						186
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1525071080343339009/pu/img/_kLJspFCZKl9gbGp.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1525071080343339009/pu/img/_kLJspFCZKl9gbGp.jpg",
+					"url": "https://t.co/DEJF5Ty9tZ",
+					"display_url": "pic.twitter.com/DEJF5Ty9tZ",
+					"expanded_url": "https://twitter.com/EmirNader/status/1525071210589077504/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 555,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 315,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 592,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							80,
+							37
+						],
+						"duration_millis": 49280,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1525071080343339009/pu/vid/1280x592/SpTPKTFXEM1t0i1i.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1525071080343339009/pu/vid/778x360/v9-t2jIoCwR1AJrH.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1525071080343339009/pu/pl/oB8XJDv96zqUv1mz.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1525071080343339009/pu/vid/582x270/m61ihYd5_z30Wbx9.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 62831879,
+			"id_str": "62831879",
+			"name": "Emir Nader",
+			"screen_name": "EmirNader",
+			"location": "London, Cairo, Darlo",
+			"description": "BBC correspondent and investigative filmmaker, focus Middle East & North Africa. @BBCArabic and beyond 🇬🇧🇪🇬 emir.nader@bbc.co.uk",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5761,
+			"friends_count": 3532,
+			"listed_count": 96,
+			"created_at": "Tue Aug 04 14:30:46 +0000 2009",
+			"favourites_count": 2143,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 8802,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1387059365790760960/PwN6aEnH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1387059365790760960/PwN6aEnH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/62831879/1436102810",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18912,
+		"favorite_count": 41260,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Horrible scenes as Israeli security forces beat the funeral procession for slain journalist Shireen Abu Akleh and the crowd momentarily lose control of her casket https://t.co/DEJF5Ty9tZ"
+	},
+	{
+		"created_at": "Wed May 11 13:03:20 +0000 2022",
+		"id": 1524362722779222000,
+		"id_str": "1524374600498692097",
+		"full_text": "To think the man who refused to order vaccines or RATs, resisted all efforts at lockdowns so States had to step in, went to Hawaii when nation burned, had thousands of deaths in aged care homes their gov oversee &amp; failed on floods, thinks they are the safe hands! #LeadersDebate",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			282
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LeadersDebate",
+					"indices": [
+						268,
+						282
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 238575113,
+			"id_str": "238575113",
+			"name": "Kon Karapanagiotidis",
+			"screen_name": "Kon__K",
+			"location": "Australia, Wurundjeri Land",
+			"description": "OAM. Founder/CEO @ASRC1. Lawyer/Social Worker/Teacher/Author/Cook/Philanthropist/B @ChildrensGround My #Insta #TikTok #FB - @konkarapanagiotidis #Mastodon @kon",
+			"url": "https://t.co/Cq08F93yCB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Cq08F93yCB",
+							"expanded_url": "https://donate.asrc.org.au/save-the-asrc",
+							"display_url": "donate.asrc.org.au/save-the-asrc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 80932,
+			"friends_count": 7939,
+			"listed_count": 640,
+			"created_at": "Sat Jan 15 14:03:07 +0000 2011",
+			"favourites_count": 57193,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 86415,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFF04D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1588042192618414085/GFZ8AZ3K_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1588042192618414085/GFZ8AZ3K_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/238575113/1677672398",
+			"profile_link_color": "0099CC",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F6FFD1",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 189,
+		"favorite_count": 640,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "To think the man who refused to order vaccines or RATs, resisted all efforts at lockdowns so States had to step in, went to Hawaii when nation burned, had thousands of deaths in aged care homes their gov oversee &amp; failed on floods, thinks they are the safe hands! #LeadersDebate"
+	},
+	{
+		"created_at": "Sun May 08 05:08:14 +0000 2022",
+		"id": 1523097852733448200,
+		"id_str": "1523167873317089280",
+		"full_text": "The two leaders are fronting up for two more campaign debates this week.\n\nBut before then – @rabbitandcoffee pits them against each other in search of the truth #Insiders #auspol https://t.co/d2CJFdppMC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Insiders",
+					"indices": [
+						161,
+						170
+					]
+				},
+				{
+					"text": "auspol",
+					"indices": [
+						171,
+						178
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rabbitandcoffee",
+					"name": "Huw Parkinson",
+					"id": 2837256067,
+					"id_str": "2837256067",
+					"indices": [
+						92,
+						108
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1523053676016771000,
+					"id_str": "1523053676016771072",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/FSL5sntVgAA32OA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSL5sntVgAA32OA.jpg",
+					"url": "https://t.co/d2CJFdppMC",
+					"display_url": "pic.twitter.com/d2CJFdppMC",
+					"expanded_url": "https://twitter.com/InsidersABC/status/1523097852733448192/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1523053676016771000,
+					"id_str": "1523053676016771072",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/FSL5sntVgAA32OA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSL5sntVgAA32OA.jpg",
+					"url": "https://t.co/d2CJFdppMC",
+					"display_url": "pic.twitter.com/d2CJFdppMC",
+					"expanded_url": "https://twitter.com/InsidersABC/status/1523097852733448192/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 123248,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1523053676016771072/vid/480x270/aFs-n4tBX4Wuvmu9.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1523053676016771072/pl/mJtEty7qURWZGCc9.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1523053676016771072/vid/640x360/1ef1dcDZsVgnnT43.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1523053676016771072/vid/1280x720/M3XcVcc8r7MzWQUH.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1113341312,
+			"id_str": "1113341312",
+			"name": "Insiders ABC",
+			"screen_name": "InsidersABC",
+			"location": "",
+			"description": "(Archived: Please follow @abcnews for latest news) Australia's flagship political discussion program. This is an official @ABCAustralia account.",
+			"url": "https://t.co/RzIk7pTaHh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RzIk7pTaHh",
+							"expanded_url": "http://www.abc.net.au/insiders",
+							"display_url": "abc.net.au/insiders",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 145989,
+			"friends_count": 629,
+			"listed_count": 871,
+			"created_at": "Wed Jan 23 03:33:46 +0000 2013",
+			"favourites_count": 255,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 12269,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1222321601728745473/9qic0mjV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1222321601728745473/9qic0mjV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1113341312/1580270191",
+			"profile_link_color": "DD9900",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 139,
+		"favorite_count": 484,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The two leaders are fronting up for two more campaign debates this week.\n\nBut before then – @rabbitandcoffee pits them against each other in search of the truth #Insiders #auspol https://t.co/d2CJFdppMC"
+	},
+	{
+		"created_at": "Sun May 08 03:10:00 +0000 2022",
+		"id": 1523138118026547200,
+		"id_str": "1523138118026547200",
+		"full_text": "It’s not just isolation from others, but from my family. No hugs or physical contact. No face to face conversations. No real conversations at all.\n\nProper isolation.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": 1523137357465395200,
+		"in_reply_to_status_id_str": "1523137357465395208",
+		"in_reply_to_user_id": 174124175,
+		"in_reply_to_user_id_str": "174124175",
+		"in_reply_to_screen_name": "timklapdor",
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Adelaide, South Australia",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology. Also find me @timklapdor@mastodon.social",
+			"url": "https://t.co/83ULNLDqhO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/83ULNLDqhO",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 820,
+			"friends_count": 164,
+			"listed_count": 85,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 10353,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15470,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "It’s not just isolation from others, but from my family. No hugs or physical contact. No face to face conversations. No real conversations at all.\n\nProper isolation."
+	},
+	{
+		"created_at": "Sun May 08 03:06:59 +0000 2022",
+		"id": 1523137357465395200,
+		"id_str": "1523137357465395208",
+		"full_text": "Have spent most of the week out with Covid after eventually contracting it after 2 years. \n\nMostly cold and flu level symptoms. Last couple of days has been fatigue. Intense, deep and mind numbing fatigue. \n\nHave been able to isolate in the house. But it’s hard.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			262
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Adelaide, South Australia",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology. Also find me @timklapdor@mastodon.social",
+			"url": "https://t.co/83ULNLDqhO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/83ULNLDqhO",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 820,
+			"friends_count": 164,
+			"listed_count": 85,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 10353,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15470,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Have spent most of the week out with Covid after eventually contracting it after 2 years. \n\nMostly cold and flu level symptoms. Last couple of days has been fatigue. Intense, deep and mind numbing fatigue. \n\nHave been able to isolate in the house. But it’s hard."
+	},
+	{
+		"created_at": "Sun May 08 03:03:17 +0000 2022",
+		"id": 1523136428699680800,
+		"id_str": "1523136428699680769",
+		"full_text": "@jimgroom have found a local who gets the reclaim vibe here in Adelaide! Movie, ad reviews and a local store! Plus I think you’ll enjoy the aesthetic https://t.co/xGJ6HexVRt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jimgroom",
+					"name": "Jim Groom",
+					"id": 3362981,
+					"id_str": "3362981",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/xGJ6HexVRt",
+					"expanded_url": "https://youtu.be/E3NYbZc_Gzg",
+					"display_url": "youtu.be/E3NYbZc_Gzg",
+					"indices": [
+						150,
+						173
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 3362981,
+		"in_reply_to_user_id_str": "3362981",
+		"in_reply_to_screen_name": "jimgroom",
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Adelaide, South Australia",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology. Also find me @timklapdor@mastodon.social",
+			"url": "https://t.co/83ULNLDqhO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/83ULNLDqhO",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 820,
+			"friends_count": 164,
+			"listed_count": 85,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 10353,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15470,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@jimgroom have found a local who gets the reclaim vibe here in Adelaide! Movie, ad reviews and a local store! Plus I think you’ll enjoy the aesthetic https://t.co/xGJ6HexVRt"
+	},
+	{
+		"created_at": "Fri May 06 05:54:03 +0000 2022",
+		"id": 1522385582839963600,
+		"id_str": "1522454627886632960",
+		"full_text": "If you only watch one election ad... https://t.co/Gg67tiq28U",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			36
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Gg67tiq28U",
+					"expanded_url": "https://t.co/Gg67tiq28U",
+					"display_url": "t.co/Gg67tiq28U",
+					"indices": [
+						37,
+						60
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 94004565,
+			"id_str": "94004565",
+			"name": "Tony Martin",
+			"screen_name": "mrtonymartin",
+			"location": "Melbourne, Australia",
+			"description": "Mayor of SIZZLETOWN https://t.co/Dzcny2qqfD | THE ARSE/ELBOW EQUATION short return season at #MICF from March 29 - EXTRA SHOW ADDED Apr 7: https://t.co/bjrlhzKlew",
+			"url": "https://t.co/GNiSzMFv2O",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GNiSzMFv2O",
+							"expanded_url": "https://mrtonymartin.bandcamp.com",
+							"display_url": "mrtonymartin.bandcamp.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Dzcny2qqfD",
+							"expanded_url": "http://sizzletownpodcast.com",
+							"display_url": "sizzletownpodcast.com",
+							"indices": [
+								20,
+								43
+							]
+						},
+						{
+							"url": "https://t.co/bjrlhzKlew",
+							"expanded_url": "http://tinyurl.com/2ku9ypa7",
+							"display_url": "tinyurl.com/2ku9ypa7",
+							"indices": [
+								139,
+								162
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 89600,
+			"friends_count": 352,
+			"listed_count": 670,
+			"created_at": "Wed Dec 02 02:46:11 +0000 2009",
+			"favourites_count": 100,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 27783,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000580537921/7b0cc472d4a36416dd392f3f21ee5d0a_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000580537921/7b0cc472d4a36416dd392f3f21ee5d0a_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94004565/1618724646",
+			"profile_link_color": "F15B24",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E3E1CA",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1522079041330851800,
+		"quoted_status_id_str": "1522079041330851840",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Gg67tiq28U",
+			"expanded": "https://t.co/Gg67tiq28U",
+			"display": "t.co/Gg67tiq28U"
+		},
+		"retweet_count": 35,
+		"favorite_count": 159,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If you only watch one election ad... https://t.co/Gg67tiq28U"
+	},
+	{
+		"created_at": "Wed May 04 02:11:29 +0000 2022",
+		"id": 1521478089305256000,
+		"id_str": "1521673840690032641",
+		"full_text": "Tiktok on point. https://t.co/26vC6ELW1P",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			16
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1521477986079314000,
+					"id_str": "1521477986079313920",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1521477986079313920/pu/img/Z621MqBuBxbtYQBH.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1521477986079313920/pu/img/Z621MqBuBxbtYQBH.jpg",
+					"url": "https://t.co/26vC6ELW1P",
+					"display_url": "pic.twitter.com/26vC6ELW1P",
+					"expanded_url": "https://twitter.com/woollogirl/status/1521478089305255936/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1521477986079314000,
+					"id_str": "1521477986079313920",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1521477986079313920/pu/img/Z621MqBuBxbtYQBH.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1521477986079313920/pu/img/Z621MqBuBxbtYQBH.jpg",
+					"url": "https://t.co/26vC6ELW1P",
+					"display_url": "pic.twitter.com/26vC6ELW1P",
+					"expanded_url": "https://twitter.com/woollogirl/status/1521478089305255936/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 576,
+							"h": 1024,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 122233,
+						"variants": [
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1521477986079313920/pu/vid/480x852/COuSJfLx2Szr4KhE.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1521477986079313920/pu/vid/320x568/x6lcAdaJiGdXUGrq.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1521477986079313920/pu/vid/576x1024/o1KkNWmB1B3AV8xD.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1521477986079313920/pu/pl/frqVdtViuIz39HZ7.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 58710767,
+			"id_str": "58710767",
+			"name": "Elizabeth Wymarra",
+			"screen_name": "woollogirl",
+			"location": "Woolloomooloo 2011",
+			"description": "Sovereign,Author,Film Maker,Comedy, Writer,Actor,Media & Unashamed Dyslexic! I wk for my people 🐊 https://t.co/FRAoycjJC9 ✊🏾 #SovereigntyNeverCeded🔥",
+			"url": "https://t.co/0a1vsz9I74",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0a1vsz9I74",
+							"expanded_url": "http://www.treaty-council.com",
+							"display_url": "treaty-council.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/FRAoycjJC9",
+							"expanded_url": "http://wymarradesignsonline.com",
+							"display_url": "wymarradesignsonline.com",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 7434,
+			"friends_count": 5337,
+			"listed_count": 100,
+			"created_at": "Tue Jul 21 05:04:10 +0000 2009",
+			"favourites_count": 63886,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 76372,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1521684427004203008/FA0c4Vp0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1521684427004203008/FA0c4Vp0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/58710767/1560335400",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2671,
+		"favorite_count": 6787,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "Tiktok on point. https://t.co/26vC6ELW1P"
+	},
+	{
+		"created_at": "Tue May 03 05:10:29 +0000 2022",
+		"id": 1521317409424130000,
+		"id_str": "1521356500509556736",
+		"full_text": "The Supreme Court building now has more protections from unwanted occupants than an American woman's uterus. https://t.co/JWPnuDSOfD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JWPnuDSOfD",
+					"expanded_url": "https://twitter.com/cami_mondeaux/status/1521296227291312133",
+					"display_url": "twitter.com/cami_mondeaux/…",
+					"indices": [
+						109,
+						132
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 40353407,
+			"id_str": "40353407",
+			"name": "Elie Mystal",
+			"screen_name": "ElieNYC",
+			"location": "NY",
+			"description": "Justice Correspondent: @thenation. Alfred Knobler Fellow: @typemediacenter Str:12 Dex:8 Con:15 Int:13 Wis:10 Char:14 Author: Allow Me To Retort",
+			"url": "https://t.co/aTX8jX5TCg",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aTX8jX5TCg",
+							"expanded_url": "https://www.thenation.com/authors/elie-mystal/",
+							"display_url": "thenation.com/authors/elie-m…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 496780,
+			"friends_count": 5111,
+			"listed_count": 3870,
+			"created_at": "Fri May 15 22:47:11 +0000 2009",
+			"favourites_count": 86277,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 58016,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1F2323",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1554595874071789571/d43D1SfX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1554595874071789571/d43D1SfX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/40353407/1641835778",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1521296227291312000,
+		"quoted_status_id_str": "1521296227291312133",
+		"quoted_status_permalink": {
+			"url": "https://t.co/JWPnuDSOfD",
+			"expanded": "https://twitter.com/cami_mondeaux/status/1521296227291312133",
+			"display": "twitter.com/cami_mondeaux/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue May 03 01:10:59 +0000 2022",
+			"id": 1521296227291312000,
+			"id_str": "1521296227291312133",
+			"full_text": "Right now: Barricades are up around the Supreme Court building, just minutes after reports from Politico were leaked indicating SCOTUS has voted to overturn Roe v. Wade. https://t.co/LxR9rbs6TF",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				169
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1521296220240629800,
+						"id_str": "1521296220240629764",
+						"indices": [
+							170,
+							193
+						],
+						"media_url": "http://pbs.twimg.com/media/FRy62iWWUAQYqHe.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FRy62iWWUAQYqHe.jpg",
+						"url": "https://t.co/LxR9rbs6TF",
+						"display_url": "pic.twitter.com/LxR9rbs6TF",
+						"expanded_url": "https://twitter.com/cami_mondeaux/status/1521296227291312133/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1521296220240629800,
+						"id_str": "1521296220240629764",
+						"indices": [
+							170,
+							193
+						],
+						"media_url": "http://pbs.twimg.com/media/FRy62iWWUAQYqHe.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FRy62iWWUAQYqHe.jpg",
+						"url": "https://t.co/LxR9rbs6TF",
+						"display_url": "pic.twitter.com/LxR9rbs6TF",
+						"expanded_url": "https://twitter.com/cami_mondeaux/status/1521296227291312133/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3553149338,
+				"id_str": "3553149338",
+				"name": "Cami Mondeaux",
+				"screen_name": "cami_mondeaux",
+				"location": "Washington, DC ",
+				"description": "I just love the news | Keeping an eye on Congress, campaigns, and other news for @dcexaminer | Past lives: @kslnewsradio @KUER @diplomatnews",
+				"url": "https://t.co/RYq5TDQeI6",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/RYq5TDQeI6",
+								"expanded_url": "https://www.washingtonexaminer.com/author/cami-mondeaux",
+								"display_url": "washingtonexaminer.com/author/cami-mo…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2097,
+				"friends_count": 714,
+				"listed_count": 22,
+				"created_at": "Sun Sep 13 21:15:30 +0000 2015",
+				"favourites_count": 3474,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 3360,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1624231826481991681/XDCvRCQR_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1624231826481991681/XDCvRCQR_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3553149338/1668897142",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 17792,
+			"favorite_count": 59377,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1628,
+		"favorite_count": 5319,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The Supreme Court building now has more protections from unwanted occupants than an American woman's uterus. https://t.co/JWPnuDSOfD"
+	},
+	{
+		"created_at": "Mon May 02 22:54:50 +0000 2022",
+		"id": 1521261962344435700,
+		"id_str": "1521261962344435713",
+		"full_text": "This is a hard one. There’s been decisions, yes. But there was a lack of resourcing and resolve of desire to change that renders the decisions ineffective. https://t.co/Nh9RBW4ngh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Nh9RBW4ngh",
+					"expanded_url": "https://twitter.com/hannahforsyth/status/1521228918044254208",
+					"display_url": "twitter.com/hannahforsyth/…",
+					"indices": [
+						156,
+						179
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Adelaide, South Australia",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology. Also find me @timklapdor@mastodon.social",
+			"url": "https://t.co/83ULNLDqhO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/83ULNLDqhO",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 820,
+			"friends_count": 164,
+			"listed_count": 85,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 10353,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15470,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1521228918044254200,
+		"quoted_status_id_str": "1521228918044254208",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Nh9RBW4ngh",
+			"expanded": "https://twitter.com/hannahforsyth/status/1521228918044254208",
+			"display": "twitter.com/hannahforsyth/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon May 02 20:43:31 +0000 2022",
+			"id": 1521228918044254200,
+			"id_str": "1521228918044254208",
+			"full_text": "What was the last time you saw university management make a decision that made learning, teaching and research better? How many can you count? What about decisions that made core activities worse? Not a rhetorical question…",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				223
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15204949,
+				"id_str": "15204949",
+				"name": "Hannah Forsyth",
+				"screen_name": "hannahforsyth",
+				"location": "Dharug & Gundungurra, Katoomba",
+				"description": "Historian @ ACU Sydney. Author History of the Modern Australian University. New book Virtue Capitalists coming soon: https://t.co/hxoPLQY0Z1 she/her views=mine",
+				"url": "https://t.co/iYbvrnX7VX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/iYbvrnX7VX",
+								"expanded_url": "https://webapps.acu.edu.au/staffdirectory/index.php?hannah-forsyth=",
+								"display_url": "webapps.acu.edu.au/staffdirectory…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/hxoPLQY0Z1",
+								"expanded_url": "http://tiny.cc/ynu5vz",
+								"display_url": "tiny.cc/ynu5vz",
+								"indices": [
+									117,
+									140
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2785,
+				"friends_count": 2487,
+				"listed_count": 41,
+				"created_at": "Mon Jun 23 08:15:01 +0000 2008",
+				"favourites_count": 36843,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 9220,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1182066171190771712/Q2e5UCnr_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182066171190771712/Q2e5UCnr_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15204949/1677754339",
+				"profile_link_color": "19CF86",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 22,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is a hard one. There’s been decisions, yes. But there was a lack of resourcing and resolve of desire to change that renders the decisions ineffective. https://t.co/Nh9RBW4ngh"
+	},
+	{
+		"created_at": "Sun May 01 03:03:58 +0000 2022",
+		"id": 1520443861751013400,
+		"id_str": "1520599883173875712",
+		"full_text": "@cstross @MitchBenn Student debt is a very clever control mechanism!\nAll education should be free !\nBut if you give students massive debts they are less likely to rebel !\nIt’s not the money they are lending it’s the control they are achieving",
+		"truncated": false,
+		"display_text_range": [
+			20,
+			242
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cstross",
+					"name": "Charlie Stross",
+					"id": 390039185,
+					"id_str": "390039185",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "MitchBenn",
+					"name": "Mitch Benn",
+					"id": 20291015,
+					"id_str": "20291015",
+					"indices": [
+						9,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1520118276629667800,
+		"in_reply_to_status_id_str": "1520118276629667840",
+		"in_reply_to_user_id": 390039185,
+		"in_reply_to_user_id_str": "390039185",
+		"in_reply_to_screen_name": "cstross",
+		"user": {
+			"id": 23800306,
+			"id_str": "23800306",
+			"name": "Gareth Hall",
+			"screen_name": "GarethDavidHall",
+			"location": "Wales, United Kingdom",
+			"description": "Welshman doing occasional missionary work in England 🐰 Pro Europe anti brexit pro Labour very very anti tory",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 192,
+			"friends_count": 453,
+			"listed_count": 0,
+			"created_at": "Wed Mar 11 18:03:48 +0000 2009",
+			"favourites_count": 12707,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7939,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1575605896830492690/oOm2E-2d_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1575605896830492690/oOm2E-2d_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/23800306/1664488807",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@cstross @MitchBenn Student debt is a very clever control mechanism!\nAll education should be free !\nBut if you give students massive debts they are less likely to rebel !\nIt’s not the money they are lending it’s the control they are achieving"
 	}
 ]

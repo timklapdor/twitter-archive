@@ -26,7 +26,7 @@ Grailbird.data.tweets_2023_02 =
 				},
 				{
 					"screen_name": "danilic",
-					"name": "Dan Ilic GPT",
+					"name": "Dan Ilic",
 					"id": 15414356,
 					"id_str": "15414356",
 					"indices": [
