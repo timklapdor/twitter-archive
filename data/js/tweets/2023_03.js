@@ -46,10 +46,10 @@ Grailbird.data.tweets_2023_03 =
 		"user": {
 			"id": 239649193,
 			"id_str": "239649193",
-			"name": "Colin Simpson",
+			"name": "Colin Simpson SFHEA",
 			"screen_name": "gamerlearner",
 			"location": "Melbourne, Victoria",
-			"description": "Monash Ed Techs team, convenor of @TELedvisors SIG, PhD candidate in education at Sydney University. He/Him Opinions are mine. aka @gamerlearner@aus.social",
+			"description": "Monash Ed Techs team, convenor of @TELedvisors SIG, PhD candidate in education at Sydney University. SFHEA He/Him Opinions are mine. @gamerlearner@aus.social",
 			"url": "https://t.co/KhwTxj1GaC",
 			"entities": {
 				"url": {
@@ -70,16 +70,16 @@ Grailbird.data.tweets_2023_03 =
 				}
 			},
 			"protected": false,
-			"followers_count": 4099,
-			"friends_count": 4950,
+			"followers_count": 4102,
+			"friends_count": 4953,
 			"listed_count": 93,
 			"created_at": "Tue Jan 18 03:17:55 +0000 2011",
-			"favourites_count": 20106,
+			"favourites_count": 20126,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 21651,
+			"statuses_count": 21663,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
