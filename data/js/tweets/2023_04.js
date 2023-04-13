@@ -68,7 +68,7 @@ Grailbird.data.tweets_2023_04 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 15468,
+			"statuses_count": 15466,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
