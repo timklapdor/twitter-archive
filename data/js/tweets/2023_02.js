@@ -56,7 +56,7 @@ Grailbird.data.tweets_2023_02 =
 				},
 				{
 					"screen_name": "aliterative",
-					"name": "Alice R Fraser",
+					"name": "Alice R Fraser (imagine a tick)",
 					"id": 86751291,
 					"id_str": "86751291",
 					"indices": [
