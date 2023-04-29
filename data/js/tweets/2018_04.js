@@ -2354,8 +2354,8 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 16431,
-			"friends_count": 6643,
+			"followers_count": 16426,
+			"friends_count": 6641,
 			"listed_count": 144,
 			"created_at": "Tue Feb 10 05:37:43 +0000 2009",
 			"favourites_count": 18518,
@@ -2662,16 +2662,16 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 99450,
+			"followers_count": 99452,
 			"friends_count": 2422,
 			"listed_count": 605,
 			"created_at": "Wed Jan 30 03:28:18 +0000 2013",
-			"favourites_count": 26637,
+			"favourites_count": 26640,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 40564,
+			"statuses_count": 40571,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -3885,11 +3885,11 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 17356,
+			"followers_count": 17346,
 			"friends_count": 913,
 			"listed_count": 82,
 			"created_at": "Fri Dec 28 21:45:06 +0000 2012",
-			"favourites_count": 17099,
+			"favourites_count": 17097,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
@@ -3925,7 +3925,7 @@ Grailbird.data.tweets_2018_04 =
 		"place": null,
 		"contributors": null,
 		"is_quote_status": false,
-		"retweet_count": 237,
+		"retweet_count": 236,
 		"favorite_count": 1107,
 		"favorited": false,
 		"retweeted": false,
@@ -4089,7 +4089,7 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 99405,
+			"followers_count": 99391,
 			"friends_count": 0,
 			"listed_count": 1076,
 			"created_at": "Fri May 01 18:42:37 +0000 2009",
@@ -4098,7 +4098,7 @@ Grailbird.data.tweets_2018_04 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 8278,
+			"statuses_count": 8284,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -4299,16 +4299,16 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 64969,
+			"followers_count": 64963,
 			"friends_count": 266,
-			"listed_count": 1030,
+			"listed_count": 1028,
 			"created_at": "Mon Jul 05 17:51:34 +0000 2010",
-			"favourites_count": 25726,
+			"favourites_count": 25735,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 83024,
+			"statuses_count": 83032,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -4441,7 +4441,7 @@ Grailbird.data.tweets_2018_04 =
 			"retweeted": false,
 			"lang": "en"
 		},
-		"retweet_count": 1832,
+		"retweet_count": 1831,
 		"favorite_count": 6259,
 		"favorited": false,
 		"retweeted": false,
@@ -4634,8 +4634,8 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 127877,
-			"friends_count": 1156,
+			"followers_count": 127864,
+			"friends_count": 1155,
 			"listed_count": 799,
 			"created_at": "Mon May 04 06:40:15 +0000 2009",
 			"favourites_count": 508,
@@ -6176,16 +6176,16 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 6422,
+			"followers_count": 6423,
 			"friends_count": 1243,
-			"listed_count": 397,
+			"listed_count": 396,
 			"created_at": "Sat Apr 19 22:38:15 +0000 2008",
 			"favourites_count": 9838,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 11360,
+			"statuses_count": 11362,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -6484,7 +6484,7 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 6158,
+			"followers_count": 6161,
 			"friends_count": 2514,
 			"listed_count": 189,
 			"created_at": "Fri Nov 08 00:02:47 +0000 2013",
@@ -7026,11 +7026,11 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 81235,
-			"friends_count": 1788,
+			"followers_count": 81240,
+			"friends_count": 1787,
 			"listed_count": 389,
 			"created_at": "Sat Jun 05 21:16:06 +0000 2010",
-			"favourites_count": 18321,
+			"favourites_count": 18320,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
@@ -7316,131 +7316,5 @@ Grailbird.data.tweets_2018_04 =
 		"possibly_sensitive": false,
 		"lang": "en",
 		"text": "A quick shout out to some great podcast episodes (and series) if you’re in the market. \n\nMedia &amp; the End of the World is a great little show from @acroom. This episode has @hypervisible as its guest and a great chat https://t.co/4yL418osSU\n\n#podrecommends"
-	},
-	{
-		"created_at": "Tue Apr 17 08:50:16 +0000 2018",
-		"id": 986164933313282000,
-		"id_str": "986164933313282048",
-		"full_text": "A quick shout out to some great podcast episodes (and series) if you’re in the market. \n\nLove all the episodes of @BBCTheInquiry and this one is a good example of the format and an interesting topic. https://t.co/noPaTVjMdh\n\n#podrecommends",
-		"truncated": false,
-		"display_text_range": [
-			0,
-			239
-		],
-		"entities": {
-			"hashtags": [
-				{
-					"text": "podrecommends",
-					"indices": [
-						225,
-						239
-					]
-				}
-			],
-			"symbols": [],
-			"user_mentions": [
-				{
-					"screen_name": "BBCTheInquiry",
-					"name": "BBC The Inquiry",
-					"id": 2829766659,
-					"id_str": "2829766659",
-					"indices": [
-						114,
-						128
-					]
-				}
-			],
-			"urls": [
-				{
-					"url": "https://t.co/noPaTVjMdh",
-					"expanded_url": "http://www.bbc.co.uk/programmes/w3csvsy7",
-					"display_url": "bbc.co.uk/programmes/w3c…",
-					"indices": [
-						200,
-						223
-					]
-				}
-			]
-		},
-		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
-		"in_reply_to_status_id": null,
-		"in_reply_to_status_id_str": null,
-		"in_reply_to_user_id": null,
-		"in_reply_to_user_id_str": null,
-		"in_reply_to_screen_name": null,
-		"user": {
-			"id": 174124175,
-			"id_str": "174124175",
-			"name": "Tim Klapdor",
-			"screen_name": "timklapdor",
-			"location": "Adelaide, South Australia",
-			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology. Also find me @timklapdor@mastodon.social",
-			"url": "https://t.co/83ULNLDqhO",
-			"entities": {
-				"url": {
-					"urls": [
-						{
-							"url": "https://t.co/83ULNLDqhO",
-							"expanded_url": "http://timklapdor.com",
-							"display_url": "timklapdor.com",
-							"indices": [
-								0,
-								23
-							]
-						}
-					]
-				},
-				"description": {
-					"urls": []
-				}
-			},
-			"protected": false,
-			"followers_count": 817,
-			"friends_count": 163,
-			"listed_count": 85,
-			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10312,
-			"utc_offset": null,
-			"time_zone": null,
-			"geo_enabled": true,
-			"verified": false,
-			"statuses_count": 15462,
-			"lang": null,
-			"contributors_enabled": false,
-			"is_translator": false,
-			"is_translation_enabled": false,
-			"profile_background_color": "C0DEED",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
-			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
-			"profile_link_color": "5FA832",
-			"profile_sidebar_border_color": "000000",
-			"profile_sidebar_fill_color": "DDEEF6",
-			"profile_text_color": "333333",
-			"profile_use_background_image": true,
-			"has_extended_profile": true,
-			"default_profile": false,
-			"default_profile_image": false,
-			"following": false,
-			"follow_request_sent": false,
-			"notifications": false,
-			"translator_type": "none",
-			"withheld_in_countries": []
-		},
-		"geo": null,
-		"coordinates": null,
-		"place": null,
-		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 0,
-		"favorite_count": 0,
-		"favorited": false,
-		"retweeted": false,
-		"possibly_sensitive": false,
-		"lang": "en",
-		"text": "A quick shout out to some great podcast episodes (and series) if you’re in the market. \n\nLove all the episodes of @BBCTheInquiry and this one is a good example of the format and an interesting topic. https://t.co/noPaTVjMdh\n\n#podrecommends"
 	}
 ]
