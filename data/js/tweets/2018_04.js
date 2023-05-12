@@ -2354,7 +2354,7 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 16412,
+			"followers_count": 16414,
 			"friends_count": 6636,
 			"listed_count": 143,
 			"created_at": "Tue Feb 10 05:37:43 +0000 2009",
@@ -2662,16 +2662,16 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 99797,
+			"followers_count": 99823,
 			"friends_count": 2424,
-			"listed_count": 604,
+			"listed_count": 603,
 			"created_at": "Wed Jan 30 03:28:18 +0000 2013",
-			"favourites_count": 26725,
+			"favourites_count": 26738,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 40662,
+			"statuses_count": 40676,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -3885,11 +3885,11 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 17389,
-			"friends_count": 913,
+			"followers_count": 17386,
+			"friends_count": 914,
 			"listed_count": 82,
 			"created_at": "Fri Dec 28 21:45:06 +0000 2012",
-			"favourites_count": 17097,
+			"favourites_count": 17096,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
@@ -4089,7 +4089,7 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 99577,
+			"followers_count": 99598,
 			"friends_count": 0,
 			"listed_count": 1076,
 			"created_at": "Fri May 01 18:42:37 +0000 2009",
@@ -4098,7 +4098,7 @@ Grailbird.data.tweets_2018_04 =
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 8335,
+			"statuses_count": 8340,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -4300,15 +4300,15 @@ Grailbird.data.tweets_2018_04 =
 			},
 			"protected": false,
 			"followers_count": 64975,
-			"friends_count": 267,
+			"friends_count": 268,
 			"listed_count": 1026,
 			"created_at": "Mon Jul 05 17:51:34 +0000 2010",
-			"favourites_count": 25829,
+			"favourites_count": 25833,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 83094,
+			"statuses_count": 83098,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -4395,7 +4395,7 @@ Grailbird.data.tweets_2018_04 =
 					}
 				},
 				"protected": false,
-				"followers_count": 3068,
+				"followers_count": 3067,
 				"friends_count": 380,
 				"listed_count": 149,
 				"created_at": "Wed Oct 14 23:00:54 +0000 2015",
@@ -4442,7 +4442,7 @@ Grailbird.data.tweets_2018_04 =
 			"lang": "en"
 		},
 		"retweet_count": 1828,
-		"favorite_count": 6254,
+		"favorite_count": 6252,
 		"favorited": false,
 		"retweeted": false,
 		"possibly_sensitive": false,
@@ -4634,9 +4634,9 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 127747,
-			"friends_count": 1155,
-			"listed_count": 800,
+			"followers_count": 127731,
+			"friends_count": 1154,
+			"listed_count": 799,
 			"created_at": "Mon May 04 06:40:15 +0000 2009",
 			"favourites_count": 507,
 			"utc_offset": null,
@@ -6167,11 +6167,11 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 6426,
+			"followers_count": 6428,
 			"friends_count": 1244,
 			"listed_count": 396,
 			"created_at": "Sat Apr 19 22:38:15 +0000 2008",
-			"favourites_count": 9833,
+			"favourites_count": 9834,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
@@ -6475,7 +6475,7 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 6157,
+			"followers_count": 6155,
 			"friends_count": 2515,
 			"listed_count": 189,
 			"created_at": "Fri Nov 08 00:02:47 +0000 2013",
@@ -7017,9 +7017,9 @@ Grailbird.data.tweets_2018_04 =
 				}
 			},
 			"protected": false,
-			"followers_count": 81360,
+			"followers_count": 81368,
 			"friends_count": 1791,
-			"listed_count": 391,
+			"listed_count": 392,
 			"created_at": "Sat Jun 05 21:16:06 +0000 2010",
 			"favourites_count": 18330,
 			"utc_offset": null,
@@ -7433,5 +7433,120 @@ Grailbird.data.tweets_2018_04 =
 		"possibly_sensitive": false,
 		"lang": "en",
 		"text": "A quick shout out to some great podcast episodes (and series) if you’re in the market. \n\nLove all the episodes of @BBCTheInquiry and this one is a good example of the format and an interesting topic. https://t.co/noPaTVjMdh\n\n#podrecommends"
+	},
+	{
+		"created_at": "Tue Apr 17 08:45:32 +0000 2018",
+		"id": 986163742575542300,
+		"id_str": "986163742575542272",
+		"full_text": "A quick shout out to some great podcast episodes (and series) if you’re in the market. \n\nBig Ideas is great for its variety but this was my favourite episode from last year, and great explanation of a key aspect of Australian society. https://t.co/xvGSOdfVuE\n\n#podrecommends",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "podrecommends",
+					"indices": [
+						260,
+						274
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xvGSOdfVuE",
+					"expanded_url": "http://www.abc.net.au/radionational/programs/bigideas/summer-70s-ocker/9224426",
+					"display_url": "abc.net.au/radionational/…",
+					"indices": [
+						235,
+						258
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Adelaide, South Australia",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology. Also find me @timklapdor@mastodon.social",
+			"url": "https://t.co/83ULNLDqhO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/83ULNLDqhO",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 817,
+			"friends_count": 164,
+			"listed_count": 84,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 10311,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15462,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A quick shout out to some great podcast episodes (and series) if you’re in the market. \n\nBig Ideas is great for its variety but this was my favourite episode from last year, and great explanation of a key aspect of Australian society. https://t.co/xvGSOdfVuE\n\n#podrecommends"
 	}
 ]
