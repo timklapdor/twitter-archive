@@ -492,16 +492,16 @@ Grailbird.data.tweets_2019_07 =
 					}
 				},
 				"protected": false,
-				"followers_count": 35583,
-				"friends_count": 98,
+				"followers_count": 35579,
+				"friends_count": 99,
 				"listed_count": 333,
 				"created_at": "Fri Feb 22 05:06:11 +0000 2013",
-				"favourites_count": 2200,
+				"favourites_count": 2207,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": false,
-				"statuses_count": 26379,
+				"statuses_count": 26382,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -1136,16 +1136,16 @@ Grailbird.data.tweets_2019_07 =
 					}
 				},
 				"protected": false,
-				"followers_count": 4143,
-				"friends_count": 4940,
+				"followers_count": 4145,
+				"friends_count": 4938,
 				"listed_count": 93,
 				"created_at": "Tue Jan 18 03:17:55 +0000 2011",
-				"favourites_count": 20494,
+				"favourites_count": 20498,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": false,
 				"verified": false,
-				"statuses_count": 22055,
+				"statuses_count": 22062,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -1685,11 +1685,11 @@ Grailbird.data.tweets_2019_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 135202,
-			"friends_count": 2283,
-			"listed_count": 1211,
+			"followers_count": 135194,
+			"friends_count": 2284,
+			"listed_count": 1212,
 			"created_at": "Sat Jul 10 03:38:50 +0000 2010",
-			"favourites_count": 23581,
+			"favourites_count": 23582,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
@@ -2130,7 +2130,7 @@ Grailbird.data.tweets_2019_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 30722,
+			"followers_count": 30716,
 			"friends_count": 857,
 			"listed_count": 2117,
 			"created_at": "Mon Mar 10 11:10:29 +0000 2008",
@@ -2722,16 +2722,16 @@ Grailbird.data.tweets_2019_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 198482,
+			"followers_count": 198484,
 			"friends_count": 992,
-			"listed_count": 2824,
+			"listed_count": 2825,
 			"created_at": "Mon May 12 05:06:03 +0000 2008",
-			"favourites_count": 6837,
+			"favourites_count": 6836,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 75809,
+			"statuses_count": 75831,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -2955,16 +2955,16 @@ Grailbird.data.tweets_2019_07 =
 					}
 				},
 				"protected": false,
-				"followers_count": 18453,
-				"friends_count": 18285,
+				"followers_count": 18458,
+				"friends_count": 18296,
 				"listed_count": 210,
 				"created_at": "Fri Dec 07 08:02:04 +0000 2012",
-				"favourites_count": 498155,
+				"favourites_count": 498305,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": false,
-				"statuses_count": 581697,
+				"statuses_count": 581884,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -4004,8 +4004,8 @@ Grailbird.data.tweets_2019_07 =
 					}
 				},
 				"protected": false,
-				"followers_count": 27569,
-				"friends_count": 4171,
+				"followers_count": 27566,
+				"friends_count": 4169,
 				"listed_count": 368,
 				"created_at": "Sat Jun 13 04:45:19 +0000 2009",
 				"favourites_count": 7586,
@@ -4067,52 +4067,82 @@ Grailbird.data.tweets_2019_07 =
 		"text": "So private health insurance might be the first system to fall because it’s unfair to young people, who it can’t do without. Good. We need proper social infrastructure, not this rigged pretend free market bullshit. https://t.co/678ng8wbbt"
 	},
 	{
-		"created_at": "Tue Jul 16 01:42:00 +0000 2019",
-		"id": 1150741542577102800,
-		"id_str": "1150943633866051585",
-		"full_text": "\"If you have a go in this country, you will get a go. There is a fair go for those who have a go - that's what fairness in Australia means.\" https://t.co/wPBGOye1sG",
+		"created_at": "Tue Jul 16 01:34:20 +0000 2019",
+		"id": 1150941704855277600,
+		"id_str": "1150941704855277568",
+		"full_text": "This reminded me that I was called a “technopedagogue” before: https://t.co/oNE5UUwk9I \n\nMaybe the French are onto something with this whole defining discipline thing @catspyjamasnz @s_palm? https://t.co/lrZpfbCgX6",
 		"truncated": false,
 		"display_text_range": [
 			0,
-			164
+			190
 		],
 		"entities": {
 			"hashtags": [],
 			"symbols": [],
-			"user_mentions": [],
+			"user_mentions": [
+				{
+					"screen_name": "catspyjamasnz",
+					"name": "👩🏻‍💻Joyce Seitzinger (@catspyjamas@aus.social)",
+					"id": 10451462,
+					"id_str": "10451462",
+					"indices": [
+						167,
+						181
+					]
+				},
+				{
+					"screen_name": "s_palm",
+					"name": "Stuart Palmer",
+					"id": 141466282,
+					"id_str": "141466282",
+					"indices": [
+						182,
+						189
+					]
+				}
+			],
 			"urls": [
 				{
-					"url": "https://t.co/wPBGOye1sG",
-					"expanded_url": "https://thenewdaily.com.au/news/national/2018/06/08/struggling-pensioners-retirement/",
-					"display_url": "thenewdaily.com.au/news/national/…",
+					"url": "https://t.co/oNE5UUwk9I",
+					"expanded_url": "https://timklapdor.wordpress.com/2016/04/25/the-technopedagogue/",
+					"display_url": "timklapdor.wordpress.com/2016/04/25/the…",
 					"indices": [
-						141,
-						164
+						63,
+						86
+					]
+				},
+				{
+					"url": "https://t.co/lrZpfbCgX6",
+					"expanded_url": "https://twitter.com/tanbob/status/1150617910311653376",
+					"display_url": "twitter.com/tanbob/status/…",
+					"indices": [
+						191,
+						214
 					]
 				}
 			]
 		},
-		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
 		"in_reply_to_status_id": null,
 		"in_reply_to_status_id_str": null,
 		"in_reply_to_user_id": null,
 		"in_reply_to_user_id_str": null,
 		"in_reply_to_screen_name": null,
 		"user": {
-			"id": 94004565,
-			"id_str": "94004565",
-			"name": "Tony Martin",
-			"screen_name": "mrtonymartin",
-			"location": "Melbourne, Australia",
-			"description": "Mayor of SIZZLETOWN https://t.co/Dzcny2qqfD | Maker of SHUT UP: https://t.co/MLLXZ13oiD | ASSORTED RECORDINGS at https://t.co/WXU3p30dzp",
-			"url": "https://t.co/B47QJqDn1u",
+			"id": 174124175,
+			"id_str": "174124175",
+			"name": "Tim Klapdor",
+			"screen_name": "timklapdor",
+			"location": "Adelaide, South Australia",
+			"description": "Passionate about good design, motivated by the power of media and enchanted by the opportunities of technology. Also find me @timklapdor@mastodon.social",
+			"url": "https://t.co/83ULNLDqhO",
 			"entities": {
 				"url": {
 					"urls": [
 						{
-							"url": "https://t.co/B47QJqDn1u",
-							"expanded_url": "https://www.youtube.com/@sizzletown",
-							"display_url": "youtube.com/@sizzletown",
+							"url": "https://t.co/83ULNLDqhO",
+							"expanded_url": "http://timklapdor.com",
+							"display_url": "timklapdor.com",
 							"indices": [
 								0,
 								23
@@ -4121,63 +4151,35 @@ Grailbird.data.tweets_2019_07 =
 					]
 				},
 				"description": {
-					"urls": [
-						{
-							"url": "https://t.co/Dzcny2qqfD",
-							"expanded_url": "http://sizzletownpodcast.com",
-							"display_url": "sizzletownpodcast.com",
-							"indices": [
-								20,
-								43
-							]
-						},
-						{
-							"url": "https://t.co/MLLXZ13oiD",
-							"expanded_url": "http://youtube.com/shutupseries",
-							"display_url": "youtube.com/shutupseries",
-							"indices": [
-								64,
-								87
-							]
-						},
-						{
-							"url": "https://t.co/WXU3p30dzp",
-							"expanded_url": "http://mrtonymartin.bandcamp.com",
-							"display_url": "mrtonymartin.bandcamp.com",
-							"indices": [
-								113,
-								136
-							]
-						}
-					]
+					"urls": []
 				}
 			},
 			"protected": false,
-			"followers_count": 89614,
-			"friends_count": 356,
-			"listed_count": 672,
-			"created_at": "Wed Dec 02 02:46:11 +0000 2009",
-			"favourites_count": 100,
+			"followers_count": 817,
+			"friends_count": 164,
+			"listed_count": 84,
+			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
+			"favourites_count": 10311,
 			"utc_offset": null,
 			"time_zone": null,
-			"geo_enabled": false,
+			"geo_enabled": true,
 			"verified": false,
-			"statuses_count": 28043,
+			"statuses_count": 15462,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
 			"is_translation_enabled": false,
-			"profile_background_color": "FFFFFF",
-			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
-			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
 			"profile_background_tile": false,
-			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000580537921/7b0cc472d4a36416dd392f3f21ee5d0a_normal.jpeg",
-			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000580537921/7b0cc472d4a36416dd392f3f21ee5d0a_normal.jpeg",
-			"profile_banner_url": "https://pbs.twimg.com/profile_banners/94004565/1618724646",
-			"profile_link_color": "F15B24",
-			"profile_sidebar_border_color": "FFFFFF",
-			"profile_sidebar_fill_color": "E3E1CA",
-			"profile_text_color": "000000",
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210875941498437632/O2G3GSW6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/174124175/1398743038",
+			"profile_link_color": "5FA832",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
 			"profile_use_background_image": true,
 			"has_extended_profile": true,
 			"default_profile": false,
@@ -4190,16 +4192,161 @@ Grailbird.data.tweets_2019_07 =
 		},
 		"geo": null,
 		"coordinates": null,
-		"place": null,
+		"place": {
+			"id": "38a6e758f2ba889c",
+			"url": "https://api.twitter.com/1.1/geo/id/38a6e758f2ba889c.json",
+			"place_type": "neighborhood",
+			"name": "Adelaide",
+			"full_name": "Adelaide, South Australia",
+			"country_code": "AU",
+			"country": "Australia",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							138.57706008,
+							-34.94215998
+						],
+						[
+							138.62447712,
+							-34.94215998
+						],
+						[
+							138.62447712,
+							-34.90911801
+						],
+						[
+							138.57706008,
+							-34.90911801
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
 		"contributors": null,
-		"is_quote_status": false,
-		"retweet_count": 119,
-		"favorite_count": 304,
+		"is_quote_status": true,
+		"quoted_status_id": 1150617910311653400,
+		"quoted_status_id_str": "1150617910311653376",
+		"quoted_status_permalink": {
+			"url": "https://t.co/lrZpfbCgX6",
+			"expanded": "https://twitter.com/tanbob/status/1150617910311653376",
+			"display": "twitter.com/tanbob/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jul 15 04:07:41 +0000 2019",
+			"id": 1150617910311653400,
+			"id_str": "1150617910311653376",
+			"full_text": "Hi, hate to do this again, but 'learning engineering' has a long history in French, and it's not all bad. Begins in 60's with l'ingénierie didactique, followed by l'ingénierie de formation in the 80s. This 2002 volume by G.Paquette is v. well cited. https://t.co/WPkUEkh9we",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				273
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/WPkUEkh9we",
+						"expanded_url": "https://www.puq.ca/catalogue/livres/ingenierie-pedagogique-171.html",
+						"display_url": "puq.ca/catalogue/livr…",
+						"indices": [
+							250,
+							273
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 10817782,
+				"id_str": "10817782",
+				"name": "Dr. Tannis Morgan",
+				"screen_name": "tanbob",
+				"location": "Vancouver, Canada",
+				"description": "AVP Academic Innovation at VCC.  Cofounder @openetc. Edtech + #femedtech. she/her",
+				"url": "https://t.co/sVrdkgp5vC",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/sVrdkgp5vC",
+								"expanded_url": "http://homonym.ca",
+								"display_url": "homonym.ca",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2544,
+				"friends_count": 1975,
+				"listed_count": 147,
+				"created_at": "Mon Dec 03 18:43:21 +0000 2007",
+				"favourites_count": 9095,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 9783,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C6E2EE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/530559772/twitterProfilePhoto_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/530559772/twitterProfilePhoto_normal.jpg",
+				"profile_link_color": "1F98C7",
+				"profile_sidebar_border_color": "C6E2EE",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 12,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 5,
 		"favorited": false,
-		"retweeted": true,
+		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "\"If you have a go in this country, you will get a go. There is a fair go for those who have a go - that's what fairness in Australia means.\" https://t.co/wPBGOye1sG"
+		"text": "This reminded me that I was called a “technopedagogue” before: https://t.co/oNE5UUwk9I \n\nMaybe the French are onto something with this whole defining discipline thing @catspyjamasnz @s_palm? https://t.co/lrZpfbCgX6"
 	},
 	{
 		"created_at": "Mon Jul 15 12:43:24 +0000 2019",
@@ -4900,9 +5047,9 @@ Grailbird.data.tweets_2019_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 252636,
+			"followers_count": 252632,
 			"friends_count": 1774,
-			"listed_count": 1621,
+			"listed_count": 1618,
 			"created_at": "Wed Aug 19 05:13:38 +0000 2009",
 			"favourites_count": 60,
 			"utc_offset": null,
@@ -5017,16 +5164,16 @@ Grailbird.data.tweets_2019_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 477991,
+			"followers_count": 477952,
 			"friends_count": 796,
-			"listed_count": 7940,
+			"listed_count": 7943,
 			"created_at": "Thu Aug 13 14:32:22 +0000 2009",
-			"favourites_count": 28014,
+			"favourites_count": 28011,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 116257,
+			"statuses_count": 116278,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -5199,7 +5346,7 @@ Grailbird.data.tweets_2019_07 =
 					}
 				},
 				"protected": false,
-				"followers_count": 9471,
+				"followers_count": 9468,
 				"friends_count": 0,
 				"listed_count": 114,
 				"created_at": "Sat Feb 03 00:25:00 +0000 2018",
@@ -5239,14 +5386,14 @@ Grailbird.data.tweets_2019_07 =
 			"place": null,
 			"contributors": null,
 			"is_quote_status": false,
-			"retweet_count": 14410,
-			"favorite_count": 19252,
+			"retweet_count": 14409,
+			"favorite_count": 19253,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
 			"lang": "en"
 		},
-		"retweet_count": 454,
+		"retweet_count": 453,
 		"favorite_count": 465,
 		"favorited": false,
 		"retweeted": true,
@@ -5428,8 +5575,8 @@ Grailbird.data.tweets_2019_07 =
 					}
 				},
 				"protected": false,
-				"followers_count": 5626,
-				"friends_count": 2441,
+				"followers_count": 5623,
+				"friends_count": 2440,
 				"listed_count": 73,
 				"created_at": "Sun Mar 09 09:56:53 +0000 2014",
 				"favourites_count": 23530,
@@ -5649,15 +5796,15 @@ Grailbird.data.tweets_2019_07 =
 			},
 			"protected": false,
 			"followers_count": 2919,
-			"friends_count": 3265,
+			"friends_count": 3264,
 			"listed_count": 17,
 			"created_at": "Thu Dec 01 11:07:31 +0000 2016",
-			"favourites_count": 72098,
+			"favourites_count": 72103,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 42635,
+			"statuses_count": 42645,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -5867,7 +6014,7 @@ Grailbird.data.tweets_2019_07 =
 				}
 			},
 			"protected": false,
-			"followers_count": 8431,
+			"followers_count": 8430,
 			"friends_count": 2098,
 			"listed_count": 345,
 			"created_at": "Tue Nov 25 08:25:53 +0000 2008",
@@ -5876,7 +6023,7 @@ Grailbird.data.tweets_2019_07 =
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 324240,
+			"statuses_count": 324251,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -5908,7 +6055,7 @@ Grailbird.data.tweets_2019_07 =
 		"contributors": null,
 		"is_quote_status": false,
 		"retweet_count": 301,
-		"favorite_count": 687,
+		"favorite_count": 686,
 		"favorited": false,
 		"retweeted": true,
 		"possibly_sensitive": false,
@@ -6462,16 +6609,16 @@ Grailbird.data.tweets_2019_07 =
 									}
 								},
 								"protected": false,
-								"followers_count": 1967502,
-								"friends_count": 1187,
+								"followers_count": 1967500,
+								"friends_count": 1189,
 								"listed_count": 870,
 								"created_at": "Sun Feb 27 10:48:45 +0000 2011",
-								"favourites_count": 10317,
+								"favourites_count": 10321,
 								"utc_offset": null,
 								"time_zone": null,
 								"geo_enabled": true,
 								"verified": false,
-								"statuses_count": 51242,
+								"statuses_count": 51260,
 								"lang": null,
 								"contributors_enabled": false,
 								"is_translator": false,
@@ -6534,16 +6681,16 @@ Grailbird.data.tweets_2019_07 =
 					}
 				},
 				"protected": false,
-				"followers_count": 1556630,
+				"followers_count": 1556489,
 				"friends_count": 0,
-				"listed_count": 14359,
+				"listed_count": 14360,
 				"created_at": "Fri Feb 27 00:19:20 +0000 2009",
-				"favourites_count": 441336,
+				"favourites_count": 441350,
 				"utc_offset": null,
 				"time_zone": null,
 				"geo_enabled": true,
 				"verified": false,
-				"statuses_count": 68558,
+				"statuses_count": 68563,
 				"lang": null,
 				"contributors_enabled": false,
 				"is_translator": false,
@@ -6575,7 +6722,7 @@ Grailbird.data.tweets_2019_07 =
 			"contributors": null,
 			"is_quote_status": false,
 			"retweet_count": 333,
-			"favorite_count": 2342,
+			"favorite_count": 2343,
 			"favorited": false,
 			"retweeted": false,
 			"possibly_sensitive": false,
@@ -6744,8 +6891,8 @@ Grailbird.data.tweets_2019_07 =
 					}
 				},
 				"protected": false,
-				"followers_count": 27569,
-				"friends_count": 4171,
+				"followers_count": 27566,
+				"friends_count": 4169,
 				"listed_count": 368,
 				"created_at": "Sat Jun 13 04:45:19 +0000 2009",
 				"favourites_count": 7586,
