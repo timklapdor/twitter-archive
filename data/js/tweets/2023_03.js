@@ -49,7 +49,7 @@ Grailbird.data.tweets_2023_03 =
 			"name": "Colin Simpson",
 			"screen_name": "gamerlearner",
 			"location": "Melbourne, Victoria",
-			"description": "Monash Ed Techs team, convenor of @TELedvisors SIG, PhD candidate in education at Sydney University. SFHEA He/Him Opinions are mine. @gamerlearner@aus.social",
+			"description": "Monash Ed Techs team, convenor of @TELedvisors SIG, PhD candidate USyd SFHEA He/Him Opinions are mine. @gamerlearner@aus.social https://t.co/e6ohT2RxSd",
 			"url": "https://t.co/KhwTxj1GaC",
 			"entities": {
 				"url": {
@@ -66,20 +66,30 @@ Grailbird.data.tweets_2023_03 =
 					]
 				},
 				"description": {
-					"urls": []
+					"urls": [
+						{
+							"url": "https://t.co/e6ohT2RxSd",
+							"expanded_url": "http://bit.ly/edtechmustreads",
+							"display_url": "bit.ly/edtechmustreads",
+							"indices": [
+								128,
+								151
+							]
+						}
+					]
 				}
 			},
 			"protected": false,
-			"followers_count": 4174,
-			"friends_count": 4911,
+			"followers_count": 4173,
+			"friends_count": 4912,
 			"listed_count": 93,
 			"created_at": "Tue Jan 18 03:17:55 +0000 2011",
-			"favourites_count": 20627,
+			"favourites_count": 20635,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": false,
 			"verified": false,
-			"statuses_count": 22203,
+			"statuses_count": 22211,
 			"lang": null,
 			"contributors_enabled": false,
 			"is_translator": false,
@@ -181,7 +191,7 @@ Grailbird.data.tweets_2023_03 =
 			"friends_count": 164,
 			"listed_count": 84,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10305,
+			"favourites_count": 10304,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
@@ -427,7 +437,7 @@ Grailbird.data.tweets_2023_03 =
 			"friends_count": 164,
 			"listed_count": 84,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10305,
+			"favourites_count": 10304,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
