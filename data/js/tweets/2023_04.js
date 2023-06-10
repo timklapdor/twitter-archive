@@ -63,7 +63,7 @@ Grailbird.data.tweets_2023_04 =
 			"friends_count": 164,
 			"listed_count": 84,
 			"created_at": "Tue Aug 03 04:32:42 +0000 2010",
-			"favourites_count": 10306,
+			"favourites_count": 10305,
 			"utc_offset": null,
 			"time_zone": null,
 			"geo_enabled": true,
